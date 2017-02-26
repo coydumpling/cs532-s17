@@ -1,0 +1,35 @@
+Disappointing iPhone 8 Leaks, March's Surprise Smartphone, Tim Cook's Boring iPhone PlanTaking a look back at another week of news from Cupertino, this week’s Loop includes new iPhone models for March, more storage for the iPhone 8, Apple dropping TouchID, why the iPhone 8 will be boring, the slow success of Apple Pay, a magic hinge for the new MacBook Pro, the redesigned Overcast app, and judging Apple’s acquisition strategy.
+
+Apple Loop is here to remind you of a few of the very many discussions that have happened around Apple over the last seven days (and you can read our weekly digest of Android news here on Forbes).
+
+Here Comes A New iPhone SE
+
+Apple looks set to surprise the smartphone market with two updates to the iPhone portfolio. Reporting in Japan, Macotakara believes that Tim Cook and his team will be holding an event in early March that will see the launch of a Product Red iPhone 7 and iPhone 7 Plus, new Apple Watch accessories, an upgraded iPad Pro and a welcome addition of a 128GB model to the iPhone SE portfolio:
+
+Given Apple’s push to get the SE into markets such as China and India where always-on connectivity to the cloud cannot be guaranteed (either through Wi-Fi or cellular data) having more storage on the lead device in the territory makes sense. Both the iPhone 7 and iPhone 7 Plus currently offer a 128GB storage option, so bringing the SE up to speed while not updating the rest of the hardware is cost-effective for Apple and a boon to consumers.
+
+More on the potential of a new iPhone SE here on Forbes.
+
+More Room When You Start Out
+
+Apple could also be bumping up the storage on 2017’s flagship handset. Reporting on the supply chain, TrendForce believes that the new iPhone 8 will not only bump up the entry-level, but reduce the options to two. Forbes contributor Amit Chowdhry reports:
+
+In regards to storage capacity, TrendForce’s supply chain sources claim that the iPhone 8 will have two options: 64GB and 256GB. What is notable about this rumor is that the starting storage option would be 64GB instead of 32GB. However, it seems unusual that Apple would only offer two storage options. Generally, Apple has been selling each of its phones in three storage tiers, including the iPhone 7 -- which has 32GB, 128GB and 256GB options.
+
+More analysis here on Forbes.
+
+No More Fingerprints On The iPhone 8?
+
+Then there’s the question of identifying a user. The last few years has seen Apple use TouchID for fingerprint verification. With the presumed removal of the physical home key on the iPhone 8, the expectation has been that Tim Cook’s wonder-phone would read your fingerprint through the glass of the screen. JP Morgan’s Rod Hall suggests that Apple will drop TouchID in favour of facial recognition. Forbes’ contributor Gordon Kelly highlights the problems:
+
+The flip side is that facial recognition requires a more deliberate unlocking procedure of holding the phone up to your face which can be inconvenient (especially when walking) and may make users more self-conscious than fingerprint unlocking. Facial recognition can also be less reliable for users who wear glasses, contact lenses or sunglasses though this is something the iris scanner in Samsung’s ill-fated Galaxy Note 7 aced.
+
+More thoughts on the issues here.
+
+But The iPhone Will Be Boring Anyway
+
+For all the interest and excitement over the new iPhone, it’s worth remembering that any new technology introduced into Apple’s smartphone is likely to have been seen before in competitors’ handsets. It might be repackaged as new to the iPhone, but the advances in the iPhone 8 aren’t always surprises. Which I suspect is by design, Apple can’t risk pushing too hard and having an iPhone fail:
+
+The argument put forward is that Apple is rarely (if ever) first with new technology, but takes the time to perfect the technological advances and have them available in an accessible way. That’s a great press spin, but I feel the issue is more about minimizing risk rather than chasing critical acclaim. Apple’s biggest issue is that with a very small portfolio of devices and a significant portion of company revenue coming from the sale of its smartphones it cannot afford to take risks in the way that other manufacturers can. Samsung’s Note 7 is a good example of the danger -- the South Korean company had a wide range of products to fall back on when the Note 7 recall saddled the company with a significant charge and no phablet revenue to cover it during Q4 2016. If a similar fate were to happen to an iPhone then Apple has very little depth on the bench to cover any loss of business.
+
+The secret to Apple’s success? Being boring.
