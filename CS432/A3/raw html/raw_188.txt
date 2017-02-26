@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+	<head>
+		<!--
+		 ______         __  __       ________       ______        _________       ______     
+		/_____/\       /_/\/_/\     /_______/\     /_____/\      /________/\     /_____/\    
+		\:::_ \ \      \:\ \:\ \    \::: _  \ \    \:::_ \ \     \__.::.__\/     \:::__\/    
+		 \:\ \ \ \_     \:\ \:\ \    \::(_)  \ \    \:(_) ) )_      \::\ \          /: /     
+		  \:\ \ /_ \     \:\ \:\ \    \:: __  \ \    \: __ `\ \      \::\ \        /::/___   
+		   \:\_-  \ \     \:\_\:\ \    \:.\ \  \ \    \ \ `\ \ \      \::\ \      /_:/____/\ 
+		    \___|\_\_/     \_____\/     \__\/\__\/     \_\/ \_\/       \__\/      \_______\/
+
+		!-->
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"/>
+		<meta name="apple-mobile-web-app-title" content="Quartz"/>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+		<meta name="robots" content="noodp,noydir"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="bitly-verification" content="3cc1017cee1d"/>
+		<meta name="theme-color" content="#000000">
+		<title>There’s no significant connection between your personality as a teenager and a septuagenarian — Quartz</title>
+
+		<script>
+			var currentDomain = "qz.com";
+			var currentPath = "https://app.qz.com";
+						window.QZ = {
+				bootstrap: {},
+				env: { screen: 'desktop' },
+				edition: 'global',
+				version: '4.0.659'
+			};
+
+			(function(){
+				var el = document.createElement('div');
+				if( typeof(el.style['mask-image']) !== 'undefined' || typeof(el.style['-webkit-mask-image']) !== 'undefined' ) {
+					document.documentElement.className += ' has-mask';
+				}
+			})();
+			
+		</script>
+
+        			<link rel="stylesheet" href="https://app.qz.com/css/styles-min.4.0.659.css"/>
+        
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://app.qz.com/img/icons/touch_144.png"/>
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://app.qz.com/img/icons/touch_114.png"/>
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://app.qz.com/img/icons/touch_72.png"/>
+		<link rel="apple-touch-icon-precomposed" href="https://app.qz.com/img/icons/touch.png"/>
+		<link rel="logo" type="image/svg" href="https://app.qz.com/svg/Qz_Logo.svg"/>
+		<link rel="shortcut icon" href="https://app.qz.com/img/icons/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" media="print" href="https://app.qz.com/css/print.css" />
+		<link href="https://app.qz.com/img/apple/touch-startup-image-320x460.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-640x920.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-768x1004.png" media="(device-width: 768px) and (orientation: portrait) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-768x1004-landscape.png" media="(device-width: 768px) and (orientation: landscape) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-1536x2008.png" media="(device-width: 768px) and (orientation: portrait) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<link href="https://app.qz.com/img/apple/touch-startup-image-1536x2008-landscape.png" media="(device-width: 768px) and (orientation: landscape) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+		<meta name="google-site-verification" content="Fm_AozADu13Rytwyc4XvQo_081WOanaXLa6xKd8dUgc" />
+<meta name="msvalidate.01" content="4B2AFFFDBF9736993D778515CB307FAF" />
+<meta name="description" content="Look at a photo of yourself as a teenager and, mistaken fashion choices aside, it’s likely you see traces of the same person with the same personality quirks as you are today. But whether or not you truly are the same person over a lifetime—and what that notion of personhood even means—is the subject of..."/>
+<meta name="author" content="Olivia Goldhill"/>
+<meta name="news_keywords" content="aging, Change, conscientiousness, dependable, old, personality, psychology and aging, self, trait, young"/>
+<meta property="og:title" content="You’re a different person at 14 and 77, the longest-running personality study ever has found"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&amp;strip=all&amp;w=1600"/>
+<meta property="og:url" content="https://qz.com/914002/youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found/"/>
+<meta property="og:description" content="Researchers found no correlation of personality traits."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="Quartz"/>
+<meta property="article:publisher" content="https://www.facebook.com/quartznews"/>
+<meta property="twitter:card" content="summary_large_image"/>
+<meta property="twitter:title" content="You’re a different person at 14 and 77, the longest-running personality study ever has found"/>
+<meta property="twitter:image" content="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&amp;strip=all&amp;w=800&amp;h=400&amp;crop=1"/>
+<meta property="twitter:url" content="https://qz.com/914002/youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found/"/>
+<meta property="twitter:description" content="Researchers found no correlation of personality traits."/>
+<meta property="twitter:site" content="@qz"/>
+<meta property="twitter:creator" content="@OliviaGoldhill"/>
+<link rel="shortlink" href="https://qz.com/914002"><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","name":"You\u2019re a different person at 14 and 77, the longest-running personality study ever has found","headline":"You\u2019re a different person at 14 and 77, the longest-running personality study ever has found","alternativeHeadline":"Researchers found no correlation of personality traits..","description":"Researchers found no correlation of personality traits.","url":"https:\/\/qz.com\/914002\/youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found\/","author":{"@type":"Person","name":"Olivia Goldhill","url":"https:\/\/qz.com\/author\/ogoldhillqz\/","sameAs":["https:\/\/twitter.com\/OliviaGoldhill"]},"creator":["Olivia Goldhill"],"dateCreated":"2017-02-19T05:00:06+00:00","datePublished":"2017-02-19T05:00:06+00:00","image":"https:\/\/qzprod.files.wordpress.com\/2017\/02\/grandmother-1594471.jpg?quality=80&strip=all&w=1024","thumbnailUrl":"https:\/\/qzprod.files.wordpress.com\/2017\/02\/grandmother-1594471.jpg?quality=80&strip=all","articleSection":"global","keywords":["aging","Chang'e","conscientiousness","dependable","old","personality","psychology and aging","self","trait","young"],"inLanguage":"en-us","publisher":{"@type":"Organization","name":"Quartz","logo":"https:\/\/app.qz.com\/svg\/Qz_Logo.svg","sameAs":["https:\/\/en.wikipedia.org\/wiki\/Quartz_(publication)","https:\/\/www.facebook.com\/quartznews","https:\/\/twitter.com\/qz"],"url":"https:\/\/qz.com","member":[{"@type":"Person","name":"Kevin J. Delaney","jobTitle":"CEO"}],"memberOf":{"@type":"Corporation","name":"Atlantic Media","founder":{"@type":"Person","name":"David G. Bradley"}},"location":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY"}}}</script>		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=qz.com&amp;id=39587363&amp;t=1488073266&amp;back=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//qzprod.wordpress.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://qz.com/914002/youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found/" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='https://qzprod.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://qzprod.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://qz.com/osd.xml" title="Quartz" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta name="application-name" content="Quartz" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Quartz is a digitally native news outlet for the new global economy." /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://qz.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/7fd9e2ee486de5ce0c713891ec823ea6?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+    </head>
+	<body class="single single-post postid-914002 single-format-standard mp6 customizer-styles-applied has-marquee highlander-enabled highlander-light">
+	<div id="marquee">
+		<div id="marquee-content"></div>
+	</div>
+	<header id="header" class="header-fixed">
+	<div class="logo">
+		<a href="https://qz.com" title="Quartz" id="qz-logo">
+			<!--[if gte IE 10]><!-->
+<!-- QUARTZ LOGO -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="160px" height="25px" fill="" viewBox="0 0 160 25" enable-background="new 0 0 160 25" xml:space="preserve">
+	<g>
+		<g>
+			<path d="M21.852,19.584c1.479-2.008,2.356-4.488,2.356-7.173c0-6.682-5.442-12.123-12.124-12.123
+				c-6.686,0-12.123,5.441-12.123,12.123c0,6.687,5.438,12.124,12.123,12.124c2.628,0,5.065-0.84,7.054-2.271l3.038,3.039
+				l2.699-2.695L21.852,19.584z M19.109,16.842l-4.479-4.479l-2.694,2.699l4.455,4.456c-1.259,0.763-2.732,1.201-4.307,1.201
+				c-4.583,0-8.308-3.725-8.308-8.308c0-4.579,3.725-8.308,8.308-8.308c4.578,0,8.308,3.729,8.308,8.308
+				C20.392,14.037,19.92,15.559,19.109,16.842z"/>
+		</g>
+		<g>
+			<polygon points="133.62,0.889 133.62,4.743 126.411,4.743 126.411,24.017 122.507,24.017 122.507,4.743 115.299,4.743 
+				115.299,0.889 		"/>
+		</g>
+		<g>
+			<path d="M73.351,0.889h-4.688L59.75,24.017h4.091l1.67-4.506h10.992l1.669,4.506h4.093L73.351,0.889z M66.998,15.906l4.011-10.439
+				l4.006,10.439H66.998z"/>
+		</g>
+		<g>
+			<polygon points="160.052,4.743 147.123,20.111 160.052,20.111 160.052,24.017 142.031,24.017 142.031,19.908 155.006,4.743 
+				142.932,4.743 142.932,0.927 160.052,0.927 		"/>
+		</g>
+		<g>
+			<path d="M52.19,0.889v14.632c0,4.96-4.03,8.995-8.99,8.995s-8.995-4.035-8.995-8.995V0.889h3.901v14.632
+				c-0.086,2.856,2.236,5.18,5.094,5.18c2.853,0,5.175-2.323,5.119-5.18V0.889H52.19z"/>
+		</g>
+		<g>
+			<path d="M102.612,16.184c2.653-1.321,4.47-4.044,4.47-7.183c0-4.239-3.496-8.026-7.849-8.112h-8.564v23.128h3.905v-6.966h3.537
+				l8.05,8.156l2.713-2.681L102.612,16.184z M98.949,13.236h-4.375v-8.47h4.375c2.381,0,4.317,1.898,4.317,4.235
+				C103.267,11.338,101.33,13.236,98.949,13.236z"/>
+		</g>
+	</g>
+</svg>
+<!-- /QUARTZ LOGO -->
+
+<!--<![endif]-->			<span class="header-edition"></span>
+		</a>
+	</div>
+	<div class="right">
+		<button id="avatar" class="header-button">
+			<i class="icon-more"></i>
+		</button>
+		<button class="menu header-button">
+			<i class="icon-more"></i>
+		</button>
+		<a href="https://qz.com/search/" class="search header-button">
+			<i class="icon-search"></i>
+		</a>
+		<a href="https://qz.com/obsessions/" class="obsessions header-button">
+			obsessions
+		</a>
+		<a href="https://qz.com/daily-brief/" class="dbsignup header-button"><i class="icon-daily-brief"></i></a>
+	</div>
+	<div id="header-search-input"></div>
+	<div class="left">
+		<a href="https://qz.com/search/" class="search header-button">
+			<i class="icon-search"></i>
+		</a>
+		<a href="https://qz.com/top/" class="top header-button">
+			our picks
+		</a>
+		<a href="https://qz.com/latest/" class="latest header-button">
+			latest
+		</a>
+		<a href="https://qz.com/popular/" class="popular header-button">
+			popular
+		</a>
+		<a href="https://www.facebook.com/quartznews" class="fb header-button" target="_blank"><i class="icon-facebook"></i></a>
+		<a href="https://twitter.com/qz" class="twitter header-button" target="_blank"><i class="icon-twitter"></i></a>
+	</div>
+</header>
+<div id="settings-nav-bg"></div>
+<nav id="settingsNav" class="no-animation header-stuck">
+	<div class="upper">
+		<a href="https://www.facebook.com/quartznews" class="fb" target="_blank"><i class="icon-facebook"></i>like us on facebook</a>
+		<a href="https://www.twitter.com/qz" class="twitter" target="_blank"><i class="icon-twitter"></i>follow us on twitter</a>
+		<a href="https://qz.com/about/" class="about-us"><i class="icon-about"></i>about us</a>
+		<a href="https://www.theatlas.com" class="atlas"><i class="icon-atlas"></i>Atlas</a>
+		<a href="https://qz.com/index/" class="quartz-index"><i class="icon-index"></i>quartz index</a>
+		<a href="https://qz.com/app/" class="qz-app"><i class="icon-app"></i>quartz app</a>
+	</div>
+	<div class="lower">
+		<a href="https://qz.com/global/"><i class="icon-global"></i>quartz</a>
+					<a href="https://qz.com/india/ ">
+				<i class="icon-india"></i>
+				quartz India			</a>
+					<a href="https://qz.com/africa/ ">
+				<i class="icon-africa"></i>
+				quartz Africa			</a>
+			</div>
+	<button class="navigation-toggle">
+		<span class="edition-text icon-down-arrow">Change your edition</span>
+		<span class="menu-text icon-down-arrow">back to menu</span>
+	</button>
+</nav>
+	<div id="container">
+<div id="content"><div id="content-header" data-disable-attach="true">
+	</div>
+<div id="content-articles" data-disable-attach="true">
+	<div id="well"><article id="item-914002" class="item global article has-hero" itemscope itemtype="https://schema.org/NewsArticle">
+<header class="item-header content-width-responsive">
+			<span class="kicker">NOT THE MAN YOU USED TO BE</span>
+		
+	<h1 itemprop="headline">You’re a completely different person at 14 and 77, the longest-running personality study ever has found</h1>	<div class="item-meta-mobile"><div class="byline item-meta-row">
+	<h5>Written by</h5>
+
+	
+		
+			
+			<a href="https://qz.com/author/ogoldhillqz/" class="author-name" data-index="0" itemprop="author">Olivia Goldhill</a>
+
+			
+			
+			
+		
+		
+	</div>
+
+
+<div class="item-obsession item-meta-row">		
+	<h5>Obsession</h5>
+	<a href="https://qz.com/on/life-as-laboratory/">Life as Laboratory</a>
+</div>
+
+<div class="item-timestamp item-meta-row">
+
+			<span class="timestamp" itemprop="datePublished">February 19, 2017</span>
+	
+	
+</div>
+</div>
+</header>
+<figure class="progressive-image featured-image size-extra-large ">
+	<picture style="padding-bottom: 56.325%; background-image: url(https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=50);">
+		<img src="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=50" class="progressive-image-thumbnail">
+		<img data-srcset="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=320 320w, https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=640 640w, https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=940 940w, https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=1600 1600w, https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=3200 3200w" sizes="" data-src="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=320" class="progressive-image-large" alt="grandmother-1594471" title=""/>
+		<noscript>
+			<img itemprop="image" src="https://qzprod.files.wordpress.com/2017/02/grandmother-1594471.jpg?quality=80&strip=all&w=320" alt="grandmother-1594471" title="">
+		</noscript>
+	</picture>
+	<figcaption class="featured-image-caption">
+		<div class="content-width-responsive">
+			<i class="icon-camera"></i>As we age, we change beyond recognition.							<span class="featured-image-credit has-space"> (Pixabay/ genesis_3g)</span>
+					</div>
+	</figcaption>
+</figure>
+<div class="item-content ">
+	<div class="item-meta">
+		<div class="share-buttons colored item-meta-row">
+			<h5>Share</h5>
+				 <a title="Share on twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fqz.com%2F914002&#038;text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;via=qz" target="_blank" class="share-action icon-twitter"></a>
+	 <a title="Share on facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F" target="_blank" class="share-action icon-facebook"></a>
+	 <a title="Share on linkedin" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F&#038;title=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;summary=Look%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6&#038;source=Quartz" target="_blank" class="share-action icon-linkedin"></a>
+	 <a title="Share on email" href="mailto:?subject=Quartz%3A%20You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;body=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F%0A%0ALook%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6%0A%0ASign%20up%20for%20the%20Quartz%20Daily%20Brief%3A%20https%3A%2F%2Fbit.ly%2Fquartzdailybrief." target="_blank" class="share-action icon-email"></a>
+	 <a title="Share on whatsapp" href="whatsapp://send?text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found%3A+https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F" target="_blank" class="share-action icon-whatsapp"></a>
+		</div>
+		<div class="byline item-meta-row">
+	<h5>Written by</h5>
+
+	
+		
+			
+			<a href="https://qz.com/author/ogoldhillqz/" class="author-name" data-index="0" itemprop="author">Olivia Goldhill</a>
+
+			
+			
+			
+		
+		
+	</div>
+
+
+<div class="item-obsession item-meta-row">		
+	<h5>Obsession</h5>
+	<a href="https://qz.com/on/life-as-laboratory/">Life as Laboratory</a>
+</div>
+
+<div class="item-timestamp item-meta-row">
+
+			<span class="timestamp" itemprop="datePublished">February 19, 2017</span>
+	
+	
+</div>
+	</div>
+	<div class="item-body" itemprop="articleBody">
+		<div>
+			
+<p class="p1"><span class="s1">Look at a photo of yourself as a teenager and, mistaken fashion choices aside, it&rsquo;s likely you see traces of the same person with the same personality quirks as you are today. But whether or not you truly are the same person over a lifetime&mdash;and what that notion of personhood even means&mdash;is the subject of ongoing philosophical and psychology debate.</span></p>
+<p class="p1"><span class="s1">The longest personality study of all time, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5144810/"><span class="s2">published in Psychology and Aging</span></a> and <a href="https://digest.bps.org.uk/2017/02/07/longest-ever-personality-study-finds-no-correlation-between-measures-taken-at-age-14-and-age-77/"><span class="s2">recently highlighted</span></a> by the British Psychological Society, suggests that over the course of a lifetime, just as your physical appearance changes and <a href="http://science.howstuffworks.com/life/cellular-microscopic/does-body-really-replace-seven-years.htm">your cells are constantly replaced</a>, your personality is also transformed beyond recognition.</span></p>
+<p class="p1"><span class="s1">The study begins with data from a 1950 survey of 1,208 14-year-olds in Scotland. Teachers were asked to use six questionnaires to rate the teenagers on six personality traits: self-confidence, perseverance, stability of moods, conscientiousness, originality, and desire to learn. Together, the results from these questionnaires were amalgamated into a rating for one trait, which was defined as &ldquo;dependability.&rdquo; More than six decades later, researchers tracked down 635 of the participants, and 174 agreed to repeat testing.</span></p>
+<div class="inline-ad" id="inline-914002-1"></div><p class="p1"><span class="s1">This time, aged 77 years old, the participants rated themselves on the six personality traits, and also nominated a close friend or relative to do the same. Overall, there was not much overlap from the questionnaires taken 63 years earlier.<span class="Apple-converted-space">  </span>&ldquo;Correlations suggested no significant stability of any of the 6 characteristics or their underlying factor, dependability, over the 63-year interval,&rdquo; wrote the researchers. &ldquo;We hypothesized that we would find evidence of personality stability over an even longer period of 63 years, but our correlations did not support this hypothesis,&rdquo; they later added.</span></p>
+<p class="p1"><span class="s1">The findings were a surprise to researchers because previous personality studies, over shorter periods of time, seemed to show consistency. Studies over several decades, focusing on participants from <a href="http://www.apple.com"><span class="s2">childhood to middle age</span></a>, or from <a href="http://psycnet.apa.org/psycinfo/1986-11794-001"><span class="s2">middle age to older age,</span></a> showed stable personality traits. But the most recent study, covering the longest period, suggests that personality stability is disrupted over time. &ldquo;The longer the interval between two assessments of personality, the weaker the relationship between the two tends to be,&rdquo; the researchers write. &ldquo;Our results suggest that, when the interval is increased to as much as 63 years, there is hardly any relationship at all.&rdquo;</span></p>
+<p class="p1"><span class="s1">Perhaps those who had impulsive character flaws as a teenager would be grateful that certain personality traits might even out later in life. But it&rsquo;s disconcerting to think that your entire personality is transformed. </span></p>
+<p class="p1"><span class="s1">&ldquo;Personality refers to an individual&rsquo;s characteristic patterns of thought, emotion, and behavior, together with the psychological mechanisms&mdash;hidden or not&mdash;behind those patterns,&rdquo; note the authors, quoting psychology professor David Funder&rsquo;s <a href="https://www.amazon.com/Personality-Puzzle-Sixth-David-Funder/dp/039312441X?tag=quartz07-20"><span class="s2">definition</span></a>. </span></p>
+<div class="inline-ad" id="inline-914002-2"></div><p class="p1"><span class="s1">If your patterns of thought, emotions, and behavior so drastically alter over the decades, can you truly be considered the same person in old age as you were as a teenager? This question ties in with broader theories about the nature of the self. For example, t<a href="https://qz.com/506229/neuroscience-backs-up-the-buddhist-belief-that-the-self-isnt-constant-but-ever-changing/"><span class="s2">here is growing neuroscience research</span></a> that supports the ancient Buddhist belief that our notion of a stable &ldquo;self&rdquo; is nothing more than an illusion.</span></p>
+<p class="p1"><span class="s1">Perhaps this won&rsquo;t surprise you if you&rsquo;ve had the experience of running into a very old friend from school, and found a completely different person from the child you remembered. This research suggests that, as the decades go by, your own younger self could be similarly unrecognizable. </span></p>
+			<div class="article-aside">
+									<aside class="popular-stories-module">
+  <article>
+    <h4 class="module-title">Most Popular</h4>
+          <figure class="popular-module-featured-image">
+        <a href="https://qz.com/919317/the-new-dnc-chair-is-tom-perez-former-labor-secretary-to-barack-obama/" title="The US Democratic National Committee has a new chair">
+          <img src="https://qzprod.files.wordpress.com/2017/02/ap_17056681972850-e1488056564526.jpg?quality=80&#038;strip=all&#038;w=240" alt="Former Labor Secretary Tom Perez, who is a candidate to run the Democratic National Committee, speaks during the general session of the DNC winter meeting in Atlanta, Saturday, Feb. 25, 2017. (AP Photo/Branden Camp)">
+        </a>
+      </figure>
+        <h3><a href="https://qz.com/919317/the-new-dnc-chair-is-tom-perez-former-labor-secretary-to-barack-obama/" title="The US Democratic National Committee has a new chair">The US Democratic National Committee has a new chair</a></h3>
+  </article>
+</aside>
+							</div>
+		</div>
+		<div class="item-share-tools article-footer">
+			<div class="short-url">
+				<input type="text" name="shortURL" value="https://qz.com/914002"/>
+			</div>
+			<div class="share-buttons colored">
+					 <a title="Share on twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fqz.com%2F914002&#038;text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;via=qz" target="_blank" class="share-action icon-twitter"></a>
+	 <a title="Share on facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F" target="_blank" class="share-action icon-facebook"></a>
+	 <a title="Share on linkedin" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F&#038;title=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;summary=Look%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6&#038;source=Quartz" target="_blank" class="share-action icon-linkedin"></a>
+	 <a title="Share on email" href="mailto:?subject=Quartz%3A%20You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&#038;body=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F%0A%0ALook%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6%0A%0ASign%20up%20for%20the%20Quartz%20Daily%20Brief%3A%20https%3A%2F%2Fbit.ly%2Fquartzdailybrief." target="_blank" class="share-action icon-email"></a>
+	 <a title="Share on whatsapp" href="whatsapp://send?text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found%3A+https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F" target="_blank" class="share-action icon-whatsapp"></a>
+			</div>
+		</div>
+		<button class="read-full-story-button">Read full story</button>
+	</div>
+	<div class="article-annotations"></div>
+</div>
+<div class="after-article"></div>
+<div id="engage-914002" class="ad-engage"></div></article></div></div></div></div>
+<div id="modal">
+	</div>
+<div id="chyron"></div>
+<div id="tab-bar">
+	<a href="https://qz.com" class="tab home"><i class="icon-q"></i>home</a>
+	<a href="https://qz.com/top/" class="tab top"><i class="icon-star"></i>our picks</a>
+	<a href="https://qz.com/popular/" class="tab popular"><i class="icon-most-popular"></i>popular</a>
+	<a href="https://qz.com/latest/" class="tab latest"><i class="icon-latest"></i>latest</a>
+	<a href="https://qz.com/obsessions/" class="tab obsessions"><i class="icon-obsessions"></i>obsessions</a>
+	<a href="https://qz.com/search/" class="tab search"><i class="icon-search"></i>search</a>
+</div><!-- wpcom_wp_footer -->
+
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 55570;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'qz.com';
+			_sf_async_config.authors = 'Olivia Goldhill';
+_sf_async_config.sections = ["Uncategorized"];
+
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9jc0OwjAMg1+IEqA7sAPiWUIbbS39GUm6ibenXDihnWxZn23YFuNqUSoKuZkltSkUgRSeJPBq1GjG4hPxMcoB/sMXs4YFokAXgwXTW4OTnQL6HIp5IENGUeLuTF2JOfj++st2FmSurK5+8f7bE8WJMffGPd/Ow9Xa0Y7DKX4A0ydSxQ=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'39587363','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'39587363','v':'wpcom','tz':'-5','user_id':'0','post':'914002','subd':'qzprod'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=39587363&v=wpcomvt&tz=-5&user_id=0&post=914002&subd=qzprod&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdEfC1rZmVUMy9QNXhLa2dIP0wvZ2RNYSV+S1VzM2gtT0J4Rk5OX29xR1tQZlFqMEFMLk9qNXxXX3RXc2JpdzUtV2t0Rz9Wc05DcW5nTWFSLXRCMSZMY0p+WUV0W1BpeWVZK1FCemtXVX45RzRCV1tWMy5SVV9fb3pfb2hKNC9zLkQmLzU/VnxUdjBjckFWfjZ3T2djSzIvb3Z5OU1LM2tvLnAxLjJm'}]);
+_stq.push([ 'clickTrackerInit', '39587363', '914002' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><script>
+	QZ.splitTests = [];
+	QZ.editions = ["global","india","africa"];
+	QZ.geolocation = 'global';
+	QZ.bootstrap = {"https:\/\/qz.com\/api\/article\/914002\/":{"version":3,"header":{"name":"Article","path":"article\/914002\/","slug":"article","type":"article"},"items":[{"id":914002,"title":"You\u2019re a completely different person at 14 and 77, the longest-running personality study ever has found","slug":"youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found","permalink":"https:\/\/qz.com\/914002\/youre-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found\/","date":{"published":"2017-02-19 10:00:06","updated":"2017-02-19 10:00:08","pretty":"February 19, 2017"},"postType":"article","summary":"Look at a photo of yourself as a teenager and, mistaken fashion choices aside, it\u2019s likely you see traces of the same person with the&hellip;","inlineAds":["inline-914002-1","inline-914002-2"],"content":"\n<p class=\"p1\"><span class=\"s1\">Look at a photo of yourself as a teenager and, mistaken fashion choices aside, it&rsquo;s likely you see traces of the same person with the same personality quirks as you are today. But whether or not you truly are the same person over a lifetime&mdash;and what that notion of personhood even means&mdash;is the subject of ongoing philosophical and psychology debate.<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">The longest personality study of all time, <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5144810\/\"><span class=\"s2\">published in Psychology and Aging<\/span><\/a> and <a href=\"https:\/\/digest.bps.org.uk\/2017\/02\/07\/longest-ever-personality-study-finds-no-correlation-between-measures-taken-at-age-14-and-age-77\/\"><span class=\"s2\">recently highlighted<\/span><\/a> by the British Psychological Society, suggests that over the course of a lifetime, just as your physical appearance changes and <a href=\"http:\/\/science.howstuffworks.com\/life\/cellular-microscopic\/does-body-really-replace-seven-years.htm\">your cells are constantly replaced<\/a>, your personality is also transformed beyond recognition.<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">The study begins with data from a 1950 survey of 1,208 14-year-olds in Scotland. Teachers were asked to use six questionnaires to rate the teenagers on six personality traits: self-confidence, perseverance, stability of moods, conscientiousness, originality, and desire to learn. Together, the results from these questionnaires were amalgamated into a rating for one trait, which was defined as &ldquo;dependability.&rdquo; More than six decades later, researchers tracked down 635 of the participants, and 174 agreed to repeat testing.<\/span><\/p>\n<div class=\"inline-ad\" id=\"inline-914002-1\"><\/div><p class=\"p1\"><span class=\"s1\">This time, aged 77 years old, the participants rated themselves on the six personality traits, and also nominated a close friend or relative to do the same. Overall, there was not much overlap from the questionnaires taken 63 years earlier.<span class=\"Apple-converted-space\">  <\/span>&ldquo;Correlations suggested no significant stability of any of the 6 characteristics or their underlying factor, dependability, over the 63-year interval,&rdquo; wrote the researchers. &ldquo;We hypothesized that we would find evidence of personality stability over an even longer period of 63 years, but our correlations did not support this hypothesis,&rdquo; they later added.<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">The findings were a surprise to researchers because previous personality studies, over shorter periods of time, seemed to show consistency. Studies over several decades, focusing on participants from <a href=\"http:\/\/www.apple.com\"><span class=\"s2\">childhood to middle age<\/span><\/a>, or from <a href=\"http:\/\/psycnet.apa.org\/psycinfo\/1986-11794-001\"><span class=\"s2\">middle age to older age,<\/span><\/a> showed stable personality traits. But the most recent study, covering the longest period, suggests that personality stability is disrupted over time. &ldquo;The longer the interval between two assessments of personality, the weaker the relationship between the two tends to be,&rdquo; the researchers write. &ldquo;Our results suggest that, when the interval is increased to as much as 63 years, there is hardly any relationship at all.&rdquo;<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">Perhaps those who had impulsive character flaws as a teenager would be grateful that certain personality traits might even out later in life. But it&rsquo;s disconcerting to think that your entire personality is transformed. <\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">&ldquo;Personality refers to an individual&rsquo;s characteristic patterns of thought, emotion, and behavior, together with the psychological mechanisms&mdash;hidden or not&mdash;behind those patterns,&rdquo; note the authors, quoting psychology professor David Funder&rsquo;s <a href=\"https:\/\/www.amazon.com\/Personality-Puzzle-Sixth-David-Funder\/dp\/039312441X?tag=quartz07-20\"><span class=\"s2\">definition<\/span><\/a>. <\/span><\/p>\n<div class=\"inline-ad\" id=\"inline-914002-2\"><\/div><p class=\"p1\"><span class=\"s1\">If your patterns of thought, emotions, and behavior so drastically alter over the decades, can you truly be considered the same person in old age as you were as a teenager? This question ties in with broader theories about the nature of the self. For example, t<a href=\"https:\/\/qz.com\/506229\/neuroscience-backs-up-the-buddhist-belief-that-the-self-isnt-constant-but-ever-changing\/\"><span class=\"s2\">here is growing neuroscience research<\/span><\/a> that supports the ancient Buddhist belief that our notion of a stable &ldquo;self&rdquo; is nothing more than an illusion.<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\">Perhaps this won&rsquo;t surprise you if you&rsquo;ve had the experience of running into a very old friend from school, and found a completely different person from the child you remembered. This research suggests that, as the decades go by, your own younger self could be similarly unrecognizable. <\/span><\/p>\n","hero":{"id":914012,"alt":"grandmother-1594471","caption":"As we age, we change beyond recognition.","credit":"Pixabay\/ genesis_3g","width":4000,"height":2253,"aspectRatio":1.7754105636929,"url":"https:\/\/qzprod.files.wordpress.com\/2017\/02\/grandmother-1594471.jpg?quality=80&strip=all&w=4000","size":"extra-large"},"kicker":"NOT THE MAN YOU USED TO BE","seoTitle":"There\u2019s no significant connection between your personality as a teenager and a septuagenarian","facebookTitle":"You\u2019re a different person at 14 and 77, the longest-running personality study ever has found","facebookDescription":"Researchers found no correlation of personality traits.","edition":"global","popularPostsRank":4,"taxonomies":{"obsession":[{"name":"Life as Laboratory","slug":"life-as-laboratory"}],"tags":[{"name":"aging","slug":"aging"},{"name":"Chang'e","slug":"change"},{"name":"conscientiousness","slug":"conscientiousness"},{"name":"dependable","slug":"dependable"},{"name":"old","slug":"old"},{"name":"personality","slug":"personality"},{"name":"psychology and aging","slug":"psychology-and-aging"},{"name":"self","slug":"self"},{"name":"trait","slug":"trait"},{"name":"young","slug":"young"}],"topic":[{"name":"Health and Human Behavior","slug":"health-and-human-behavior-t"}]},"obsession":{"name":"Life as Laboratory","slug":"life-as-laboratory"},"byline":{"authors":[{"name":"Olivia Goldhill","username":"ogoldhillqz","url":"https:\/\/qz.com\/author\/ogoldhillqz\/","twitter":"OliviaGoldhill"}],"type":"author","label":"Written by"},"share":{"twitter":"https:\/\/twitter.com\/intent\/tweet?url=https%3A%2F%2Fqz.com%2F914002&text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&via=qz","facebook":"https:\/\/www.facebook.com\/sharer.php?u=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F","linkedin":"https:\/\/www.linkedin.com\/shareArticle?mini=true&url=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F&title=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&summary=Look%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6&source=Quartz","email":"mailto:?subject=Quartz%3A%20You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found&body=https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F%0A%0ALook%20at%20a%20photo%20of%20yourself%20as%20a%20teenager%20and%2C%20mistaken%20fashion%20choices%20aside%2C%20it%E2%80%99s%20likely%20you%20see%20traces%20of%20the%20same%20person%20with%20the%E2%80%A6%0A%0ASign%20up%20for%20the%20Quartz%20Daily%20Brief%3A%20https%3A%2F%2Fbit.ly%2Fquartzdailybrief.","whatsapp":"whatsapp:\/\/send?text=You%E2%80%99re%20a%20completely%20different%20person%20at%2014%20and%2077%2C%20the%20longest-running%20personality%20study%20ever%20has%20found%3A+https%3A%2F%2Fqz.com%2F914002%2Fyoure-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has-found%2F"},"peer39":[9436,9383,9384,9417,9668,9488,9521,9506,9504,9522,9519,9507,9505,9671,9672,9656,9367,9606,9597,9369,9684,9689,9691,9692,9686,9456]}]}};
+	QZ.preview = 0;
+	QZ.bulletinPosition = 2;
+	QZ.inlinePreview = false;
+</script>
+
+<script data-main="https://app.qz.com/dist/4.0.659/js/app" src="https://app.qz.com/js/libs/require.min.js"></script>
+<script>
+	// DFP
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "https://www.googletagservices.com/tag/js/gpt.js";
+		var node =document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+
+	// Chartbeat
+	var _sf_async_config = {
+				uid: 55570
+	};
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('src', 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js');
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+
+	// Bizo
+	var _bizo_data_partner_id = "1016";
+	(function(){
+		var b,a,u;a=document.createElement("script");
+		a.type="text/javascript"; a.async=true;
+		u="https://sjs.bizographics.com/insight.min.js";
+		a.src=u; b=document.getElementsByTagName("script")[0];
+		return b.parentNode.insertBefore(a,b);
+	})();
+
+	// Comscore
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6463921" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = "https://sb.scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+
+	// Facebook
+	!function(f,b,e,v,n,t,s){
+		if(f.fbq) return;
+		n=f.fbq=function(){
+			n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)
+		};
+		if(!f._fbq) f._fbq=n;
+		n.push=n; n.loaded=!0;
+		n.version='2.0';
+		n.queue=[];
+		t=b.createElement(e); t.async=!0;
+		t.src=v; s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)
+	}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '1416115438681460'); 
+	fbq('trackCustom', 'PixelInitialized', {}); 
+
+</script>
+<noscript>
+	<!--	comScore	-->
+	<img src="https://sb.scorecardresearch.com/p?c1=2&c2=6463921&c3=&c4=&c5=&c6=&c15=&cj=1" />
+	<!--	Facebook	-->
+	<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1416115438681460&ev=PixelInitialized" />
+</noscript>
+
+<!-- Parse.ly -->
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+	<div id="parsely-cfg" data-parsely-site="qz.com"></div>
+</div>
+<script type="text/javascript">
+(function(s, p, d) {
+	var i=p+"-"+s,
+			e=d.getElementById(i), r=d.getElementById(p+"-root"),
+			u="https://d1z2jf7jlzjs58.cloudfront.net/p.js";
+	if (e) return;
+	e = d.createElement(s); e.id = i; e.async = true;
+	e.src = u; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+<div style="display:none">
+	<!-- Lotame -->
+	<img src="https://bcp.crwdcntrl.net/5/c=4861/b=35885723" />
+	<!-- Sonobi -->
+	<img src="https://xcp.go.sonobi.com/px.gif?pxid=04c9085bedf9ad0e7d85" />
+</div>
+</body>
+</html>
+<!--
+	generated 103 seconds ago
+	generated in 0.266 seconds
+	served from batcache in 0.002 seconds
+	expires in 197 seconds
+-->

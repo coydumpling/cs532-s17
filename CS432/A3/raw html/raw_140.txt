@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script>
+var gomez={
+gs: new Date().getTime(),
+acctId:"D3FD89",
+grpId:"Escenic",
+grpId1:"frs",
+grpId2:window.location.hostname,
+grpId3:"local",
+pgId:"story-detail",
+wrate:1
+};
+</script>
+<script type='text/javascript'>
+(function(){var a=window;a.dT_?a.console&&a.console.log("Duplicate agent injection detected, turning off redundant initConfig."):window.dT_||(window.dT_={cfg:"cors=1|async=1|tp=500,50,5,1,10|reportUrl=//mcclatchy.dynatracesaas.com/dynaTraceMonitor|agentUri=//mcclatchy.dynatracesaas.com/dtagent_23jpqrstxz_6000500041014.js|auto=#AUTO#|domain=#DOMAIN#|rid=RID_#REQUEST_ID#|rpid=#RESPONSE_ID#"})})();(function(){function s(){var a=0;try{a=window.performance.timing.navigationStart+Math.floor(window.performance.now())}catch(b){}return 0>=a?(new Date).getTime():a}function Z(a,b){return $(a,b)}function l(a,b){for(var c=1;c<arguments.length;c++)a.push(arguments[c])}function v(a,b){return parseInt(a,b||10)}function E(a){try{if(w)return w[a]}catch(b){}return null}function F(a,b){try{window.sessionStorage.setItem(a,b)}catch(c){}}function m(a,b){var c=-1;b&&(a&&a.indexOf)&&(c=a.indexOf(b));return c}function G(a){document.cookie=
+a+'="";path=/'+(d.domain?";domain="+d.domain:"")+"; expires=Thu, 01-Jan-70 00:00:01 GMT;"}function H(a){a=encodeURIComponent(a);var b=[];if(a)for(var c=0;c<a.length;c++){var k=a.charAt(c),d=aa[k];d?l(b,d):l(b,k)}return b.join("")}function x(a,b,c){b||0==b?(b=(""+b).replace(/[;\n\r]/g,"_"),b="DTSA"===a.toUpperCase()?H(b):b,a=a+"="+b+";path=/"+(d.domain?";domain="+d.domain:""),c&&(a+=";expires="+c.toUTCString()),document.cookie=a):G(a)}function r(a){var b,c,k,d=document.cookie.split(";");for(b=0;b<
+d.length;b++)if(c=m(d[b],"="),k=d[b].substring(0,c),c=d[b].substring(c+1),k=k.replace(/^\s+|\s+$/g,""),k===a)return"DTSA"===a.toUpperCase()?decodeURIComponent(c):c;return""}function I(a){return/^[0-9A-Za-z_$\+\/\.\-\*%\|]*$/.test(a)}function J(){var a=r(K);return a&&I(a)?a:""}function L(a){a=a||J();var b={sessionId:null,serverId:null};if(a){var c=m(a,"|"),d=a;-1!==c&&(d=a.substring(0,c));c=m(d,"$");-1!==c?(b.sessionId=d.substring(c+1),b.serverId=d.substring(0,c)):b.sessionId=d}return b}function ba(a){return L(a).serverId}
+function ca(a){if(a)return L(a).sessionId;if(a=e.gSC()){var b=a.indexOf("|");-1!==b&&(a=a.substring(0,b))}return a}function M(a,b){return Math.floor(Math.random()*(b-a+1))+a}function N(a){var b=window.crypto||window.msCrypto,c;if(b)c=new Int8Array(a),b.getRandomValues(c);else{c=[];for(b=0;b<a;b++)c.push(M(0,O))}a=[];for(b=0;b<c.length;b++){var d=Math.abs(c[b]%O),d=9>=d?String.fromCharCode(d+48):String.fromCharCode(d+55);a.push(d)}return a.join("")}function P(a){return document.getElementsByTagName(a)}
+function Q(a){var b=a.length;if("number"===typeof b)a=b;else{for(var b=0,c=2048;a[c-1];)b=c,c+=c;for(var d=7;1<c-b;)d=(c+b)/2,a[d-1]?b=d:c=d;a=a[d]?c:b}return a}function da(){var a=d.csu,a=(a.indexOf("dbg")==a.length-3?a.substr(0,a.length-3):a)+"_"+d.app+"_Store";try{if(y){var b=y.getItem(a);if(b){for(var a={},c=b.split("|"),b=0;b<c.length;b++){var e=c[b].split("=");2==e.length&&(a[e[0]]=decodeURIComponent(e[1]))}if(!d.lastModification||parseInt(a.lastModification.substr(0,13),10)>=parseInt(d.lastModification.substr(0,
+13),10))for(var q in a)a.hasOwnProperty(q)&&("config"==q?z(a[q]):d[q]=a[q])}}}catch(g){}}function z(a){a=a.split("|");for(var b=0;b<a.length;b++){var c=m(a[b],"=");-1===c?d[a[b]]="1":d[a[b].substring(0,c)]=a[b].substring(c+1,a[b].length)}}function ea(a,b){if(a){var c=/([a-zA-Z]*)[0-9]{0,3}_[a-zA-Z_0-9]*_[0-9]+/g.exec(a);if(c&&c.length){var k=c[0];d.csu=c[1];c=k.split("_");d.legacy="1";d.featureHash=c[1];d.dtVersion=e.version[0]+""+e.version[1]}}b&&z(b);c=location.hostname;k=d.domain;c=c&&k?c==k||
+-1!==c.indexOf("."+k,c.length-("."+k).length)?!0:!1:!0;c||(delete d.domain,d.domainOverride="true")}function fa(){return K}function ga(){return ha}function ia(){return ja}function A(a){d[a]=0>m(d[a],"#"+a.toUpperCase())?d[a]:""}function ka(){return t}function R(a,b){for(var c=S(b),d=!1,e=0;e<c.length;e++)c[e].frameId===t&&(c[e].actionId=a,d=!0);d||l(c,{frameId:t,actionId:a});T(c)}function T(a,b){var c="";if(a){for(var c=[],d=0;d<a.length;d++)0<d&&0<c.length&&l(c,"p"),l(c,a[d].frameId),l(c,"h"),l(c,
+a[d].actionId);c=c.join("")}c||(c="-");x(B,c)}function S(a){var b=r(B),c=[];if(b&&"-"!==b)for(var b=b.split("p"),d=0;d<b.length;d++){var e=b[d].split("h");if(2===e.length&&e[0]&&e[1]){var g=e[0],f;if(!(f=a)){f=g.split("_");f=v(f[0]);var h=s()%C;h<f&&(h+=C);f=f+9E5>h}f&&l(c,{frameId:g,actionId:e[1]})}}return c}function U(){var a=r(u);if(!a||""==a||a.length&&a.length!=V)a=E(u),a&&a.length==V||(W=!0,a=s()+N(la));var b=a,c=new Date;c.setFullYear(c.getFullYear()+2);x(u,b,c);F(u,b);return a}function ma(){return W}
+var g=window;if(!g.dT_||!g.dT_.cfg||"string"!=typeof g.dT_.cfg||g.dT_.initialized)g.console&&g.console.log("Initconfig not found or agent already initialized! This is an injection issue.");else{var $=window.setTimeout,w=window.sessionStorage,e={version:[6,5,4,"1014"],cfg:window.dT_&&window.dT_.cfg,ica:1};e.version[3]=parseInt(e.version[3],10);window.dT_=e;e.agentStartTime=s();e.nw=s;e.apush=l;e.st=Z;var O=32,aa={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"};
+e.gSSV=E;e.sSSV=F;e.pn=v;e.iVSC=I;e.io=m;e.dC=G;e.sC=x;e.esc=H;e.gSId=ba;e.gDtc=ca;e.gSC=J;e.gC=r;e.cRN=M;e.cRS=N;e.gEL=Q;e.gEBTN=P;var d={reportUrl:"dynaTraceMonitor",initializedModules:"",csu:"dtagent",domainOverride:"false",dataDtConfig:e.cfg},y;try{y=window.localStorage}catch(na){}if(-1==m(d.dataDtConfig,"#CONFIGSTRING")&&(z(d.dataDtConfig),A("domain"),A("auto"),A("app"),(g=d.agentUri)&&-1<m(g,"_")))g=/([a-zA-Z0-9]*)[0-9]*_([a-zA-Z0-9]*)_[0-9]*/.exec(g),d.csu=g[1],d.featureHash=g[2],d.dtVersion=
+e.version[0]+""+e.version[1];var g=P("script"),X=Q(g);if(0<X)for(var h,Y=d.csu+"_bootstrap.js",D=0;D<X;D++)if(h=g[D],h.attributes){var n=h.attributes.getNamedItem("data-dtconfig");h=h.src;if(n){ea(h,n.value);break}if((n=h&&h.indexOf(Y))&&0<=n)n=n+Y.length+5,d.app=h.length>n?h.substr(n):"Default%20Application"}da();try{var f=d.ign;if(f&&RegExp(f).test(window.location.href)){document.dT_=window.dT_=null;return}}catch(oa){}var B="dtPC",K="dtCookie",ha="x-dtPC",ja="x-dtReferer";e.gSCN=fa;e.gPCHN=ga;e.gRHN=
+ia;e.pageContextCookieName=B;e.latencyCookieName="dtLatC";e.cfg=d;var C=6E8,t=e.agentStartTime%C+"_"+v(1E3*Math.random());e.gFId=ka;e.frameId=t;R(1);e.gPC=S;e.cPC=R;e.sPC=T;var p;try{p=w.getItem("dtDisabled")}catch(pa){}!d.auto&&(!d.legacy&&!p)&&(f=d.agentname||d.csu||"dtagent",f=r("dtUseDebugAgent")?d.debugName||f+"dbg":d.name||f,p=d.agentUri||d.agentLocation+"/"+f+"_"+d.featureHash+"_"+d.buildNumber,d.async?(f=document.createElement("script"),f.setAttribute("src",p),d.async&&f.setAttribute("defer",
+"true"),f.setAttribute("crossorigin","anonymous"),p=document.getElementsByTagName("script")[0],p.parentElement.insertBefore(f,p)):document.write('<script type="text/javascript" src="'+p+'">\x3c/script>'));var u="rxVisitor",la=32,V=45,W=!1;U();e.iNV=ma;e.gVID=U}})();
+</script>
+<!-- paywall disabled -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pothole repairs on Highway 99 in Fresno clogs traffic | Fresno Bee</title>
+<meta name="keywords" content="potholes, repair, highway 99, clinton avenue, highway 180, southbound highway 99, traffic"/>
+<meta name="news_keywords" content="potholes, repair, highway 99, clinton avenue, highway 180, southbound highway 99, traffic"/>
+<meta name="allow-comments" content="true"/>
+<meta name="description" content="Due to pothole equipment failure, southbound Highway 99 has been experiencing four miles of traffic since Saturday morning, Caltrans said."/>
+<meta name="title" content="Pothole repairs on Highway 99 in Fresno clog traffic | Fresno Bee"/>
+<meta name="googlebot" content="noodp, noarchive"/>
+<meta name="original-source" content="http://www.fresnobee.com/news/local/article135024239.html"/>
+<link rel="canonical" href="http://www.fresnobee.com/news/local/article135024239.html"/>
+<meta name="google-site-verification" content="u9-4o7GKcUN_VoQMi8jOPw2rWxiDgviFOtbnkntXGX4"/>
+<link rel="amphtml" href="https://fresnobee.relaymedia.com/amp/news/local/article135024239.html">
+<meta property="og:title" content="Pothole repairs on Highway 99 in Fresno clog traffic"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.fresnobee.com/news/local/article135024239.html"/>
+<meta property="og:description" content="Due to pothole equipment failure, southbound Highway 99 has been experiencing four miles of traffic since Saturday morning, Caltrans said."/>
+<meta property="og:image" content="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/LANDSCAPE_1140/SF%20BREV%20TRAFFIC"/>
+<meta property="og:site_name" content="fresnobee"/>
+<meta property="fb:app_id" content="157169821150769"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="FresnoBee">
+<meta name="twitter:title" content="Pothole repairs on Highway 99 in Fresno clog traffic">
+<meta name="twitter:description" content="Due to pothole equipment failure, southbound Highway 99 has been experiencing four miles of traffic since Saturday morning, Caltrans said.">
+<meta name="twitter:image" content="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/LANDSCAPE_1140/SF%20BREV%20TRAFFIC">
+<meta name="msapplication-TileImage" content="http://www.fresnobee.com/static/theme/fresnobee/base/ico/windowsmetro-144.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.fresnobee.com/static/theme/fresnobee/base/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.fresnobee.com/static/theme/fresnobee/base/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.fresnobee.com/static/theme/fresnobee/base/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.fresnobee.com/static/theme/fresnobee/base/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="http://www.fresnobee.com/static/theme/fresnobee/base/ico/favicon.png">
+<link href="http://www.fresnobee.com/static/theme/fresnobee-2020/base/css/main-1.0.100-98b9c26.css?sVer=1.0.100-98b9c26" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://www.fresnobee.com/static/js/html5shiv.js?sVer=1.0.100-98b9c26"></script>
+<script src="http://www.fresnobee.com/static/js/respond.min.js?sVer=1.0.100-98b9c26"></script>
+<script type="text/javascript" src="http://www.fresnobee.com/static/js/mi-scripts/pollyfill.js?sVer=1.0.100-98b9c26"></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.fresnobee.com/static/js/jquery-1.10.2.min.js?sVer=1.0.100-98b9c26"></script>
+<script type="text/javascript" src="http://www.fresnobee.com/static/js/mi-wf-site-1.0.100-98b9c26-min.js"></script>
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.pagelevel':'story',
+'wufoo.formID':'',
+'publication.mediadomain':'media.fresnobee.com',
+'headerDateDisplay':'false',
+'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'marketInfo.application_version':'1.0.100-98b9c26',
+'marketInfo.logoAltText':'The Fresno Bee',
+'marketInfo.allow_ads':'true',
+'nativo.story.placements':'840326,774479,844344',
+'marketInfo.pagelevel_informational':'false',
+'marketInfo.addcities':'Clovis, Visalia, Madera, Hanford',
+'marketInfo.staticDirectory':'fresnobee',
+'marketInfo.state_abbreviation':'CA',
+'publication.domain':'FresnoBee.com',
+'accuweather.partnerCode':'MCCLATCHY',
+'marketInfo.domain':'fresnobee',
+'facebook.app.id':'157169821150769',
+'marketInfo.clipped_taxonomy':'News/Local',
+'nativo.video.placements':'869334,869333',
+'marketInfo.careerbuilder.lr':'CBMC_FB',
+'marketInfo.CarsSEO':'Search for used and new cars, trucks, SUVs and other vehicles on FresnoBee.com. The Fresno Bee and FresnoBee.com also provide Central Valley, and Fresno and Clovis, California with tools to help you buy your car such as comparison, how to negotiate with car dealers, auto loan calculators, financing tips and Blue Book values.',
+'marketInfo.CarsAFF':'fresnobee',
+'accuweather.locationString':'Fresno',
+'marketInfo.Jobslr':'cbmc_fb',
+'marketInfo.adretargeting.kill_list':["simpli.fi"],
+'marketInfo.webmaster_email':'gfunk@fresnobee.com',
+'marketInfo.phone':'559-441-6111',
+'marketInfo.sourcelevel':'local',
+'pressPlus.zone':'7ICatxzflhC1DD5ykJAkrd',
+'marketInfo.zipcode':'93786',
+'marketInfo.shortURL':'breaking',
+'legacy.siteName':'fresnobee',
+'marketInfo.viewsizes':[{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]},{"Extra-Small":[0,0]}],
+'findnsave.tracking':'findnsave',
+'marketInfo.JobsSEO':'The Fresno Bee and FresnoBee.com serve the people of Fresno and Clovis, California and Central Valley with a job-search tool and career resource. You will find full- time and part-time local opportunities in a variety of career fields including banking, retail, medical, construction, restaurant and IT.',
+'accuweather.dev':'false',
+'marketInfo.state':'California',
+'cs.circ_phone':'1-800-877-3400',
+'marketInfo.siteId':'8',
+'marketInfo.county':'Fresno County',
+'marketInfo.adsizes':{"outofpage":{},"default":{"None":[],"970x90":[970,90],"Billboard Flex":[[960,30],[970,30],[970,90],[970,250]],"960x30":[960,30],"728x90":[728,90],"600x250":[600,250],"500x300":[500,300],"468x60":[468,60],"336x280":[336,280],"320x450":[320,450],"320x50":[320,50],"300x600":[300,600],"Flex Ad":[[300,250],[300,600]],"Welcome Ad":[[300,250],[300,600],[550,480],[600,500]],"300x250":[300,250],"300x100":[300,100],"300x75":[300,75],"300x50":[300,50],"240x400":[240,400],"234x60":[234,60],"216x36":[216,36],"180x150":[180,150],"168x28":[168,28],"160x600":[160,600],"160x90":[160,90],"146x60":[146,60],"120x600":[120,600],"120x240":[120,240],"120x20":[120,20],"Rising Star":[500,300]},"floorboard":{"None":[],"285x70":[285,70]},"wallpaper":{"None":[],"1600x600":[1600,600]}},
+'obituaries.deathNoticeUrl':'http://www.legacy.com/obituaries/fresnobee/obituary-place-an-obituary.aspx',
+'marketInfo.name':'The Fresno Bee',
+'marketInfo.location':'Fresno',
+'marketInfo.region':'Central Valley',
+'marketInfo.JobsSiteID':'mc_fb003',
+'marketInfo.careerbuilder.dmc_id':'1217',
+'marketInfo.code':'FRS',
+'marketInfo.careerbuilder.dmc_code':'fre',
+'cs.circ_url':'https://webport05.voiceport.net/fresnob/IFrameGUI/index.html?tenant=fresnob',
+'marketInfo.market_identifier':'FRS.site_fresnobee',
+'wf.resource.static.rootUrl':'/static/',
+'marketInfo.JobsQSSTS':'CA,US',
+'financialContent.account':'fresnobee',
+'marketInfo.followLinks':'true',
+'marketInfo.networkid':'7675',
+'marketInfo.product':'site',
+'marketInfo.JobsQSCTY':'Fresno',
+'obituaries.deathNoticeEmail':'obituaries@fresnobee.com',
+'marketInfo.street_address':'1626 E Street, Fresno, CA 93786',
+'obituaries.deathNoticePhone':'559-441-6356',
+'accuweather.locationKey':'327144',
+'marketInfo.taxonomy':'News/Local///',
+'marketInfo.city':'Fresno',
+});
+</script>
+<script type="text/javascript" >
+mi_Ads.env.create();
+</script>
+<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid" async></script>
+<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+try {
+amznads.getAds('3108'); } catch(e) { /*ignore*/}
+</script>
+<script type="text/javascript">
+try {
+amznads.setTargetingForGPTAsync('amznslots');
+} catch(e) { /*ignore*/}
+</script>
+<script type="text/javascript">
+var _prx = window._prx || [];
+_prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+<script type="text/javascript">
+var mistats = mistats || {};
+mistats.pagelevel="Story";
+mistats.cmsid="Story: 135024239";
+mistats.pagename="Story: 135024239|Pothole repairs on Highway 99 in Fresno clog traffic";
+mistats.taxonomy="News|Local|||";
+mistats.channel="Local";
+mistats.contentsource="Fresno|By Chueyee Yangcyangfresnobeecom";
+mistats.pubdate="2017/02/25";
+mistats.moddate="2017/02/25 H16";
+mistats.keywords="potholes repair highway 99 clinton avenue highway 180 southbound highway 99 traffic";
+</script>
+<script type='text/javascript' src='http://media.fresnobee.com/misites/frs/fresnobee.js'></script>
+<script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+
+                    <script type="text/javascript">
+                      var w=window;
+                      if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"10760",ustr:"",originlat:0,clientrtt:30,ghostip:"65.202.58.69",
+                      ipv6:false,pct:10,clientip:"100.4.87.151",requestid:"147b9b8b",region:"26500",protocol:"",blver:11,akM:"f1",akN:"",akTT:"O",akTX:"1",akTI:"147b9b8b",ai:"267397",ra:"",pmgn:"",pmgi:"",pmp:""};
+                      (function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                    </script>
+                    </head>
+<body>
+<!-- Powered by Escenic Content Engine and Widget Framework. http://escenic.com -->
+<div class=" " >
+<script type="text/javascript">
+var $window = $window || $(window);
+var $document = $document || $(document);
+function hidePhotoTitle() {
+if( $(document.getElementById("top-galleries")).height() === 0) {
+$(document.getElementById("top-photos-carousel")).hide();
+} if($(document.getElementById("top-galleries-with-counter")).height() === 0) {
+$(document.getElementById("top-photos-carousel")).hide();
+console.log('found');
+}
+}
+$window.on("load", hidePhotoTitle);
+</script>
+</div>
+<div class="">
+<header class=" " role="banner">
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-oop-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad"
+articleId="135024239" ></div>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead top:
+Referenced feature mi.masterConfig.searchBarType, which was empty. Attempting fall-back value.
+-->
+<div id="masthead-container"
+>
+<div class="container">
+<div class="masthead-row">
+<div id="masthead-main"
+>
+<div id="masthead-logo"
+>
+<a href="http://www.fresnobee.com/" target="_top"><img src="http://www.fresnobee.com/static/images/fresnobee/logo-lg.png" alt="The Fresno Bee | FresnoBee.com" class="img-responsive center-block"></a>
+</div>
+<div id="quick-nav"
+class="hidden-xs">
+<ul class=" nav navbar-nav">
+<li>
+<a href="/sports/#navlink=navbar">
+Sports
+</a>
+</li>
+<li>
+<a href="/news/local/#navlink=navbar">
+News
+</a>
+</li>
+<li>
+<a href="/entertainment/#navlink=navbar">
+Entertainment
+</a>
+</li>
+<li>
+<a href="/opinion/#navlink=navbar">
+Opinion
+</a>
+</li>
+</ul>
+<div id="site-search-lg" class="visible-lg">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</div>
+<div id="search-icon-sm-md" class="site-search dropdown visible-md visible-sm">
+<a href="#" class="btn btn-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+<li class="input-group">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" placeholder="Search the site" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead switch:
+Referenced feature mi.masterConfig.masthead-extra, which was empty. Attempting fall-back value.
+-->
+<div id="masthead-ad"
+class="visible-md visible-lg">
+<div>
+<div class="ad-widget" id="div-gpt-ad-2" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="None"
+defaultsize="Large"
+Small = "None"
+Medium = "234x60"
+Extra-Small = "None"
+Large = "234x60"
+articleId="135024239"
+></div>
+</div>
+</div>
+</div>
+<div id="main-nav-container"
+>
+<div class="weather-container hidden-xs">
+<div class="miWeather">
+<a href="/weather">
+<div class="miWeatherCurrent">
+<div class="mi-weather-alert"></div>
+</div>
+</a>
+</div>
+</div>
+<div id="login-subscribe"
+class="hidden-xs">
+<!--
+Widget ID: Feature Master with title feature master masthead login subscribe links:
+Referenced feature mi.masterConfig.masthead.mpp, which was empty. Attempting fall-back value.
+-->
+<ul class=" paywall-links">
+<li>
+<a href="/activate">
+Log In
+</a>
+</li>
+<li>
+<a href="https://secure.fresnobee.com/subscribe/subscribe.cgi?promocode=main&ordertype=HYBPRINT">
+Subscribe
+</a>
+</li>
+</ul>
+</div>
+<div id="main-nav"
+>
+<nav class="navbar navbar-default " role="navigation" >
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse">
+<div id="search-icon-xs" class="site-search dropdown visible-xs">
+<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+<li class="input-group">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" placeholder="Search the site" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</li>
+</ul>
+</div>
+<div class="weather-container visible-xs">
+<div class="miWeather">
+<a href="/weather">
+<div class="miWeatherCurrent">
+<div class="mi-weather-alert"></div>
+</div>
+</a>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead login subscribe links:
+Referenced feature mi.masterConfig.masthead.mpp, which was empty. Attempting fall-back value.
+-->
+<ul class=" paywall-links">
+<li>
+<a href="/activate">
+Log In
+</a>
+</li>
+<li>
+<a href="https://secure.fresnobee.com/subscribe/subscribe.cgi?promocode=main&ordertype=HYBPRINT">
+Subscribe
+</a>
+</li>
+</ul>
+<ul class=" nav navbar-nav">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Customer Service <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/customer-service/#navlink=subnav">Customer Service</a></li>
+<li><a href="/customer-service/about-us/#navlink=subnav">About Us</a></li>
+<li><a href="/customer-service/contact-us/#navlink=subnav">Contact Us</a></li>
+<li><a href="/customer-service/faq/#navlink=subnav">FAQ</a></li>
+<li class="dropdown-header">Advertise</li>
+<li><a href="http://fresnobee.adperfect.com/#navlink=subnav">Place Classified Ad</a></li>
+<li><a href="/advertise/#navlink=subnav">Display Advertising</a></li>
+<li class="dropdown-header">Stay Connected</li>
+<li><a href="/mobile/#navlink=subnav">Mobile</a></li>
+<li><a href="https://www.facebook.com/fresnobee#navlink=subnav">Facebook</a></li>
+<li><a href="https://twitter.com/FresnoBee#navlink=subnav">Twitter</a></li>
+<li><a href="/customer-service/newsletter-signup/#navlink=subnav">E-mail</a></li>
+<li><a href="/customer-service/rss/#navlink=subnav">RSS Feeds</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>My Subscription <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/customer-service/plus/#navlink=subnav">Activate Digital Subscription</a></li>
+<li><a href="/customer-service/#navlink=subnav">Manage Account</a></li>
+<li><a href="/customer-service/e-edition/#navlink=subnav">E-Edition</a></li>
+<li><a href="/customer-service/newsletter-signup/#navlink=subnav">Newsletters</a></li>
+</ul>
+</li>
+<li class="nav-divider"> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>News <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/news/#navlink=subnav">News</a></li>
+<li><a href="/news/local/#navlink=subnav">Local</a></li>
+<li><a href="/news/local/crime/#navlink=subnav">Crime</a></li>
+<li><a href="/news/weather/#navlink=subnav">Weather</a></li>
+<li><a href="/news/local/education/#navlink=subnav">Education</a></li>
+<li><a href="/news/local/pot-in-california/#navlink=subnav">Marijuana</a></li>
+<li><a href="/news/state/california/#navlink=subnav">California</a></li>
+<li><a href="/news/nation-world/#navlink=subnav">Nation/World</a></li>
+<li><a href="/news/databases/#navlink=subnav">Databases</a></li>
+<li><a href="/news/special-reports/#navlink=subnav">Special Reports</a></li>
+<li><a href="http://www.legacy.com/obituaries/fresnobee/#navlink=subnav">Obituaries</a></li>
+<li><a href="/news/local/obituaries/#navlink=subnav">Death Notices</a></li>
+<li class="dropdown-header">Blogs</li>
+<li><a href="/news/politics-government/politics-columns-blogs/political-notebook/#navlink=subnav">Political Notebook</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Sports <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/sports/#navlink=subnav">Sports</a></li>
+<li><a href="/sports/high-school/#navlink=subnav">High Schools</a></li>
+<li><a href="/sports/outdoors/#navlink=subnav">Outdoors</a></li>
+<li><a href="/sports/mlb/fresno-grizzlies/#navlink=subnav">Grizzlies</a></li>
+<li><a href="/sports/mlb/#navlink=subnav">MLB</a></li>
+<li><a href="http://media.fresnobee.com/static/2015/sports/bee_mlb.html#navlink=subnav" target="_blank">MLB Scores &amp; Stats</a></li>
+<li><a href="/sports/nba/#navlink=subnav">NBA</a></li>
+<li><a href="http://media.fresnobee.com/static/2015/sports/bee_nba.html#navlink=subnav" target="_blank">NBA Scores &amp; Stats</a></li>
+<li><a href="/sports/nfl/#navlink=subnav">NFL</a></li>
+<li><a href="http://media.fresnobee.com/static/2015/sports/bee_nfl.html#navlink=subnav" target="_blank">NFL Scores &amp; Stats</a></li>
+<li><a href="/sports/college/#navlink=subnav">College</a></li>
+<li class="dropdown-header">Columnists</li>
+<li><a href="/sports/high-school/andy-boogaard#navlink=subnav">Andy Boogaard</a></li>
+<li><a href="/sports/spt-columns-blogs/marek-warszawski/#navlink=subnav">Marek Warszawski</a></li>
+<li><a href="/sports/spt-columns-blogs/david-white/#navlink=subnav">David White</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Politics <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 160px;">
+<li><a href="/news/politics-government/#navlink=subnav">Politics</a></li>
+<li><a href="/news/politics-government/election/#navlink=subnav">Elections</a></li>
+<li><a href="http://c3.thevoterguide.org/v/fresno16/build.do#navlink=subnav">Voter Guide</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Fresno State Bulldogs <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 200px;">
+<li><a href="/sports/college/mountain-west/fresno-state/#navlink=subnav">Fresno State Bulldogs</a></li>
+<li><a href="/sports/college/mountain-west/fresno-state/bulldogs-football/#navlink=subnav">Football</a></li>
+<li><a href="/sports/college/mountain-west/fresno-state/bulldogs-basketball/#navlink=subnav">Basketball</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Entertainment <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/entertainment/#navlink=subnav">Entertainment</a></li>
+<li><a href="http://fresnobee.eventsabout.com/#navlink=subnav">Calendar</a></li>
+<li><a href="/entertainment/movies-news-reviews/#navlink=subnav">Movies</a></li>
+<li><a href="http://fresnobee.eventsabout.com/movies.aspx#navlink=subnav">Movie Times</a></li>
+<li><a href="/entertainment/music-news-reviews/#navlink=subnav">Music</a></li>
+<li><a href="/entertainment/tv/#navlink=subnav">TV</a></li>
+<li><a href="/entertainment/performing-arts/#navlink=subnav">Theater &amp; Arts</a></li>
+<li><a href="/entertainment/comics/#navlink=subnav">Comics</a></li>
+<li><a href="http://games.fresnobee.com/#navlink=subnav">Puzzles &amp; Games</a></li>
+<li><a href="http://www.fresnobee.com/dineout/#navlink=subnav">Dine Out</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/entertainment/ent-columns-blogs/fresno-beehive/#navlink=subnav">Beehive</a></li>
+<li><a href="/entertainment/ent-columns-blogs/video-games/#navlink=subnav">Rory Appleton</a></li>
+<li><a href="/entertainment/ent-columns-blogs/rick-bentley/#navlink=subnav">Rick Bentley</a></li>
+<li><a href="/entertainment/performing-arts/donald-munro/#navlink=subnav">Donald Munro</a></li>
+<li><a href="/entertainment/music-news-reviews/joshua-tehee/#navlink=subnav">Joshua Tehee</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Living <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/living/#navlink=subnav">Living</a></li>
+<li><a href="/living/food-drink/#navlink=subnav">Food &amp; Drink</a></li>
+<li><a href="http://fresnobee.eventsabout.com/#navlink=subnav">Calendar</a></li>
+<li><a href="/living/religion/#navlink=subnav">Religion</a></li>
+<li><a href="/entertainment/horoscopes/#navlink=subnav">Horoscopes</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/entertainment/ent-columns-blogs/fresno-beehive/#navlink=subnav">Beehive</a></li>
+<li><a href="/living/food-drink/valley-craft-beer/#navlink=subnav">Brew Buzz</a></li>
+<li><a href="/living/liv-columns-blogs/bethany-clough/#navlink=subnav">Bethany Clough</a></li>
+<li><a href="/living/liv-columns-blogs/carmen-george/#navlink=subnav">Carmen George</a></li>
+<li><a href="/entertainment/ent-columns-blogs/fresno-famous/#navlink=subnav">Fresno Famous</a></li>
+<li><a href="/living/liv-columns-blogs/ask-amy/#navlink=subnav">Ask Amy</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Business <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 320px;">
+<li><a href="/news/business/#navlink=subnav">Business</a></li>
+<li><a href="/news/business/agriculture/#navlink=subnav">Agriculture</a></li>
+<li><a href="/news/business/personal-finance/#navlink=subnav">Personal Finance</a></li>
+<li><a href="/news/business/technology/#navlink=subnav">Technology</a></li>
+<li><a href="http://fresnobee.interest.com/#navlink=subnav">Mortgage Rates</a></li>
+<li class="dropdown-header">Blogs</li>
+<li><a href="/news/business/biz-columns-blogs/real-estate-blog#navlink=subnav">BoNhia Lee</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Opinion <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/opinion/#navlink=subnav">Opinion</a></li>
+<li><a href="/opinion/editorials/#navlink=subnav">Editorials</a></li>
+<li><a href="/opinion/letters-to-the-editor/#navlink=subnav">Letters</a></li>
+<li><a href="/opinion/readers-opinion/#navlink=subnav">Valley Voices</a></li>
+<li><a href="/opinion/opn-columns-blogs/#navlink=subnav">Other Opinions</a></li>
+<li><a href="/opinion/editorial-cartoons/sw-parra/#navlink=subnav">SW Parra</a></li>
+<li><a href="/opinion/letters-to-the-editor/submit-letter/#navlink=subnav">Submit a Letter</a></li>
+<li class="dropdown-header">Columnists</li>
+<li><a href="/opinion/opn-columns-blogs/armen-bacon#navlink=subnav">Armen Bacon</a></li>
+<li><a href="/opinion/opn-columns-blogs/victor-davis-hanson/#navlink=subnav">Victor Davis Hanson</a></li>
+<li><a href="/opinion/opn-columns-blogs/david-mas-masumoto/#navlink=subnav">David &#034;Mas&#034; Masumoto</a></li>
+<li><a href="/opinion/opn-columns-blogs/bill-mcewen/#navlink=subnav">Bill McEwen</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Obituaries <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 400px;">
+<li><a href="http://www.legacy.com/obituaries/fresnobee/#navlink=subnav">Today&#039;s Obituaries</a></li>
+<li><a href="/customer-service/faq/article59279428.html#navlink=subnav">Place an Obituary</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.centralvalley.com/#navlink=subnav">
+CV Magazine
+</a>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Shopping <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 480px;">
+<li><a href="http://findnsave.fresnobee.com/#navlink=subnav">Local Deals</a></li>
+<li><a href="http://fresno.dealsaver.com/deal/fresno/#navlink=subnav">Today&#039;s Hot Deal</a></li>
+<li><a href="http://findnsave.fresnobee.com/PrintCoupons#navlink=subnav">Grocery Coupons</a></li>
+<li><a href="/advertise/circulars/#navlink=subnav">Today&#039;s Circulars</a></li>
+<li><a href="http://findnsave.fresnobee.com/Local-Ads#navlink=subnav">Local Ads</a></li>
+<li><a href="http://shopping.fresnobee.com/#navlink=subnav">Special Sections</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Classifieds <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 520px;">
+<li><a href="/classified-ads/#navlink=subnav">Classifieds</a></li>
+<li><a href="http://www.fresnobee.com/classified-ads/category/Auctions+/+Estate+Sales#navlink=subnav">Auctions/Estate Sales</a></li>
+<li><a href="http://www.fresnobee.com/classified-ads/category/Garage+Sales#navlink=subnav">Garage Sales</a></li>
+<li><a href="/homes#navlink=subnav">Real Estate</a></li>
+<li><a href="/homes/featured-homes/#navlink=subnav">New Homes Map</a></li>
+<li><a href="http://www.careerbuilder.com/intl/partnerlandingpage.aspx?lr=CBMC_FB">Jobs</a></li>
+<li><a href="/cars/#navlink=subnav">Automotive</a></li>
+<li><a href="http://www.fresnobee.com/classified-ads/category/Automotive#navlink=subnav">Merchandise</a></li>
+<li><a href="http://www.fresnobee.com/classified-ads/category/Pets+and+Animals#navlink=subnav">Pets</a></li>
+<li><a href="http://www.legalnotice.org/pl/fresnobee/landing1.aspx#navlink=subnav">Legal Notices</a></li>
+<li><a href="http://www.fresnobee.com/classified-ads/category/Services#navlink=subnav">Service Directory</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Place An Ad <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 560px;">
+<li><a href="http://fresnobee.adperfect.com/#navlink=subnav">Classified</a></li>
+<li><a href="https://www.virtualadtaker.net/idc/idc_list_others.php5?p_role=account&p_app=REALESTATE&p_newspaper=FRS&p_admin_flag=N&p_home_page=http://www.fresnobee.com&p_npt=8130#navlink=subnav">Open House Weekend</a></li>
+<li><a href="https://www.virtualadtaker.net/idc/idc_list_others.php5?p_role=account&p_app=REALESTATE&p_newspaper=FRS&p_admin_flag=N&p_home_page=http://www.fresnobee.com&p_npt=8130#navlink=subnav">Real Estate Marketplace</a></li>
+</ul>
+</li>
+<li class="nav-divider"> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Jobs <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 600px;">
+<li><a href="http://www.careerbuilder.com/intl/partnerlandingpage.aspx?lr=CBMC_FB#navlink=subnav">Jobs</a></li>
+<li><a href="http://www.mcclatchy.com/careers/">Fresno Bee Jobs</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.startmoonlighting.com/mni/The-Fresno-Bee/?utm_source=The-Fresno-Bee&utm_medium=navweblink&utm_campaign=MNI#navlink=subnav">
+Moonlighting
+</a>
+</li>
+<li>
+<a href="/cars/#navlink=subnav">
+Cars
+</a>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Homes <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 720px;">
+<li><a href="/homes#navlink=subnav">Search Real Estate</a></li>
+<li><a href="/homes/featured-homes/#navlink=subnav">New Homes Map</a></li>
+<li><a href="http://shopping.fresnobee.com/SS/Tiles.aspx?ptype=SS_TILE&type=realestateshowcase#navlink=subnav">Real Estate Showcase</a></li>
+</ul>
+</li>
+<li>
+<a href="http://findnsave.fresnobee.com/#navlink=subnav">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var language = "en-us";
+var mast_options = {
+language: language,
+locationKey: mi.pageInfo.getConf('accuweather.locationKey'),
+locationString: mi.pageInfo.getConf('accuweather.locationString'),
+isDevEnv: mi.pageInfo.getConf('accuweather.dev'),
+publicationUrl: 'http://www.fresnobee.com/',
+iconPath: 'static/images/widgets/weather/2020/',
+detail: 'false'
+};
+var windowSize = jQuery(window).width();
+if (windowSize > 767) {
+jQuery(".mi-weather-alert").populateWeatherAlert("description", mast_options);
+}
+jQuery(".miWeatherCurrent").populateCurrentWeather(mast_options);
+</script>
+<style type="text/css">
+/* Navigation Menu-specific styles */
+/* @media screen and (min-width: 1200px) {
+#masthead-container .dropdown:hover .dropdown-menu {
+display: block; } }
+*/
+</style>
+<script type="text/javascript">
+/*
+var $window = $window || $(window);
+var $nav = $(document.getElementById("main-nav-container"));
+var $toggle = $nav.find(".navbar-header").find(".navbar-toggle");
+var $dropdown = $(".dropdown");
+var $navbarNav = $nav.find(".navbar-nav");
+var $navbarDropdown = $navbarNav.find(".dropdown-menu");
+if ( location.hostname.split('.')[ 1 ] === "elnuevoherald" || language === "es" ) {
+$toggle.prepend('<span class="nav-label hidden-xs">Secciones</span>');
+$dropdown.find(".form-control").attr('placeholder', 'Búsqueda');
+}
+else {
+// add Menu label to nav toggle for small and up
+$toggle.prepend('<span class="nav-label hidden-xs">Full Menu</span>');
+}
+$dropdown.children('a').attr('data-target', '#');
+// Make subnav same height as main nav
+$(document.getElementById('navbar-collapse-1')).on('shown.bs.collapse', function () {
+var navHeight = $navbarNav.height();
+$navbarDropdown.css("min-height", navHeight + "px");
+});
+*/
+if (location.hostname.split('.')[1] == 'elnuevoherald') {
+jQuery('#main-nav-container .navbar-header .navbar-toggle').prepend('<span class="nav-label hidden-xs">Secciones</span>');
+jQuery('.dropdown .form-control').attr('placeholder','Búsqueda');
+} else {
+// add Menu label to nav toggle for small and up
+jQuery('#main-nav-container .navbar-header .navbar-toggle').prepend('<span class="nav-label hidden-xs">Full Menu</span>');
+}
+jQuery('.dropdown > a').attr('data-target','#');
+// Make dropdowns work on hover at large breakpoint
+jQuery(function() {
+jQuery("#masthead-container .dropdown").hover(
+function(){ if ($(window).width() > 1200) { $(this).addClass('open') } },
+function(){ if ($(window).width() > 1200) { $(this).removeClass('open') } }
+);
+});
+// Make subnav same height as main nav
+$('#navbar-collapse-1').on('shown.bs.collapse', function () {
+var nav_height = jQuery("#main-nav .navbar-nav").height();
+jQuery("#main-nav .navbar-nav .dropdown-menu").css( "min-height", nav_height + "px" );
+}); </script>
+</header>
+<div class="container " >
+<div id="leaderboard-ad"
+class="ad border-bottom">
+<div class="visible-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-3" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="b"
+defaultsize="Large"
+Small = "None"
+Medium = "None"
+Extra-Small = "320x50"
+Large = "None"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-4" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="d"
+defaultsize="Large"
+Small = "728x90"
+Medium = "728x90"
+Extra-Small = "None"
+Large = "728x90"
+articleId="135024239"
+></div>
+</div>
+</div>
+</div>
+</div>
+<section class="container story " role="main">
+<div id="story-header"
+>
+<h1 class="heading section-main-heading link">
+<a href="http://www.fresnobee.com/news/local/">
+Local
+</a>
+</h1>
+<p
+class="published-date">
+February 25, 2017 4:38 PM
+</p>
+<h1
+class="title">
+Pothole repairs on Highway 99 in Fresno clog traffic
+</h1>
+</div>
+<div class="row
+story-rail-wrapper">
+<div class="wide-rail">
+<div class="story-gallery ">
+<div id="slick-gallery-container-29506909"
+class="mi-slick-gallery-container clearfix" style="visibility: hidden;">
+<div class="preroll-container" data-uniqueID="29506909">
+<!--"Gallery pre-roll turned off as page level is: story . Must be: gallery" -->
+<script type="text/javascript">
+$(function () {
+$(document).trigger("slickgallery.init", [
+29506909,
+1,
+{
+}
+]);
+});
+</script>
+<div class="slick-gallery">
+<div class="gallery-item image">
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_320/SF%20BREV%20TRAFFIC" data-width-320></span>
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_480/SF%20BREV%20TRAFFIC" data-width-480></span>
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_640/SF%20BREV%20TRAFFIC" data-width-640></span>
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_768/SF%20BREV%20TRAFFIC" data-width-768></span>
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_960/SF%20BREV%20TRAFFIC" data-width-960></span>
+<span class="test-temp" data-src="http://www.fresnobee.com/news/local/4labnh/picture135024234/ALTERNATES/FREE_1140/SF%20BREV%20TRAFFIC" data-width-1140></span>
+<img alt="Southbound traffic crawls along Highway 99 on Saturday afternoon, Feb. 25, 2017, in Fresno. Caltrans reported the backup, which was due to equipment failure during pothole repairs. The backup extended from Highway 180 to between Shaw and Ashlan avenues." title="Southbound traffic crawls along Highway 99 on Saturday afternoon, Feb. 25, 2017, in Fresno. Caltrans reported the backup, which was due to equipment failure during pothole repairs. The backup extended from Highway 180 to between Shaw and Ashlan avenues." />
+<div class="caption">
+<span class="caption-text">
+Southbound traffic crawls along Highway 99 on Saturday afternoon, Feb. 25, 2017, in Fresno. Caltrans reported the backup, which was due to equipment failure during pothole repairs. The backup extended from Highway 180 to between Shaw and Ashlan avenues.
+</span>
+<span class="photographer">SILVIA FLORES</span>
+<span class="credits">sflores@fresnobee.com</span>
+</div>
+</div>
+</div>
+</div>
+<div class="gallery-counter-container">
+</div>
+<div class="caption-toggle">i</div>
+<div class="current-caption"></div>
+</div>
+</div>
+<div id="story-body-items"
+>
+<div
+class="byline element-spacing-small">
+<p><span class="ng_byline_name">By Chueyee Yang</span></p><p><span class="ng_byline_email"><a href="mailto:cyang@fresnobee.com" title="">cyang@fresnobee.com</a></span></p>
+</div>
+<div class="share-tools-wrapper">
+<!--
+Widget ID: Feature Master with title feature master share buttons:
+Referenced feature mi.masterConfig.shareButtons, which was empty. Attempting fall-back value.
+-->
+<ul class="share-icons">
+<li class="facebook">
+<a class="facebook-share" title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://www.fresnobee.com/news/local/article135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-facebook"></div>
+</li>
+<li class="twitter">
+<a title="Share on Twitter" href="https://twitter.com/share?text=Pothole%20repairs%20on%20Highway%2099%20in%20Fresno%20clog%20traffic&url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-twitter"></div>
+</li>
+<li class="email">
+<a href="mailto:?subject=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&body=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html"></a>
+<div class="glyphicon glyphicon-envelope"></div>
+</li>
+<li class="more" onClick="return true">
+<ul class="share-options">
+<li class="linked-in"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html&title=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+<li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+<li class="pinterest"><a href="http://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html&description=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&media=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2f4labnh%2fpicture135024234%2fALTERNATES%2fLANDSCAPE_1140%2fSF%2520BREV%2520TRAFFIC"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+<li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.fresnobee.com/news/local/article135024239.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+<li class="print"><a href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+<li class="reprints"><a href="http://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+</ul>
+<div class="glyphicon glyphicon-share"></div>
+</li>
+</ul>
+</div>
+<div class="ndn_embed" id="ndn-video-player-1" data-config-distributor-id="90476" data-config-width="100%" data-config-height="9/16w"></div>
+<div class="dateline-storybody">
+<div id="story-target" class="clearfix">
+<div id="content-body-19315197-135024239"
+>
+<p>Due to pothole equipment failure, southbound Highway 99 has been experiencing four miles of traffic since Saturday morning, Caltrans said. </p><p>Victor Taylor of California Highway Patrol in Fresno said the pothole repairs started at 9 a.m. and crews were working from Clinton Avenue to Highway 180. </p><p>He said roads are expected to open up within the hour. He did not know if there will be any pothole repairs in the near future. </p><div class="ng_endnote_contact"><p>Chueyee Yang: <a href="tel:559-441-6447" title="">559-441-6447</a>, <a href="https://twitter.com/chueyee15" target="_blank" title="">@chueyee15</a></p><span class="ng-command" data-value="252"> </span></div>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-19315197-135024239 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-19315197-135024239").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-19315197-135024239").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = false;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-19315197-135024239").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</div>
+</div>
+<div class="ndn_embed" id="ndn-video-player-2" data-config-distributor-id="90476" data-config-width="100%" data-config-height="9/16w"></div>
+<div id="related-gallery"
+class="reorder_story-target_2 reorder">
+</div>
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-5" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="None"
+defaultsize="Large"
+Small = "336x280"
+Medium = "336x280"
+Extra-Small = "336x280"
+Large = "336x280"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_6 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-6" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="c"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_11 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-7" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="e"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_16 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-8" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="f"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+</div>
+<div id="story-related"
+class="story-related element-spacing-large">
+<h1 >
+Related content
+</h1>
+<div id="related-links" >
+</div>
+</div>
+<script type="text/javascript">
+var $storyRelated = $(document.getElementById('story-related'));
+if ($storyRelated.find('article').length === 0) {
+$storyRelated.hide();
+}
+</script>
+<div class="share-tools-wrapper visible-sm visible-xs element-spacing-medium">
+<!--
+Widget ID: Feature Master with title feature master share buttons:
+Referenced feature mi.masterConfig.shareButtons, which was empty. Attempting fall-back value.
+-->
+<ul class="share-icons">
+<li class="facebook">
+<a class="facebook-share" title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://www.fresnobee.com/news/local/article135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-facebook"></div>
+</li>
+<li class="twitter">
+<a title="Share on Twitter" href="https://twitter.com/share?text=Pothole%20repairs%20on%20Highway%2099%20in%20Fresno%20clog%20traffic&url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-twitter"></div>
+</li>
+<li class="email">
+<a href="mailto:?subject=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&body=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html"></a>
+<div class="glyphicon glyphicon-envelope"></div>
+</li>
+<li class="more" onClick="return true">
+<ul class="share-options">
+<li class="linked-in"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html&title=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+<li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+<li class="pinterest"><a href="http://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html&description=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&media=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2f4labnh%2fpicture135024234%2fALTERNATES%2fLANDSCAPE_1140%2fSF%2520BREV%2520TRAFFIC"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+<li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.fresnobee.com/news/local/article135024239.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+<li class="print"><a href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+<li class="reprints"><a href="http://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+</ul>
+<div class="glyphicon glyphicon-share"></div>
+</li>
+</ul>
+</div>
+<div class="more-stories-link">
+<a href="http://www.fresnobee.com/news/local/">
+Local
+</a>
+</div>
+<h2 class='heading'>Suggested for you</h2>
+<div id="exchange-embed-widget-b91cc"></div>
+<script>
+$(document).ready(function(){
+var divElem ="exchange-embed-widget-b91cc"; 
+var aggr = new Aggrego(document.getElementById(divElem), "b91cc176f9c7a683a94f7b0b02645d7c");
+aggr.init();
+});
+</script>
+<div id="commenting-container"
+class="commenting-container
+element-spacing-large">
+<h1 class="heading">
+Comments
+</h1>
+<!--
+Widget ID: Feature Master with title feature master comments:
+Referenced feature mi.masterConfig.comments, which was empty. Attempting fall-back value.
+-->
+<script>
+if($("meta[property='fb:app_id']").length === 1 && $("meta[name='allow-comments']").prop("content") === "true") {
+mi.commenting = new mi.Commenting();
+mi.commenting.setConf( {
+accountName: mi.pageInfo.getConf('marketInfo.domain'),
+fbapp_id: mi.pageInfo.getConf('facebook.app.id'),
+fb_comment_div: {'data-width': '100%'}
+});
+$(document).ready(function() {
+mi.commenting.display();
+});
+} else {
+$(document).ready(function() {
+var disabledText = 'Comments have been disabled for this story.';
+$("#commentingStage").prepend("<p><strong>" + disabledText + "</strong></p>");
+});
+}
+</script>
+<div id="commentingStage"
+>
+</div>
+</div>
+</div>
+<div id="nativoArticlePage"
+>
+</div>
+</div>
+<div class="narrow-rail">
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-9" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="b"
+defaultsize="Large"
+Small = "300x250"
+Medium = "Flex Ad"
+Extra-Small = "None"
+Large = "Flex Ad"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+<div id="video-widget"
+class="headline-list">
+<h1 class="heading link">
+<a href="http://www.fresnobee.com/video/">
+Videos
+</a>
+</h1>
+<section >
+<div class="teaser ">
+<div class="container-134910039" id="container-134910039"> <script type="text/javascript">
+if ( typeof wpsCSS === 'undefined' ) {
+var wpsCSS = document.createElement('link');
+wpsCSS.href = '/wps/build/wps-css/theme-4e769b740a.fresnobee.css';
+wpsCSS.rel = 'stylesheet';
+wpsCSS.type = 'text/css';
+document.getElementsByTagName('head')[ 0 ].appendChild(wpsCSS);
+}
+</script> <div class="wf-wps-side-bar"> <div class="mi-video-sidebar-widget" id="video-detail-134910039-1488069756333"> <div id="video-container-134910039-1488069756333"> <div class="video-media" data-id="134910039" data-index> <div id="player-134910039-1488069756333" class="player" data-id="134910039"> <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/arp0h4-john-cook.jpg/alternates/LANDSCAPE_560/john%20cook.jpg') no-repeat center center; background-size: cover;"> </div> </div> <div class="mi-video-utilty-bar share-icons "> <a class="facebook-share mi-video-utility-item" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook"> <span class="glyphicon glyphicon-facebook"></span> <span class="utility-text">facebook</span> </a> <a class="twitter-share mi-video-utility-item" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter"> <span class="glyphicon glyphicon-twitter"></span> <span class="utility-text">twitter</span> </a> <a class="email-share mi-video-utility-item" href="" title="Share by Email"> <span class="jw-icon jw-icon-email"></span> <span class="utility-text">email</span> </a> <a class="mi-video-share-btn mi-video-utility-item" title="Share"> <span class="jw-icon jw-icon-share"></span> <span class="utility-text">Share</span> </a> </div> <div class="clearfix"></div> <div id="mi-video-overlay-134910039-1488069756333" class="mi-video-custom-overlay-wrap" style="display:none;"> <div class="mi-video-eos-wrap"> <h3 class="mi-video-overlay-title">More Videos</h3> <div class="mi-video-eos"> <div class="mi-overlay-item" data-index="0"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/living/food-drink/bethany-clough/g8s2vu-JRW-RETAIL-THERAPY-1A.jpg/alternates/LANDSCAPE_200/JRW%20RETAIL%20THERAPY%201A.jpg" alt="Natalie Fugere's fun gift idea turns into thriving business, The Painted Press"> <span class="duration">2:11</span> </div> <div class="media-desc"> <h4 class="video-title">Natalie Fugere's fun gift idea turns into thriving business, The Painted Press</h4> </div> <div class="svg-timer-wrap"> <svg class="svg-timer" viewbox="0 0 34 34"> <g> <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle> <text class="svg-timer-text" x="17" y="24"></text> </g> </svg> <a class="svg-timer-pause" href="javascript:void(0)"> <span class="glyphicon glyphicon-pause"></span> Pause </a> </div> </div> <div class="mi-overlay-item" data-index="1"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/sports/spt-columns-blogs/marek-warszawski/ymt6e6-Screen-Shot-2017-02-24-at-6.03.49-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202017-02-24%20at%206.03.49%20PM.png" alt="China Peak's Adaptive Sports Center provides winter fun for those with disabilities"> <span class="duration">2:30</span> </div> <div class="media-desc"> <h4 class="video-title">China Peak's Adaptive Sports Center provides winter fun for those with disabilities</h4> </div> </div> <div class="mi-overlay-item" data-index="2"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/sports/mlb/15qytk-Fresno-State-baseball-retires-jersey-of-Satoshi-Fibber-Hirayama/alternates/LANDSCAPE_200/Fresno%20State%20baseball%20retires%20jersey%20of%20Satoshi%20%27Fibber%27%20Hirayama" alt="Fresno State baseball retires jersey of Satoshi 'Fibber' Hirayama"> <span class="duration">1:05</span> </div> <div class="media-desc"> <h4 class="video-title">Fresno State baseball retires jersey of Satoshi 'Fibber' Hirayama</h4> </div> </div> <div class="mi-overlay-item" data-index="3"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/news/local/fje2f8-clovisabcKEYFRAME.jpg/alternates/LANDSCAPE_200/clovisabcKEYFRAME.jpg" alt="Ride along with Clovis police checking for under-age liquor sales"> <span class="duration">1:55</span> </div> <div class="media-desc"> <h4 class="video-title">Ride along with Clovis police checking for under-age liquor sales</h4> </div> </div> <div class="mi-overlay-item" data-index="4"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.sacbee.com/news/politics-government/capitol-alert/8xbbk7-M1.JPGKF/alternates/LANDSCAPE_200/M1.JPGKF" alt="California Rep. Tom McClintock faces passionate town hall crowd"> <span class="duration">1:39</span> </div> <div class="media-desc"> <h4 class="video-title">California Rep. Tom McClintock faces passionate town hall crowd</h4> </div> </div> <div class="mi-overlay-item" data-index="5"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/news/politics-government/ei40e0-Trump-supporters-give-the-President-a-progress-report/alternates/LANDSCAPE_200/Trump%20supporters%20give%20the%20President%20a%20progress%20report" alt="Trump supporters give the President a progress report"> <span class="duration">3:19</span> </div> <div class="media-desc"> <h4 class="video-title">Trump supporters give the President a progress report</h4> </div> </div> <div class="mi-overlay-item" data-index="6"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/news/nation-world/national/7qupp5-Hollywoods-Greatest-Trick-Image.png/alternates/LANDSCAPE_200/Hollywood%27s%20Greatest%20Trick%20-%20Image.png" alt="Hollywood's Greatest Trick​​"> <span class="duration">24:21</span> </div> <div class="media-desc"> <h4 class="video-title">Hollywood's Greatest Trick​​</h4> </div> </div> <div class="mi-overlay-item" data-index="7"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/sports/high-school/dx0b5z-Redwood-wins-D-II-soccer-title/alternates/LANDSCAPE_200/Redwood%20wins%20D-II%20soccer%20title" alt="Redwood wins D-II soccer title"> <span class="duration">2:34</span> </div> <div class="media-desc"> <h4 class="video-title">Redwood wins D-II soccer title</h4> </div> </div> <div class="mi-overlay-item" data-index="8"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/latest-news/ie5wsa-Tedford/alternates/LANDSCAPE_200/Tedford" alt="Fresno State's 2017 recruiting class introduced by coach Jeff Tedford"> <span class="duration">3:13</span> </div> <div class="media-desc"> <h4 class="video-title">Fresno State's 2017 recruiting class introduced by coach Jeff Tedford</h4> </div> </div> <div class="mi-overlay-item" data-index="9"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.fresnobee.com/news/weather/424h26-Apartment-complex-in-Oakhurst-floods/alternates/LANDSCAPE_200/Apartment%20complex%20in%20Oakhurst%20floods" alt="Apartment complex in Oakhurst floods"> <span class="duration">1:17</span> </div> <div class="media-desc"> <h4 class="video-title">Apartment complex in Oakhurst floods</h4> </div> </div> </div> </div> <div class="mi-video-share-wrap"> <span class="mi-video-close-share jw-icon jw-icon-close"></span> <h3 class="mi-video-overlay-title">Share Video</h3> <ul class="share-icons video"> <li class="embed"> <div class="form-group"> <label>Video link:</label> <input class="mi-share-link" type="text" readonly value=""> <div class="btn btn-primary select-btn">
+Select
+</div> </div> <div class="form-group"> <label>Embed code:</label> <input class="overlay-embed-share" type="text" readonly value=""> <div class="btn btn-primary select-btn">
+Select
+</div> </div> </li> <li class="facebook"> <a class="facebook-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook"> <span class="glyphicon glyphicon-facebook"></span> facebook </a> </li> <li class="twitter"> <a class="twitter-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter"> <span class="glyphicon glyphicon-twitter"></span> twitter </a> </li> <li class="email"> <a class="email-share" href=""> <span class="jw-icon jw-icon-email"></span> email </a> </li> </ul> </div> </div> </div> <div class="video-details"> <time class="published-date timeago hidden">21 hours ago</time> <h2 class="title video-title"> <a href="http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/article134910039.html">Service dog gives local military veteran a new lease on life </a> </h2> </div> </div> <div id="playlist-134910039-1488069756333"> <div class="mi-playlist-sidebar"> <a class="playlist-item" href="#0" data-index="0"> <div class="media posterframe-wrapper"> <img src="http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/arp0h4-john-cook.jpg/alternates/LANDSCAPE_200/john%20cook.jpg" alt="Service dog gives local military veteran a new lease on life "> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">2:26</span> </div> <div class="media-desc"> <time class="published-date hidden">21 hours ago</time> <h4 class="title video-title">Service dog gives local military veteran a new lease on life </h4> </div> </a> <a class="playlist-item" href="#1" data-index="1"> <div class="media posterframe-wrapper"> <img src="http://www.fresnobee.com/news/local/fje2f8-clovisabcKEYFRAME.jpg/alternates/LANDSCAPE_200/clovisabcKEYFRAME.jpg" alt="Ride along with Clovis police checking for under-age liquor sales"> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">1:55</span> </div> <div class="media-desc"> <time class="published-date hidden">9 hours ago</time> <h4 class="title video-title">Ride along with Clovis police checking for under-age liquor sales</h4> </div> </a> <a class="playlist-item" href="#2" data-index="2"> <div class="media posterframe-wrapper"> <img src="http://www.fresnobee.com/news/local/water-and-drought/v7imgk-THE-FALLS-2.mp4/alternates/LANDSCAPE_200/THE%20FALLS%202.mp4" alt="Watch and hear powerfully rushing Willow Creek near Bass Lake"> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">1:18</span> </div> <div class="media-desc"> <time class="published-date hidden">a day ago</time> <h4 class="title video-title">Watch and hear powerfully rushing Willow Creek near Bass Lake</h4> </div> </a> </div> </div> </div> </div> <script type="text/javascript">
+if ( typeof allowAds === 'undefined' ) {
+var allowAds = true;
+}
+if ( typeof wpsConfig === 'undefined' ) {
+var wpsConfig = {
+baseUrl: '/wps/source/scripts/src',
+urlArgs: 'misv=3a04764',
+paths: {
+'fastdom': '../libs/fastdom.min',
+'moment': '../libs/moment.min',
+'jwplayer': ['https://d12j9jiosu7f.cloudfront.net/jwplayer-7.8.7/jwplayer',
+'../libs/jwplayer'],
+'flickity': '../libs/flickity.pkgd.min'
+},
+waitSeconds: 0
+};
+var wpsRequire = requirejs.config(wpsConfig);
+}
+wpsRequire([ 'video' ], function ( video ) {
+return video({"id":"134910039","url":"http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/article134910039.html","asset_type":"videoIngest","title":"Service dog gives local military veteran a new lease on life ","publication":"fresnobee","home":"/web/v1/sections/17543","modified_date":1488053663,"published_date":1487994543,"credit":"The Fresno Bee","dateline":"","thumbnail":"http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/arp0h4-john-cook.jpg/alternates/LANDSCAPE_768/john%20cook.jpg","photographer":"Lewis Griswold","duration":146,"media_id":"crCoeC59","href":"/web/v1/content/134910039","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlewis_griswold%26id%3D134910039%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=lewis_griswold&id=134910039&eid=134910039&pl="}],"byline":"","template_type":"","leadtext":[{"text":"John Cook of Fresno has a service dog that was trained in Woodlake, California at the Assistance Service Dog Educational Center."}],"sources":[{"height":360,"mime_type":"video/mp4","mrid":"binary/2017/2/25/2/1437582013143-p5k4ma/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994539856.mp4","uri":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/1437582013143-p5k4ma/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994539856.mp4","width":640},{"height":720,"mime_type":"video/mp4","mrid":"binary/2017/2/25/2/1437580321678-6bjrso/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994540528.mp4","uri":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/1437580321678-6bjrso/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994540528.mp4","width":1280},{"height":0,"mime_type":"application/x-mpegURL","mrid":"binary/2017/2/25/2/art_134910039/792ec6d9_4562_4db4_a48f_47fc3b098e01.m3u8","uri":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/art_134910039/792ec6d9_4562_4db4_a48f_47fc3b098e01.m3u8","width":0}],"videos":[{"id":"134910039","url":"http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/article134910039.html","duration":"2:26","image":"http://www.fresnobee.com/news/local/news-columns-blogs/lewis-griswold/arp0h4-john-cook.jpg/alternates/LANDSCAPE_768/john%20cook.jpg","title":"Service dog gives local military veteran a new lease on life ","description":"Service dog gives local military veteran a new lease on life <span class=\"title-duration\">2:26</span>","displayDescription":"John Cook of Fresno has a service dog that was trained in Woodlake, California at the Assistance Service Dog Educational Center.","videographer":"Lewis Griswold","credit":"The Fresno Bee","published":1487994543,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/1437582013143-p5k4ma/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994539856.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/1437580321678-6bjrso/792ec6d9-4562-4db4-a48f-47fc3b098e01-1487994540528.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/2/art_134910039/792ec6d9_4562_4db4_a48f_47fc3b098e01.m3u8"}],"mediaid":"crCoeC59","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlewis_griswold%26id%3D134910039%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=lewis_griswold&id=134910039&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlewis_griswold%26id%3D134910039%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134942464","url":"http://www.fresnobee.com/news/local/crime/article134942464.html","duration":"1:55","image":"http://www.fresnobee.com/news/local/fje2f8-clovisabcKEYFRAME.jpg/alternates/LANDSCAPE_768/clovisabcKEYFRAME.jpg","title":"Ride along with Clovis police checking for under-age liquor sales","description":"Ride along with Clovis police checking for under-age liquor sales <span class=\"title-duration\">1:55</span>","displayDescription":"Clovis Police Department stage a minor decoy operation Friday night, Feb. 24, 2017 in Clovis, Calif., to determine if stores would sell alcohol to a minor. Take a ride in the squad car as officers run the operation, which is funded by a California Department of Alcohol Beverage Control grant. Officers visited 45 stores and issued two citations, which carry a fine of at least $250 and/or 24 to 32 hours of community service for a first violation.","videographer":"Eric Paul Zamora","credit":"The Fresno Bee","published":1488036433,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/1437582013143-p5k4ma/DECOYFINAL-1488036428011.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/1437580321678-6bjrso/DECOYFINAL-1488036428429.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/art_134942464/DECOYFINAL.m3u8"}],"mediaid":"3dMkXESm","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D134942464%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=134942464&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D134942464%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134781509","url":"http://www.fresnobee.com/news/local/water-and-drought/article134781509.html","duration":"1:18","image":"http://www.fresnobee.com/news/local/water-and-drought/v7imgk-THE-FALLS-2.mp4/alternates/LANDSCAPE_768/THE%20FALLS%202.mp4","title":"Watch and hear powerfully rushing Willow Creek near Bass Lake","description":"Watch and hear powerfully rushing Willow Creek near Bass Lake <span class=\"title-duration\">1:18</span>","displayDescription":"The creek, which flows most of the year, is bursting now with water from winter rains.","videographer":"John Walker","credit":"The Fresno Bee","published":1487984042,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/20/1437582013143-p5k4ma/THE%20FALLS%202-1487984038145.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/20/1437580321678-6bjrso/THE%20FALLS%202-1487984038740.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/20/art_134781509/THE_FALLS_2.m3u8"}],"mediaid":"wGBvfDYO","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwater_and_drought%26id%3D134781509%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FState&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=water_and_drought&id=134781509&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwater_and_drought%26id%3D134781509%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FState&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}}],"endscreen":[{"id":"134371169","url":"http://www.fresnobee.com/living/food-drink/bethany-clough/article134371169.html","duration":"2:11","image":"http://www.fresnobee.com/living/food-drink/bethany-clough/g8s2vu-JRW-RETAIL-THERAPY-1A.jpg/alternates/LANDSCAPE_768/JRW%20RETAIL%20THERAPY%201A.jpg","title":"Natalie Fugere's fun gift idea turns into thriving business, The Painted Press","description":"Natalie Fugere's fun gift idea turns into thriving business, The Painted Press <span class=\"title-duration\">2:11</span>","displayDescription":"Not able to find holiday gift jewelry dishes for friends, Fresno State student Natalie Fugere turned to her own imagination to create her own, and launched a business, The Painted Press, via Esty. In November of 2015, The Huffington Post found her jewelry dishes, and named them their number one Personalized Holiday Gift for that year. It took off after that. She talks about how the business gained traction and how her Faith dish was inspired to help a man with ALS disease.","videographer":"John Walker","credit":"The Fresno Bee","published":1487812225,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/23/0/1437582013143-p5k4ma/RET%20THERP%20FINAL_1-1487872560814.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/23/0/1437580321678-6bjrso/RET%20THERP%20FINAL_1-1487872561434.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/23/0/art_134371169/RET_THERP_FINAL_1.m3u8"}],"mediaid":"6phzQmWG","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dbethany_clough%26id%3D134371169%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FLifestyle&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=bethany_clough&id=134371169&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dbethany_clough%26id%3D134371169%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FLifestyle&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134898934","url":"http://www.fresnobee.com/sports/spt-columns-blogs/marek-warszawski/article134898934.html","duration":"2:30","image":"http://www.fresnobee.com/sports/spt-columns-blogs/marek-warszawski/ymt6e6-Screen-Shot-2017-02-24-at-6.03.49-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202017-02-24%20at%206.03.49%20PM.png","title":"China Peak's Adaptive Sports Center provides winter fun for those with disabilities","description":"China Peak's Adaptive Sports Center provides winter fun for those with disabilities <span class=\"title-duration\">2:30</span>","displayDescription":"The organization, started by former patrol director Randy Coffman, now has summertime activities available as well. ","videographer":"Craig Kohlruss","credit":"The Fresno Bee","published":1488060812,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/1/1437582013143-p5k4ma/Adaptive%20Sports%20Center-updated_1-1488060808247.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/1/1437580321678-6bjrso/Adaptive%20Sports%20Center-updated_1-1488060809016.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/1/art_134898934/Adaptive_Sports_Center_updated_1.m3u8"}],"mediaid":"3kFGFY48","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmarek_warszawski%26id%3D134898934%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=marek_warszawski&id=134898934&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmarek_warszawski%26id%3D134898934%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"133964909","url":"http://www.fresnobee.com/sports/mlb/article133964909.html","duration":"1:05","image":"http://www.fresnobee.com/sports/mlb/15qytk-Fresno-State-baseball-retires-jersey-of-Satoshi-Fibber-Hirayama/alternates/LANDSCAPE_768/Fresno%20State%20baseball%20retires%20jersey%20of%20Satoshi%20%27Fibber%27%20Hirayama","title":"Fresno State baseball retires jersey of Satoshi 'Fibber' Hirayama","description":"Fresno State baseball retires jersey of Satoshi 'Fibber' Hirayama <span class=\"title-duration\">1:05</span>","displayDescription":"Fresno State baseball honored one of its greatest global ambassadors to the sport on Feb. 20, 2017, retiring the No. 3 jersey worn by Japanese-American catcher Satoshi \"Fibber\" Hirayama.","videographer":"Angel Moreno","credit":"The Fresno Bee","published":1487659807,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/21/6/1437582013143-p5k4ma/8e0f13fb-26cb-4e0c-9d95-9f1c7f9fc093-1487659805522.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/21/6/1437580321678-6bjrso/8e0f13fb-26cb-4e0c-9d95-9f1c7f9fc093-1487659806030.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/21/6/art_133964909/8e0f13fb_26cb_4e0c_9d95_9f1c7f9fc093.m3u8"}],"mediaid":"k5olmLE9","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmlb%26id%3D133964909%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports%2FBaseball%2FPro%2FMLB&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=mlb&id=133964909&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmlb%26id%3D133964909%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports%2FBaseball%2FPro%2FMLB&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134942464","url":"http://www.fresnobee.com/news/local/crime/article134942464.html","duration":"1:55","image":"http://www.fresnobee.com/news/local/fje2f8-clovisabcKEYFRAME.jpg/alternates/LANDSCAPE_768/clovisabcKEYFRAME.jpg","title":"Ride along with Clovis police checking for under-age liquor sales","description":"Ride along with Clovis police checking for under-age liquor sales <span class=\"title-duration\">1:55</span>","displayDescription":"Clovis Police Department stage a minor decoy operation Friday night, Feb. 24, 2017 in Clovis, Calif., to determine if stores would sell alcohol to a minor. Take a ride in the squad car as officers run the operation, which is funded by a California Department of Alcohol Beverage Control grant. Officers visited 45 stores and issued two citations, which carry a fine of at least $250 and/or 24 to 32 hours of community service for a first violation.","videographer":"Eric Paul Zamora","credit":"The Fresno Bee","published":1488036433,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/1437582013143-p5k4ma/DECOYFINAL-1488036428011.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/1437580321678-6bjrso/DECOYFINAL-1488036428429.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/9/art_134942464/DECOYFINAL.m3u8"}],"mediaid":"3dMkXESm","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D134942464%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=134942464&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D134942464%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134189844","url":"http://www.fresnobee.com/news/politics-government/politics-columns-blogs/political-notebook/article134189844.html","duration":"1:39","image":"http://www.sacbee.com/news/politics-government/capitol-alert/8xbbk7-M1.JPGKF/alternates/LANDSCAPE_768/M1.JPGKF","title":"California Rep. Tom McClintock faces passionate town hall crowd","description":"California Rep. Tom McClintock faces passionate town hall crowd <span class=\"title-duration\">1:39</span>","displayDescription":"Republican Congressman Tom McClintock faced a crowd of about 400 at a town hall meeting in Mariposa, Tuesday, Feb. 21, 2017.","videographer":"Angela Hart","credit":"The Sacramento Bee","published":1487743945,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/5/1437582013143-p5k4ma/aa9cfe68-600a-424d-9f3c-0bfae11affaa-1487743942520.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/5/1437580321678-6bjrso/aa9cfe68-600a-424d-9f3c-0bfae11affaa-1487743943294.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/5/art_134189844/aa9cfe68_600a_424d_9f3c_0bfae11affaa.m3u8"}],"mediaid":"5rFqykZd","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dpolitical_notebook%26id%3D134189844%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=political_notebook&id=134189844&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dpolitical_notebook%26id%3D134189844%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FState%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134850634","url":"http://www.fresnobee.com/news/politics-government/article134850634.html","duration":"3:19","image":"http://www.fresnobee.com/news/politics-government/ei40e0-Trump-supporters-give-the-President-a-progress-report/alternates/LANDSCAPE_768/Trump%20supporters%20give%20the%20President%20a%20progress%20report","title":"Trump supporters give the President a progress report","description":"Trump supporters give the President a progress report <span class=\"title-duration\">3:19</span>","displayDescription":"Trump supporters from across the country discuss how the President is doing fulfilling campaign promises, selecting his cabinet, and coming up against hurdles. Hear from a few Americans share their perspective on how things are going so far.","videographer":"Lesley Clark, Bill Douglas, Alex Daugherty, and Anna Douglas","credit":"McClatchy DC","published":1487978748,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/23/1437582013143-p5k4ma/20170222_MCDC_Trump%20supporters-1487978744349.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/23/1437580321678-6bjrso/20170222_MCDC_Trump%20supporters-1487978745211.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/24/23/art_134850634/20170222_MCDC_Trump_supporters.m3u8"}],"mediaid":"yVgkZktd","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dpolitics_government%26id%3D134850634%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=politics_government&id=134850634&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dpolitics_government%26id%3D134850634%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FLocal%2FGovtPolitics&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134277069","url":"http://www.fresnobee.com/entertainment/movies-news-reviews/article134277069.html","duration":"24:21","image":"http://www.fresnobee.com/news/nation-world/national/7qupp5-Hollywoods-Greatest-Trick-Image.png/alternates/LANDSCAPE_768/Hollywood%27s%20Greatest%20Trick%20-%20Image.png","title":"Hollywood's Greatest Trick​​","description":"Hollywood's Greatest Trick​​ <span class=\"title-duration\">24:21</span>","displayDescription":"Visual effects artists are responsible for some of the most iconic moments in movie history. The top 10 highest grossing films of 2016 all contained computer generated imagery. But while Hollywood's profits grow, the visual effects artists struggle for fair pay, representation and recognition beyond the most prestigious award in film - an Oscar.","videographer":"Sohail Al-Jamea and Ali Rizvi","credit":"McClatchy","published":1487793111,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/19/1437582013143-p5k4ma/VFX%20rev%2015-1487793083490.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/19/1437580321678-6bjrso/VFX%20rev%2015-1487793088609.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/22/19/art_134277069/VFX_rev_15.m3u8"}],"mediaid":"QRMPfvvB","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmovie_news_reviews%26id%3D134277069%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FEntertainment%2FMovies&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=movie_news_reviews&id=134277069&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dmovie_news_reviews%26id%3D134277069%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FEntertainment%2FMovies&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"134939024","url":"http://www.fresnobee.com/sports/high-school/article134939024.html","duration":"2:34","image":"http://www.fresnobee.com/sports/high-school/dx0b5z-Redwood-wins-D-II-soccer-title/alternates/LANDSCAPE_768/Redwood%20wins%20D-II%20soccer%20title","title":"Redwood wins D-II soccer title","description":"Redwood wins D-II soccer title <span class=\"title-duration\">2:34</span>","displayDescription":"Senior Brooke Crisp scores the only goal and freshman goalkeeper Savannah Travis posts the shutout as second-seeded Redwood tops No. 5 Sanger 1-0 in the Central Section Division II girls soccer final Friday at Mineral King Bowl in Visalia.","videographer":"","credit":"ngiannandrea@fresnobee.com","published":1488006653,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/7/1437582013143-p5k4ma/159f2338-7ddf-4008-84ab-b5a62c145c22-1488006650454.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/7/1437580321678-6bjrso/159f2338-7ddf-4008-84ab-b5a62c145c22-1488006651021.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/25/7/art_134939024/159f2338_7ddf_4008_84ab_b5a62c145c22.m3u8"}],"mediaid":"u05EJ2FC","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhigh_school%26id%3D134939024%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports%2FHighSchool%2FHighSchool&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=high_school&id=134939024&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhigh_school%26id%3D134939024%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FSports%2FHighSchool%2FHighSchool&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"130254289","url":"http://www.fresnobee.com/latest-news/article130254289.html","duration":"3:13","image":"http://www.fresnobee.com/latest-news/ie5wsa-Tedford/alternates/LANDSCAPE_768/Tedford","title":"Fresno State's 2017 recruiting class introduced by coach Jeff Tedford","description":"Fresno State's 2017 recruiting class introduced by coach Jeff Tedford <span class=\"title-duration\">3:13</span>","displayDescription":"Fresno State coach Jeff Tedford introduced his first recruiting class, signing 18 players Wednesday on National Signing Day to go along with the five junior college recruits signed in December. Among Tedford's highly regarded recruits was running back Ronnie Rivers, the son of former Fresno State star Ron Rivers, who once held the school's career rushing record. Tedford and his staff, which assembled the signing class in two months, even brought aboard three players from Canada.\n-Bryant-Jon Anteola, The Fresno Bee","videographer":"Bryant-Jon Anteola","credit":"The Fresno Bee","published":1486010374,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/2/4/1437582013143-p5k4ma/Fresno%20State%202017%20recruiting%20class%20introduced%20by%20coach%20Jeff%20Tedford-1486010344490.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/2/4/1437580321678-6bjrso/Fresno%20State%202017%20recruiting%20class%20introduced%20by%20coach%20Jeff%20Tedford-1486010368681.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/2/4/art_130254289/Fresno_State_2017_recruiting_class_introduced_by_coach_Jeff_Tedford.m3u8"}],"mediaid":"z3t5qhwF","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dece_incoming%26id%3D130254289%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=ece_incoming&id=130254289&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dece_incoming%26id%3D130254289%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"131364374","url":"http://www.fresnobee.com/news/weather/article131364374.html","duration":"1:17","image":"http://www.fresnobee.com/news/weather/424h26-Apartment-complex-in-Oakhurst-floods/alternates/LANDSCAPE_768/Apartment%20complex%20in%20Oakhurst%20floods","title":"Apartment complex in Oakhurst floods","description":"Apartment complex in Oakhurst floods <span class=\"title-duration\">1:17</span>","displayDescription":"An apartment complex on River Park Road in Oakhurst, located on a portion of Fresno River known as China Creek, was flooded out on its lower level on Tuesday, Feb. 7.","videographer":"Mark Evan","credit":"Sierra Star","published":1486521103,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/8/2/1437582013143-p5k4ma/VIDEO0043-1486521099934.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/8/2/1437580321678-6bjrso/VIDEO0043-1486521101336.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/2/8/2/art_131364374/VIDEO0043.m3u8"}],"mediaid":"NDKl8ux8","ads":[{"publication":"fresnobee","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D131364374%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=weather&id=131364374&eid=134910039&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D131364374%26eid%3D134910039%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FFRS.site_fresnobee%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}}],"pageType":"detail-page"}, {"wpsInclude":true,"wpsArea":"side_bar","autoPlay":false,"pubName":"fresnobee","embed":false,"cacheBust":"3a04764","iterator":1,"uniqueID":"134910039-1488069756333","paywallEnabled":false,"domainName":"www.fresnobee.com","baseTemplate":"video"});
+});
+</script> </div>
+</div>
+</section>
+<div class="clearfix footer element_spacing_large">
+<p class="readmore">
+<a href="http://www.fresnobee.com/video/">
+View more video
+</a>
+</p>
+</div>
+</div>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-10" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="c"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div id="market-widget-1"
+class="element-spacing-medium">
+</div>
+<div class="element-spacing-medium">
+<!--
+Widget ID: Feature Master with title feature master more stories:
+Referenced feature mi.masterConfig.moreStories, which was empty. Attempting fall-back value.
+-->
+<section id="more-stories-widget"
+class="headline-list element_spacing_large">
+<h1 class="heading link">
+<a href="http://www.fresnobee.com/news/local/">
+Local
+</a>
+</h1>
+<article class="local media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.fresnobee.com/news/local/article134862174.html#wgt=trending">
+Fresno State winemaster Ken Fugelsang trained hundreds of winemakers during his long career
+</a>
+</h2>
+</div>
+</article>
+<article class="pot_in_california media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.fresnobee.com/news/local/pot-in-california/article134852074.html#wgt=trending">
+Dispensary seeks to enter recreational pot market, but county says no
+</a>
+</h2>
+</div>
+</article>
+<article class="local media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.fresnobee.com/news/local/article134875704.html#wgt=trending">
+Fulton Mall fountain and benches moved for street construction
+</a>
+</h2>
+</div>
+</article>
+<article class="local media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.fresnobee.com/news/local/article135024239.html#wgt=trending">
+Pothole repairs on Highway 99 in Fresno clog traffic
+</a>
+</h2>
+</div>
+</article>
+<article class="obituaries media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.fresnobee.com/news/local/obituaries/article134856289.html#wgt=trending">
+Obituaries for Sunday, Feb. 26
+</a>
+</h2>
+</div>
+</article>
+</section>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-11" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="e"
+defaultsize="Large"
+Small = "300x250"
+Medium = "Flex Ad"
+Extra-Small = "None"
+Large = "Flex Ad"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+<section class="element_spacing_large ndn">
+<script async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<h1 class="heading">Editor's Choice Videos</h1>
+<div class="center-block ndn_embed text-center" data-config-widget-id="19823" data-config-type="VideoLauncher/Slider300x250" data-config-tracking-group="90476"></div>
+<script async type="text/javascript">var _informq = _informq || []; _informq.push(['embed']);</script>
+</section>
+</div>
+<div >
+</div>
+<!--
+Widget ID: Feature Master with title feature master extra ads story:
+Referenced feature mi.masterConfig.extraAdsStory, which was empty. Attempting fall-back value.
+-->
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-12" adtype="default" data-ad-policy="onPageLoad" atf="n"
+oom="y"
+pkg="None"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-13" adtype="default" data-ad-policy="onPageLoad" atf="n"
+oom="y"
+pkg="None"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="135024239"
+></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*
+look for elements with classes in the format of
+reorder_<id of target container element>_<position>
+e.g. reorder_story-target_3 would be moved after
+the 3rd child element of #story-target.
+If there aren't enough child elements,
+(e.g., targeting the 7th element of a 4-paragraph story)
+jQuery won't move it.
+*/
+var $document = $document || $(document);
+var reorderRegEx = /\breorder_([a-z0-9\-]+)_(\d+)/;
+var reorderFunc = function ( index, element ) {
+var classes = element.className;
+var parts = reorderRegEx.exec(classes);
+$(document.getElementById(parts[1])).find('>div>:nth-child(' + parts[2] + ')').after(element);
+};
+$('.reorder').each(reorderFunc);
+$document.ready(function () {
+// And now actually show the related content, if we should.
+// Except this actually hides it if we should. ¯\_(ツ)_/¯
+if ( $("#related-gallery").children().length == 0 ) {
+$("#related-gallery").hide();
+} });
+</script>
+<script type="text/javascript">
+var $window = $window || $(window);
+var $document = $document || $(document);
+var isSticky = false;
+$document.ready(function() {
+var $shareTools = $('.share-tools-wrapper');
+var $commentingContainer = $(document.getElementById("commenting-container"));
+var $storyBody = $(document.getElementById("story-body-items"));
+var stickyTools = function () {
+var scrollTop = $window.scrollTop(),
+storyBodyTop = $storyBody.offset().top - 50,
+commentingTop = $commentingContainer.offset().top;
+/* Check if user scrolls to the share tools but grab it 50px early
+* to accommodate the top: 50px CSS once sticky'd (this eliminates
+* the slight jump in the beginning).
+*/
+if ( isSticky === false && scrollTop > storyBodyTop && scrollTop < commentingTop ) {
+isSticky = true;
+return $shareTools.toggleClass('sticky-tools');
+}
+if ( isSticky === true && ( scrollTop >= commentingTop || scrollTop < storyBodyTop ) ) {
+isSticky = false;
+return $shareTools.toggleClass('sticky-tools'); }
+};
+stickyTools();
+$window.on("scroll", stickyTools);
+//Story Numberlines
+var rearrangeHighline = function() {
+var $this = $(this);
+var $leadIn = $this.find('.ng_number_leadin').detach();
+$this.wrapInner('<span></span>');
+$this.prepend($leadIn);
+};
+$('.highline-number').find('p').each(rearrangeHighline);
+});
+</script>
+</section>
+<div class="container " >
+<div class="ad ad-sense">
+<div>
+<div class="ad-widget" id="div-gpt-ad-14" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="m"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "300x250"
+Large = "300x250"
+articleId="135024239"
+></div>
+</div>
+</div>
+</div>
+<footer class=" " >
+<div class="container">
+<div class="ad">
+<div>
+<div class="ad-widget" id="div-gpt-ad-15" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="None"
+defaultsize="Large"
+Small = "728x90"
+Medium = "728x90"
+Extra-Small = "300x250"
+Large = "728x90"
+articleId="135024239"
+></div>
+</div>
+</div>
+</div>
+<div id="footer"
+>
+<header id="footer-logo"
+>
+<div class="container text-center">
+<a href="http://www.fresnobee.com/" target="_top"><img src="http://www.fresnobee.com/static/images/fresnobee/logo-sm.png" alt="The Fresno Bee | FresnoBee.com" class="img-responsive"></a>
+</div>
+</header>
+<div class="container hidden-xs">
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="footer-columns"
+>
+<div class="row " id="footer-menu-columns">
+<div class="col-sm-3 footer-column border-right border-xs-remove-right">
+<h2 class="heading">
+<a href="http://#collapseOne">
+Subscriptions
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="https://secure.fresnobee.com/subscribe/subscribe.cgi?promocode=main&ordertype=HYBPRINT/#navlink=mi_footer">
+Digital Subscriptions
+</a>
+</li>
+<li>
+<a href="https://webport05.voiceport.net/fresnob/IFrameGUI/index.html?tenant=fresnob#navlink=stayconnected">
+Home Delivery
+</a>
+</li>
+<li>
+<a href="/customer-service/e-edition/#navlink=mi_footer">
+e-Edition
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column border-lg-right">
+<h2 class="heading">
+<a href="http://#collapseTwo">
+Site Information
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Customer Service
+</a>
+</li>
+<li>
+<a href="/customer-service/about-us/#navlink=mi_footer">
+About Us
+</a>
+</li>
+<li>
+<a href="/customer-service/contact-us/#navlink=mi_footer">
+Contact Us
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column border-right border-xs-remove-right">
+<h2 class="heading">
+<a href="http://#collapseThree">
+Social, Mobile & More
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="https://www.facebook.com/fresnobee">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://twitter.com/FresnoBee">
+Twitter
+</a>
+</li>
+<li>
+<a href="/mobile/#navlink=mi_footer">
+Mobile Options
+</a>
+</li>
+<li>
+<a href="http://2save.mobi/go/site/offer/signup.jsp?code=86">
+Mobile Alerts
+</a>
+</li>
+<li>
+<a href="/customer-service/newsletter-signup/#navlink=mi_footer">
+Newsletters
+</a>
+</li>
+<li>
+<a href="/customer-service/rss/#navlink=mi_footer">
+RSS
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column">
+<h2 class="heading">
+<a href="http://#collapseFour">
+Advertising
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="/advertise/#navlink=mi_footer">
+Advertising with the Bee
+</a>
+</li>
+<li>
+<a href="http://fresnobee.adperfect.com/">
+Place Classified Ads
+</a>
+</li>
+<li>
+<a href="http://memberservices.mcclatchyinteractive.com/ics/support/default.asp?deptID=4605">
+Classified Ad Help
+</a>
+</li>
+<li>
+<a href="http://fresnobee.dealsaver.com/#navlink=mi_footer">
+Local Deals
+</a>
+</li>
+<li>
+<a href="http://findnsave.fresnobee.com/#navlink=mi_footer">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row " id="footer-legal">
+<ul class=" footer-menu-legal">
+<li>
+<a href="/customer-service/copyright/#navlink=mi_footer">
+Copyright
+</a>
+</li>
+<li>
+<a href="/customer-service/privacy-policy/#navlink=mi_footer">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/customer-service/terms-of-service/#navlink=mi_footer">
+Terms of Service
+</a>
+</li>
+</ul>
+<script>
+jQuery('#footer #footer-columns .heading > a').each(function(){ $(this).attr('href',$(this).attr('href').split('//')[1]);})
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="accordion"
+class="visible-xs panel-group">
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseOne">
+Subscriptions
+</a>
+</h2>
+</div>
+<div id="collapseOne"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="https://secure.fresnobee.com/subscribe/subscribe.cgi?promocode=main&ordertype=HYBPRINT/#navlink=mi_footer">
+Digital Subscriptions
+</a>
+</li>
+<li>
+<a href="https://webport05.voiceport.net/fresnob/IFrameGUI/index.html?tenant=fresnob#navlink=stayconnected">
+Home Delivery
+</a>
+</li>
+<li>
+<a href="/customer-service/e-edition/#navlink=mi_footer">
+e-Edition
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseTwo">
+Site Information
+</a>
+</h2>
+</div>
+<div id="collapseTwo"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Customer Service
+</a>
+</li>
+<li>
+<a href="/customer-service/about-us/#navlink=mi_footer">
+About Us
+</a>
+</li>
+<li>
+<a href="/customer-service/contact-us/#navlink=mi_footer">
+Contact Us
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseThree">
+Social, Mobile & More
+</a>
+</h2>
+</div>
+<div id="collapseThree"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="https://www.facebook.com/fresnobee">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://twitter.com/FresnoBee">
+Twitter
+</a>
+</li>
+<li>
+<a href="/mobile/#navlink=mi_footer">
+Mobile Options
+</a>
+</li>
+<li>
+<a href="http://2save.mobi/go/site/offer/signup.jsp?code=86">
+Mobile Alerts
+</a>
+</li>
+<li>
+<a href="/customer-service/newsletter-signup/#navlink=mi_footer">
+Newsletters
+</a>
+</li>
+<li>
+<a href="/customer-service/rss/#navlink=mi_footer">
+RSS
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseFour">
+Advertising
+</a>
+</h2>
+</div>
+<div id="collapseFour"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="/advertise/#navlink=mi_footer">
+Advertising with the Bee
+</a>
+</li>
+<li>
+<a href="http://fresnobee.adperfect.com/">
+Place Classified Ads
+</a>
+</li>
+<li>
+<a href="http://memberservices.mcclatchyinteractive.com/ics/support/default.asp?deptID=4605">
+Classified Ad Help
+</a>
+</li>
+<li>
+<a href="http://fresnobee.dealsaver.com/#navlink=mi_footer">
+Local Deals
+</a>
+</li>
+<li>
+<a href="http://findnsave.fresnobee.com/#navlink=mi_footer">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseFive">
+More
+</a>
+</h2>
+</div>
+<div id="collapseFive"
+class="panel-collapse collapse">
+<div class="panel-body">
+<script>
+jQuery('#footer #accordion .heading > a').attr({'data-toggle':'collapse','data-parent':'#accordion'}).each(function(){ $(this).attr('href',$(this).attr('href').split('//')[1]);})
+</script>
+<ul class=" footer-menu-legal">
+<li>
+<a href="/customer-service/copyright/#navlink=mi_footer">
+Copyright
+</a>
+</li>
+<li>
+<a href="/customer-service/privacy-policy/#navlink=mi_footer">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/customer-service/terms-of-service/#navlink=mi_footer">
+Terms of Service
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 968074018;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-16" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="a"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x75"
+Large = "None"
+articleId="135024239"
+></div>
+</div>
+</div>
+<div id="floorboard"
+class="hidden-xs">
+<div>
+<div id="floorboard_outer">
+<div id="floorTagWrapper" style="display:none;">
+<div class="ad-widget" id="div-gpt-ad-17" adtype="floorboard" atf="y" pkg="a"
+defaultsize="Large" data-ad-policy="onPageLoad"
+Small='285x70'
+Medium='285x70'
+Extra-Small='None'
+Large='285x70'
+articleId='135024239'
+></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- Render Footer from Escenic or WPS based on switch-->
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.script.location":"http://static.mcclatchyinteractive.com/escenic/jwplayer-7.1.4/jwplayer.js","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","videoPlayer":"jwplayer","media.jwplayer.options.primary":"html5","media.jwplayer.ga.enabled":"true ","media.jwplayer.hls.enabled":"true","media.jwplayer.key":"tTakaWDwaA/5t6sLfLhYBB4EfEa1ETrJDYnTPw=="};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "http://www.fresnobee.com/";
+/* Client-side device detection */
+var WFClientTypeDef = {"extraSmall":"(max-width: 767px)","medium":"(min-width: 992px) and (max-width: 1199px)","large":"(min-width: 1200px)","small":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript"
+src="http://www.fresnobee.com/static/js/wps-wf-site-1.0.100-98b9c26-min.js"></script>
+<script type="text/javascript" >
+mi_Ads.env.init();
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=17504&contextPath=6990-17477-17504-&pubId=12&cat=&meta=read-story&objId=135024239&type=article&title=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&amp;ctxId=17504&amp;contextPath=6990-17477-17504-&amp;pubId=12&amp;cat=&amp;meta=read-story&amp;objId=135024239&amp;type=article&amp;title=Pothole+repairs+on+Highway+99+in+Fresno+clog+traffic&amp;url=http%3a%2f%2fwww.fresnobee.com%2fnews%2flocal%2farticle135024239.html" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script>
+var trackerConfig = null;
+if (typeof {} != 'object') {
+trackerConfig = '{}';
+trackerSend = 'send';
+}
+else {
+trackerConfig = {};
+if (!trackerConfig.hasOwnProperty('name')) {
+trackerConfig.name = 'wf';
+}
+trackerSend = trackerConfig.name + '.send';
+}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3858463-13', trackerConfig);
+ga(trackerSend, 'pageview');
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style");
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+);
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript">
+mi.pageInfo.setConf("chartbeat.uid", 62447);
+</script>
+<div id="mistatstag" style="display:none;">
+<script type="text/javascript" src="http://media.fresnobee.com/mistats/products/escenic_s_code.js"></script>
+<script type="text/javascript" src="http://media.fresnobee.com/mistats/products/escenic.js"></script>
+<script type="text/javascript" src="http://media.fresnobee.com/mistats/finalizestats.js"></script>
+</div>
+<!-- Lotame Tracking Tag -->
+<script src="http://tags.crwdcntrl.net/c/7452/cc.js?ns=_cc7452" id="LOTCC_7452"></script>
+<script>_cc7452.bcp();</script>
+</body>
+</html>

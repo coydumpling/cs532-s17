@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.syracuse.com/crunch/index.ssf/2017/02/tampa_bay_lightning_trades_syracuse_crunch_forward_to_arizona.html?utm_campaign=Contact+Quiboat+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=quiboat" id="id_url" />
+	    <input type="hidden" name="urlHash" value="Nb73KjP7" id="id_urlHash" />
+	    <input type="hidden" name="username" value="3908001:0" id="id_username" />
+	    <input type="hidden" name="country" value="US" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/Nb73KjP7?type=track_iframe&amp;utm_campaign=syracuse.com+sports&amp;utm_medium=116698197%40BayLightningPro&amp;utm_source=syracuse.com&amp;utm_content=NHL+Teams"></iframe>
+</body>
+</html>

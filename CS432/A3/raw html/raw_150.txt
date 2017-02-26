@@ -1,0 +1,1291 @@
+
+
+<!doctype html>
+<html id="ctl00_html" lang="en">
+<head><script>window.client_hostname = "gopurpleaces.com";window.server_name = "767557-APP49";window.client_division = "DI";window.targetting_criteria = {"page_template":"story","sport_name":"baseball","sport_name_custom":"baseball","site":"evansville","content_id":"story-13749","sect":"mbasebl"};window.client_shortname = "evansville";window.dfp_network_code = "";window.img_dfp_unit_name = "";</script><link type="image/png" rel="apple-touch-icon" href="/images/logos/site/site.png"><link type="text/css" rel="Stylesheet" title="Core_CSS" href="//s3.amazonaws.com/assets.sidearmsports.com/common/css/default/5/core_compressed.css"><link type="application/rss+xml" rel="alternate" title="RSS Feed" href="/rss.aspx?path=baseball"><link type="text/css" rel="stylesheet" href="/less/story-templates.less"><link rel="image_src" href="http://gopurpleaces.com/images/2016/5/7/DSC03941.JPG"><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="/site/site.less?0.3561845"><link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.aspx">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="http://fonts.sidearmsports.com/verb/verb_all/stylesheet.css" type="text/css"><link rel="stylesheet" href="http://fonts.sidearmsports.com/sidearm/sidearm_font.css" type="text/css"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:creator" content="@UEAthleticsBASE"><meta property="twitter:description" content="HATTIESBURG, Miss. – Another strong start for the Southern Miss baseball team came back to haunt the University of Evansville on Saturday afternoon as the Golden Eagles piled up six runs over the course of the opening four innings to down the Aces 9-2 at Pete Taylor Park."><meta property="twitter:image" content="http://gopurpleaces.com/images/2016/5/7/DSC03941.JPG"><meta property="og:image" content="http://gopurpleaces.com/images/2016/5/7/DSC03941.JPG"><meta property="og:image:width" content="745"><meta property="og:image:height" content="447"><meta property="og:description" content="HATTIESBURG, Miss. – Another strong start for the Southern Miss baseball team came back to haunt the University of Evansville on Saturday afternoon as the Golden Eagles piled up six runs over the course of the opening four innings to down the Aces 9-2 at Pete Taylor Park."><meta property="og:title" content="Baseball drops 9-2 decision to Southern Miss"><meta property="og:type" content="sports_team"><meta property="og:url" content="http://gopurpleaces.com/news/2017/2/25/baseball-drops-9-2-decision-to-southern-miss.aspx"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Baseball drops 9-2 decision to Southern Miss"><meta name="twitter:description" content="HATTIESBURG, Miss. – Another strong start for the Southern Miss baseball team came back to haunt the University of Evansville on Saturday afternoon as the Golden Eagles piled up six runs over the course of the opening four innings to down the Aces 9-2 at Pete Taylor Park."><meta property="og:site_name" content="www.gopurpleaces.com"><title>
+	University of Evansville - Baseball drops 9-2 decision to Southern Miss
+</title></head>
+<!--[if IE 8 ]><body class="ie8"> <![endif]--><body>
+
+	<div class="skip"><a href="#content">Skip Navigation Links</a></div>
+	
+	<form name="aspnetForm" method="post" action="/news/2017/2/25/baseball-drops-9-2-decision-to-southern-miss.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM4MjcwMDA0MWQYEwUnY3RsMDAkY3RsMDYkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDA2JHJwdEFkcyRjdGwwMSRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMyRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMTEkcnB0QWRzJGN0bDAxJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDIyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMDckcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFNmN0bDAwJGNwbGhNYWluQ29udGVudCRjdGwwMCRjdGwwMCRtZWRpYV9jb250cm9sJG1vVmlldw8PZAIBZAUnY3RsMDAkY3RsMDgkcnB0QWRzJGN0bDAxJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDA4JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwwNyRycHRBZHMkY3RsMDEkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMDkkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDEzJHJwdEFkcyRjdGwwMSRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMCRycHRBZHMkY3RsMDEkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMjEkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDA5JHJwdEFkcyRjdGwwMSRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMiRycHRBZHMkY3RsMDEkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMTIkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDEwJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkvFv0i3ajX6U/o3zg+6sStPOpFnc=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ydM9JCWOLCzkjBQamkmN7Cgpl_84jnpPDm1bB75NmTaWKUCzEt-_JHN6OHpL9exsfDga9eR9HsNdqT-7_Yfk5ZC4cKU1&amp;t=635589219467565191" type="text/javascript"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+<script src="//s3.amazonaws.com/assets.sidearmsports.com/common/js/default/14/master_compressed_v5.js" type="text/javascript"></script>
+<script src="http://assets.sidearmsports.com/common/js/msajax.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B37EEB7D">
+</div>
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+		
+		<div id="main_header">
+			<h1 class="hide">University of Evansville</h1>
+			<div class="row">	
+				<div class="twelve columns">
+                    <div class="header_official"></div>
+                    <a href="/index.aspx">
+                        <div class="header_logo"></div>
+                    </a>
+                    <div class="main_navigation">
+                        <div class="nav_left">
+                            
+
+<ul class='accessible_nav' role='menubar'><li class="sports" role='menuitem'><a href='#'>Sports</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Men's Sports</span></li><li><a href='/index.aspx?path=baseball&'>Baseball</a><a aria-label='Baseball Schedule' href="/schedule.aspx?path=baseball" class="srn srn-schedule">Schedule</a><a aria-label='Baseball Roster' href="/roster.aspx?path=baseball" class="srn srn-roster">Roster</a><a aria-label='Baseball News' href="/archives.aspx?path=baseball" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Baseball Twitter' href="//twitter.com/UEAthleticsBASE" class="social twitter">Twitter</a><a target='_blank' aria-label='Baseball Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mbball&'>Basketball</a><a aria-label='Mens Basketball Schedule' href="/schedule.aspx?path=mbball" class="srn srn-schedule">Schedule</a><a aria-label='Mens Basketball Roster' href="/roster.aspx?path=mbball" class="srn srn-roster">Roster</a><a aria-label='Mens Basketball News' href="/archives.aspx?path=mbball" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Basketball Twitter' href="//twitter.com/UEAthletics_MBB" class="social twitter">Twitter</a><a target='_blank' aria-label='Mens Basketball Instagram' href="//instagram.com/acesmensbball" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mcross&'>Cross Country</a><a aria-label='Mens Cross Country Schedule' href="/schedule.aspx?path=mcross" class="srn srn-schedule">Schedule</a><a aria-label='Mens Cross Country Roster' href="/roster.aspx?path=mcross" class="srn srn-roster">Roster</a><a aria-label='Mens Cross Country News' href="/archives.aspx?path=mcross" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Cross Country Twitter' href="//twitter.com/UEAthleticsXC" class="social twitter">Twitter</a><a target='_blank' aria-label='Mens Cross Country Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mgolf&'>Golf</a><a aria-label='Mens Golf Schedule' href="/schedule.aspx?path=mgolf" class="srn srn-schedule">Schedule</a><a aria-label='Mens Golf Roster' href="/roster.aspx?path=mgolf" class="srn srn-roster">Roster</a><a aria-label='Mens Golf News' href="/archives.aspx?path=mgolf" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Golf Twitter' href="//twitter.com/UEAthletics" class="social twitter">Twitter</a><a target='_blank' aria-label='Mens Golf Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=msoc&'>Soccer</a><a aria-label='Mens Soccer Schedule' href="/schedule.aspx?path=msoc" class="srn srn-schedule">Schedule</a><a aria-label='Mens Soccer Roster' href="/roster.aspx?path=msoc" class="srn srn-roster">Roster</a><a aria-label='Mens Soccer News' href="/archives.aspx?path=msoc" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Soccer Twitter' href="//twitter.com/UEAthleticsMSOC" class="social twitter">Twitter</a><a target='_blank' aria-label='Mens Soccer Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mswim&'>Swimming and Diving</a><a aria-label='Mens Swimming/Diving Schedule' href="/schedule.aspx?path=mswim" class="srn srn-schedule">Schedule</a><a aria-label='Mens Swimming/Diving Roster' href="/roster.aspx?path=mswim" class="srn srn-roster">Roster</a><a aria-label='Mens Swimming/Diving News' href="/archives.aspx?path=mswim" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Swimming/Diving Twitter' href="//twitter.com/UEAthleticsSWIM" class="social twitter">Twitter</a><a target='_blank' aria-label='Mens Swimming/Diving Instagram' href="//instagram.com/ueswimdive16" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mtf&'>Track and Field</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=mtf" class="srn srn-schedule">Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=mtf" class="srn srn-roster">Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=mtf" class="srn srn-news">News</a><a class="social facebook"></a><a class="social twitter"></a><a class="social instagram"></a></li></ul><ul><li class='separator'><span>Women's Sports</span></li><li><a href='/index.aspx?path=wbball&'>Basketball</a><a aria-label='Womens Basketball Schedule' href="/schedule.aspx?path=wbball" class="srn srn-schedule">Schedule</a><a aria-label='Womens Basketball Roster' href="/roster.aspx?path=wbball" class="srn srn-roster">Roster</a><a aria-label='Womens Basketball News' href="/archives.aspx?path=wbball" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Basketball Twitter' href="//twitter.com/UEAthletics_WBB" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Basketball Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=wcross&'>Cross Country</a><a aria-label='Womens Cross Country Schedule' href="/schedule.aspx?path=wcross" class="srn srn-schedule">Schedule</a><a aria-label='Womens Cross Country Roster' href="/roster.aspx?path=wcross" class="srn srn-roster">Roster</a><a aria-label='Womens Cross Country News' href="/archives.aspx?path=wcross" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Cross Country Twitter' href="//twitter.com/UEAthleticsXC" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Cross Country Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=wgolf&'>Golf</a><a aria-label='Womens Golf Schedule' href="/schedule.aspx?path=wgolf" class="srn srn-schedule">Schedule</a><a aria-label='Womens Golf Roster' href="/roster.aspx?path=wgolf" class="srn srn-roster">Roster</a><a aria-label='Womens Golf News' href="/archives.aspx?path=wgolf" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Golf Twitter' href="//twitter.com/LadyAcesGolf" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Golf Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=wsoc&'>Soccer</a><a aria-label='Womens Soccer Schedule' href="/schedule.aspx?path=wsoc" class="srn srn-schedule">Schedule</a><a aria-label='Womens Soccer Roster' href="/roster.aspx?path=wsoc" class="srn srn-roster">Roster</a><a aria-label='Womens Soccer News' href="/archives.aspx?path=wsoc" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Soccer Twitter' href="//twitter.com/UEAthleticsWSOC" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Soccer Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=softball&'>Softball</a><a aria-label='Softball Schedule' href="/schedule.aspx?path=softball" class="srn srn-schedule">Schedule</a><a aria-label='Softball Roster' href="/roster.aspx?path=softball" class="srn srn-roster">Roster</a><a aria-label='Softball News' href="/archives.aspx?path=softball" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Softball Twitter' href="//twitter.com/UEAthletics_SB" class="social twitter">Twitter</a><a target='_blank' aria-label='Softball Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=wswim&'>Swimming and Diving</a><a aria-label='Womens Swimming/Diving Schedule' href="/schedule.aspx?path=wswim" class="srn srn-schedule">Schedule</a><a aria-label='Womens Swimming/Diving Roster' href="/roster.aspx?path=wswim" class="srn srn-roster">Roster</a><a aria-label='Womens Swimming/Diving News' href="/archives.aspx?path=wswim" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Swimming/Diving Twitter' href="//twitter.com/UEAthleticsSWIM" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Swimming/Diving Instagram' href="//instagram.com/ueswimdive16" class="social instagram">Instagram</a></li></ul><ul><li><a href='/index.aspx?path=wten&'>Tennis</a><a aria-label='Womens Tennis Schedule' href="/schedule.aspx?path=wten" class="srn srn-schedule">Schedule</a><a aria-label='Womens Tennis Roster' href="/roster.aspx?path=wten" class="srn srn-roster">Roster</a><a aria-label='Womens Tennis News' href="/archives.aspx?path=wten" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Tennis Twitter' href="//twitter.com/UEAthleticsWTEN" class="social twitter">Twitter</a><a target='_blank' aria-label='Womens Tennis Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=vball&'>Volleyball</a><a aria-label='Volleyball Schedule' href="/schedule.aspx?path=vball" class="srn srn-schedule">Schedule</a><a aria-label='Volleyball Roster' href="/roster.aspx?path=vball" class="srn srn-roster">Roster</a><a aria-label='Volleyball News' href="/archives.aspx?path=vball" class="srn srn-news">News</a><a class="social facebook"></a><a target='_blank' aria-label='Volleyball Twitter' href="//twitter.com/UEAthletics_VB" class="social twitter">Twitter</a><a target='_blank' aria-label='Volleyball Instagram' href="//instagram.com/ueathletics" class="social instagram">Instagram</a></li><li><a href='/index.aspx?path=mtf&'>Track and Field</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=mtf" class="srn srn-schedule">Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=mtf" class="srn srn-roster">Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=mtf" class="srn srn-news">News</a><a class="social facebook"></a><a class="social twitter"></a><a class="social instagram"></a></li></ul></div></li><li role='menuitem'><a href='#'>Tickets</a><div role='menu' aria-hidden='true'><ul><li><a href='/sports/2007/10/24/GEN_1024075716.aspx'>General Ticket Information</a></li><li><a href='/sports/2015/6/12/MBB_0612153403.aspx'>2016-17 MBB Ticket Information</a></li></ul><ul><li><a href='/sports/2015/7/6/GEN_0706150030.aspx'>All-Sport Pass</a></li><li><a href='/sports/2015/7/6/GEN_0706153753.aspx'>Flexible Ticket Wristbands</a></li></ul><ul><li><a href='/sports/2011/6/29/GEN_0629111922.aspx'>Junior Purple Pack</a></li></ul></div></li><li role='menuitem'><a href='#'>Inside Athletics</a><div role='menu' aria-hidden='true'><ul><li><a href='/staff.aspx?tab=staffdirectory'>Staff Directory</a></li><li><a href='/sports/2015/6/17/GEN_0617150456.aspx'>Facilities</a></li><li><a href='/sports/2015/6/26/GEN_0626153545.aspx'>Aces Spirit</a></li><li><a href='http://gopurpleaces.com/sports/2016/9/8/ue-athletics-hall-of-fame.aspx'>Hall of Fame</a></li></ul><ul><li><a href='/sports/2013/1/8/GEN_0108130214.aspx'>Corporate Partnerships</a></li><li><a href='/sports/2007/10/23/GEN_1023070733.aspx'>Rules & Compliance</a></li><li><a href='http://gopurpleaces.com/sb_output.aspx?form=18'>S-A Questionnaire</a></li><li><a href='http://gopurpleaces.com/sports/2015/7/8/GEN_0708151833.aspx'>History & Tradition</a></li></ul><ul><li><a href='/sports/2009/9/4/GEN_0904090110.aspx'>S-A Advisory Committee</a></li><li><a href='http://web1.ncaa.org/ECWR2/NCAA_EMS/NCAA.jsp' target='_blank'>NCAA Eligibility Center</a></li><li><a href='/sports/2007/10/23/GEN_1023070854.aspx'>Sports Medicine</a></li></ul><ul><li><a href='http://gopurpleaces.com/sports/2011/5/31/GEN_0531113820.aspx'>Sports Camps</a></li><li><a href='/sports/2011/1/25/GEN_0125113347.aspx'>Strength/Conditioning</a></li><li><a href='/sports/2007/10/24/GEN_1024075052.aspx'>Academic Excellence</a></li></ul></div></li></ul>
+
+
+
+
+
+
+
+
+                        </div>
+                        <div class="nav_right">
+                            
+
+<ul class='accessible_nav' role='menubar'><li role='menuitem'><a href='#'>Donate</a><div role='menu' aria-hidden='true'><ul><li><a href='/sports/2015/7/6/GEN_0706152457.aspx'>Aspire Fund</a></li><li><a href='/sports/2007/10/24/DANCE_1024075902.aspx?tab=whatispac?'>Purple Aces Club</a></li></ul><ul><li><a href='http://gopurpleaces.com/sports/2015/7/8/GEN_0708154818.aspx'>Development Staff</a></li><li><a href='http://gopurpleaces.com/sports/2015/7/8/GEN_0708153110.aspx'>Individual Sport Giving</a></li></ul><ul><li><a href='/documents/2016/7/19/2016_PAC_Stakes_Winners.pdf'>Aces Stakes Winners</a></li></ul></div></li><li role='menuitem'><a href='#'>Fan Zone</a><div role='menu' aria-hidden='true'><ul><li><a href='http://gopurpleaces.com/sports/2015/7/10/GEN_0710155108.aspx'>Fan Events</a></li><li><a href='/sports/2015/7/1/GEN_0701152032.aspx'>Promotions</a></li><li><a href='http://www.evansville.bkstr.com' target='_blank'>The UE Bookstore</a></li></ul><ul><li><a href='/sports/2015/6/18/GEN_0618153002.aspx'>Aces Social Media</a></li><li><a href='/news/2014/8/8/GEN_0808144603.aspx?path=general'>Official UE Athletics App</a></li><li><a href='/sports/2016/8/5/tailgating-policy.aspx'>Tailgating Policy</a></li></ul><ul><li><a href='/sports/2011/6/29/GEN_0629113104.aspx'>Aces Student Rewards Program</a></li><li><a href='/sports/2011/6/29/GEN_0629111922.aspx'>Junior Purple Pack</a></li><li><a href='/sports/2011/5/31/GEN_0531113820.aspx'>Sports Camps</a></li></ul><ul><li><a href='http://www.gopurpleaces.com/photo_gallery.aspx' target='_blank'>Photo Galleries</a></li><li><a href='/documents/2015/8/3/Charitable_Request_Form.pdf'>Charitable Requests</a></li></ul></div></li><li role='menuitem'><a href='#'>Live Events</a><div role='menu' aria-hidden='true'><ul><li><a href='http://www.gopurpleaces.com/showcase'>AcesTV Live Video</a></li><li><a href='www.wuev.org'>Listen Live at WUEV</a></li></ul><ul><li><a href='http://evansvillelive.statb.us/'>Live Stats</a></li><li><a href='http://espn.go.com/watchespn/index'>ESPN3</a></li></ul><ul><li><a href='http://gopurpleaces.com/sports/2010/11/18/MBB_1118101012.aspx?path=mbballhttp://gopurpleaces.com/news/2015/11/2/MBB_1102155758.aspx?path=mbball'>Marty Simmons Radio Show</a></li></ul></div></li></ul>
+
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="ctl00_innerPage" class="sidebars">
+			
+
+<ul class="sidebar-links"><li class='sport-home'><a href='/index.aspx?path=baseball'>Baseball</a></li><li class=''><a href="/roster.aspx?path=baseball&amp;">Roster</a></li><li class=''><a href="/schedule.aspx?path=baseball&amp;">Schedule</a></li><li class=''><a href="/cumestats.aspx?path=baseball&amp;year=2017&amp;">Stats</a></li><li class=''><a href="http://evansvillelive.statb.us">Live Stats</a></li><li class=''><a href="https://issuu.com/ueathletics/docs/bb_mg" target="_blank">2016 Information Guide</a></li><li class="parent additional-links"><a>Additional Links</a><ul><li class=''><a href="/sports/2007/10/31/BB_1031072224.aspx?path=baseball">Tickets</a></li><li class=''><a href="http://www.evansville.edu/give/baseball ">Donate</a></li><li class=''><a href="http://www.gopurpleaces.com/archives.aspx?path=baseball">Archived Stories</a></li><li class=''><a href="/documents/2015/1/23/2015_BasebalQuickFacts.pdf">Quick Facts</a></li><li class=''><a href="/sports/2007/11/6/BB_1106070235.aspx?path=baseball">Past UE Stats/Media Guides</a></li><li class=''><a href="/sports/2012/5/29/BB_0529125233.aspx?path=baseball">Baseball History/Records</a></li><li class=''><a href="https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=741&amp;ptype=recruit">Prospect Questionnaire</a></li><li class=''><a href="https://www.evansville.edu/alumni/keepingInTouch.cfm">Keep in Touch</a></li></ul></li></ul>
+
+
+
+
+
+
+
+
+		</div>
+		
+		<main id="ctl00_contentDiv_container" class="contentDiv_container" role="main">
+			<div id="ctl00_contentDiv" class="contentDiv">
+				<a name="content"></a>
+				
+				
+				
+    
+    <article class="story-wrapper post-1 post cf">
+        <div class="left story-column">
+        
+            <figure class="story-media">                
+                <div class="story-media-wrap">
+                    <div class="boxscore-links">
+                        <ul>
+                            
+                                <li><a href="/boxscore.aspx?path=baseball&id=7915" target="_blank">Box Score</a></li>                                    
+                            
+                        </ul>                        
+                    </div>                
+                    
+        <div id="ctl00_cplhMainContent_ctl00_ctl00_media_control_divImage" class="media_object_image" style="width:auto;">
+        
+            
+                <img id="ctl00_cplhMainContent_ctl00_ctl00_media_control_imgPrimary" src="/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2016/5/7/DSC03941.JPG" alt="matt jones" style="border-width:0px;z-index:1">
+            
+            
+            
+            <div style="clear:both"></div>
+            
+        </div>
+         
+    
+                </div>
+                
+<figcaption class="game-summary">
+    
+<div class="game-result">
+	<div class="game-result-row">
+		<div class="team-record">
+			<img src="/images/logos/site/site.png" alt="Evansville Logo">
+		</div>
+		<div class="team-score">
+			2
+		</div>
+		<div class="team-name loser">
+			<i class="fa fa-caret-right"></i> Evansville
+			<span>1-5</span>
+		</div>
+	</div>
+	<div class="game-result-row">
+		<div class="team-record">
+			<img src="/images/logos/Southern-Miss.png" alt="Southern Miss Logo">
+		</div>
+		<div class="team-score">
+			9
+		</div>
+		<div class="team-name winner">
+			<i class="fa fa-caret-right"></i> Southern Miss
+			<span>5-1</span>
+		</div>
+	</div>
+</div>
+
+    <table>
+        <caption>Score By Periods</caption>    
+        <thead>
+            <tr>
+                <th scope="col">Team</th>
+                
+                    <th scope="col">1</th>
+                
+                    <th scope="col">2</th>
+                
+                    <th scope="col">3</th>
+                
+                    <th scope="col">4</th>
+                
+                    <th scope="col">5</th>
+                
+                    <th scope="col">6</th>
+                
+                    <th scope="col">7</th>
+                
+                    <th scope="col">8</th>
+                
+                    <th scope="col">9</th>
+                
+				<th scope="col"> | </th>
+                <th scope="col">R</th>
+                <th scope="col">H</th>
+                <th scope="col">E</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Evansville</th>
+                
+                    <td>0</td>
+                
+                    <td>0</td>
+                
+                    <td>1</td>
+                
+                    <td>0</td>
+                
+                    <td>0</td>
+                
+                    <td>1</td>
+                
+                    <td>0</td>
+                
+                    <td>0</td>
+                
+                    <td>0</td>
+                
+				<td></td>
+                <td>2</td>
+                <td>5</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <th scope="row">Southern Miss</th>
+                
+                    <td>1</td>
+                
+                    <td>1</td>
+                
+                    <td>2</td>
+                
+                    <td>2</td>
+                
+                    <td>0</td>
+                
+                    <td>3</td>
+                
+                    <td>0</td>
+                
+                    <td>0</td>
+                
+                    <td>X</td>
+                
+				<td></td>
+                <td>9</td>
+                <td>11</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+    </table>        
+    <div style="text-align:right;">
+                 <b>W</b>: Kirk McCarty (2-0) 
+                 <b>L</b>: <a href='/roster.aspx?rp_id=3985' class='boxscore_player_link'>Schnieders, Patrick</a> (0-1)                                 
+                
+ </div>                     
+
+</figcaption>
+
+            </figure>
+            
+
+<div class="noprint story_email">
+    <a href="http://www.addthis.com/bookmark.php?v=250&pub=xa-4a7320e7645958d0" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">
+        <img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border: 0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a7320e7645958d0"></script>
+</div>
+            <header class="story-header">
+                <p>Game Recap: Baseball | <time pubdate="" datetime="2/25/2017 7:22:00 PM">2/25/2017 7:22:00 PM</time></p>
+                <hgroup>
+                    <h1>Baseball drops 9-2 decision to Southern Miss</h1>                
+                    
+                </hgroup>
+            </header>
+    
+    
+            <div class="story-text">           
+                <div class="right column">
+                    
+                
+                    
+                    <div class="schedule-widget">
+                        
+    <div class="next-game">
+        <img src="/images/logos/Southern-Miss.png" alt="Southern Mississippi logo">
+        <p>Next Game:</p>
+        <div>
+            <p>at Southern Mississippi</p>
+            <p>2/26/2017 - 1 p.m.</p>
+        </div>
+        
+                        
+            <p><a href='http://www.southernmiss.com/gametracker/launch/gt_mbasebl.html?event=1527257&school=smis&sport=mbasebl&camefrom=&startschool=&'>Live Stats</a></p>
+            
+	        
+            <p><a href='http://www.southernmiss.com/collegesportslive/?media=546896'>Listen Live</a></p>
+            <p><a href='http://www.southernmiss.com/collegesportslive/?media=546159'>Watch Live</a></p>
+        
+    </div>
+                    
+                        <ul>
+                            <li><a href="/schedule.aspx?path=baseball">Full Schedule</a></li>
+                            <li><a href="/roster.aspx?path=baseball">Roster</a></li>                            
+                        </ul>
+                    </div>
+                </div>
+                
+                <strong>HATTIESBURG, Miss. – </strong>Another strong start for the Southern Miss baseball team came back to haunt the University of Evansville on Saturday afternoon as the Golden Eagles piled up six runs over the course of the opening four innings to down the Aces 9-2 at Pete Taylor Park.<br>
+ <br>
+&quot;We faced a very good pitcher who shut us down today,&quot; UE head coach Wes Carroll said. &quot;We need to rebound tomorrow with a better defensive effort in order to get out of here with a win tomorrow.&quot;<br>
+ <br>
+USM (5-1) scored in each of those four innings, and due to an error in all but one of those frames, only three of the six runs surrendered by UE starter Patrick Schnieders ultimately went down as earned. The senior right-hander dropped to 0-1 on the year after giving up six hits and walking three. He also racked up six strikeouts.<br>
+ <br>
+The Aces (1-5) would grab a run back with a Kenton Crews single to left in the third, and a bases-loaded walk from Matthew Jones plated another in the sixth before Golden Eagle reliever Nick Sandlin entered the game to strike out Korbin Williams and Jimmy Day to end the threat.<br>
+ <br>
+Crews, who had moved to the lead-off spot in the line-up, finished 2-for-4 at the plate. Stewart Nelson enjoyed the same statline, and Jones was the only other player with a hit.<br>
+ <br>
+USM responded in the bottom half of the sixth with three runs to stretch the lead out to 9-2.<br>
+ <br>
+Hunter Slater and Bryant Bowen each had three hits to lead the Golden Eagles, who out-hit the Aces 11-5 overall. Kirk McCarty (2-0) picked up the win, allowing four hits and striking out eight over 5.1 innings.<br>
+ <br>
+The Aces have now dropped both of its series this season. The team will return to action on Sunday with the series finale at 1 p.m. Justin Hayden, who toed the rubber for last Sunday's UCA win, is slated to make his return to the mound.<br>
+ <br>
+ <br>
+=== #AcesAces ===<br>
+ <div class='print-friendly-story-button'><a onclick='window.open(this.href,"_blank");return false;' href='/news/2017/2/25/baseball-drops-9-2-decision-to-southern-miss.aspx?print=true'>Print Friendly Version</a></div>
+
+            </div>  
+            
+        </div>
+        
+        <aside class="right story-column">
+            
+            <section class="story-sponsors">
+                <h2 class="hide">Sponsors</h2>
+                
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+				
+                
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+            </section>
+            
+                
+<section class="team-stats stats table-stats">
+    <h2 class="hide">Team Statistics</h2>
+                                                        
+                        <table>
+                            <caption>Team Statistics</caption>
+                            <tbody>
+                            <tr>
+                                <td style="background-color:#fff"><b>PITCHING:</b><br>
+                                     <b>W</b>: Kirk McCarty (2-0)<br>
+                                    <b>L</b>: <a href='/roster.aspx?rp_id=3985' class='boxscore_player_link'>Schnieders, Patrick</a> (0-1)<br>                                
+                                                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div style="float:left;padding-right:5px"><img src="/images/logos/site/site.png?height=15" alt="Evansville Logo"></div>Evansville</td>
+                            </tr>
+                        
+                            <tr>
+                                <td style="background-color:#fff"><b>FIELDING:</b><br>
+                                    <b>E:</b> <a href='/roster.aspx?rp_id=3999' class='boxscore_player_link'>Crews, Kenton</a> 1; <a href='/roster.aspx?rp_id=4003' class='boxscore_player_link'>Tanous, Andrew</a> 1; <a href='/roster.aspx?rp_id=3991' class='boxscore_player_link'>Williams, Korbin</a> 1<br>                                 
+                                </td>   
+                            </tr>                               
+                        
+                            <tr>
+                                <td><div style="float:left;padding-right:5px"><img src="/images/logos/Southern-Miss.png?height=20" alt="Southern Miss Logo"></div><span>Southern Miss</span></td>
+                            </tr>
+                        
+                            <tr>
+                                <td style="background-color:#fff"><b>BATTING:</b><br>
+                                    <b>2B:</b> Dylan Burdeaux 1; Bryant Bowen 1<br>
+                                    
+                                    <b>HR:</b> Matt Wallner 1<br>
+                                    
+                                    
+                                </td>   
+                            </tr>                               
+                        
+                            <tr>
+                                <td style="background-color:#fff"><b>BASERUNNING:</b><br>
+                                    <b>SB:</b> Storme Cooper 1<br>
+                                    
+                                    <b>HBP:</b> Taylor Braley 1; Tracy Hadley 1<br>                                                              
+                                                                                                 
+                                </td>
+                            </tr>                       
+                        
+                            <tr>
+                                <td style="background-color:#fff"><b>FIELDING:</b><br>
+                                    <b>E:</b> Taylor Braley 1; Storme Cooper 1<br>                                 
+                                </td>   
+                            </tr>                               
+                                                
+                        </tbody>
+                        </table>                     
+
+</section>
+            
+                
+    <section class="player-stats stats">
+        <h2>Game Stat Leaders</h2>
+        
+<div class="stats-chooser">
+    <label class="hide" for="stats-categories-7915">Choose a category:</label>
+    <select id="stats-categories-7915" class="stats-categories">
+        <option value="hitting" selected="selected">Hitting
+        <option value="pitching">Pitching
+        <option value="fielding">Fielding
+    </select>   
+</div>
+<div class="stats-leaders hitting">
+    
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3999&path=baseball&name=Crews, Kenton" alt="Crews, Kenton">
+            <h3><span>#15</span> <a href='/roster.aspx?rp_id=3999' class='boxscore_player_link'>Crews, Kenton</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>AB</dt>
+                        <dd>4</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>R</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>H</dt>
+                        <dd>2</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RBI</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3983&path=baseball&name=Nelson, Stewart" alt="Nelson, Stewart">
+            <h3><span>#7</span> <a href='/roster.aspx?rp_id=3983' class='boxscore_player_link'>Nelson, Stewart</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>AB</dt>
+                        <dd>4</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>R</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>H</dt>
+                        <dd>2</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RBI</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3982&path=baseball&name=Jones, Matthew" alt="Jones, Matthew">
+            <h3><span>#5</span> <a href='/roster.aspx?rp_id=3982' class='boxscore_player_link'>Jones, Matthew</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>AB</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>R</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>H</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RBI</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3980&path=baseball&name=Hair, Trey" alt="Hair, Trey">
+            <h3><span>#3</span> <a href='/roster.aspx?rp_id=3980' class='boxscore_player_link'>Hair, Trey</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>AB</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>R</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>H</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>RBI</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+</div>
+<div class="stats-leaders pitching hide">
+    
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3985&path=baseball&name=Schnieders, Patrick" alt="Schnieders, Patrick">
+            <h3><span>#21</span> <a href='/roster.aspx?rp_id=3985' class='boxscore_player_link'>Schnieders, Patrick</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>ERA</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>IP</dt>
+                        <dd>4.0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>SO</dt>
+                        <dd>6</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>W</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3989&path=baseball&name=Ward, Jimmy" alt="Ward, Jimmy">
+            <h3><span>#33</span> <a href='/roster.aspx?rp_id=3989' class='boxscore_player_link'>Ward, Jimmy</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>ERA</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>IP</dt>
+                        <dd>2.0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>SO</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>W</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=4000&path=baseball&name=Ellis, David" alt="Ellis, David">
+            <h3><span>#17</span> <a href='/roster.aspx?rp_id=4000' class='boxscore_player_link'>Ellis, David</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>ERA</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>IP</dt>
+                        <dd>1.0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>SO</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>W</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=4004&path=baseball&name=Croner, Nathan" alt="Croner, Nathan">
+            <h3><span>#31</span> <a href='/roster.aspx?rp_id=4004' class='boxscore_player_link'>Croner, Nathan</a></h3>
+            <ul>
+                <li>
+                    <dl>
+                        <dt>ERA</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>IP</dt>
+                        <dd>1.0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>SO</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>W</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>
+            </ul>
+        </article>
+       
+</div>
+<div class="stats-leaders fielding hide">
+    
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3980&path=baseball&name=Hair, Trey" alt="Hair, Trey">
+            <h3><span>#3</span> <a href='/roster.aspx?rp_id=3980' class='boxscore_player_link'>Hair, Trey</a></h3>
+            <ul>       
+                <li>
+                    <dl>
+                        <dt>PO</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>A</dt>
+                        <dd>5</dd>
+                    </dl>
+                </li>    
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3995&path=baseball&name=Day, Jimmy" alt="Day, Jimmy">
+            <h3><span>#10</span> <a href='/roster.aspx?rp_id=3995' class='boxscore_player_link'>Day, Jimmy</a></h3>
+            <ul>       
+                <li>
+                    <dl>
+                        <dt>PO</dt>
+                        <dd>6</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>A</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>    
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3983&path=baseball&name=Nelson, Stewart" alt="Nelson, Stewart">
+            <h3><span>#7</span> <a href='/roster.aspx?rp_id=3983' class='boxscore_player_link'>Nelson, Stewart</a></h3>
+            <ul>       
+                <li>
+                    <dl>
+                        <dt>PO</dt>
+                        <dd>1</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>A</dt>
+                        <dd>3</dd>
+                    </dl>
+                </li>    
+            </ul>
+        </article>
+       
+        <article class="leader">
+            <img src="/services/stat_handler.aspx?rp_id=3982&path=baseball&name=Jones, Matthew" alt="Jones, Matthew">
+            <h3><span>#5</span> <a href='/roster.aspx?rp_id=3982' class='boxscore_player_link'>Jones, Matthew</a></h3>
+            <ul>       
+                <li>
+                    <dl>
+                        <dt>PO</dt>
+                        <dd>2</dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt>A</dt>
+                        <dd>0</dd>
+                    </dl>
+                </li>    
+            </ul>
+        </article>
+       
+</div>                     
+                
+    </section>
+    <script>
+        $('.stats-categories').on('change', function () {
+            var $parent_div = $(this).parent().parent();
+            $parent_div.find('.stats-leaders').hide();
+            var selected_value = $(this).find("option:selected").val();
+            $parent_div.find('.stats-leaders.' + selected_value).show();
+        });
+    </script>
+
+
+            
+                 
+        </aside>
+    </article>
+    
+<script type="text/javascript">
+    $(function () {
+      var $tabs = $('.story-wrapper .has_tabs');
+      $tabs.tabs({
+              select: function (evt, ui) {                
+                  var $this_tabs = $(ui.panel).parent();
+                  if (ui.index == $this_tabs.data("index"))
+                    return;
+                  $tabs.each(function(){ $(this).data("index",ui.index); });; 
+                  var other_tabs = $tabs.not('#'+evt.target.id);
+                  other_tabs.tabs("select",ui.index);
+          }
+        });
+    });
+</script>
+    <div id="ctl00_cplhMainContent_fan_interaction_controls">
+
+</div>
+    
+
+			</div>
+		</main>
+			
+		<div id="main_footer">
+            <div class="corporate_sponsors">
+                <div class="sponsor_header">Corporate Sponsors</div>
+                <div class="sponsor_container">
+                    
+    
+    
+    
+            <a href="http://www.14news.com/" id="ctl00_ctl06_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=204&amp;target=http://www.14news.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot1">
+                
+        <img id="ctl00_ctl06_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-14news.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-14news.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-14news.jpg" alt="14 News WFIE" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.53.com/" id="ctl00_ctl06_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=186&amp;target=http://www.53.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot1">
+                
+        <img id="ctl00_ctl06_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-53.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-53.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-53.jpg" alt="Fifth Third Bank" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.gun-ex-usa.com" id="ctl00_ctl07_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=187&amp;target=http://www.gun-ex-usa.com', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot2">
+                
+        <img id="ctl00_ctl07_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/8/4/gunex.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/8/4/gunex.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/8/4/gunex.jpg" alt="Gunex" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.courierpress.com/" id="ctl00_ctl07_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=205&amp;target=http://www.courierpress.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot2">
+                
+        <img id="ctl00_ctl07_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-courier.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-courier.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-courier.jpg" alt="Courier and Press" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.dunnhospitalitygroup.com/" id="ctl00_ctl08_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=206&amp;target=http://www.dunnhospitalitygroup.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot3">
+                
+        <img id="ctl00_ctl08_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-dunn.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-dunn.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-dunn.jpg" alt="Dunn Hospitality" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.prorehab-pc.com/" id="ctl00_ctl08_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=188&amp;target=http://www.prorehab-pc.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot3">
+                
+        <img id="ctl00_ctl08_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-prorehab.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-prorehab.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-prorehab.jpg" alt="ProRehab" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.unitedfidelity.com/" id="ctl00_ctl09_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=207&amp;target=http://www.unitedfidelity.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot4">
+                
+        <img id="ctl00_ctl09_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-unitedbank.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-unitedbank.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-unitedbank.jpg" alt="United Bank" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.oldnational.com/" id="ctl00_ctl09_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=189&amp;target=http://www.oldnational.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot4">
+                
+        <img id="ctl00_ctl09_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-onb.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-onb.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-onb.jpg" alt="Old National Bank" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.vectren.com/" id="ctl00_ctl10_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=190&amp;target=http://www.vectren.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot5">
+                
+        <img id="ctl00_ctl10_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-vectren.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-vectren.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-vectren.jpg" alt="Vectren" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.expresswaydodge.com/" id="ctl00_ctl10_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=208&amp;target=http://www.expresswaydodge.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot5">
+                
+        <img id="ctl00_ctl10_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-expressway.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-expressway.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-expressway.jpg" alt="Expressway Dodge" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.trueventrental.com/" id="ctl00_ctl11_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=209&amp;target=http://www.trueventrental.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot6">
+                
+        <img id="ctl00_ctl11_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tru.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tru.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tru.jpg" alt="TRU" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.tristate-ortho.com/" id="ctl00_ctl11_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=191&amp;target=http://www.tristate-ortho.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot6">
+                
+        <img id="ctl00_ctl11_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tristate.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tristate.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-tristate.jpg" alt="Tri-State Orthopaedics" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.turonis.com/" id="ctl00_ctl12_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=210&amp;target=http://www.turonis.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot7">
+                
+        <img id="ctl00_ctl12_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-turonis.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-turonis.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-turonis.jpg" alt="Turoni's" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.kennykentchevrolet.com/" id="ctl00_ctl12_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=192&amp;target=http://www.kennykentchevrolet.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot7">
+                
+        <img id="ctl00_ctl12_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-kennykent.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-kennykent.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-kennykent.jpg" alt="Kenny Kent Chevrolet" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.hfcu.info/" id="ctl00_ctl13_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=193&amp;target=http://www.hfcu.info/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot8">
+                
+        <img id="ctl00_ctl13_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-hfcu.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-hfcu.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-hfcu.jpg" alt="Heritage Federal Credit Union" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+            <a href="http://www.chick-fil-a.com/" id="ctl00_ctl13_rptAds_ctl01_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=211&amp;target=http://www.chick-fil-a.com/', '_blank'); return false;" rel="nofollow" class=" sponsorspot" rev="sponsorspot8">
+                
+        <img id="ctl00_ctl13_rptAds_ctl01_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-chickfila.jpg'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-chickfila.jpg'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/1/new-chickfila.jpg" alt="Chick-fil-A" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                </div>
+            </div>
+            <div class="sprites">
+                
+    
+    
+    
+            <a href="http://www.evansville.edu/" id="ctl00_ctl14_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px 0px '" rel="nofollow" class="sprite-ad sponsorfooter" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=194&amp;target=http://www.evansville.edu/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:150px;height:65px;background:url(//s3.amazonaws.com/gopurpleaces.com/images/2015/6/19/footer_sprite.png) no-repeat 0px 0px " rev="sponsorfooter1">Sponsor Footer #1</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                
+    
+    
+    
+            <a href="http://www.ncaa.org/" id="ctl00_ctl15_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-150px 0px '" rel="nofollow" class="sprite-ad sponsorfooter" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=195&amp;target=http://www.ncaa.org/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-150px 0px '" style="width:60px;height:65px;background:url(//s3.amazonaws.com/gopurpleaces.com/images/2015/6/19/footer_sprite.png) no-repeat -150px 0px " rev="sponsorfooter2">Sponsor Footer #2</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                
+    
+    
+    
+            <a href="http://mvc-sports.com/" id="ctl00_ctl16_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-210px 0px '" rel="nofollow" class="sprite-ad sponsorfooter" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=196&amp;target=http://mvc-sports.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-210px 0px '" style="width:100px;height:65px;background:url(//s3.amazonaws.com/gopurpleaces.com/images/2015/6/19/footer_sprite.png) no-repeat -210px 0px " rev="sponsorfooter3">Sponsor Footer #3</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                
+    
+    
+    
+            <a href="http://www.sidearmsports.com/" id="ctl00_ctl17_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-310px 0px '" rel="nofollow" class="sprite-ad sponsorfooter" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=197&amp;target=http://www.sidearmsports.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-310px 0px '" style="width:225px;height:65px;background:url(//s3.amazonaws.com/gopurpleaces.com/images/2015/6/19/footer_sprite.png) no-repeat -310px 0px " rev="sponsorfooter4">Sponsor Footer #4</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            </div>
+			<!-- <a href="//sidearmsports.com"><img src="..." alt="SIDEARM Sports" /></a> -->
+			<div id='sidearm_copyright'><a href='//www.sidearmsports.com/privacypolicy/' target='_blank'>Privacy Policy </a><a href='//www.sidearmsports.com/terms-of-service/' target='_blank'>Terms of Service</a></div>
+		</div>
+
+        <div class="social_media">
+            
+    
+    
+    
+            <a href="http://www.facebook.com/UEPurpleAces?ref=ts" id="ctl00_ctl18_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=198&amp;target=http://www.facebook.com/UEPurpleAces?ref=ts', '_blank'); return false;" rel="nofollow" class=" social" rev="social1"><i class='sidearm-ad-icon icon-facebook_v2'><span class='icon_title'>Social #1</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="http://twitter.com/#!/UEAthletics" id="ctl00_ctl19_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=199&amp;target=http://twitter.com/#!/UEAthletics', '_blank'); return false;" rel="nofollow" class=" social" rev="social2"><i class='sidearm-ad-icon icon-twitter'><span class='icon_title'>Social #2</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="https://instagram.com/ueathletics" id="ctl00_ctl20_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=200&amp;target=https://instagram.com/ueathletics', '_blank'); return false;" rel="nofollow" class=" social" rev="social3"><i class='sidearm-ad-icon icon-instagram'><span class='icon_title'>Social #3</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            <div class="social_droid">
+                
+    
+    
+    
+            <a href="https://play.google.com/store/apps/details?id=com.app_purpleaces.layout&hl=en" id="ctl00_ctl21_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=202&amp;target=https://play.google.com/store/apps/details?id=com.app_purpleaces.layout$$hl=en', '_blank'); return false;" rel="nofollow" class=" social" rev="social4">
+                
+        <img id="ctl00_ctl21_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_android_b.png'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_android98.png'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_android98.png" alt="Android" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            </div>
+            <div class="social_apple">
+                
+    
+    
+    
+            <a href="https://itunes.apple.com/us/app/evansville-purple-aces/id903975644?mt=8" id="ctl00_ctl22_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=203&amp;target=https://itunes.apple.com/us/app/evansville-purple-aces/id903975644?mt=8', '_blank'); return false;" rel="nofollow" class=" social" rev="social5">
+                
+        <img id="ctl00_ctl22_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_apple_b.png'" onmouseout="this.src = '//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_apple.png'" src="//s3.amazonaws.com/gopurpleaces.com/images/2015/7/21/social_apple.png" alt="Apple" style="border-width:0px;z-index:1;display:block;">
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            </div>
+            <div class="search_container">
+                <div class="search_button">
+                    <i class="icon-search">Search</i>
+                </div>
+                <div id="search">
+                    <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButton1')">
+	
+                        <div class="left search-box">
+                            <label for="ctl00_txtSearch">Search Text</label>
+                            <input name="ctl00$txtSearch" type="text" value="Search" id="ctl00_txtSearch" onfocus="this.value=''" style="border-style:None;">
+                        </div>
+                        <div id="search-button" class="left">
+                            <label for="ctl00_ImageButton1"></label>
+                            <a id="ctl00_ImageButton1" alternatetext="Search" href="javascript:__doPostBack('ctl00$ImageButton1','')"></a>
+                        </div>
+                   
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sticky_bar">
+            <div class="row sticky_bar_container">   
+                <div class="twelve columns">
+                    <div class="scoreboard_logo"></div>
+                    <div class="next_game">Next Game:</div>
+                    <div id="scoreboard"></div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            $("#scoreboard").scoreboard({
+                "width":580, // container width
+                "height":30, // container width
+                "btmskin": "/images/sticky_bar.png", // container background
+                "btns": "http://assets.sidearmsports.com/common/images/scoreboard_buttons_white", // button set, optional defaults to white
+                "bx": 122, // button left offset
+                "by": 13, // button top offset
+                "tx":270, // ticker left offset
+                "ty": 5, // ticker top offset
+                "th": 30, // ticker height
+                "tw": 740 // ticker width
+            });
+			
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-2964666-1']);
+				  _gaq.push(['_trackPageview']);
+
+				  (function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+		</script>
+			
+			<script type="text/javascript"> 
+		adroll_adv_id = "RJRVWXGJQNGSBN65JFCMGL"; 
+		adroll_pix_id = "UH4DO6VDOZBUXLRIEWUO4Q"; 
+		(function () { 
+		var oldonload = window.onload; 
+		window.onload = function(){ 
+		   __adroll_loaded=true; 
+		   var scr = document.createElement("script"); 
+		   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
+		   scr.setAttribute('async', 'true'); 
+		   scr.type = "text/javascript"; 
+		   scr.src = host + "/j/roundtrip.js"; 
+		   ((document.getElementsByTagName('head') || [null])[0] || 
+			document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
+		   if(oldonload){oldonload()}}; 
+		}()); 
+		</script>
+
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 980188185;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980188185/?value=0&amp;guid=ON&amp;script=0">
+		</div>
+		</noscript>
+    
+<script type="text/javascript">addLoadEvent(count_ad_master);</script><script type="text/javascript">checkVersion;</script><script type="text/javascript">fkey = '076ea1e62734a1d4b21'</script><script type="text/javascript">video_skin_color = '#5E3989';</script><script type="text/javascript">count_ad(204);count_ad(186);</script><script type="text/javascript">launch_ads ('sponsorspot1',false,8000)</script><script type="text/javascript">count_ad(187);count_ad(205);</script><script type="text/javascript">launch_ads ('sponsorspot2',false,8000)</script><script type="text/javascript">count_ad(206);count_ad(188);</script><script type="text/javascript">launch_ads ('sponsorspot3',false,8000)</script><script type="text/javascript">count_ad(207);count_ad(189);</script><script type="text/javascript">launch_ads ('sponsorspot4',false,8000)</script><script type="text/javascript">count_ad(190);count_ad(208);</script><script type="text/javascript">launch_ads ('sponsorspot5',false,8000)</script><script type="text/javascript">count_ad(209);count_ad(191);</script><script type="text/javascript">launch_ads ('sponsorspot6',false,8000)</script><script type="text/javascript">count_ad(210);count_ad(192);</script><script type="text/javascript">launch_ads ('sponsorspot7',false,8000)</script><script type="text/javascript">count_ad(193);count_ad(211);</script><script type="text/javascript">launch_ads ('sponsorspot8',false,8000)</script><script type="text/javascript">count_ad(194);</script><script type="text/javascript">launch_ads ('sponsorfooter1',true,8000)</script><script type="text/javascript">count_ad(195);</script><script type="text/javascript">launch_ads ('sponsorfooter2',true,8000)</script><script type="text/javascript">count_ad(196);</script><script type="text/javascript">launch_ads ('sponsorfooter3',true,8000)</script><script type="text/javascript">count_ad(197);</script><script type="text/javascript">launch_ads ('sponsorfooter4',true,8000)</script><script type="text/javascript">count_ad(198);</script><script type="text/javascript">launch_ads ('social1',true,8000)</script><script type="text/javascript">count_ad(199);</script><script type="text/javascript">launch_ads ('social2',true,8000)</script><script type="text/javascript">count_ad(200);</script><script type="text/javascript">launch_ads ('social3',true,8000)</script><script type="text/javascript">count_ad(202);</script><script type="text/javascript">launch_ads ('social4',true,8000)</script><script type="text/javascript">count_ad(203);</script><script type="text/javascript">launch_ads ('social5',true,8000)</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

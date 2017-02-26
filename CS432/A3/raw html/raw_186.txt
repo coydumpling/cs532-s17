@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+  <html lang="en-AU">
+
+  <head>
+    <title>Self-funded Darwin LGBTQI clinic highlights NT&#039;s transgender health care gap - ABC News (Australian Broadcasting Corporation)</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-mobile-web-app-title" content="ABC News"/>
+  <meta name="DCSext.LocalRegion" content="darwin"/><link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2017-02-26/transgender-clinic-medical-services-gap-nt/8293440?pfmredir=sm" />
+
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://mobile.abc.net.au/cm/cb/4355908/News+iOS+76x76/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://mobile.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://mobile.abc.net.au/cm/cb/4355926/News+iOS+152x152/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://mobile.abc.net.au/cm/cb/4355930/News+iOS+180x180/data.png" />
+          <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/bundles/2.0.5/styles/abc.bundle.2.0.5.min.css" media="screen, projection"/>
+  <link rel="stylesheet" type="text/css" href="http://mobile.abc.net.au/res/sites/news/styles/min/abc.news.mobile.css?2016-10-21" media="all"/>
+  </head>
+
+  <body class="platform-mobile">
+
+  <header>
+    <!--noindex-->
+<!-- Start ABC Bundle Header 2.0.5 -->
+<nav id="abcHeader" class="global" role="navigation" aria-label="ABC Network Navigation" data-resourcebase="http://www.abc.net.au/res/bundles/2.0.5/" data-scriptsbase="http://www.abc.net.au/res/bundles/2.0.5/scripts/" data-version="2.0.5">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/logo-abc@2x.png" width="72" height="18" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://mobile.search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!-- End ABC Bundle Header 2.0.5 -->
+<!--endnoindex-->
+<nav class="site">
+    <a href="/news/" class="home">ABC News</a><div class="menu">
+      <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/donald-trumps-america/">Trump&#039;s America</a></li>
+  <li>
+      <a href="/news/australia/">Australia</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/live/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a href="http://www.abc.net.au/news/2017-02-26/transgender-clinic-medical-services-gap-nt/8293440?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></div>
+  </nav>
+<div class="section">
+        <p><a href="/news/">ABC News</a></p>
+      </div>
+    </header>
+
+  <div class="content">
+    <article>
+    <header>
+      <h1>Self-funded Darwin LGBTQI clinic highlights NT&#039;s transgender health care gap</h1>
+        <span class="program"><a href="http://www.abc.net.au/darwin/">ABC Radio Darwin</a></span>
+    <span class="attribution richtext">
+        By <a href="/news/emilia-terzon/5769642" target="_self" title="">Emilia Terzon</a> and Nick Hose</span>
+    <time  datetime="Sun Feb 26 10:13:22 EST 20:17">
+            Sun Feb 26 10:13:22 EST 2017</time>
+    </header>
+  <figure class="type-photo">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="media present-image">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <a href="http://www.abc.net.au/news/image/8301204-3x2-700x467.jpg"><img src="http://www.abc.net.au/news/image/8301204-3x2-460x307.jpg" alt="a man being getting a blood pressure test at the doctors" title="Evo Koulakis" width="460" height="307"/></a>
+</div>
+<figcaption>
+    <strong>Photo</strong>
+  <p class="caption richtext">Evo Koulakis with his doctor Danielle Stewart in Darwin.</p>
+  <span class="attribution richtext">ABC Radio Darwin: Emilia Terzon</span>
+  </figcaption>
+</figure>
+<div class="story richtext">
+      <p>A monthly Darwin clinic is helping transgender people previously overlooked by the Northern Territory's health system, yet its long-term future is uncertain due to funding concerns.</p><p>Father and husband Evo Koulakis is one of an unidentified number of transgender Territorians who have had to navigate the Top End's health system.</p><p>His transition from female to male three years ago means he has specialist needs such as testosterone replacement therapy; these are difficult to access outside major capital cities like Sydney and Melbourne.</p><p>When he has seen specialists at Darwin's hospital, their lack of knowledge left him confronted.</p><p>"[One specialist] referred to me as a transsexual," Mr Koulakis said.</p><p>"I left there feeling low, quite sad about the situation. It highlighted what a bad state we're in in Darwin when it comes to transgender health and that there really is nobody.</p><blockquote class="quote--pullquote"><p>"I refused to go back to him to get blood tests with him. That's how awful that made me feel about the process."</p></blockquote><p>It is a familiar story for general practitioner Dr Danielle Stewart, who returned to Darwin last year after a stint at a Melbourne health clinic for lesbian, gay, bisexual, transgender, queer and intersex (LGBTQI) people.</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2017-02-26/ben/8293966"><h3>
+    <strong>Photo</strong>
+    Darwin teenager Benji Rabeling last year left the NT after failing to find adequate specialist health care.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/7656332-3x2-220x147.jpg" alt="Benji Rabeling" title="Ben Rabeling" width="220" height="147"/>
+<span class="attribution">ABC: Nick Hose</span>
+   </a></article>
+</figure><p> </p><p>"It was a wonderful experience working there and I realised the sense of community that it gave and a sense of trust for people coming to the clinic," Dr Stewart said.</p><p>"People were well and enjoying coming to see their doctor instead of being frightened."</p><p>By comparison, Dr Stewart said in Darwin many were "patching together" their treatment in a fractured health system or sourcing hormones online and "self-treating".</p><p>Others such as teenager Benji Rabeling were battling suicidal thoughts and a lack of options, eventually deciding to <a href="/news/2016-07-24/transgender-children-left-with-few-options-in-northern-territory/7656374" target="_self" title="">leave the Northern Territory for treatment</a>.</p><h2>'Everyone is welcome here'</h2><p>In mid-2016 Dr Stewart decided to launch a one-day-a-month health clinic for LGBTQI people out of her general practice in Darwin's leafy northern suburbs.</p><p>"Everyone is welcome here," reads the rainbow-hued posters in Northside Health's waiting room.</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2017-02-26/gender-diverse-gp-sign-in-darwin/8297428"><h3>
+    <strong>Photo</strong>
+    Northside Heath's monthly clinic launched in June 2016.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8297188-3x2-220x147.jpg" alt="A sign for a LGBTI specialist medical clinic day" title="LGBTI clinic sign" width="220" height="147"/>
+<span class="attribution">ABC Radio Darwin: Emilia Terzon</span>
+   </a></article>
+</figure><p> </p><p>A specialist was flown from interstate with funding from the NT AIDS and Hepatitis Council (NTAHC), yet Dr Stewart had no idea if anybody would show up for the clinic's first day.</p><p>This was largely because, until recently, the NT Health Department did not take data on the prevalence of gender diversity in its population.</p><p>"We didn't know how many we'd get at the clinic. We thought we'd just give it a go," Dr Stewart said.</p><p>"The first clinic I think we had 12 or 15 people. The last clinic just passed we had 20."</p><p>While Dr Stewart launched the clinic for all LGBTQI people, its core patient makeup is now 90 per cent transgender or gender diverse.</p><p>She said this challenged comments last year by the former CLP health minister John Elferink that there was not enough demand for transgender-specific health services in the Territory.</p><blockquote class="quote--pullquote"><p>"It's a case of that you don't know that there's people out there until they're allowed to be out there," Dr Stewart said.</p></blockquote><h2>Running at a loss</h2><p>This year Dr Stewart's practice has been covering the expenses of flying up and accommodating interstate specialists, with most clients bulk-billed as part of a commitment to accessible health care.</p><blockquote class="quote--pullquote"><p>"At the moment we're self-funding and we're running at a loss to be honest," she said.</p></blockquote><p>"We've shown that this clinic is worthwhile. </p><p>"To make it sustainable, we need to find some money."</p><p>General practice and mental health funding generally lies with the Federal Government's Primary Healthcare Network (PHN), with specialist and hospital-based services funded by state governments.</p><p>A recent baseline assessment by the NT arm of PHN identified there was a need for specialist LGBTQI services in the Territory, with funding likely to be allocated to providers in 2017.</p><p>Dr Stewart added the NT Labor Government's newly formed working party to create a LGBTQI-specific policy framework was also promising.</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2017-02-26/dr-danielle-stewart-gp-darwin/8297426"><h3>
+    <strong>Photo</strong>
+    Dr Danielle Stewart operates the LGBTQI health clinic out of her general practice.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8297192-3x2-220x147.jpg" alt="a doctor sitting in her clinic room" title="Dr Danielle Stewart" width="220" height="147"/>
+<span class="attribution">ABC Radio Darwin: Emilia Terzon</span>
+   </a></article>
+</figure><p> </p><p>After committing to collecting data on gender diverse Territorians, Health Minister Natasha Fyles said discussions about funding services would have to wait until more was known.</p><p>"It's a challenge around understanding what need there is and obviously in terms of the primary health care that fits with the Federal Government," she said.</p><blockquote class="quote--pullquote"><p>"We have to remember that we're a relatively small population and isolated. So it's a real balance between providing these services and making sure health outcomes are equally met."</p></blockquote><p>For Mr Koulakis, the benefits of services tailored to his needs is obvious.</p><p>Now a Northside Health client, he has been able to get blood tests instead of avoiding specialists, however the service has emerged as something more as well.</p><p>"I told Dr Stewart recently that it was my three-year anniversary of being on testosterone. That brought a tear to her eye. She really does care," he said.</p><p>"Without her, I'd have a lot of anxiety about not knowing how I'd be treated. I'd be wondering if [the doctor] would be professional enough to put things aside and treat me like a real person."</p></div>
+  <div class="share">
+    <h2>Share</h2>
+    <a class="email" href="mailto:?subject=Self-funded%20Darwin%20LGBTQI%20clinic%20highlights%20NT's%20transgender%20health%20care%20gap&body=http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-26%2ftransgender-clinic-medical-services-gap-nt%2f8293440%3fpfmredir%3dsm">Email</a>
+    <a class="facebook" target="_blank" href="http://www.facebook.com/sharer.php?t=Self-funded+Darwin+LGBTQI+clinic+highlights+NT's+transgender+health+care+gap&u=http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-26%2ftransgender-clinic-medical-services-gap-nt%2f8293440%3fpfmredir%3dsm">Facebook</a>
+    <a class="twitter" target="_blank" href="http://twitter.com/home?status=Self-funded+Darwin+LGBTQI+clinic+highlights+NT's+transgender+health+care+gap+http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-26%2ftransgender-clinic-medical-services-gap-nt%2f8293440%3fpfmredir%3dsm+%40abcnews">Twitter</a>
+  </div>
+<aside class="related image-omit">
+        <h2>Related</h2>
+        <article >
+    <a href="/news/2016-07-24/transgender-children-left-with-few-options-in-northern-territory/7656374"><h3>
+        Transgender children &#039;left with few options in NT&#039;</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2016-04-15/a-ten-point-guide-to-not-offending-transgender-people/7326584"><h3>
+        A 10-point guide to not offending transgender people</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2016-07-05/transitioning-from-boy-to-girl-at-a-young-age/7530288"><h3>
+        &#039;Being a girl is amazing&#039;: Transitioning at a young age</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</aside>
+    </article>
+
+  <section class="image-omit">
+      <h2>More Stories</h2>
+      <article >
+    <a href="/news/2017-02-26/donald-trump-post-victory-euphoria-fades-in-russia/8300074"><h3>
+        Has Russia changed its tone toward Donald Trump?</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/muhammad-ali-jr-detained-at-florida-airport/8304346"><h3>
+        Border agents to Muhammad Ali&#039;s son: &#039;Are you Muslim?&#039;</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/james-oconnor-arrested-in-paris-allegedly-buying-cocaine/8304404"><h3>
+        Former Wallabies player James O&#039;Connor arrested in Paris </h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/blue-mountains-pollution-mine-wollangambe-river/8303644"><h3>
+        Mine pollution turning Blue Mountains river into &#039;waste disposal&#039;</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/trump-decides-to-skip-white-house-press-dinner/8304392"><h3>
+        Trump decides to skip White House press dinner</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/childhood-stroke-leaves-lifelong-challenges-for-its-victims/8300290"><h3>
+        Childhood stroke victim fears medication subsidy cuts leave her at risk</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/tennant-creek-locals-health-checks-after-asbestos-revelations/8302406"><h3>
+        Tennant Creek residents want health checks after asbestos revelations</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/steve-smith-looking-to-take-momentum-through-india-series/8303932"><h3>
+        Unscarred Aussie side able to thrive in India, Smith says</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/government-attack-after-speaker-deputy-resign/8304360"><h3>
+        Victoria&#039;s Premier promises changes after &#039;appalling&#039; abuse of entitlements</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/transgender-clinic-medical-services-gap-nt/8293440"><h3>
+        Unique clinic highlights NT&#039;s transgender health care gap</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/iraqi-forces-push-deeper-into-western-mosul-as-civilians-flee/8303998"><h3>
+        Iraqi forces push deeper into Mosul as civilians flee, &#039;most dangerous phase&#039; about to begin</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/razzies-hillarys-america-and-batman-v-superman-top-anti-awards/8304370"><h3>
+        Batman v Superman and Hillary&#039;s America top Razzies</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-25/woman-says-she-was-paid-120-for-kim-jong-nams-alleged-killing/8303848"><h3>
+        Indonesian woman &#039;paid $120&#039; for Kim Jong-nam&#039;s assassination</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/are-selective-schools-the-best-place-for-gifted-students/8296082"><h3>
+        Are selective schools the best place for gifted students?</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</section>
+  </div>
+
+  <footer>
+    <nav class="site">
+    <h2>More from ABC News</h2>
+    <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/donald-trumps-america/">Trump&#039;s America</a></li>
+  <li>
+      <a href="/news/australia/">Australia</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/live/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a class="top" href="#">Top of page</a>
+    <a href="http://www.abc.net.au/news/2017-02-26/transgender-clinic-medical-services-gap-nt/8293440?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></nav>
+<nav class="global">
+        <ul>
+          <li><a href="/news/">ABC News</a></li>
+    <li><a href="/news/justin/">Just In</a></li>
+    <li><a href="/news/australia/">Australia</a></li>
+    <li><a href="/news/world/">World</a></li>
+    <li><a href="/news/business/">Business</a></li>
+    <li><a href="/news/entertainment/">Entertainment</a></li>
+    <li><a href="/news/sport/">Sport</a></li>
+    <li><a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+    <li><a href="/news/weather/">Weather</a></li>
+    <li><a href="/news/topics/">Topics</a></li>
+    <li><a href="/news/archive/">Archive</a></li>
+    <li><a href="/news/corrections/">Corrections &amp; Clarifications</a></li>
+    </ul>
+      </nav>
+    </footer>
+
+  <script type="text/javascript" src="http://mobile.abc.net.au/res/libraries/jquery/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile-1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile.media-1.0.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/sites/news/scripts/min/abc.news.mobile.js?2016-10-21"></script>
+    <script type="text/javascript" src="/cm/code/5452002/Override+WebTrends+profile+for+Local+Radio+infosources+5.js"></script>
+    <!--noindex-->
+<!-- Start ABC Bundle Footer 2.0.5 -->
+<nav id="abcFooter" class="global" role="navigation" aria-label="ABC Footer Navigation" data-version="2.0.5">
+ <ul>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm" data-mobile="http://www.abc.net.au/conditions.htm">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/" data-mobile="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/contact/" data-mobile="http://www.abc.net.au/contact/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm#UseOfContent" data-mobile="http://www.abc.net.au/conditions.htm#UseOfContent">&copy; <time>2016</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/abc.bundle.2.0.5.min.js"></script>
+<script type="text/javascript" src="//www.abc.net.au/res/libraries/stats/abc.stats.js"></script>
+<noscript>
+ <img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au">
+</noscript>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+try {
+  var pvar = { cid: "abc-aust", content: "0", server: "secure-au" };
+  var trac = nol_t(pvar);
+  trac.record().post();
+} catch (er) {
+  // do nothing
+}
+</script>
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- End ABC Bundle Footer 2.0.5 -->
+<!--endnoindex-->
+</body>
+
+  </html>

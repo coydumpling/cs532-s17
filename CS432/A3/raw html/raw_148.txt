@@ -1,0 +1,31 @@
+<html op="item"><head><meta name="referrer" content="origin"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="news.css?ORBzmHLoyyhbfYteaZGT">
+        <link rel="shortcut icon" href="favicon.ico">
+        <title>We’re All Guinea Pigs in a Failed Decades-Long Diet Experiment | Hacker News</title></head><body><center><table id="hnmain" border="0" cellpadding="0" cellspacing="0" width="85%" bgcolor="#f6f6ef">
+        <tr><td bgcolor="#ff6600"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding:2px"><tr><td style="width:18px;padding-right:4px"><a href="http://www.ycombinator.com"><img src="y18.gif" width="18" height="18" style="border:1px white solid;"></a></td>
+                  <td style="line-height:12pt; height:10px;"><span class="pagetop"><b class="hnname"><a href="news">Hacker News</a></b>
+              <a href="newest">new</a> | <a href="newcomments">comments</a> | <a href="show">show</a> | <a href="ask">ask</a> | <a href="jobs">jobs</a> | <a href="submit">submit</a>            </span></td><td style="text-align:right;padding-right:4px;"><span class="pagetop">
+                              <a href="login?goto=item%3Fid%3D13734609">login</a>
+                          </span></td>
+              </tr></table></td></tr>
+<tr style="height:10px"></tr><tr><td><table border="0">
+        <tr class='athing' id='13734609'>
+      <td align="right" valign="top" class="title"><span class="rank"></span></td>      <td valign="top" class="votelinks"><center><a id='up_13734609' href='vote?id=13734609&amp;how=up&amp;goto=item%3Fid%3D13734609'><div class='votearrow' title='upvote'></div></a></center></td><td class="title"><a href="https://tonic.vice.com/en_us/article/were-all-guinea-pigs-in-a-failed-decades-long-diet-experiment" class="storylink" rel="nofollow">We’re All Guinea Pigs in a Failed Decades-Long Diet Experiment</a><span class="sitebit comhead"> (<a href="from?site=vice.com"><span class="sitestr">vice.com</span></a>)</span></td></tr><tr><td colspan="2"></td><td class="subtext">
+        <span class="score" id="score_13734609">5 points</span> by <a href="user?id=mathieutd" class="hnuser">mathieutd</a> <span class="age"><a href="item?id=13734609">1 hour ago</a></span> <span id="unv_13734609"></span> | <a href="hide?id=13734609&amp;goto=item%3Fid%3D13734609">hide</a> | <a href="https://hn.algolia.com/?query=We%E2%80%99re%20All%20Guinea%20Pigs%20in%20a%20Failed%20Decades-Long%20Diet%20Experiment&sort=byDate&dateRange=all&type=story&storyText=false&prefix&page=0" class="hnpast">past</a> | <a href="https://www.google.com/search?q=We%E2%80%99re%20All%20Guinea%20Pigs%20in%20a%20Failed%20Decades-Long%20Diet%20Experiment">web</a> | <a href="item?id=13734609">discuss</a> | <a href="fave?id=13734609&amp;auth=339cbae36b251a25653fe74ca940cbd43d53f077">favorite</a>              </td></tr>
+            <tr style="height:10px"></tr><tr><td colspan="2"></td><td>
+          <form method="post" action="comment"><input type="hidden" name="parent" value="13734609"><input type="hidden" name="goto" value="item?id=13734609"><input type="hidden" name="hmac" value="e8c7c70c84616c3518cb150a417f39c1fbc8c0f0"><textarea name="text" rows="6" cols="60"></textarea>
+                <br><br><input type="submit" value="add comment"></form>
+      </td></tr>
+  </table><br><br>
+</td></tr>
+<tr><td><img src="s.gif" height="10" width="0"><table width="100%" cellspacing="0" cellpadding="1"><tr><td bgcolor="#ff6600"></td></tr></table><br><center><span class="yclinks"><a href="newsguidelines.html">Guidelines</a>
+        | <a href="newsfaq.html">FAQ</a>
+        | <a href="mailto:hn@ycombinator.com">Support</a>
+        | <a href="https://github.com/HackerNews/API">API</a>
+        | <a href="security.html">Security</a>
+        | <a href="lists">Lists</a>
+        | <a href="bookmarklet.html">Bookmarklet</a>
+        | <a href="dmca.html">DMCA</a>
+        | <a href="http://www.ycombinator.com/apply/">Apply to YC</a>
+        | <a href="mailto:hn@ycombinator.com">Contact</a></span><br><br><form method="get" action="//hn.algolia.com/">Search:
+          <input type="text" name="q" value="" size="17" autocorrect="off" spellcheck="false" autocapitalize="off" autocomplete="false"></form>
+            </center></td></tr>      </table></center></body><script type='text/javascript' src='hn.js?ORBzmHLoyyhbfYteaZGT'></script></html>

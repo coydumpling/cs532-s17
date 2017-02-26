@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>The Shadow War on President Trump | TruNewNet</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.trunewsnet.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TruNewNet &raquo; Feed" href="http://www.trunewsnet.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TruNewNet &raquo; Comments Feed" href="http://www.trunewsnet.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TruNewNet &raquo; The Shadow War on President Trump Comments Feed" href="http://www.trunewsnet.com/news-network/tnn-articles/the-shadow-war-on-president-trump/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.trunewsnet.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.trunewsnet.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://www.trunewsnet.com/wp-content/plugins/layerslider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.trunewsnet.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.0.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpun-css'  href='http://www.trunewsnet.com/wp-content/plugins/wp-universal-newsletter/public/css/wp-newsletter-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/font-awesome/css/font-awesome.min.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-cdn-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/genericons/genericons.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/dashicons/css/dashicons.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/bootstrap/css/bootstrap.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/prettyPhoto/css/prettyPhoto.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/styles/style-shortcodes.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/style.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='portfolio-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/styles/style-portfolio.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='//www.trunewsnet.com/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=4.11.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.trunewsnet.com/wp-content/themes/Alante/styles/style-responsive.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/layerslider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/layerslider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/layerslider/static/js/layerslider.transitions.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.0.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.0.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/wp-universal-newsletter/public/js/wp-newsletter-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/main-frontend.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/bootstrap/js/bootstrap.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/waypoints/waypoints-sticky.min.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PiTweetScroll = {"ajaxrequests":"http:\/\/www.trunewsnet.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/widgets/twitterfeed/js/jquery.tweetscroll.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/sedlex/inline_scripts/8a2644e2cff42faf0cc703de8023fb8ff14a93fb.js?ver=20170226'></script>
+<link rel='https://api.w.org/' href='http://www.trunewsnet.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.trunewsnet.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.trunewsnet.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Hacks, Leaks &#038; Lies' href='http://www.trunewsnet.com/news-network/hacks-leaks-lies/' />
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="canonical" href="http://www.trunewsnet.com/news-network/tnn-articles/the-shadow-war-on-president-trump/" />
+<link rel='shortlink' href='http://www.trunewsnet.com/?p=1522' />
+<link rel="alternate" type="application/json+oembed" href="http://www.trunewsnet.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trunewsnet.com%2Fnews-network%2Ftnn-articles%2Fthe-shadow-war-on-president-trump%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.trunewsnet.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trunewsnet.com%2Fnews-network%2Ftnn-articles%2Fthe-shadow-war-on-president-trump%2F&#038;format=xml" />
+<meta name="robots" content="index,follow"/>
+<meta name="googlebot" content="index,follow"/>
+<meta name="description" content="Is There A Shadow War Going On? There has been a lot of back and forth as to the Rash of Protests going on around the nation, including those at several Republican encumbrances "Town Halls" with their constitutes. Many have claimed that those in attendance are not from their districts and some are not&hellip;"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.trunewsnet.com/news-network/tnn-articles/the-shadow-war-on-president-trump/"/>
+<meta property="og:title" content="The Shadow War on President Trump"/>
+<meta property="og:site_name" content="TruNewNet"/>
+<meta property="og:description" content="Is There A Shadow War Going On? There has been a lot of back and forth as to the Rash of Protests going on around the nation, including those at several Republican encumbrances "Town Halls" with their constitutes. Many have claimed that those in attendance are not from their districts and some are not&hellip;"/>
+<meta property="og:article:published_time" content="2017-02-25T21:29:40+0000"/>
+<meta property="og:article:modified_time" content="2017-02-25T21:50:55+0000"/>
+<meta property="og:article:section" content="TNN Articles"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/Shadow-War.jpg"/>
+<meta property="og:image:width" content="570"/>
+<meta property="og:image:height" content="387"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/JohnPodesta_MeetsWith-DisruptJ20-1.jpg"/>
+<meta property="og:image:width" content="600"/>
+<meta property="og:image:height" content="501"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters.jpg"/>
+<meta property="og:image:width" content="2048"/>
+<meta property="og:image:height" content="1313"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/Obama_Link05.jpg"/>
+<meta property="og:image:width" content="648"/>
+<meta property="og:image:height" content="653"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/Obama_Link04.jpg"/>
+<meta property="og:image:width" content="639"/>
+<meta property="og:image:height" content="719"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2.jpg"/>
+<meta property="og:image:width" content="957"/>
+<meta property="og:image:height" content="448"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/C5Zc_oEUsAAoY4i.jpg-large.jpg"/>
+<meta property="og:image:width" content="480"/>
+<meta property="og:image:height" content="640"/>
+<meta property="og:image" content="http://www.trunewsnet.com/wp-content/uploads/2017/02/images2-1.jpg"/>
+<meta property="og:image:width" content="223"/>
+<meta property="og:image:height" content="226"/>
+<meta name="DC.format" content="text/html"/>
+<meta name="DC.title" content="The Shadow War on President Trump"/>
+<meta name="DC.description" content="Is There A Shadow War Going On? There has been a lot of back and forth as to the Rash of Protests going on around the nation, including those at several Republican encumbrances "Town Halls" with their constitutes. Many have claimed that those in attendance are not from their districts and some are not&hellip;"/>
+<meta name="DC.description.abstract" content="Is There A Shadow War Going On? There has been a lot of back and forth as to the Rash of Protests going on around the nation, including those at several Republican encumbrances "Town Halls" with their constitutes. Many have claimed that those in attendance are not from their districts and some are not&hellip;"/>
+<meta name="DC.right" content="Copyright - TruNewNet - http://www.trunewsnet.com - All right reserved"/>
+<meta name="DC.date" content="2017-02-25T21:29:40+0000"/>
+<meta name="DC.date.created" content="2017-02-25T21:29:40+0000"/>
+<meta name="DC.date.available" content="2017-02-25T21:29:40+0000"/>
+<meta name="DC.date.modified" content="2017-02-25T21:50:55+0000"/>
+<meta name="DC.publisher" content="TruNewNet - http://www.trunewsnet.com"/>
+<meta name="DC.creator" content=""/>
+<meta name="DC.subject" content="TNN Articles"/>
+<meta name="DC.description.tableOfContents" content=""/>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.trunewsnet.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.trunewsnet.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.3.0.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css">
+#content, #content button, #content input, #content select, #content textarea { font-size:12px}
+#introaction-core, #introaction-core button, #introaction-core input, #introaction-core select, #introaction-core textarea { font-size:12px}
+#outroaction-core, #outroaction-core button, #outroaction-core input, #outroaction-core select, #outroaction-core textarea { font-size:12px}
+h1, #content h1,#introaction-core h1, #outroaction-core h1 { font-size:24px}
+h2, #content h2,#introaction-core h2, #outroaction-core h2 { font-size:20px}
+h3, #content h3,#introaction-core h3, #outroaction-core h3 { font-size:18px}
+h4, #content h4,#introaction-core h4, #outroaction-core h4 { font-size:16px}
+h5, #content h5,#introaction-core h5, #outroaction-core h5 { font-size:14px}
+h6, #content h6,#introaction-core h6, #outroaction-core h6 { font-size:13px}
+</style><style>#body-core {background: #FFFFFF;}h1,h2,h3,h4,h5,h6 {color: #000000;}body,button,input,select,textarea {color: #000000;}#content a {color: #1e73be;}#content a:hover {color: #310cff;}#pre-header {background: #ffffff;border: none;}#pre-header .header-links .menu-hover > a,#pre-header .header-links > ul > li > a:hover {background: #ffffff;}#pre-header .header-links > ul > li a,#pre-header-social li {color: #000000;}#pre-header .header-links .menu-hover > a,#pre-header .menu > li.current_page_item > a,#pre-header .menu > li.current-menu-ancestor > a,#pre-header .header-links > ul > li > a:hover {color: #4025ed;}#pre-header .header-links .sub-menu {background: #FFFFFF;}#pre-header .header-links ul.menu > li > .sub-menu:after {border-bottom-color: #FFFFFF;}#pre-header .header-links .sub-menu a:hover {background: #FFFFFF;}#pre-header .header-links .sub-menu a {color: #000000;}#pre-header .header-links .sub-menu a:hover,#pre-header .header-links .sub-menu .current-menu-item a {color: #FFFFFF;}#pre-header .header-links .sub-menu,#pre-header .header-links .sub-menu a {border-color: #FFFFFF;}#pre-header .header-links ul.menu > li > .sub-menu:before {border-bottom-color: #FFFFFF;}#header {background: #ffffff;}#header .menu > li.menu-hover > a,#header .menu > li.current_page_item > a,#header .menu > li.current-menu-ancestor > a,#header .menu > li > a:hover {background: #FFFFFF;}#header .header-links > ul > li a,#header .header-links li span:nth-child(2) {color: #000000;}#header .menu > li.current_page_item > a span:first-child,#header .menu > li.current-menu-ancestor > a span:first-child,#header .menu > li.menu-hover > a span:first-child,#header .menu > li > a:hover span:first-child {color: #2c25ed;}#header .header-links .sub-menu {background: #FFFFFF;}#header .header-links .sub-menu li:hover,#header .header-links .sub-menu .current-menu-item {background: #FFFFFF;}#header .header-links .sub-menu a {color: #3011fc;}#header .header-links .sub-menu a:hover,#header .header-links .sub-menu .current-menu-item a {color: #1e73be;}#header .header-links .sub-menu,#header .header-links .sub-menu a {border-color: #FFFFFF;}#footer {background: #2727f4;border: none;}#footer-core h3 {color: #ffffff;border: none;-webkit-box-shadow: none;-moz-box-shadow: none;-ms-box-shadow: none;-o-box-shadow: none;box-shadow: none;}#footer-core, #footer-core p {color: #ffffff;}#footer-core a {color: #5be575;}#footer-core a:hover {color: #25edb1;}#sub-footer {background: #cc2e2e;border-color: #cc2e2e;}#sub-footer-core {color: #ffffff;}#sub-footer-core a {color: #ffffff;}#sub-footer-core a:hover {color: #14ff56;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+</head>
+
+<body class="post-template-default single single-post postid-1522 single-format-standard layout-responsive group-blog wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<div id="body-core" class="hfeed site">
+
+	<header>
+
+	<div id="site-header">
+		<div id="pre-header">
+		<div class="wrap-safari">
+	    	<div id="pre-header-core" class="main-navigation">
+  
+			
+			
+			
+		</div>
+		</div>
+		</div>
+		<!-- #pre-header -->
+
+		<div id="header">
+		<div id="header-core">
+
+			<div id="logo">
+			<a rel="home" href="http://www.trunewsnet.com/"><img src="http://www.trunewsnet.com/wp-content/uploads/2016/11/TNN-Logo.png" alt="Logo"></a>
+			</div>
+
+			<div id="header-links" class="main-navigation">
+				<div id="header-links-inner" class="header-links">
+
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="http://www.trunewsnet.com/"><span>Home</span></a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor"><a href="http://www.trunewsnet.com/category/news-network/"><span>In The News</span></a></li>
+<li id="menu-item-283" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="http://www.trunewsnet.com/category/news-network/tnn-articles/"><span>TNN Articles</span></a></li>
+</ul>
+				</div>
+			</div>
+			<!-- #header-links .main-navigation -->
+
+			<div id="header-nav"><a class="btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+		</div>
+
+			<div id="header-responsive"><div id="header-responsive-inner" class="responsive-links nav-collapse collapse"><ul id="menu-main-menu-1" class=""><li id="res-menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="http://www.trunewsnet.com/"><span>Home</span></a></li>
+<li id="res-menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor"><a href="http://www.trunewsnet.com/category/news-network/"><span>In The News</span></a></li>
+<li id="res-menu-item-283" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="http://www.trunewsnet.com/category/news-network/tnn-articles/"><span>TNN Articles</span></a></li>
+</ul></div></div>
+		</div>
+		<!-- #header -->
+		</div>
+		
+			</header>
+	<!-- header -->
+
+	<div id="intro" class="option1"><div id="intro-core"><h1 class="page-title"><span>The Shadow War on President Trump</span></h1></div><div class="action-shadow"></div></div>
+			
+	<div id="content">
+	<div id="content-core">
+
+		<div id="main">
+		
+		<div id="main-core">
+			
+				
+			<header class="entry-header entry-meta"><span class="author"> By <a href="http://www.trunewsnet.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span><span class="date"><i class="icon-calendar-empty"></i><a href="http://www.trunewsnet.com/news-network/tnn-articles/the-shadow-war-on-president-trump/" title="The Shadow War on President Trump"><time datetime="2017-02-25T21:29:40+00:00">February 25th, 2017</time></a></span><span class="category">Category: <a href="http://www.trunewsnet.com/category/news-network/tnn-articles/" rel="category tag">TNN Articles</a></span></header><!-- .entry-header -->
+		<div class="entry-content">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="alignleft wp-image-1527" src="http://www.trunewsnet.com/wp-content/uploads/2017/02/images2-1.jpg" alt="" width="181" height="183" srcset="http://www.trunewsnet.com/wp-content/uploads/2017/02/images2-1.jpg 223w, http://www.trunewsnet.com/wp-content/uploads/2017/02/images2-1-148x150.jpg 148w" sizes="(max-width: 181px) 100vw, 181px" /> <strong><span style="font-family: book antiqua,palatino,serif; font-size: 14pt; color: #0000ff;">Is There A Shadow War Going On?</span></strong></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">There has been a lot of back and forth as to the Rash of Protests going on around the nation, including those at several Republican encumbrances &#8220;Town Halls&#8221; with their constitutes. Many have claimed that those in attendance are not from their districts and some are not even from their states. It has also been suggested that former President Obama and his associate and financier, billionaire George Soros, are behind this &#8220;Shadow War&#8221;. Here we will explore the facts (as we have witnessed them) and let you, our readers form your own conclusions.<br />
+</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="color: #000000;"><strong><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;">Craigslist Ad&#8217;s, similar to those posted during the Presidential Campaign.</span></strong></span></p>
+<p><img class="wp-image-1530 aligncenter" src="http://www.trunewsnet.com/wp-content/uploads/2017/02/C5Zc_oEUsAAoY4i.jpg-large.jpg" alt="" width="381" height="508" srcset="http://www.trunewsnet.com/wp-content/uploads/2017/02/C5Zc_oEUsAAoY4i.jpg-large.jpg 480w, http://www.trunewsnet.com/wp-content/uploads/2017/02/C5Zc_oEUsAAoY4i.jpg-large-113x150.jpg 113w, http://www.trunewsnet.com/wp-content/uploads/2017/02/C5Zc_oEUsAAoY4i.jpg-large-225x300.jpg 225w" sizes="(max-width: 381px) 100vw, 381px" /></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">We have located Craigslist ads throughout the Country, similar to those posted during the Hillary Clinton campaign by Clinton campaign staffers, in States where Republican congressmen and woman were to hold &#8220;Town Hall&#8221; meetings. Several sources at these town halls also reported sighting buses delivering attendees to the Town Halls, while others followed in (presumably) their own vehicles. </span></p>
+<p style="text-align: justify;"><img class="alignleft wp-image-1533" src="http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2.jpg" alt="" width="149" height="70" srcset="http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2.jpg 957w, http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2-150x70.jpg 150w, http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2-300x140.jpg 300w, http://www.trunewsnet.com/wp-content/uploads/2017/02/ProtestersBussedIn2-768x360.jpg 768w" sizes="(max-width: 149px) 100vw, 149px" /></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">The Obama funded group &#8220;Organize for Action&#8221; has notable called for these town hall disruptions, even going so far as to publish instuction booklets on how to do so. Ironically, the techniques outlined in these &#8220;Instructional booklets&#8221; are the same ones being used at these town halls as has been reported by the nations mainstream media outlets. </span></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="alignleft wp-image-1539" src="http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters.jpg" alt="" width="351" height="225" srcset="http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters.jpg 2048w, http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters-150x96.jpg 150w, http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters-300x192.jpg 300w, http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters-768x492.jpg 768w, http://www.trunewsnet.com/wp-content/uploads/2017/02/OrginzedProtesters-1024x657.jpg 1024w" sizes="(max-width: 351px) 100vw, 351px" /> <span style="font-family: book antiqua,palatino,serif; font-size: 10pt; color: #0000ff;">The &#8220;Organize For Action&#8221; Facebook page dubbed the actions &#8220;Town Hall Project 2018&#8221;.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">Another common theme seen during the presidential campaign, and in may of the nation wide  protests following the election, is the appearance of uniformly identical professionally printed protest signs. We [TRUNewsNet] do not believe that all of the town hall attendees are either paid or part of the organized group. However, according to the groups instructions&#8230;the organized attendees are strategically seated in the front rows and placed throughout the town hall audience to have the greatest impact and appearance.<br />
+</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">It is kind of hard to declare that those attending these town halls are not rehearsed when one person speaks and 50 more start chanting, in unison, the same catch phrase at the same time&#8230;as if on cue. It is clear that even, if not all, there is a good majority of organized activities to disrupt Republican activities that seem to be much like those which were employed by Obama associate Bob Cramer, the DNC and the Clinton campaign at Trump rallies prior to the election.<br />
+</span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;"><strong>FreeBeacon&#8217;s Joe Schoffstall</strong> reports that a group serving as a central hub of information for congressional town halls was founded by a former Hillary Clinton campaign staffer and its parent company is located at the same address as an<strong> organization funded by liberal billionaire George Soros</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">The Town Hall Project, a group that serves as a one-stop shop of information for town hall protests across the country, is connected to a former Clinton staffer and is also closely affiliated with a number of liberal groups.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;">The group, which has been referenced by media outlets on numerous occasions, bills itself as a &#8220;volunteer-powered, grassroots effort that empowers constituents across the country to have face-to-face conversations with their elected representatives.&#8221;</span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;"><strong>Jimmy Dahman</strong>, a former field organizer for the Clinton campaign in Iowa, founded the Town Hall Project. Dahman claimed on CNN that the town hall events are &#8220;all organic and happening at the grassroots level.&#8221;</span></p>
+<blockquote>
+<div class="quote_end" style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt; color: #000000;"> The <strong>Action Network</strong> is located at the same Washington, D.C., address as United We Dream, the &#8220;largest immigrant youth-led organization in the nation.&#8221; United We Dream has received funding from<strong> liberal billionaire George Soros</strong>. It began organizing &#8220;sanctuary campus&#8221; anti-Trump protests shortly after the election.</span></div>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 12pt;"><span style="color: #000000;">The Action Network also shares the same address as Change to Win, the labor organizing group</span>.</span></p>
+</blockquote>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="alignleft size-full wp-image-530" src="http://www.trunewsnet.com/wp-content/uploads/2017/01/F76uWr51_normal.jpg" alt="" width="48" height="48" /> <span style="font-family: book antiqua,palatino,serif; font-size: 12pt; color: #000000;">We will continue to keep you updated as more developments on this become available.</span></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div><!-- .entry-content -->
+
+		
+				
+								
+				
+
+	<div id="comments" class="comments-area">
+
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news-network/tnn-articles/the-shadow-war-on-president-trump/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.trunewsnet.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1522' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments .comments-area -->
+			
+
+		</div><!-- #main-core -->
+		</div><!-- #main -->
+
+			</div>
+	</div><!-- #content -->
+
+	
+	<footer>
+		<!-- #footer -->		
+		<div id="sub-footer">
+		<div id="sub-footer-core">	
+		
+			<div class="copyright">
+			TRUNewsNet ©			</div>
+			<!-- .copyright -->
+
+						<!-- #footer-menu -->
+
+		</div>
+		</div>
+	</footer><!-- footer -->
+
+</div><!-- #body-core -->
+
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/extentions/prettyPhoto/jquery.prettyPhoto.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.11.2.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/sticky/jquery.sticky.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?ver=6.2.1'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/ResponsiveSlides/responsiveslides.min.js?ver=1.54'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/ResponsiveSlides/responsiveslides-call.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/themes/Alante/lib/scripts/plugins/knob/jquery.knob.js?ver=1.2.8'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.trunewsnet.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
+
+</body>
+</html>

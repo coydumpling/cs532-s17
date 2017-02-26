@@ -1,0 +1,1185 @@
+
+
+
+<!DOCTYPE HTML>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 7 ]><html class="no-js ie6" lang="en"><![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7" lang="en"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head id="ctl00_Head1">
+<!-- HEAD INCLUDES begin -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="57x57"   href="/i/AppleIcons/apple-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72"   href="/i/AppleIcons/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/i/AppleIcons/apple-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/i/AppleIcons/apple-icon-144x144.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="TW">
+
+
+
+
+        <link rel="stylesheet" href="/css/tw.dev.css?20170104" type="text/css" media="screen" />
+        <link type="text/css" rel="stylesheet" href="/js/fb/jquery.fancybox.css?20170104" />
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css?20170104">
+        <link type="text/css" rel="stylesheet" href="/css/print.css?20170104" media="all" />
+        <link rel="stylesheet" href="/css/addtohomescreen.css?20170104">
+	
+
+
+
+
+
+<!--[if IE 9]>
+	<link rel="stylesheet" href="/css/ie/ie.css?20170104" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" href="/css/ie/ie8.css?20170104" type="text/css" media="screen" />
+<![endif]-->
+
+<!--[if IE]>
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <script src="/js/vendor/google/jquery.min.js?20170104"></script>
+        <script src="/js/vendor/google/jquery-ui.min.js?20170104"></script>
+        <script src="/js/vendor/google/swfobject.js?20170104"></script>
+        <script src="/js/vendor/modernizr.min.js?20170104"></script>
+	    <script src="/js/vendor/idangerous.swiper.min.js?20170104"></script>
+	    <script src="/js/global.js?20170104"></script>
+	    <script src="/js/fb/jquery.fancybox.pack.js?20170104"></script>
+	    <script src="/js/ntm_adserve_html5.js?20170104"></script>
+        <script src="/js/vendor/addtohome/addtohomescreen.min.js?20170104"></script>
+        <script src="/js/mobile-detect.min.js?04042016"></script>
+        <script src="/js/ad.js?05242016"></script>
+        <script src="/js/compat/html5shiv.min.js?20170104"></script>
+		<script src="/js/compat/respond.js?20170104"></script>
+    
+<![endif]-->
+<!--[if !IE]><!-->
+    
+     
+         <script src="/js/vendor/google/jquery.min.js?20170104"></script>
+        <script src="/js/vendor/google/jquery-ui.min.js?20170104"></script>
+        <script src="/js/vendor/google/swfobject.js?20170104"></script>
+        <script src="/js/vendor/modernizr.min.js?20170104"></script>
+	    <script src="/js/vendor/idangerous.swiper.min.js?20170104"></script>
+	    <script src="/js/global.js?12032015"></script>
+	    <script src="/js/fb/jquery.fancybox.pack.js?20170104"></script>
+	    <script src="/js/ntm_adserve_html5.js?20170104"></script>
+        <script src="/js/vendor/addtohome/addtohomescreen.min.js?20170104"></script>
+        <script src="/js/mobile-detect.min.js?04042016"></script>
+        <script src="/js/ad.js?05242016"></script>
+         
+    
+    <!--<![endif]-->
+
+
+    <meta name="google-site-verification" content="pAdVGYzDxX_HT-n8Zcr4xSwJAPzyaILNFNMccy5kyKE" />
+    <meta name="msvalidate.01" content="89DB4F007641B50586E2772E2C5F406F" />
+    <meta name="y_key" content="e44d3d3a07c364df">
+
+
+
+
+
+
+
+<script src="/js/adsbygoogle.js"></script>
+<script>
+    var bIsAdblocked = (window.isAdsDisplayed === undefined ? "true" : "false");
+</script>
+
+<!-- HEAD INCLUDES end -->
+
+<meta name="description" content="The discount airline will launch seven routes from the Steel City this spring and summer." /><meta name="adzone" content="Airline-News" /><meta property="fb:app_id" content="1516178641970370" /><meta property="og:title" content="Spirit Airlines coming to Pittsburgh: Travel Weekly" /><meta property="og:image" content="http://www.travelweekly.com/uploadedImages/All_TW_Art/2014/121514/T1215AIRCAPACITY1.jpg?n=433" /><meta property="og:description" content="The discount airline will launch seven routes from the Steel City this spring and summer." /><meta property="og:url" content="http://www.travelweekly.com/Travel-News/Airline-News/Spirit-Airlines-coming-to-Pittsburgh" /><link rel="canonical" href="http://www.travelweekly.com/Travel-News/Airline-News/Spirit-Airlines-coming-to-Pittsburgh" /><meta name="pagesource" content="FILE" /><meta name="Pagekey" content="51347398" /><meta name="contentid" content="299759" /><meta name="ntm-content-type" content="content" /><meta name="ntm-content-subtype" content="article" /><meta name="ntm-end-date" content="20991231" /><meta name="ntm-publication-date" content="20170222" /><meta name="ntm-effective-publication-date" content="20170222" /><meta name="ntm-thumbnail" content="http://www.travelweekly.com//uploadedImages/All_TW_Art/2014/121514/T1215AIRCAPACITY1.jpg?n=433" /><meta name="ntm-author" content="Jerry Limone" /><meta name="ntm-content-id" content="299759" /><script>
+  OAS_url = 'http://oascentral.travelweekly.com/';
+  OAS_sitepage = '/Airline-News';
+  OAS_site = 'tw';
+  OAS_site_mobile = 'twmobile';
+  OAS_listpos = 'Top,TopRight,Top1,Position3,Right2,Bottom,x82';
+  ads_rotate = 'Top,Top1,Position3,Right2,Bottom';
+  OAS_query = '&';
+  initOASAd(true); //init ads
+</script>
+<title>
+	Spirit Airlines coming to Pittsburgh: Travel Weekly
+</title></head>
+<body id="ctl00_body1">
+    <div id="fb-root"></div>
+    <form method="post" action="/Travel-News/Airline-News/Spirit-Airlines-coming-to-Pittsburgh" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMzMzMyODk4NA9kFgJmD2QWAgIDD2QWAgIBEBYCHgZhY3Rpb24FiQFodHRwOi8vd3d3LnRyYXZlbHdlZWtseS5jb20vQ29udGVudC9HZW5lcmljUGFnZS5hc3B4P3B0Z3BrPTUxMzQ3Mzk4JnJlcXVybD0vVHJhdmVsLU5ld3MvQWlybGluZS1OZXdzL1NwaXJpdC1BaXJsaW5lcy1jb21pbmctdG8tUGl0dHNidXJnaGRkZDKgRNbBJWBhr38uo6s1rpZatgDi" />
+</div>
+
+        
+
+        
+
+
+        <input type = 'hidden' id='km_s.prop1' value='/travel-news/airline-news/spirit-airlines-coming-to-pittsburgh' /><input type = 'hidden' id='km_s.prop4' value='News: Aviation' /><input type = 'hidden' id='km_s.prop6' value='Article Template' /><input type = 'hidden' id='km_s.prop7' value='Articles' /><input type = 'hidden' id='km_s.prop9' value='Aviation' /><input type = 'hidden' id='km_s.prop11' value='Topics' /><input type = 'hidden' id='km_s.prop15' value='2017/02/22' /><input type = 'hidden' id='km_s.prop18' value='1' /><input type = 'hidden' id='km_s.prop21' value='/travel-news/airline-news/spirit-airlines-coming-to-pittsburgh' /><input type = 'hidden' id='km_s.prop25' value='Aviation' /><input type = 'hidden' id='km_s.prop65' value='no' /><input type = 'hidden' id='km_s.prop69' value='100.4.87.151' /><input type = 'hidden' id='km_s.prop19' value='299759 | 2017/02/22 | Articles' /><input type = 'hidden' id='km_s.prop8' value='(299759) Spirit Airlines coming to Pittsburgh' /><input type = 'hidden' id='km_s.server' value='www.travelweekly.com' /><input type = 'hidden' id='km_s.channel' value='TW' /><input type = 'hidden' id='km_s.pageName' value='Topics| News: Aviation| (299759) Spirit Airlines coming to Pittsburgh' /><script language="JavaScript" type="text/javascript" src="//ai.northstartravelmedia.com/track/?s=ntmtw&kmid=104db8b3-40a4-4fdf-b098-34e3ca63c72d"></script><!-- SiteCatalyst code version: H.27.5.--><script language="JavaScript" type="text/javascript" src="/js/s_code.js?2015081001"></script><script language="JavaScript" type="text/javascript"><!--function initTracking(){s.prop1='/travel-news/airline-news/spirit-airlines-coming-to-pittsburgh';s.prop4='News: Aviation';s.prop6='Article Template';s.prop7='Articles';s.prop9='Aviation';s.prop11='Topics';s.prop15='2017/02/22';s.prop18='1';s.prop21='/travel-news/airline-news/spirit-airlines-coming-to-pittsburgh';s.prop25='Aviation';s.prop65='no';s.prop69='100.4.87.151';s.prop19='299759 | 2017/02/22 | Articles';s.prop8='(299759) Spirit Airlines coming to Pittsburgh';s.server='www.travelweekly.com';s.channel='TW';s.pageName='Topics| News: Aviation| (299759) Spirit Airlines coming to Pittsburgh';s.prop75=bIsAdblocked;
+s.prop64=NTM_TRK_ID;}initTracking();var s_code=s.t();if(s_code)document.write(s_code)//--></script><!-- End SiteCatalyst code version: H.27.5. -->
+        
+        
+
+<!-- BODY HEADER begin -->
+
+    <div class="sticky-header share-enabled nocontent">
+        <!--======================= STICKY HEADER ==========================-->
+
+        <div class="centerizer nocontent">
+
+            <button class="trigger-main-nav"></button>
+
+            <span class="sticky-logo clearfix">
+                <a href="/">
+                    <img src="/I/logo_tw_red.png" alt="Travel Weekly- The Travel Industry's Trusted Voice"></a>
+            </span>
+            
+            <nav class="site-nav clearfix">
+                <ul class="main-menu clearfix nocontent">
+                    <li class="item-1">
+<span class="menu-item menu-item-submenu" data-trigger="news-features-136">News & Features</span>
+</li>
+<li class="item-2">
+<span class="menu-item menu-item-submenu" data-trigger="voices-137">Voices</span>
+</li>
+<li class="item-3">
+<span class="menu-item menu-item-submenu" data-trigger="resources-138">Resources</span>
+</li>
+<li class="item-4">
+<span class="menu-item menu-item-submenu" data-trigger="find-a--139">Find A...</span>
+</li>
+
+                </ul>
+            </nav>
+            
+                <div class="sticky-shares">
+                    <div class="shares-wrap nocontent">
+                        <a class="share-btn addthis_button_facebook" title="Share this article">
+                            <div class="share-icon fb"></div>
+                        </a>
+                        <a class="share-btn addthis_button_twitter" title="Tweet this article">
+                            <div class="share-icon twtr"></div>
+                        </a>
+                        <a class="share-btn addthis_button_pinterest_share" title="Pin this article">
+                            <div class="share-icon pin"></div>
+                        </a>
+                        <a class="share-btn addthis_button_linkedin" title="Share this article">
+                            <div class="share-icon li"></div>
+                        </a>
+                        <a class="share-btn addthis_button_google_plusone_share" title="Share this article">
+                            <div class="share-icon gplus"></div>
+                        </a>
+                        <a class="share-btn addthis_button_email" title="Email this article">
+                            <div class="share-icon email"></div>
+                        </a>
+                        <a class="share-btn addthis_button_favorites" title="Save this article">
+                            <div class="share-icon fav"></div>
+                        </a>
+                    </div>
+                </div>
+            
+            <div class="search-bar desktop nocontent" role="search">
+                <div class="form">
+                    <fieldset class="clearfix">
+                        <input type="text" id="txtSearch" class="jq-site-search" placeholder="Search">
+                        <input type="button" class="jq-header-search-btn mag sticky">
+                    </fieldset>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!--====================== /STICKY HEADER ==========================-->
+
+
+
+
+    <!--============================ EYEBROW ===========================-->
+    <section class="eyebrow hidden-xs">
+        <div class="centerizer nocontent">
+
+            <ul class="socials top nocontent">
+                <li class="fb social-btn">
+                    <a href="https://www.facebook.com/pages/Travel-Weekly/174780042557605" target="_blank">Facebook</a>
+                </li>
+                 <li class="twtr social-btn">
+                   <a href="https://twitter.com/TWtravelnews" target="_blank">Twitter</a>
+                </li>
+                <li class="pin social-btn">
+                   <a href="http://www.pinterest.com/travelweekly" target="_blank">Pinterest</a>
+                </li>
+                <li class="lin social-btn">
+                    <a href="https://www.linkedin.com/company/travel-weekly" target="_blank">LinkedIn</a>
+                </li>
+            </ul>
+
+
+            <div class="extra-nav">
+
+                <span class="more-wrap">
+                    <a href="#" class="more-trigger visible-sm nav-item">More</a>
+
+                    <span class="more-menu nocontent">
+                        <span class="nav-item">
+<a target="_self" href="/Luxury-Travel">Luxury</a>
+</span>
+<span class="nav-item">
+<a href="/Cruise" class="btn" id="btnCruise">Cruise Search</a>
+<span class="dropNav"><a href="#" class="drop-nav-close">x</a><span class="col"><span><strong>Cruises By Region</strong></span><span><a href="/Cruise/Africa-Middle-East">Africa/ Middle East</a></span><span><a href="/Cruise/Alaska">Alaska</a></span><span><a href="/Cruise/Asia">Asia</a></span><span><a href="/Cruise/Pacific-Australia">Australia/ South Pacific</a></span><span><a href="/Cruise/Caribbean">Caribbean</a></span><span><a href="/Cruise/Europe">Europe</a></span><span><a href="/Cruise/Mediterranean">Mediterranean</a></span><span><a href="/Cruise/Mexico">Mexico</a></span><span><a href="/Cruise/United-States-Canada">United States/ Canada</a></span><span><a href="/Cruise/Far-Off-Places">Trans-Oceanic &amp; World</a></span><span><a href="/Cruise/Destinations"><strong>All cruise destinations</strong></a></span><span><br/><br/><a href="/Cruise"><strong>ALL CRUISES</strong></a></span></span><span class="col"><span><strong>Most Popular Cruise Lines</strong></span><span><a href="/Cruise/Avalon-Waterways">Avalon Waterways</a></span><span><a href="/Cruise/Carnival-Cruise-Line">Carnival Cruise Line</a></span><span><a href="/Cruise/Costa-Cruise-Lines">Costa Cruise Lines</a></span><span><a href="/Cruise/Holland-America-Line">Holland America Line</a></span><span><a href="/Cruise/MSC-Cruises">MSC Cruises</a></span><span><a href="/Cruise/Norwegian-Cruise-Line">Norwegian Cruise Line</a></span><span><a href="/Cruise/Princess-Cruises">Princess Cruises</a></span><span><a href="/Cruise/Royal-Caribbean-International">Royal Caribbean International</a></span><span><a href="/Cruise/Uniworld-Boutique-River-Cruise-Collection">Uniworld Boutique River Cruise Collection</a></span><span><a href="/Cruise/Viking-River-Cruises">Viking River Cruises</a></span><span><a href="/Cruise/Lines"><strong>All cruise lines</strong></a></span></span></span></span>
+<span class="nav-item">
+<a href="/Hotels" class="btn" id="btnHotels">Hotel Search</a>
+<span class="dropNav"><a href="#" class="drop-nav-close">x</a><span class="col"><span><strong>Hotels by Region</strong></span><span><a href="/Hotels/Destinations,Africa" title="Find Hotels in Africa">Africa</a></span><span><a href="/Hotels/Destinations,Asia" title="Find Hotels in Asia">Asia</a></span><span><a href="/Hotels/Destinations,Australia-South-Pacific" title="Find Hotels in Australia &amp; the South Pacific">Australia &amp; South Pacific</a></span><span><a href="/Hotels/Destinations,Canada" title="Find Hotels in Canada">Canada</a></span><span><a href="/Hotels/Destinations,Caribbean" title="Find Hotels in Caribbean">Caribbean</a></span><span><a href="/Hotels/Destinations,Europe" title="Find Hotels in Europe">Europe</a></span><span><a href="/Hotels/Destinations,Latin-America" title="Find Hotels in Central &amp; South America">Latin America</a></span><span><a href="/Hotels/Mexico" title="Find Hotels in Mexico">Mexico</a></span><span><a href="/Hotels/Destinations,Middle-East" title="Find Hotels in The Middle East">Middle East</a></span><span><a href="/Hotels/Destinations,United-States" title="Find Hotels in US">United States</a></span><span><a href="/Hotels/Airports" title="Find Hotels By Airport">Airports</a></span><span><br/><br/><a href="/Hotels"><strong>ALL HOTELS</strong></a></span></span><span class="col"><span><strong>Top Hotel Cities</strong></span><span><a href="/Hotels/Bangkok">Bangkok, Thailand</a></span><span><a href="/Hotels/Barcelona">Barcelona, Spain</a></span><span><a href="/Hotels/Beijing">Beijing, China</a></span><span><a href="/Hotels/Berlin">Berlin, Germany</a></span><span><a href="/Hotels/Buenos-Aires">Buenos Aires, Argentina</a></span><span><a href="/Hotels/Chicago">Chicago, Illinois</a></span><span><a href="/Hotels/Delhi">Delhi, India</a></span><span><a href="/Hotels/Dubai">Dubai, United Arab Emirates</a></span><span><a href="/Hotels/Florence">Florence, Italy</a></span><span><a href="/Hotels/Frankfurt">Frankfurt, Germany</a></span><span><a href="/Hotels/Houston">Houston, Texas</a></span><span><a href="/Hotels/Destinations"><strong>All cities</strong></a></span></span></span></span>
+
+                    </span>
+                </span>
+                <!-- /MORE WRAP -->
+
+                <span class="nav-item">
+                    <a href="/Newsletters">eNewsletters</a>
+                </span>
+
+                
+			
+				<span class="nav-item"><a href="/User" class="over-login" rel="nofollow"><strong>Sign in</strong></a></span>
+				<span class="nav-item"><a href="/User/Register" class="over-reg" _Event="53" _Source="RegHdrLink" rel="nofollow"><strong>Register</strong></a></span>
+			
+                
+            </div>
+
+        </div>
+    </section>
+    <!--=========================== /EYEBROW ===========================-->
+
+
+
+
+    <div class="centerizer header nocontent">
+
+
+        <!--============================ HEADER ============================-->
+        <header role="banner">
+
+            <div class="top-stick"></div>
+            <div class="top-layer clearfix">
+
+                <div class="control-wrap">
+
+                    <div class="trigger-main-nav nocontent"></div>
+
+                    <span class="logo clearfix">
+                        <a href="/">
+                            <img src="/I/logo_tw_red.png" alt="Travel Weekly- The Travel Industry's Trusted Voice"></a>
+                        <small>The Travel Industry's Trusted Voice</small>
+                    </span>
+
+                    <div class="search-bar mobile">
+                        <div class="toggle-search">
+                            <div class="mag"></div>
+                        </div>
+                        <div class="touch-search nocontent">
+                            <fieldset class="clearfix">
+                                <input type="text" class="jq-site-search" placeholder="Search">
+                                <input type="submit" class="jq-header-search-btn mag">
+                            </fieldset>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="ad-top-banner">
+                    
+<!--AD-->
+<div id='ad_Top'><script>OAS_AD('Top');</script>
+</div>
+<!--END AD-->
+
+
+                </div>
+
+            </div>
+            <!-- /TOP LAYER -->
+
+            <div class="bot-layer clearfix">
+
+                <!--//// MAIN NAV ////-->
+                <nav role="navigation" class="site-nav clearfix nocontent">
+                    <ul class="main-menu clearfix nocontent">
+                        <li class="item-1">
+<span class="menu-item menu-item-submenu" data-trigger="news-features-136">News & Features</span>
+</li>
+<li class="item-2">
+<span class="menu-item menu-item-submenu" data-trigger="voices-137">Voices</span>
+</li>
+<li class="item-3">
+<span class="menu-item menu-item-submenu" data-trigger="resources-138">Resources</span>
+</li>
+<li class="item-4">
+<span class="menu-item menu-item-submenu" data-trigger="find-a--139">Find A...</span>
+</li>
+
+                        <li class="item-5 sponsor">
+                            
+<!--AD-->
+<div id='ad_TopRight'><script>OAS_AD('TopRight');</script>
+</div>
+<!--END AD-->
+
+
+
+                        </li>
+                    </ul>
+                </nav>
+
+                <div class="search-bar desktop" role="search">
+                    <div class="form">
+                        <fieldset class="clearfix nocontent">
+                            <input type="text" class="jq-site-search" placeholder="Search">
+                            <input type="submit" class="jq-header-search-btn mag">
+                        </fieldset>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /BOT LAYER -->
+            <div class="bot-stick"></div>
+
+
+        </header>
+        <!--============================ /HEADER ===========================-->
+
+
+    </div>
+    
+
+    <div class="sticky-gap"></div>
+
+    
+<!-- BODY HEADER end -->
+
+
+            <section class="parent-wrapper centerizer">
+                <div class="content-wrapper">
+                    <div class="content-reveal">
+                        
+
+
+	<section class="ad-pushdown">
+        <div class="ad-pushdown-holder">
+            
+		    
+<!--AD-->
+<div id='ad_Top1'><script>OAS_AD('Top1');</script>
+</div>
+<!--END AD-->
+        </div>
+	</section>
+
+
+
+
+							<div class="row">
+                                <div class="col-md-12 break">
+                                    <hr class="gray-line">
+                                </div>
+                            </div>
+                        
+                        <div class="row">
+							 
+
+        
+	
+
+<!--============================= TOP =============================-->
+
+
+<!--============================= MAIN =============================-->
+
+<main role="main" class="main col-md-8">
+
+	<div class="row push-down-40"><div class="col-sm-12">
+	<article class='post'>
+		
+
+
+<div class="post-head">
+	<span class="category"><a href="/Travel-News/Airline-News">Aviation</a> </span>
+	<span class="kicker"></span>
+	<h1 class="h1">Spirit Airlines coming to Pittsburgh</h1>
+	<span class="subhead"></span>
+	<div class="meta clearfix">
+		<div class="left">
+			<span class="author">By <a href="/Jerry-Limone">Jerry Limone</a></span>
+			<span class='split'> / </span><time pubdate='' datetime='2017-02-22'>February 22, 2017</time>
+		</div>
+		<div class="right post-controls clearfix nocontent">
+			<a class="font-smaller meta-btn" id="font-smaller" title="Smaller article type"></a>
+			<a class="font-larger meta-btn" id="font-larger" title="Large article type"></a>
+			<a class="print meta-btn" onclick="javascript:window.print()" title="Print this article"></a>
+		</div>
+	</div>
+</div>
+
+
+    <div class="share-wrap">
+        
+            <div class="share-bar horizontal nocontent">
+                <span class="title">Share</span>
+                <div class="share-wrapper">
+                <a class="share-btn addthis_button_facebook" title="Share this article">
+                    <div class="share-icon fb">
+                        
+                    </div>
+                </a>
+                <a class="share-btn addthis_button_twitter" title="Tweet this article">
+                    <div class="share-icon twtr">
+                        
+                    </div>
+                </a>
+                <a class="share-btn addthis_button_pinterest_share" target="_blank" title="Pin this article">
+                    <div class="share-icon pin">
+                       
+                    </div>
+                </a>
+                <a class="share-btn addthis_button_linkedin" target="_blank" title="Share this article">
+                    <div class="share-icon li">
+                        
+                    </div>
+                </a>
+                <a class="share-btn addthis_button_google_plusone_share" target="_blank" title="Share this article">
+                    <div class="share-icon gplus"></div>
+                </a>
+                <a class="share-btn addthis_button_email" target="_blank" title="Email this article">
+                    <div class="share-icon email"></div>
+                </a>
+                 
+                <a class="share-btn addthis_button_favorites" >
+                    <div class="share-icon fav"></div>
+                </a>
+            </div>
+
+            <div class="comments">
+                <a class="share-btn addthis_button_facebook_like" title="Save this article">
+                    <span class="count">1</span>
+                </a>
+            </div>
+            </div>
+        
+
+    </div>
+
+
+
+<div class='post-media'>
+<figure class='hero'>
+<img src="/uploadedImages/All_TW_Art/2014/121514/T1215AIRCAPACITY1.jpg?n=433" alt=""><figcaption> <cite></cite></figcaption>
+				</figure></div>
+
+
+
+
+    <div class="share-wrap">
+        
+            <div class="share-bar vertical nocontent">
+                <div class="share-wrapper addthis_toolbox nocontent" addthis:url="http://www.travelweekly.com/Travel-News/Airline-News/Spirit-Airlines-coming-to-Pittsburgh">
+                    <a class="share-btn addthis_button_facebook" title="Share this article">
+                        <div class="share-icon fb has-count">
+                            <span class="count" id="addthis-facebook-count">--</span>
+                        </div>
+                    </a>
+                    <a class="share-btn addthis_button_twitter" title="Tweet this article">
+                        <div class="share-icon twtr"></div>
+                    </a>
+                    <a class="share-btn addthis_button_pinterest_share" target="_blank" title="Pin this article">
+                        <div class="share-icon pin">
+                        </div>
+                    </a>
+                    <a class="share-btn addthis_button_linkedin" target="_blank" title="Share this article">
+                        <div class="share-icon li">
+                        </div>
+                    </a>
+                    <a class="share-btn addthis_button_google_plusone_share" target="_blank" title="Share this article">
+                        <div class="share-icon gplus"></div>
+                    </a>
+                    <a class="share-btn addthis_button_email" target="_blank" title="Email this article">
+                        <div class="share-icon email"></div>
+                    </a>
+                </div>
+            
+            <div class="comments">                
+                <span class="count disqus-comment-count" data-disqus-identifier="299759"></span>
+            </div>
+            
+            </div>
+        
+
+    </div>
+
+
+
+<div class="post-body   share-push clearfix"><p>Spirit Airlines will make Pittsburgh the 61st city in its
+network, launching seven routes this spring and summer.
+
+</p><p>On May 25, the discount airline will launch daily service to
+Dallas/Fort Worth and daily seasonal service to Myrtle Beach, S.C.</p><p>Thrice-weekly service to Fort Lauderdale begins June 15. Daily
+service to Las Vegas and Orlando begins June 22. And on July 13, Spirit will
+launch a daily flight from Pittsburgh to Houston Bush Intercontinental and Los
+Angeles.</p><p>Spirit will be the lone airline flying scheduled service from
+Pittsburgh to Myrtle Beach and Los Angeles.</p><p>Spirit will compete with United on the Houston route, American
+Airlines on the Dallas/Fort Worth route and Southwest on the Las Vegas, Fort
+Lauderdale and Orlando routes. Frontier also operates Orlando-Pittsburgh
+service.</p><p>In addition, Southwest flies Pittsburgh-Houston and
+Pittsburgh-Dallas, but Southwest uses Hobby and Love airports, respectively.</p></div>
+
+
+		
+	</article>
+
+
+<div class="section-head no-border"><h2 class="h2">Comments</h2></div>
+
+
+
+        <div id="disqus_thread" class="dsq-comments"></div>
+        <script>
+            var disqus_config = function () {
+                this.page.url = 'http://www.travelweekly.com/Travel-News/Airline-News/Spirit-Airlines-coming-to-Pittsburgh';
+        this.page.identifier = '299759';
+    };
+    (function () {
+        var d = document, s = d.createElement('script');
+        s.src = '//travelweekly.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+        <script>
+            var IsAdvanced = 'False';
+            $(document).ready(function () {
+                if (IsAdvanced.toLowerCase() == "true") {
+                    if ($(window).width() > 767) {
+                        $(".dsq-comments").parent().attr("style", "width:60%");
+                    }
+                    else
+                        $(".dsq-comments").parent().attr("style", "width:100%");
+                }
+                else {
+                    $(".dsq-comments").parent().attr("style", "width:100%");
+                }
+            });
+
+            $(window).on('resize', function () {
+                $(".dsq-comments").parent().removeAttr("style");
+                if (IsAdvanced.toLowerCase() == "true") {
+                    if ($(window).width() > 767) {
+                        $(".dsq-comments").parent().attr("style", "width:60%");
+                    }
+                    else
+                        $(".dsq-comments").parent().attr("style", "width:100%");
+
+                    $(".dsq-comments").attr("data-width", "width:" + $(".dsq-comments").parent().width() + "px");
+                }
+                else {
+                    $(".dsq-comments").parent().attr("style", "width:100%");
+                    $(".dsq-comments").attr("data-width", "width:" + $(".dsq-comments").parent().width() + "px");
+
+                }
+            });
+
+        </script>
+
+    
+
+
+
+
+<script>
+
+	$(document).ready(function () {
+
+		    $("#myrelateddiv a").unbind('click').bind('click', function () {
+	       evlink($(this), 75, 'recommend widge');
+	        return true;
+	    });
+		
+	});
+ </script>
+
+
+    <div class="row feed push-down-40 content-related nocontent">
+		<div class="col-sm-12 col-block">
+			
+				<div class="section-head">
+					<span class="h2">
+						Latest Aviation Articles</span>
+				</div>
+			
+			<div class="row bucket-list nocontent" id="myrelateddiv">
+				<!--source:INDEX-->
+<article class='bucket col-sm-4'>
+<a class='post-thumb-full' href="/Travel-News/Airline-News/Norwegian-Air-to-serve-secondary-Northeast-airports"><img  alt='Norwegian Air to serve secondary Northeast airports'  Title='Norwegian Air to serve secondary Northeast airports'  src="/uploadedImages/All_TW_Art/2016/121216/T0224KRNORWEGIAN.jpg?n=3336&origorigwidth=1540&origorigheight=866&origorigmode=crop&Anchor=MiddleCenter&origwidth=1540&origheight=866&origscale=both&origmode=crop&width=1540&height=866&scale=both&mode=crop"></a><span class='post-title h5'><a href="/Travel-News/Airline-News/Norwegian-Air-to-serve-secondary-Northeast-airports">Norwegian Air to serve secondary Northeast airports</a></span></article>
+<article class='bucket col-sm-4'>
+<span class='post-title h5'><a href="/Travel-News/Airline-News/AA-new-boarding-procedure-has-9-groups">AA's new boarding procedure has 9 groups</a></span><p>The last group is passengers who have purchased the new basic economy fare....</p></article>
+<article class='bucket col-sm-4'>
+<span class='post-title h5'><a href="/Travel-News/Airline-News/United-and-American-begin-selling-no-frills-tickets">United and American begin selling no-frills tickets</a></span><p>Buyers can't pick a seat when purchasing, they're in the last group to board, and they can only carry...</p></article>
+<article class='bucket col-sm-4'>
+<span class='post-title h5'><a href="/Travel-News/Airline-News/Volaris-to-charge-for-checked-bags">Volaris to charge for checked bags</a></span><p>The Mexican ultra-low-cost carrier is making the move "in accordance with international trends and...</p></article>
+<article class='bucket col-sm-4'>
+<span class='post-title h5'><a href="/Travel-News/Airline-News/American-Airlines-loses-another-executive-United">American Airlines loses another executive to United</a></span><p>Andrew Nocella is resigning as senior vice president for network, planning, alliances and sales to...</p></article>
+<article class='bucket col-sm-4'>
+<a class='post-thumb-full' href="/Travel-News/Airline-News/Delta-transcon-flights-bringing-back-meals-coach"><img  alt='Delta transcon flights bringing back meals in coach'  Title='Delta transcon flights bringing back meals in coach'  src="/uploadedImages/All_TW_Art/2017/0220/T0220DELTACHEESEPLATE.jpg?n=2813&origwidth=1540&origheight=866&origscale=both&origmode=crop&width=1540&height=866&scale=both&mode=crop"></a><span class='post-title h5'><a href="/Travel-News/Airline-News/Delta-transcon-flights-bringing-back-meals-coach">Delta transcon flights bringing back meals in coach</a></span></article>
+
+			</div>
+		</div>
+	</div>
+
+    <div class="more-from push-down-40"><span class="thin"><a href="/Travel-News/Airline-News">More from <b>Aviation</b></a></div>
+
+<div class="page-body clearfix"><p><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0018/7738.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></p></div>
+
+
+
+</div></div>
+
+
+
+
+</main>
+
+<!--============================= ASIDE ============================-->
+<aside role="complementary" class="col-md-4 nocontent">
+	<div class="gutter-sizer"></div>
+	<div class="row push-down-40"><div class="col-sm-12">
+			<div class="widget newsletter signup-all">
+		
+		<div class="inner-pad clearfix nocontent jq-Newsletter">
+			<div class="form">
+				<div class="all-top clearfix"><span class="icon"><img src="/i/icon_mailer.png" alt="Newsletter Signup" /></span><div class="text-wrap"><h5 class="h5 break">Subscribe To Our </h5><h3 class="h3">Free eNewsletters</h3></div></div><ul class="checks"><li><input type="checkbox" value="OPTIN_TW_AFRICA"><label>Africa</label></li><li><input type="checkbox" value="OPTIN_TW_ALASKA"><label>Alaska</label></li><li><input type="checkbox" value="OPTIN_TW_CARIB"><label>Caribbean</label></li><li><input type="checkbox" value="OPTIN_TW_CRUISE"><label>Cruise</label></li><li><input type="checkbox" value="OPTIN_TW_DLYBUL"><label>Daily Bulletin</label></li><li><input type="checkbox" value="OPTIN_TW_EUROPE"><label>Europe</label></li><li><input type="checkbox" value="OPTIN_TW_FAMTRIP"><label>Fams</label></li><li><input type="checkbox" value="OPTIN_TW_FLORIDA"><label>Florida</label></li><li><input type="checkbox" value="OPTIN_TW_HAWAII"><label>Hawaii</label></li><li><input type="checkbox" value="OPTIN_TW_HOME"><label>Home Based</label></li><li><input type="checkbox" value="OPTIN_TW_VEGAS"><label>Las Vegas</label></li><li><input type="checkbox" value="OPTIN_TW_LUXNEWS"><label>Luxury</label></li><li><input type="checkbox" value="OPTIN_TW_MEXICO"><label>Mexico</label></li><li><input type="checkbox" value="OPTIN_TW_RIVER"><label>River Cruise</label></li><li><input type="checkbox" value="OPTIN_TW_CHINA"><label>Travel Weekly China Bulletin</label></li></ul>
+				<fieldset class="clearfix">
+					<input type="email"><input type="submit" _Event=50  _Source="NewsLtrModuleAll" value="Sign Up">
+				</fieldset>
+				<p id='error' style="display:none;color:Red"></p>
+                <div id="emailSuggestion"  class="EmailSuggester" style="cursor:pointer;font-size:13px;font-family:Arial;position:relative;margin:5px 0;"></div>
+			</div>
+			<p class="terms">Click Here for our <a href="http://adhost1.ntmllc.com/twxads/T&C.htm" target="_blank">Terms</a> and <a href="http://adhost1.ntmllc.com/twxads/privacy_0404.htm" target="_blank">Privacy Policy</a></p>
+		</div>
+		</div>
+	
+
+
+
+
+			<div class="widget ad-300">
+		
+		<div class="ad-wrap">
+			
+<!--AD-->
+<div id='ad_Position3'><script>OAS_AD('Position3');</script>
+</div>
+<!--END AD-->
+		</div>
+		</div>
+	
+
+<div class="widget related-content nocontent"><div class="related-head clearfix"><div class="section-head no-border"><h3 class="h3"><span class="thin">Today's</span> Top Stories</h3></div></div><div class="related-body clearfix"><article class="entry"><h5 class="h5"><a alt='Avani hotel being built in South Korea'  Title='Avani hotel being built in South Korea'   href="/Travel-News/Hotel-News/Avani-hotel-being-built-in-South-Korea" >Avani hotel being built in South Korea</a></h5></article><article class="entry"><a  class="thumb" href="/Travel-News/Airline-News/Norwegian-Air-to-serve-secondary-Northeast-airports" ><img  alt='Norwegian Air to serve secondary Northeast airports'  Title='Norwegian Air to serve secondary Northeast airports'  src="/uploadedImages/All_TW_Art/2016/121216/T0224KRNORWEGIAN.jpg?n=3336&origwidth=168&origheight=168&origmode=crop&Anchor=MiddleCenter&width=66&height=66&scale=both&mode=crop" /></a><h5 class="h5"><a alt='Norwegian Air to serve secondary Northeast airports'  Title='Norwegian Air to serve secondary Northeast airports'   href="/Travel-News/Airline-News/Norwegian-Air-to-serve-secondary-Northeast-airports" >Norwegian Air to serve secondary Northeast airports</a></h5></article><article class="entry"><h5 class="h5"><a alt='EU doesn&#39;t want hard Irish border after Brexit'  Title='EU doesn&#39;t want hard Irish border after Brexit'   href="/Europe-Travel/EU-doesnt-want-hard-Irish-border-after-Brexit" >EU doesn't want hard Irish border after Brexit</a></h5></article><article class="entry"><h5 class="h5"><a alt='Small Luxury Hotels adds five Caribbean properties'  Title='Small Luxury Hotels adds five Caribbean properties'   href="/Caribbean-Travel/Small-Luxury-Hotels-adds-five-Caribbean-properties" >Small Luxury Hotels adds five Caribbean properties</a></h5></article></div><a class="more-link" href="/Travel-News">More Top Stories</a></div>
+
+
+
+
+			<div class="widget ad-300">
+		
+		<div class="ad-wrap">
+			
+<!--AD-->
+<div id='ad_Right2'><script>OAS_AD('Right2');</script>
+</div>
+<!--END AD-->
+		</div>
+		</div>
+	
+
+
+			<div class="widget tabbed-list nocontent">
+		
+
+            <ul class="nav-tabs clearfix">
+                <li class="active"><a href="#read" data-toggle="tab"><span class="thin">Most</span> Read</a></li>
+                <li><a href="#shared" data-toggle="tab"><span class="thin">Most</span> Shared</a></li>
+            </ul>
+
+            <div class="tab-content">
+                <div class="tab-pane fade in active" id="read">
+                    <ol class="circle-list nocontent">
+                        <li><a href="/Mexico-Travel/Insights/Traveling-Mexico-in-a-Trump-world">Traveling Mexico in a Trump world</a></li><li><a href="/Travel-News/Hotel-News/Marriott-may-shrink-Sheraton-presence-US">Marriott may shrink Sheraton presence in U.S.</a></li><li><a href="/Travel-News/Hotel-News/Caesars-Entertainment-hikes-resort-fees-at-Vegas-hotels">Caesars Entertainment hikes resort fees at Vegas hotels</a></li><li><a href="/Travel-News/Airline-News/United-and-American-begin-selling-no-frills-tickets">United and American begin selling no-frills tickets</a></li><li><a href="/Mark-Pestronk/US-can-revoke-citizens-passport-while-abroad-in-some-cases">U.S. can revoke a citizen's passport while abroad in some cases</a></li><li><a href="/North-America-Travel/Data-suggests-Trump-slump-in-travel-to-US">Data suggests a 'Trump slump' in travel to U.S.</a></li><li><a href="/Travel-News/Travel-Agent-Issues/Insights/How-agents-can-make-travel-insurance-sales-part-of-their-workflow">Making travel insurance sales part of your workflow</a></li>
+                    </ol>
+                </div>
+                <div class="tab-pane fade" id="shared">
+                    <ol class="circle-list nocontent">
+                        <li><a href="/Asia-Travel/Safety-is-relative-Visiting-the-Philippines">Safety is relative: Visiting the Philippines</a></li><li><a href="/Mexico-Travel/Apple-Leisure-Group-reassures-travelers-anxious-about-Mexico">Apple Leisure Group reassures travelers anxious about Mexico</a></li><li><a href="/North-America-Travel/Data-suggests-Trump-slump-in-travel-to-US">Data suggests a 'Trump slump' in travel to U.S.</a></li><li><a href="/Travel-News/Airline-News/New-airport-opens-on-St-Vincent">New airport opens on St. Vincent</a></li><li><a href="/Travel-News/Hotel-News/Marriott-may-shrink-Sheraton-presence-US">Marriott may shrink Sheraton presence in U.S.</a></li><li><a href="/Travel-News/Hotel-News/Grand-Hyatt-prepares-to-make-long-delayed-Baha-Mar-a-reality">Grand Hyatt prepares to make long-delayed Baha Mar a reality</a></li><li><a href="/Cruise-Travel/Despite-its-size-MSC-Seaside-design-connects-guests-with-the-ocean">Despite its size, MSC Seaside's design connects guests with the ocean</a></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+    
+
+
+<div class="widget from-partners"><span class="sticker">From Our Partners</span> <div class="inner-pad clearfix"><div class="post-preview"><a  Title='How to become an expert on selling SAS and Scandinavia'  href="https://event.webcasts.com/starthere.jsp?ei=1136019" class="post-thumb-half"  target="_blank" ><img  alt='How to become an expert on selling SAS and Scandinavia'  Title='How to become an expert on selling SAS and Scandinavia'  src="/uploadedImages/TW_Elearn/Sales/Virtual_Events/SASWebinar.jpg?width=120&height=69&scale=both&mode=crop"></a><h5 class="h5"><a  Title='How to become an expert on selling SAS and Scandinavia'  href="https://event.webcasts.com/starthere.jsp?ei=1136019"  target="_blank" >How to become an expert on selling SAS and Scandinavia</a></h5><time>March 2, 2017<BR>2pm eastern</time><p class="body-sm">Join Travel Weekly and SAS to learn everything about selling Scandinavia from the basics about...<a  Title='How to become an expert on selling SAS and Scandinavia'  class="post-more" href="https://event.webcasts.com/starthere.jsp?ei=1136019"  target="_blank" >Register Now</a></p></div><div class="post-preview"><a  Title='Royalton Luxury Resorts for Travel Agents'  href="http://interactive.travelweekly.com/Blue-diamond-resort" class="post-thumb-half"  target="_blank" ><img  alt='Royalton Logo'  Title='Royalton Logo'  src="/uploadedImages/TW_Elearn/Sales/Planners_Guides_Content/Royalton_Luxury_Resorts_logo_Client.jpg?width=120&height=69&scale=both&mode=crop"></a><h5 class="h5"><a  Title='Royalton Luxury Resorts for Travel Agents'  href="http://interactive.travelweekly.com/Blue-diamond-resort"  target="_blank" >Royalton Luxury Resorts for Travel Agents</a></h5><p class="body-sm">From exclusive luxury at Royalton Luxury Resorts to an adults-only enclave at Hideaway at...<a  Title='Royalton Luxury Resorts for Travel Agents'  class="post-more" href="http://interactive.travelweekly.com/Blue-diamond-resort"  target="_blank" >READ MORE</a></p></div><div class="post-preview"><a  Title='Personalization: breaking down a big topic to build up loyalty and revenue'  href="https://event.webcasts.com/starthere.jsp?ei=1136033" class="post-thumb-half"  target="_blank" ><img  alt='Personalization: breaking down a big topic to build up loyalty and revenue'  Title='Personalization: breaking down a big topic to build up loyalty and revenue'  src="/uploadedImages/TW_Elearn/Sales/Virtual_Events/Sabre-logo-2017.jpg?width=120&height=69&scale=both&mode=crop"></a><h5 class="h5"><a  Title='Personalization: breaking down a big topic to build up loyalty and revenue'  href="https://event.webcasts.com/starthere.jsp?ei=1136033"  target="_blank" >Personalization: breaking down a big topic to build up loyalty and revenue</a></h5><time>March 14, 2017<BR>2pm eastern</time><p class="body-sm">Join us and executives in an agency guest panel to talk about industry best practices about...<a  Title='Personalization: breaking down a big topic to build up loyalty and revenue'  class="post-more" href="https://event.webcasts.com/starthere.jsp?ei=1136033"  target="_blank" >Register Now</a></p></div></div></div>
+
+<div class="widget pinterest masonry-reload" id="pin-container"><span class="pin-head">Pinterest</span><script type="text/javascript">try { var boardWidth = document.getElementById('pin-container').clientWidth - 20,scaleWidth = Math.floor(boardWidth/4.1111);document.getElementById('pin-container').innerHTML = "<span id='pin-head' class='pin-head'>Pinterest</span><a data-pin-do='embedUser' href='http://www.pinterest.com/travelweekly/' data-pin-scale-width='"+scaleWidth+"' data-pin-board-width='"+boardWidth+"' data-pin-scale-height='600'>\nFollow Pinterest's board Pin pets on Pinterest.\n</a>\n"; }catch(e) { }(function(d){try { var f = d.getElementById('pin-head'), p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//assets.pinterest.com/js/pinit.js';f.parentNode.insertBefore(p, f); }catch(e) { }}(document));</script></div>
+
+
+</div></div>
+
+
+
+
+</aside>
+
+<!--============================= BOTTOM =============================-->
+<div class="row">
+<div class="col-md-12 break">
+	
+</div>
+</div> 
+
+    
+
+
+	
+		</div><!-- /ROW -->
+		
+							 
+	<!--BOTTOM LEADERBOARD-->
+	<div class="centerizer break">
+		<section class="ad-bot-banner">
+            <div class="ad-bot-banner-holder">
+			    
+<!--AD-->
+<div id='ad_Bottom'><script>OAS_AD('Bottom');</script>
+</div>
+<!--END AD-->
+            </div>
+		</section>
+	</div>
+	<!--END BOTTOM LEADERBOARD-->
+
+
+<!-- FOOTER begin -->
+
+
+	<footer>
+
+		<div class="top-level clearfix nocontent">
+
+			<span class="logo">
+				<a href="/">
+					<img src="/i/logo_tw_white.png" alt="Travel Weekly- The Travel Industry's Trusted Voice"></a>
+			</span>
+
+			<ul class="socials bot clearfix nocontent">
+                <li class="fb social-btn">
+                    <a href="https://www.facebook.com/pages/Travel-Weekly/174780042557605" target="_blank">Facebook</a>
+                </li>
+                <li class="twtr social-btn">
+                   <a href="https://twitter.com/TWtravelnews" target="_blank">Twitter</a>
+                </li>
+                <li class="pin social-btn">
+                   <a href="http://www.pinterest.com/travelweekly" target="_blank">Pinterest</a>
+                </li>
+                <li class="lin social-btn">
+                    <a href="https://www.linkedin.com/company/travel-weekly" target="_blank">LinkedIn</a>
+                </li>
+                <li class="gplus social-btn">
+                    <a href="https://plus.google.com/102374645893537050083" rel="publisher" target="_blank">Google+</a>
+                </li>
+
+			</ul>
+
+			<a class="footer-toggle collapsed">
+				<span>More Information</span>
+				<em></em>
+			</a>
+
+		</div>
+		<!-- /TOP LEVEL -->
+
+		<div class="bot-level clearfix nocontent">
+
+			<span class="v-line"></span>
+
+			<div class="col">
+
+				<div class="col-head">
+					<strong>Travel Weekly</strong>
+					<select class="bot-select" id="tw-menu">
+						<option>Select Link</option>
+						<option value="/">Home</option><option value="/Travel-News">News by Topic</option><option value="/Cruise">Cruise Search</option><option value="/Hotels">Hotel Search</option><option value="http://jobs.travelweekly.com">Job Search</option><option value="/About-Us">About Us</option><option value="/Contact-Us">Contact Us</option><option value="/Media-Kit">Advertise</option><option value="http://www.travelweekly.com/adupload.aspx">Upload Print Ad Materials</option><option value="/Hotels/Contact-Us">Hotel Search Questions</option><option value="/Cruise/Contact-Us">Cruise Search Questions</option><option value="http://eforms.kmpsgroup.com/jointforms/Forms/Subscription.aspx?pubcode=TW&promoCode=Footer2016">Subscribe to Print</option><option value="/Newsletters">Subscribe to eNewsletters</option><option value="http://adhost1.ntmllc.com/twxads/T&C.htm">Terms</option><option value="http://adhost1.ntmllc.com/twxads/privacy_0404.htm">Privacy Policy</option><option value="http://wrightsmedia.com/reprints/contact.cfm?magid=3500">Purchase Reprints</option><option value="/Commenting-Guidelines/">Comment Guidelines</option><option value="/Sitemap">Sitemap</option>
+					</select>
+				</div>
+
+				<div class="col-body">
+					<ul class="link-list">
+						<li><a href="/">Home</a></li><li><a href="/Travel-News">News by Topic</a></li><li><a href="/Cruise">Cruise Search</a></li><li><a href="/Hotels">Hotel Search</a></li><li><a href="http://jobs.travelweekly.com">Job Search</a></li><li><a href="/About-Us">About Us</a></li><li><a href="/Contact-Us">Contact Us</a></li><li><a href="/Media-Kit">Advertise</a></li><li><a href="http://www.travelweekly.com/adupload.aspx">Upload Print Ad Materials</a></li><li><a href="/Hotels/Contact-Us">Hotel Search Questions</a></li><li><a href="/Cruise/Contact-Us">Cruise Search Questions</a></li><li><a href="http://eforms.kmpsgroup.com/jointforms/Forms/Subscription.aspx?pubcode=TW&promoCode=Footer2016">Subscribe to Print</a></li><li><a href="/Newsletters">Subscribe to eNewsletters</a></li><li><a href="http://adhost1.ntmllc.com/twxads/T&C.htm">Terms</a></li><li><a href="http://adhost1.ntmllc.com/twxads/privacy_0404.htm">Privacy Policy</a></li><li><a href="http://wrightsmedia.com/reprints/contact.cfm?magid=3500">Purchase Reprints</a></li><li><a href="/Commenting-Guidelines/">Comment Guidelines</a></li><li><a href="/Sitemap">Sitemap</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="col nocontent">
+
+				<div class="col-head">
+					<strong>Northstar Travel Group</strong>
+					<select class="bot-select" id="ntm-menu">
+						<option>Select Link</option>
+						<option value="http://www.travelweekly-asia.com">Travel Weekly Asia</option><option value="http://www.travelweekly-china.com">Travel Weekly China</option><option value="http://www.travelagewest.com">TravelAge West</option><option value="http://www.travel-42.com/">travel42</option><option value="http://www.starserviceonline.com">Star Service Online</option><option value="http://www.meetings-conventions.com">Meetings & Conventions</option><option value="http://meetingnews.com">Meeting News</option><option value="http://www.successfulmeetings.com">Successful Meetings</option><option value="http://www.incentivemag.com">Incentive</option><option value="http://www.meetingnews.com">Meeting News</option><option value="http://www.businesstravelnews.com">Business Travel News</option><option value="http://www.businesstravelnews.com/Strategic-Sourcing/">Travel Procurement</option><option value="http://thebeat.travel">The Beat</option><option value="http://www.phocuswright.com">Phocuswright</option><option value="http://www.webintravel.com">Web In Travel</option>
+					</select>
+				</div>
+
+				<div class="col-body clearfix">
+
+                    <div class="link-block"><strong>Retail Travel</strong><a href="http://www.travelweekly-asia.com">Travel Weekly Asia</a><a href="http://www.travelweekly-china.com">Travel Weekly China</a><a href="http://www.travelagewest.com">TravelAge West</a><a href="http://www.travel-42.com/">travel42</a><a href="http://www.starserviceonline.com">Star Service Online</a></div><div class="link-block"><strong>Meetings & Incentive</strong><a href="http://www.meetings-conventions.com">Meetings & Conventions</a><a href="http://meetingnews.com">Meeting News</a><a href="http://www.successfulmeetings.com">Successful Meetings</a><a href="http://www.incentivemag.com">Incentive</a><a href="http://www.meetingnews.com">Meeting News</a></div><div class="clearfix"></div><div class="link-block"><strong>Business Travel</strong><a href="http://www.businesstravelnews.com">Business Travel News</a><a href="http://www.businesstravelnews.com/Strategic-Sourcing/">Travel Procurement</a><a href="http://thebeat.travel">The Beat</a></div><div class="link-block"><strong>Research</strong><a href="http://www.phocuswright.com">Phocuswright</a><a href="http://www.webintravel.com">Web In Travel</a></div><div class="clearfix"></div>
+
+				</div>
+			</div>
+
+		</div>
+		<!-- /BOT LEVEL -->
+
+	</footer>
+
+	<div class="below-footer clearfix nocontent">
+		<div class="logo">
+			<a href="http://www.northstartravelgroup.com"  target="_blank">
+				<img src="/i/ntglogow.png" alt="Northstar Travel Group"></a>
+		</div>
+
+		<div class="copy clearfix nocontent">
+			<span class="credits">Copyright &copy; 2017 Northstar Travel Media, LLC.  All Rights Reserved.</span>
+			<address>100 Lighting Way Secaucus, NJ 07094-3626 USA</address>
+			<span class="tel">Telephone:&nbsp;<a href="tel:201-902-2000">(201)&nbsp;902-2000</a></span>
+		</div>
+		<div id='jq-debug2'></div>
+<div style="display:none">2c92a0fc57d0a92c0157da3fc34b2244</div>
+	</div>
+
+
+<!-- FOOTER end -->
+
+		</div><!-- /CONTENT REVEAL -->
+            </div><!-- /CONTENT WRAPPER -->
+            
+    <!--======================= NAV SLIDE PANEL ========================-->
+    <div class="nav-slide-panel nocontent">
+        <div class="channel-wrapper">
+            <div class="close-panel"></div>
+            <div class="parent-menu">
+                <span class="menu-item" data-trigger="news-features-136">News & Features</span>
+<span class="menu-item" data-trigger="voices-137">Voices</span>
+<span class="menu-item" data-trigger="resources-138">Resources</span>
+<span class="menu-item" data-trigger="find-a--139">Find A...</span>
+
+            </div>
+            <div class="channel" id="channel-news-features-136"><span class="back-btn">Back</span>
+<span class="menu-title"><a target="_self" href="/Travel-News">News & Features</a></span>
+<div class="link-wrap">
+<ul class="link-group">
+<li class="parent-topic">
+<span>Industry News</span>
+</li>
+<li><a target="_self" href="/Travel-News/Airline-News/">Aviation</a>
+</li>
+<li><a target="_self" href="/Travel-News/Corporate-Travel/">Corporate Travel</a>
+</li>
+<li><a target="_self" href="/Cruise-Travel/">Cruise</a>
+</li>
+<li><a target="_self" href="/Travel-News/Government/">Government Affairs</a>
+</li>
+<li><a target="_self" href="/Travel-News/Car-Rental-News/">Ground Transportation</a>
+</li>
+<li><a target="_self" href="/Travel-News/Hotel-News/">Hotels</a>
+</li>
+<li><a target="_self" href="/Luxury-Travel">Luxury</a>
+</li>
+<li><a target="_self" href="/Travel-News/Travel-Agent-Issues/">Retail</a>
+</li>
+<li><a target="_self" href="/River-Cruising/">River Cruise</a>
+</li>
+<li><a target="_self" href="/Travel-News/Tour-Operators/">Tours</a>
+</li>
+<li><a target="_self" href="/Travel-News/Travel-Technology/">Travel Technology</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Destinations</span>
+</li>
+<li><a target="_self" href="/Middle-East-Africa-Travel/">Africa / Middle East</a>
+</li>
+<li><a target="_self" href="/Asia-Travel">Asia / Pacific</a>
+</li>
+<li><a target="_self" href="/Caribbean-Travel">Caribbean</a>
+</li>
+<li><a target="_self" href="/South-America-Travel">Central / South America</a>
+</li>
+<li><a target="_self" href="/Europe-Travel">Europe</a>
+</li>
+<li><a target="_self" href="/Hawaii-Travel">Hawaii</a>
+</li>
+<li><a target="_self" href="/Mexico-Travel">Mexico</a>
+</li>
+<li><a target="_self" href="/North-America-Travel">USA / Canada</a>
+</li>
+</ul>
+</div></div><div class="channel" id="channel-voices-137"><span class="back-btn">Back</span>
+<span class="menu-title"><a target="_self" href="/Viewpoints">Voices</a></span>
+<div class="link-wrap">
+<ul class="link-group">
+<li class="parent-topic">
+<span>Opinion</span>
+</li>
+<li><a target="_self" href="/ViewPoints">Columnists</a>
+</li>
+<li><a target="_self" href="/ForumsLetters">Forum & Letters</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Insights">Insight</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/In-the-Hot-Seat/">In the Hot Seat</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Blogs</span>
+</li>
+<li><a target="_self" href="/Blogs/Dispatch">Dispatch</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/masters-series">Masters Series</a>
+</li>
+</ul>
+</div></div><div class="channel" id="channel-resources-138"><span class="back-btn">Back</span>
+<span class="menu-title">Resources</span>
+<div class="link-wrap">
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Virtual-Events">Webinars</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Fam-Trips">Fam Trips</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/For-Travel-Agents/Travel-Product-News/">Travel Deals</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Partner Content</span>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Seminars">Agent Training</a>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Guides-Brochures">Guides & Brochures</a>
+</li>
+<li><a target="_self" href="/Strategic-Content">Thought Leadership</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Live Events</span>
+</li>
+<li><a target="_blank" href="http://www.travelweekly.com/globaltravelmarketplace/">Global Travel Marketplace</a>
+</li>
+<li><a target="_self" href="http://www.travelweekly.com/Cruiseworld/">CruiseWorld</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Awards</span>
+</li>
+<li><a target="_blank" href="http://www.travelweeklyawards.com">Magellan</a>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Travel-Weekly-Awards">Readers Choice</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<span>Research Reports</span>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Consumer-Travel-Trends/">Consumer Trends</a>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Power-List/">Power List</a>
+</li>
+<li><a target="_self" href="/For-Travel-Agents/Travel-Industry-Survey/">Travel Industry Survey</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Media">Photos & Videos</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Preview">Preview</a>
+</li>
+</ul>
+</div></div><div class="channel" id="channel-find-a--139"><span class="back-btn">Back</span>
+<span class="menu-title">Find A...</span>
+<div class="link-wrap">
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Cruise">Cruise</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="/Hotels">Hotel</a>
+</li>
+</ul>
+<ul class="link-group">
+<li class="parent-topic">
+<a target="_self" href="http://jobs.travelweekly.com/">Job</a>
+</li>
+</ul>
+</div></div>
+        </div>
+    </div>
+
+    <!--====================== /NAV SLIDE PANEL ========================-->
+
+
+
+            </section>
+	<!-- /PARENT WRAPPER CENTERIZER -->
+
+            
+
+        
+        
+<!-- FOOTER INCLUDES begin -->
+
+    
+    <script src="/js/vendor/bootstrap.min.js?20170104"></script>
+    <script src="/js/vendor/masonry.pkgd.min.js?20170104"></script>
+    <script src="/js/vendor/imagesloaded.pkgd.min.js?20170104"></script>
+    <script src="/js/vendor/boxer/jquery.fs.boxer.min.js?20170104"></script>
+    <script src="/js/vendor/jquery.customSelect.min.js?20170104"></script>
+    <script src="/js/vendor/noUISlider.6.2.0/jquery.nouislider.min.js?20170104"></script>
+    <script src="/js/vendor/jquery.backstretch.min.js?20170104"></script>
+    <script src="/js/grids.min.js?20170104"></script>
+    <script src="/js/site.js?2017014"></script>
+     
+
+
+
+
+
+
+
+    
+        <script>
+            var addthis_share = { ui_use_css: false, passthrough: { twitter: { via: "TWtravelnews" } } }
+        </script>        
+        <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=travelweeklyntmllc" async="async"></script>
+       <script>
+            jQuery(document).ready(function ($) { addthisReady(); });
+        </script>
+
+
+
+
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-3418758-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+
+
+
+    <script>
+        __compete_code = 'a608985e24abd35cbc84849e49f54738';
+    </script>
+    <script src="//c.compete.com/bootstrap/s/a608985e24abd35cbc84849e49f54738/travelweekly-com/bootstrap.js"></script>
+    <noscript>
+        <img width="1" height="1" src="https://ssl-travelweekly-com-a60898.c-col.com"/>
+    </noscript>
+
+
+    <script async src="http://i.simpli.fi/dpx.js?cid=8788&action=100&segment=NS_TravelWeekly&m=1"></script>
+    <noscript>
+        <img src="http://i.simpli.fi/dpx?cid=8788&action=100&segment=NS_TravelWeekly" width="1" height="1" />
+    </noscript>
+
+
+   <script>
+	setTimeout(function () {
+	    var a = document.createElement("script");
+	    var b = document.getElementsByTagName("script")[0];
+	    a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7738.js?" + Math.floor(new Date().getTime() / 3600000);
+	    a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+	}, 1);
+    </script>
+
+<!-- FOOTER INCLUDES end -->
+
+        
+    
+
+
+
+	
+
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9B0F9472" />
+</div></form>
+    
+		
+    
+<!--AD-->
+<div id='ad_x82'><script>OAS_AD('x82');</script>
+</div>
+<!--END AD-->
+
+
+
+</body>
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKPP66"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKPP66');</script>
+<!-- End Google Tag Manager -->
+
+</html>

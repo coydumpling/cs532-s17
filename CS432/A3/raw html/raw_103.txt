@@ -1,0 +1,1476 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <!--
+'
+' COPYRIGHT NOTICE: Copyright 2002 Per Soderlind - per@soderlind.no
+'
+' This code is free for non-commercial use. Any commercial usage 
+' requires a licensing agreement from the author who may be 
+' contacted at the following email address: per@soderlind.no
+'
+' DISCLAIMER:
+' GeoIP.asp is provided as free software, in the hope that it will be useful. 
+' It is provided "as-is", without warranty of any kind, either expressed or implied, 
+' including, but not limited to, the implied warranties of merchantability and fitness 
+' for a particular purpose. The entire risk as to determining the suitability, quality 
+' and performance of GeoIP.asp are with you. Should GeoIP.asp prove defective, the 
+' full cost of repair, servicing, or correction lies with you. 
+-->
+<!-- Connection Error 0 --><!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+
+
+<!-- Start Google DFP code  -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-3790681608719523");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-3790681608719523", "Horizontal_Text_Ad_728x90");
+GA_googleAddSlot("ca-pub-3790681608719523", "Squared_Ad_336x280");
+GA_googleAddSlot("ca-pub-3790681608719523", "Squared_Ad_200x200");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- End Google DFP code  -->
+
+
+<!-- Include virtual="/includes/sistema/include_gral_sitio.asp"-->
+
+
+<title>Autographed 45 of The Beatles' 'Please Please Me' may bring $40,000 at Heritage Auctions</title>
+<meta name="description" content="A 45 rpm copy of the second single released in the United Kingdom by all four members of the Beatles is expected to earn top lot honors at  a href= ht">
+
+
+<!-- Server time and IP -->
+
+<script language="javascript">
+    // Used to display the time at top
+    var serverDateTime = new Date('Sat Feb 25 20:38:04 EST 2017');
+    var serverHours = 20;
+    var serverMinutes = 38;
+    var serverOffset = 5;
+    // Used for weather widget
+    var userIP = '100.4.87.151';
+</script>
+
+
+<!-- Common meta tags -->
+<meta name="keywords" content="art gallery, gallery, fantasy art, landscape art, nude, abstract art, fine art, wall art, art, artwork, painting, oil painting, landscape painting, buy art,art daily,art news,artdaily, daily art, art newspaper, arte, arts daily,contemporary art news,fine art news,the art daily,art news daily,art daily news,daily newsletter,artdaily.org, artdaily.com, art site, art news, art of the day, art daily, museums, Pavarotti, exhibits, artists, milestones, digital art, architecture, photography, photographers, special photos, special reports, featured stories, auctions, art fairs, anecdotes, art quiz, education, mythology, 360 images, 3D images, last week, ignacio villarreal, The First Art Newspaper on the Net, The First Art, Newspaper, Trailers best movies nominated Oscars, Academy Awards, winners Oscars, Facundo Cabral 105 peri&oacute;dicos anunciaron su muerte en primera plana, Facundo Cabral: El hombre que cantaba para llevarle chocolates a su ahijado, Facundo Cabral: La muerte sin sentido , Fotos in&eacute;ditas de Facundo,  Homenaje a Facundo Cabral,  El ahijado de Facundo Cabral, EL Heredero de Facundo Cabra, &nbsp;Facundo Cabral,  Audio de la &uacute;ltima entrevista que se le hizo, Las &uacute;ltimas fotograf&iacute;as de Facundo en Quetzaltenango, Lea el suplemento especial de el Quetzalteco, peri&oacute;dico que cubri&oacute; el &uacute;ltimo concierto de Facundo, La despedida de Facundo en Guatemala y en Buenos Aires, Facundo Cabral homenaje especial en ArtDaily">
+<meta NAME="author" CONTENT="Ignacio Villarreal">
+<meta NAME="copyright" CONTENT="ArtDaily">
+<meta name="language" content="English" />
+<meta name="revisit" content="1 day" />
+<meta name="distribution" content="Global" />
+<meta name="robots" content="All" />
+
+<!-- Favorites icon -->
+<link rel="SHORTCUT ICON" HREF="/media/imagen/favicon.ico">
+
+
+<!-- Base libraries -->
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script language="javascript" src="/includes/javascripts/jquery.cookie.js"></script>
+<script language='javascript' src='/includes/javascripts/func_val_contenido.js'></script>
+<script language='javascript' src="/includes/javascripts/utils.js?v=20140115.1"></script>
+
+
+<!-- Base styles -->
+<link href='/style/estilos.css?v=20140113.1' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/style/lightbox.css" type="text/css" media="screen" />
+
+
+<!-- Menu Widget -->
+<link href="/style/superfish.css?v=20140212.1" rel="stylesheet" media="screen">
+<script language="javascript" src="/includes/javascripts/superfish.js"></script>
+
+
+<!-- Weather Widget -->
+<script type="text/javascript" src="/includes/javascripts/weather.js?v=20130222.1"></script>
+
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11155819-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+<!-- AddThis Code -->
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50d3ec1a0f682544"></script>
+<!-- End AddThis Code -->
+
+
+
+<!-- Other utility things -->
+<script language="javascript">
+    // Preserve while scriptaculous dependencies are present
+    $.noConflict();
+</script>
+
+<script src="/slide/prototype.js" type="text/javascript"></script>
+<script src="/slide/scriptaculous.js" type="text/javascript"></script>
+<script src="/slide/simple-slide-show.js" type="text/javascript"></script>
+
+<!--Banner Serigrafias IV-->
+<script src="/jquery/jquery.scrollbox.js"></script>
+
+<script language='javascript'>
+    function movr(src, clrOver) {
+        if (!src.contains(event.fromElement)) {
+            src.style.cursor = 'hand'; src.bgColor = clrOver;
+        }
+    }
+    function mout(src, clrIn) {
+        if (!src.contains(event.toElement)) {
+            src.style.cursor = 'default';
+            src.bgColor = clrIn;
+        }
+    }
+    function mclk(src) {
+        if (event.srcElement.tagName == 'TD') {
+            if (src.children.tags('A')[0]) {
+                src.children.tags('A')[0].click();
+            }
+        }
+    }
+
+    function right(e) {
+        if (navigator.appName == 'Netscape' && e.which == 3) {
+            return false;
+        }
+
+        if (navigator.appName ==
+'Microsoft Internet Explorer' && event.button == 2) {
+            return false;
+        }
+        else return true;
+    }
+
+    function RightClick() {
+        if (document.images)
+            for (i = 0; i < document.images.length; i++)
+                document.images[i].onmousedown = right;
+    }
+
+    function tamFuente(nivel, elem) {
+        var elemento = document.getElementById(elem)
+        elemento.className = "textomediano" + nivel;
+    }  
+
+
+ 
+</script>
+<style>
+	.popup_contact{
+		position: fixed;
+		bottom: 0px;
+		right: 50px;
+		width:450px;
+		z-index:10000;
+		background-color:#ffffff;
+		display: none	;
+  		visibility:hidden;
+	}
+	.popup_contact.active{
+		display: block;
+  		visibility: visible;
+		-webkit-animation-duration: 1.5s;
+        -webkit-animation-name: slidein;
+		-moz-animation-duration: 1.5s;
+       	-moz-animation-name: slidein;
+		animation-duration: 1.5s;
+        animation-name: slidein;
+	}
+	
+	.popup_contact.cerrar{	
+		opacity:0;	
+		-webkit-animation-duration: 1.5s;
+        -webkit-animation-name: fadeout;
+		-moz-animation-duration: 1.5s;
+       	-moz-animation-name: fadeout;
+		animation-duration: 1.5s;
+        animation-name: fadeout;
+	}
+	
+	@keyframes fadeout {
+	 	from {
+			opacity:1;
+		}
+		to {
+			
+			opacity:0;
+		}
+	}
+	
+	@keyframes slidein {
+	  from {
+		bottom: -500px;
+		opacity: 0.5;
+	  }
+
+	  to {
+		  opacity: 1;
+		  bottom: 5px;
+	  }
+	}
+	
+	.btn_tell{
+		position:fixed;
+		top:125px;
+		right: 0px;
+		padding:0px;
+		margin:0px;
+		width: 40px;
+		z-index:15000;
+		cursor:pointer;
+	}
+	/*
+	.social{
+		width: 60px;
+		height: 60px;
+		display: inline-block;
+		text-align: center;
+		vertical-align: middle;
+		background: #355B68;
+		position: relative;
+		-o-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		-ms-border-radius: 4px;
+		border-radius: 4px;
+		margin: 10px 5px;
+	}
+	
+	
+	.social span{
+	    display: inline-block;
+		text-align: center;
+		vertical-align: middle;
+		font-size: 32px;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin-left: -13px;
+		margin-top: -15px;
+		color: #ffffff;
+		-o-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-webkit-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;	    
+	}
+	
+	.social:active{
+		text-decorarion:none;
+		color:#ca0205;
+		background-color: #4467ad;
+	}
+	
+	.social:hover{
+		text-decorarion:none;
+		color:#ca0205;
+		background-color: #4467ad;
+	}*/
+	
+	/*.btn_tell
+	{
+		position:fixed;
+		top:300px;
+		right: 0px;
+		padding:0px;
+		margin:0px;
+		width: 40px;
+		height:60px;
+		background:#FF931E;
+		z-index:15000;
+		border-radius: 3px 0px 0px 3px;
+		cursor:pointer;
+	}
+
+	.btn_tell img
+	{
+		margin: 15px 0px 45px 13px;
+	}
+
+	.btn_tell p
+	{
+		color: #fff;
+		-moz-transform:rotate(-90deg);
+		-ms-transform:rotate(-90deg);
+		-o-transform:rotate(-90deg);
+		-webkit-transform:rotate(-90deg);
+	}
+	*/
+	.divtellafriend{
+		position: fixed;
+		bottom: 5px;
+		right: 15px;	
+		width: 400px;
+		z-index:10000;
+		background-color:#ffffff;
+		display: none	;
+  		visibility:hidden;
+	}
+	
+	.divtellafriend.active{
+		display: block;
+  		visibility: visible;
+		-webkit-animation-duration: 1.5s;
+        -webkit-animation-name: slidein;
+		-moz-animation-duration: 1.5s;
+       	-moz-animation-name: slidein;
+		animation-duration: 1.5s;
+        animation-name: slidein;
+	}
+	.divtellafriend.cerrar{	
+		opacity:0;	
+		-webkit-animation-duration: 5s;
+        -webkit-animation-name: fadeout;
+		-moz-animation-duration: 5s;
+       	-moz-animation-name: fadeout;
+		animation-duration: 5s;
+        animation-name: fadeout;
+	}
+	
+	.noshow{
+		display: none;
+	}
+	
+	label {
+		display:block;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size:1em;
+		float:left;
+	}
+	.formulario {
+		width:300px;
+		padding:20px;
+		margin:0 auto;
+		border:solid 1px #666;
+	}
+
+	input, textarea {
+		border:1px solid #999;
+		margin-top:5px;
+		width:95%;
+		margin-bottom:3px;
+		font-size:1em;
+		font-family: 'Open Sans Condensed', sans-serif;
+		color:#000;
+		box-sizing:content-box;
+	}
+
+	textarea {
+		height:100px;
+	}
+
+	#submit {
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size:1em;
+		width:85px;
+		background-color:#F90;
+		cursor:pointer;
+	}
+	
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<style type="text/css">
+body {
+	vertical-align: top;
+}
+</style>
+<meta charset="utf-8">
+</head>
+<body class='body'>
+<table style="margin:auto;">
+<tr>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages1l = new Array(); 
+theImages1l[0] = "/banners/Barnebys-2016-03-l1.jpg"
+theImages1l[1] = "/banners/PalmBeachModernAuctions-12-l2.jpg"
+theImages1l[2] = "/banners/PalmBeachModernAuctions-12-l3.jpg"
+
+
+links1l = new Array ();
+links1l[0] = "https://www.barnebys.com/?utm_source=Art%20daily&utm_medium=widget&utm_campaign=strategic_partner&utm_content=logo"
+links1l[1] = "https://new.liveauctioneers.com/auctioneer/1045/palm-beach-modern-auctions-"
+links1l[2] = "https://new.liveauctioneers.com/auctioneer/1045/palm-beach-modern-auctions-"
+
+
+code1l = new Array ();
+code1l[0] = "(['_trackEvent', 'Ads', 'Banner_1Lat', 'Barnebys']);"
+code1l[1] = "(['_trackEvent', 'Ads', 'Banner_1Lat', 'Palm Beach Modern Auctions']);"
+code1l[2] = "(['_trackEvent', 'Ads', 'Banner_1Lat', 'Palm Beach Modern Auctions']);"
+
+
+var r_size1l = new Array ();
+r_size1l[0] = "600";
+r_size1l[1] = "600";
+r_size1l[2] = "600";
+
+
+var r_width1l = new Array ();
+r_width1l[0] = "160";
+r_width1l[1] = "160";
+r_width1l[2] = "160";
+
+
+var r = Math.floor(1*Math.random())
+var myimage1l = theImages1l[r]
+var mylink1l = links1l[r]
+var mycode1l = code1l[r]
+var mysize1l = r_size1l[r]
+var mywidth1l = r_width1l[r]
+
+function showImage1l(){
+document.write('<A onclick="_gaq.push' + mycode1l +'" HREF="' + mylink1l + '" target="_blank"><IMG src="' + myimage1l + '" width="' + mywidth1l + '" height="' + mysize1l + '" border="0"></A>')
+}
+function showText1l(){
+document.write(r_text[r]);
+}
+function showLink1l(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink1l + '" target="_blank"><FONT color="#CA0205">' + mytext1l +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+ 	<!-- <td valign="top"><script>showImage1l();</script></td> -->
+
+<td valign="top"><iframe width="160" height="600" scrolling="no" frameborder="0" scroll="no" border="0" style="width: 160px; height: 600px; border: 0; margin: 0; padding: 0;" src="https://widgethost.barnebys.com/widgets/114/?w=160&h=600"></iframe></td>
+
+<td>
+<div align="center">
+  
+  
+</div>
+
+
+<table width='992' height="72" border='0' align="center" cellpadding='0' cellspacing='0' class='bordeder' style="margin:auto">
+
+		<td colspan="5" align="center" bgcolor="#ececec"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages1 = new Array() 
+theImages1[0] = "/banners/JohnMichaelKohler-03.jpg"
+theImages1[1] = "/banners/McNay-2016-04.jpg"
+theImages1[2] = "/banners/WorldChessHallofFame-2016-01c.jpg"
+theImages1[3] = "/banners/WorldChessHallofFame-2016-01d.jpg"
+theImages1[4] = "/banners/WorldChessHallofFame-2016-01e.jpg"
+theImages1[5] = "/banners/WorldChessHallofFame-2016-01f.jpg"
+theImages1[6] = "/banners/antiquities-2014-30a.jpg"
+theImages1[7] = "/banners/antiquities-2014-31a.jpg"
+
+
+links1 = new Array ();
+links1[0] = "http://jmkac.org/"
+links1[1] = "http://www.mcnayart.org/"
+links1[2] = "http://www.worldchesshof.org/"
+links1[3] = "http://www.worldchesshof.org/"
+links1[4] = "http://www.worldchesshof.org/"
+links1[5] = "http://www.worldchesshof.org/"
+links1[6] = "http://www.liveauctioneers.com/item/30666100_roman-marble-sarcophagus-panel-1-ex-barakat"
+links1[7] = "http://www.liveauctioneers.com/item/30666052_roman-marble-figure-of-a-nude-youth-ex-christies"
+
+
+code1 = new Array ();
+code1[0] = "(['_trackEvent', 'Ads', 'Banner_1', 'John Michael Kohler']);"
+code1[1] = "(['_trackEvent', 'Ads', 'Banner_1', 'McNay Art']);"
+code1[2] = "(['_trackEvent', 'Ads', 'Banner_1', 'World Chess Hall of Fame']);"
+code1[3] = "(['_trackEvent', 'Ads', 'Banner_1', 'World Chess Hall of Fame']);"
+code1[4] = "(['_trackEvent', 'Ads', 'Banner_1', 'World Chess Hall of Fame']);"
+code1[5] = "(['_trackEvent', 'Ads', 'Banner_1', 'World Chess Hall of Fame']);"
+code1[6] = "(['_trackEvent', 'Ads', 'Banner_1', 'Artemis Gallery Live']);"
+code1[7] = "(['_trackEvent', 'Ads', 'Banner_1', 'Artemis Gallery Live']);"
+
+
+var r_size1 = new Array ();
+r_size1[0] = "125";
+r_size1[1] = "125";
+r_size1[2] = "125";
+r_size1[3] = "125";
+r_size1[4] = "125";
+r_size1[5] = "125";
+r_size1[6] = "125";
+r_size1[7] = "125";
+
+var r_width1 = new Array ();
+r_width1[0] = "990";
+r_width1[1] = "990";
+r_width1[2] = "990";
+r_width1[3] = "990";
+r_width1[4] = "990";
+
+
+var r = Math.floor(1*Math.random())
+var myimage1 = theImages1[r]
+var mylink1 = links1[r]
+var mycode1 = code1[r]
+var mysize1 = r_size1[r]
+var mywidth1 = r_width1[r]
+
+var myimage2 = theImages2[r]
+var mylink2 = links2[r]
+var mycode2 = code2[r]
+var mysize2 = r_size2[r]
+
+function showImage1(){
+document.write('<A onclick="_gaq.push' + mycode1 +'" HREF="' + mylink1 + '" target="_blank"><IMG src="' + myimage1 + '" width="' + mywidth1 + '" height="' + mysize1 + '" border="0"></A>')
+}
+function showText1(){
+document.write(r_text1[r]);
+}
+function showLink1(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink1 + '" target="_blank"><FONT color="#CA0205">' + mytext1 +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+<table width='956' height="69" border='0' align="center" cellpadding='0' cellspacing='0' style="margin:auto">
+    <td align="center"><script>showImage1();</script></td>
+  </tr>
+</table></td>
+</tr>
+<tr class='bordeder'>
+ 		 <td colspan="3" align="center" bgcolor="#ffb800"><div class="header-logo-container"><a href='/index.asp'><img src='/media/imagen/header_993.gif' width='989' height='88' border='0' /></a></div></td>
+</tr>
+</table>
+
+
+<table width='992' border='0' align="center" cellpadding='0' cellspacing='0' bgcolor='#FFFFFF' class='bordeder'>
+	<tr valign="middle">
+   	  <div class='bordeder'>
+		<td width='225px' height="35" align='left' class='arial_black' style='border-left: 1px solid #999999;'>The First Art Newspaper on the Net</td>
+		<td width='180px' height="35" align='center' class='arial_black'>
+		<a title="Facebook" class="social" href="https://www.facebook.com/ArtDaily-The-First-Art-Newspaper-on-the-Net-133781940016587" target="_blank"><img src="/images/facebook.png"></a>&nbsp;<a title="Twitter" class="social" href="https://twitter.com/artdaily" target="_blank"><img src="/images/twitter.png"></a></td>
+		<td width='120px' height="35"  class='arial_black'>Established in 1996 </td>
+        	<td width='205px' height="35" class='arial_black'>United States </td>
+<td class='arial_black' align='right' width='250px' style='border-right: 1px solid #999999;'> Saturday, February 25, 2017</td>
+</div>
+	</tr>
+</table>
+<table width="992" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="bordeder">
+	<tr>
+    <td class='bordeder' width="992" align="center"><div style="padding: 0 17px; text-align: center">
+    <ul class="sf-menu" style="width: 100%;">
+        <li><a href="/">Home</a>
+            <ul>
+                <li><a href="/index.asp?int_sec=200">Welcome</a></li>
+                <li><a href="/index.asp?int_sec=201">Awards</a></li>
+                <li><a href="/index.asp?int_sec=203">Critics to Artdaily</a></li>
+                <li><a href="/index.asp?int_sec=202">Referral Links</a></li>
+            </ul>
+        </li>
+        <li><a href="/index.asp?int_sec=4">Last Week</a></li>
+        <li><a href="/index.asp?int_sec=102">Artists</a>
+            <ul>
+                <li><a href="/index.asp?int_sec=106">Architects</a></li>
+            </ul>
+        </li>
+        <li><a href="/index.asp?int_sec=105">Galleries</a></li>
+        <li><a href="/index.asp?int_sec=100">Museums</a></li>
+        <li><a href="/index.asp?int_sec=108">Photographers</a>
+            <ul>
+                <li><a href="/index.asp?int_sec=107">Photography</a></li>
+                <li><a href="/v2/PhotoGalleries.aspx">PhotoGallery</a></li>
+                <li><a href="/index.asp?int_sec=109">Special Photos</a></li>
+            </ul>
+        </li>
+        <!--
+        <li><a href="/games">Images</a>
+            <ul>
+                <li><a href="/index.asp?int_sec=211">GraphicGallery</a></li>
+                <li><a href="/index.asp?int_sec=117">360 Images</a></li>
+                <li><a href="/index.asp?int_sec=118">3D Images</a></li>
+                <li><a href="/index.asp?int_sec=104">Digital Art</a></li>
+            </ul>
+        </li>
+        -->
+        <li><a href="/games">Games</a>
+        <li><a href="/index.asp?int_sec=400">Subscribe</a>
+        <li><a href="/index.asp?int_sec=204">Comments</a>
+        <li><a href="/index.asp?int_sec=220">Search</a>
+        <li><a href="/index.asp?int_sec=205">Contact</a>
+        <li><a href="/rss.asp"><img src="/images/rss.gif" /></a>
+        
+    </ul>
+</div>
+
+<script>
+
+    jQuery('ul.sf-menu').superfish({
+        delay: 200,
+        animation: { opacity: 'show', height: 'show' },
+        speed: 'fast', 
+        cssArrows: false
+    });
+
+</script>
+</td>
+    </tr>	
+</table>
+
+
+<table width='992' border='0' align="center" cellpadding='0' cellspacing='0' bgcolor='#FFFFFF' class='bordeder'>
+	<tr>
+    <td width='992' align='center' valign='top' class='bordeder'> 
+      
+      <!-- Starts Int_sec 11 --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ 
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({category:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/artdaily/loader.js');
+</script> 
+
+
+<STYLE TYPE="text/css">
+<!--
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active {text-decoration: none;}
+/* Fuente pequeña */  
+.nivel1 {
+	font-family: arial;
+	font-size: 14px;
+	color:#111111;
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+	line-height: 20px;
+}  
+  
+/* Fuente normal */  
+.nivel2 {
+    font-family: arial;
+	font-size: 16px;
+	color:#111111;
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+	line-height: 20px;
+	}  
+  
+/* Fuente grande */  
+.nivel3 {
+	font-family: arial;
+	font-size: 18px;
+	color:#111111;
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+	line-height: 20px;
+	}   
+-->
+</STYLE>
+
+<script src="../includes/javascripts/js/prototype.js" type="text/javascript"></script>
+<script src="../includes/javascripts/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="../includes/javascripts/js/lightbox.js" type="text/javascript"></script>
+
+<script language="javascript">
+
+    function tamFuente(nivel, elem) {
+        var elemento = document.getElementById(elem)
+        elemento.className = "nivel" + nivel;
+    }
+
+    function cargaImagen(imagen, newTexto) {
+        img = imagen;
+        document.getElementById('grande').src = img;
+        var objetoSPAN = document.getElementById("TEXTO1");
+        objetoSPAN.innerHTML = newTexto;
+    }
+
+    // Load partner feeds (jQuery must be present)
+    jQuery(function () {
+            // Load all dependent scripts in parallel
+            jQuery.when(
+	        jQuery.getScript("/includes/javascripts/jquery.zrssfeed.min.js?v=20130127"),
+	        jQuery.Deferred(function (deferred) {
+	            jQuery(deferred.resolve);
+	        })
+	    ).done(function () {
+	        // Start the RSS source
+	        var target = jQuery('#topAndTodayNews tr').first().find('td').last();
+	        jQuery('<div class="rssHeader"></div>').appendTo(target);
+	        jQuery('<div class="partner-rss-feed" />').appendTo(target).rssfeed('http://www.huffingtonpost.com/tag/art/feed', {
+	            date: false,
+	            content: false,
+	            header: false,
+	            limit: 8,
+                linktarget: '_blank'
+	        });
+        });
+    });
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<br>
+<script language="JavaScript">
+<!--
+var theImages1i = new Array() 
+theImages1i[0] = '/banners/McNay-2017-01.jpg'
+
+
+links1i = new Array ();
+links1i[0] = "https://www.mcnayart.org/"
+
+
+
+code1i = new Array ();
+code1i[0] = "(['_trackEvent', 'Ads', 'Banner_4', 'McNay Art']);"
+
+
+var r_size1i = new Array ();
+r_size1i[0] = "125";
+
+
+var r = Math.floor(1*Math.random())
+var myimage1i = theImages1i[r]
+var mylink1i = links1i[r]
+var mycode1i = code1i[r]
+var mysize1i = r_size1i[r]
+
+function showImage1i(){
+document.write('<A onclick="_gaq.push' + mycode1i +'" HREF="' + mylink1i + '" target="_blank"><IMG src="' + myimage1i + '" width="956" height="' + mysize1i + '" border="0"></A>')
+}
+function showText1i(){
+document.write(r_text1i[r]);
+}
+function showLink1i(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink1i + '" target="_blank"><FONT color="#CA0205">' + mytext1i +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+<table width='956' height="69" border='0' align="center" cellpadding='0' cellspacing='0' style="margin:auto">
+    <td align="center"><script>showImage1i();</script></td>
+  </tr>
+</table>
+
+
+
+<br />
+<table width='956' border='0' cellspacing='0' cellpadding='0'>
+	<tr><td height='20' colspan="3" valign='top'></td></tr>
+	<tr><td colspan="3" class='titulo'>Autographed 45 of The Beatles' 'Please Please Me' may bring $40,000 at Heritage Auctions</td></tr>
+	<tr><td height='1' colspan="3" valign='top' bgcolor='#FEB700'></td></tr>
+	<tr><td height='10' colspan="3"></td></tr>
+	<tr><td width='956' colspan="3"> 
+		<div class="KonaBody">
+		<div class='weather-widget-image-container'><img src='/imagenes/2017/02/25/beatles-2.jpg' class='imagen-nota' weather-city='dallas, tx' ></div><span style='display: block; margin: 0px auto; text-align: left;' align='top' class='pie_g'>Beatles Signed "Ask Me Why/ Please, Please Me" 45 (Parlophone R-4983, 1963), Signed Twice by George and Paul.</span><br>
+		</div>
+							
+                    <div style="margin: 15px 0 15px 0;">
+                        <div style="float:right; width:310px;">
+                            <!-- AddThis Button BEGIN -->
+                            <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+                            <a class="addthis_button_preferred_1"></a>
+                            <a class="addthis_button_preferred_2"></a>
+                            <a class="addthis_button_preferred_3"></a>
+                            <a class="addthis_button_preferred_4"></a>
+                            <a class="addthis_button_preferred_5"></a>
+                            <a class="addthis_button_compact"></a>
+                            <a class="addthis_counter addthis_bubble_style"></a>
+                            </div>
+                            <script type="text/javascript">
+                                var addthis_config = { "data_track_addressbar": true };
+                            </script>
+                            <!-- AddThis Button END -->
+                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+	</td></tr>
+    <tr>
+	<td colspan="3">
+
+			<div style="float: left;">
+
+	<!-- Start Ad -->
+	
+    
+				<!-- Horizontal_Text_Ad_728x90 -->	
+				<script type='text/javascript'>
+					GA_googleFillSlot("Horizontal_Text_Ad_728x90");
+				</script>
+    
+				
+	
+	<!-- End Ad -->
+
+			</div>
+			<div style="float: right; padding-right:20px; padding-top:5px;">
+				<a href="javascript:tamFuente(1,'contenido');"><IMG src="/size-less.png" width="16" height="16" border="0" /></a>
+				<a href="javascript:tamFuente(2,'contenido');"><IMG src="/size.png" width="20" height="20" border="0" /></a>
+				<a href="javascript:tamFuente(3,'contenido');"><IMG src="/size-more.png" border="0" /></a>
+			</div>
+	
+    </td>
+</tr>
+	<tr>
+			<td valign='top'>
+
+        <div id="contenido"  class='textomediano'>
+
+	<!-- Start Ad -->
+
+    
+					<div style="padding-top:0px; float:left; margin-right:0px; margin-bottom:10px;">
+        
+
+						<!-- Squared_Ad_Lateral -->
+                        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages3i = new Array() 
+theImages3i[0] = "/banners/pan-art-connections-07-va.gif"
+theImages3i[1] = "/banners/pan-art-connections-07-vb.gif"
+theImages3i[2] = "/banners/pan-art-connections-07-vc.gif"
+theImages3i[3] = "/banners/pan-art-connections-07-vd.gif"
+theImages3i[4] = "/banners/pan-art-connections-07-ve.gif"
+
+
+links3i = new Array ();
+links3i[0] = "http://www.pan-art-connections.com/"
+links3i[1] = "http://www.pan-art-connections.com/"
+links3i[2] = "http://pan-art-connections.com/pages/exhibitions.htm"
+links3i[3] = "http://www.pan-art-connections.com/"
+links3i[4] = "http://www.pan-art-connections.com/"
+
+
+code3i = new Array ();
+code3i[0] = "(['_trackEvent', 'Ads', 'Banner_3i', 'Pan Art Connections']);"
+code3i[1] = "(['_trackEvent', 'Ads', 'Banner_3i', 'Pan Art Connections']);"
+code3i[2] = "(['_trackEvent', 'Ads', 'Banner_3i', 'Pan Art Connections']);"
+code3i[3] = "(['_trackEvent', 'Ads', 'Banner_3i', 'Pan Art Connections']);"
+code3i[4] = "(['_trackEvent', 'Ads', 'Banner_3i', 'Pan Art Connections']);"
+
+
+
+var r_size3i = new Array ();
+r_size3i[0] = "600";
+r_size3i[1] = "600";
+r_size3i[2] = "600";
+r_size3i[3] = "600";
+r_size3i[4] = "600";
+
+
+
+var r = Math.floor(5*Math.random())
+var myimage3i = theImages3i[r]
+var mylink3i = links3i[r]
+var mycode3i = code3i[r]
+var mysize3i = r_size3i[r]
+
+function showImage3i(){
+document.write('<A onclick="_gaq.push' + mycode3i +'" HREF="' + mylink3i + '" target="_blank"><IMG src="' + myimage3i + '" width="160" height="' + mysize3i + '" border="0"></A>')
+}
+function showText3i(){
+document.write(r_text3i[r]);
+}
+function showLink3i(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink3i + '" target="_blank"><FONT color="#CA0205">' + mytext3i +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+
+					</div>
+        
+
+	<!-- End Ad -->
+					
+					<div class="KonaBody noticia">
+                        <span class='lugar'><b>DALLAS, TX</b></span><span class='separador'><b>.-</b></span> A 45 rpm copy of the second single released in the United Kingdom by all four members of the Beatles is expected to earn top lot honors at <a href="http://www.ha.com" target="_blank">Heritage Auctions</a>' Entertainment & Music Memorabilia Signature Auction March 18 in Dallas.<br><br>The record includes recordings of Ask Me Why and Please Please Me (est. $40,000). John Lennon, Paul McCartney, George Harrison and Ringo Starr all signed the Ask Me Why B-side of the record; McCartney and Harrison also signed the reverse side, which features an A-side recording of Please Please Me. Given to its original owner at the Cavern Club in Liverpool, the single was released Jan. 11, 1963, 13 days before a signing session at the NEMS record shop, where the signatures likely were acquired.<br><br>A photo of the Fab Four signed by all four members of the band (est. $18,000) also is expected to draw heavy interest at the auction. The 8-by-10 glossy black-and-white picture, taken in early 1965 in the Bahamas, is signed with a felt-tip pen and includes a certificate of authenticity from Heritage Auctions and Tracks LTD.<br><br>An original pressing of the Help! Album Signed by John Lennon, Paul McCartney and George Harrison of the Beatles (Capitol MAS 2386, 1965), (est. $12,000) will be available to collectors in the auction. The Gatefold Mono LP was the band's eighth album for Capitol and the soundtrack for the band's second major motion picture. It contains seven Beatles songs from the film with six instrumental pieces interspersed.<br><br>Savvy collectors and Beatles fans alike are expected to clamor for an extremely rare piece of memorabilia: a Postcard Signed by John Lennon, Paul McCartney, George Harrison and Substitute Drummer Jimmie Nicol (est. $10,000). In addition to the band members' signatures, this 3.5-by-5.5-inch postcard includes the inscription: "To Judy / Best Wishes / Jimmie Nicol" that was written by Nicol, who was filling in on the band's Australian tour for regular drummer Ringo Starr, who was ill with tonsillitis and stayed home during much of the tour. According to the accompanying letter of provenance, the signatures were acquired by a 24-year-old steward who remembers serving Lennon two boiled eggs for breakfast aboard the plane to Sydney.<br><br>Other Beatles-related items include, but are not limited to:<br><br>· A Ringo Starr RIAA White Matte Award: (est. $9,600)<br><br>· A Beatle-Signed Swing Along Souvenir Brochure with a letter of authenticity from R.A. (U.K. 1963): (est. $8,000)<br><br>· A Beatles-Signed Album Page (Liverpool, 1963): (est. $6,000)<br><br>· Beatles &#150; The Introduction An Original Oil Painting by Eric Cash: (est. $4,000)<br><br>· A 1965 U.K. Performance-Used Ringo Starr Drumstick: (est. $4,000)<br><br>A group of images used to market Mötley Crüe's 1987 "Girls, Girls, Girls" World Tour (est. $16,000) includes three pieces showing hand-painted airbrush work applied to a matte board and mounted on one-inch Styrofoam; two of the images are of a "stripper girl" and the third depicts a "rebel rocker" who strongly resembles Crüe bassist Nikki Sixx. Each piece is autographed by the artist ("Tyler") in the lower right corner and was used for tour merchandise for one of the most successful heavy metal bands of all time.<br><br>Signatures from Davie Jones (David Bowie) and the King Bees / The Animals on a 1964 Album Page (est. $7,000) commemorate Bowie's short-lived second band, the King Bees, which produced one single &#150; Liza Jane / Louie Louie Go home &#150; in June 1964. Jones left the band shortly thereafter, eventually changed his name to David Bowie, and became an iconic singer, songwriter and actor who was revered for his innovative creativity. The back of the album page features the signatures of the members of The Animals: Eric Burdon, Alan Price, Chas Chandler, Hilton Valentine and John Steel.<br><br>A Pair of Sunglasses Michael Jackson Wore On Stage ($6,500) during a Victory Tour performance Sept. 8, 1984 in Denver were given by the late "King of Pop" to the Los Angeles Daily News, and subsequently to a fan in a newspaper contest. This pair of black, metal-rimmed aviator shares are identical to those Jackson wore at the 1984 Grammy Awards and are almost universally identified with his look during that era. Also included are a non-original black satin bag and a black hard case, as well as a portion of the Los Angeles Daily News from Nov. 23, 1984, featuring Jackson and the contest.<br><br>A collection of memorabilia from the estate of entertainer/producer/television personality David Gest also is expected to draw attention from numerous collectors. Among the top Gest items are:<br><br>· A 2001 "Michael Jackson 30th Anniversary Celebration" Poster Signed by Michael Jackson, Whitney Houston, Gest and Liza Minelli, among others: est. $1,600<br><br>· A Bob Dylan Nashville Skyline RIAA White Mat Gold Record Sales Award (Columbia XSM 139756, 1969): est. $1,500<br><br>· A Michael Jackson-Signed Sing-a-Long Sound Machine (LJN, 1984): est. $1,200<br><br>· A Lady Gaga-Signed Color Photo: est. $1,000<br><br>· An Oversized Autograph Book Signed by Michael Jackson, Whitney Houston and Numerous Movie Stars (early 1990s), including Jimmy Stewart, Gregory Peck, Milton Berle, Buddy Ebsen and Brooke Shields: est. $1,000<br><br>· A Michael Jackson-Signed Check to David Gest Productions, Inc.: est. $1,000<br><br>· A Photo from The Preacher's Wife, signed by Whitney Houston and Denzel Washington: est. $1,000<br><br>A Reel-to-Reel Prince Demo Tape with a Tracklist Handwritten by the Artist, circa 1976/77, (est. $6,000) was recorded at Sound 80 Recording Studio in Prince's hometown of Minneapolis prior to the recording of his landmark debut LP. The tape included three tracks: Just As Long As We're Together, My Love Is Forever and Jelly Jam. The first two tracks were rerecorded on Prince's first album, with Jelly Jam being modified and added as a coda to Just As Long As We're Together.<br><br>Other top lots include, but are not limited to:<br><br>· A Paul McCartney-Signed (Left-Handed) Hofner Bass Guitar (est. $5,000)<br><br>· A Bill Graham 1970 Jefferson Airplane/Quicksilver Messenger Service/Santana Winterland Concert Poster BG-222: $4,000
+					</div>
+
+	<!-- Start Ad -->
+	<!-- Horizontal_Text_Ad_728x90 -->
+    
+				<script type='text/javascript'>
+				    GA_googleFillSlot("Horizontal_Text_Ad_728x90");
+				</script>
+    
+					
+	
+	<!-- End Ad -->
+
+			  </div>  
+
+	  </td>
+     <td VALIGN=top style="padding-left:10px;"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages4i = new Array() 
+theImages4i[0] = "/banners/pan-art-connections-07-va.gif"
+theImages4i[1] = "/banners/pan-art-connections-07-vb.gif"
+theImages4i[2] = "/banners/pan-art-connections-07-vc.gif"
+theImages4i[3] = "/banners/pan-art-connections-07-vd.gif"
+theImages4i[4] = "/banners/pan-art-connections-07-ve.gif"
+
+
+links4i = new Array ();
+links4i[0] = "http://www.pan-art-connections.com/"
+links4i[1] = "http://www.pan-art-connections.com/"
+links4i[2] = "http://pan-art-connections.com/pages/exhibitions.htm"
+links4i[3] = "http://www.pan-art-connections.com/"
+links4i[4] = "http://www.pan-art-connections.com/"
+
+
+code4i = new Array ();
+code4i[0] = "(['_trackEvent', 'Ads', 'Banner_4i', 'Pan Art Connections']);"
+code4i[1] = "(['_trackEvent', 'Ads', 'Banner_4i', 'Pan Art Connections']);"
+code4i[2] = "(['_trackEvent', 'Ads', 'Banner_4i', 'Pan Art Connections']);"
+code4i[3] = "(['_trackEvent', 'Ads', 'Banner_4i', 'Pan Art Connections']);"
+code4i[4] = "(['_trackEvent', 'Ads', 'Banner_4i', 'Pan Art Connections']);"
+
+
+var r_size4i = new Array ();
+r_size4i[0] = "160";
+r_size4i[1] = "160";
+r_size4i[2] = "160";
+r_size4i[3] = "160";
+r_size4i[4] = "160";
+
+var r_height4i = new Array ();
+r_height4i[0] = "600";
+r_height4i[1] = "600";
+r_height4i[2] = "600";
+r_height4i[3] = "600";
+r_height4i[4] = "600";
+
+
+var r = Math.floor(5*Math.random())
+var myimage4i = theImages4i[r]
+var mylink4i = links4i[r]
+var mycode4i = code4i[r]
+var mysize4i = r_size4i[r]
+var myheight4i = r_height4i[r]
+
+function showImage4i(){
+document.write('<A onclick="_gaq.push' + mycode4i +'" HREF="' + mylink4i + '" target="_blank"><IMG src="' + myimage4i + '" width="' + mysize4i + '" height="' + myheight4i + '" border="0"></A>')
+}
+function showText4i(){
+document.write(r_text4i[r]);
+}
+function showLink4i(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink4i + '" target="_blank"><FONT color="#CA0205">' + mytext4i +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Nota Lateral -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-3790681608719523"
+     data-ad-slot="7445959165"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>	
+</td>
+  </tr>
+</table>
+<br />	
+
+<table width='956' border='0' cellpadding='0' cellspacing='0' >
+<tr>
+	<td>
+
+</td></tr></table>
+<br />
+
+<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 55403
+       ,lang        : "en"
+       ,slot        : '#contenido .KonaBody br'
+       ,format      : "inread"
+       ,components  : { skip: {delay : 0}}
+       ,css         : "margin: 0px auto 0px; max-width: 600px;"
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+</script>
+
+<br />
+<div style="width:956px">
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script> 
+</div>
+<br />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages2i = new Array()
+theImages2i[0] = "/banners/FacebookArtdaily.jpg"
+theImages2i[1] = "/banners/banner-byn-color.jpg"
+theImages2i[2] = "/banners/twitter_01.jpg"
+theImages2i[3] = "/banners/newsletter-suscribe.jpg"
+theImages2i[4] = "/banners/twitter_02.jpg"
+theImages2i[5] = "/banners/twitter_03.jpg"
+
+
+links2i = new Array ();
+links2i[0] = "https://www.facebook.com/pages/ArtDaily-The-First-Art-Newspaper-on-the-Net/133781940016587"
+links2i[1] = "http://www.artdaily.com/mediakit/"
+links2i[2] = "https://twitter.com/artdaily"
+links2i[3] = "http://visitor.constantcontact.com/manage/optin?v=001EZ1xV5UTY8sC5o7E0QcXLnxdQvHqc4_gK7e_zYHsV-fQVbAY5t_se20WEn0BOqIA5XxACwOByqdWI9VbmBYpPZTmjHFrtVSXX1EvanfsfDK0syhTJnN5rA%3D%3D"
+links2i[4] = "https://twitter.com/artdaily"
+links2i[5] = "https://twitter.com/artdaily"
+
+
+code2i = new Array ();
+code2i[0] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Facebook']);"
+code2i[1] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Banners']);"
+code2i[2] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Banners']);"
+code2i[3] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Banners']);"
+code2i[4] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Banners']);"
+code2i[5] = "(['_trackEvent', 'Ads', 'Banner_2i', 'Artdaily Banners']);"
+
+
+
+var r_size2i = new Array ();
+r_size2i[0] = "125";
+r_size2i[1] = "125";
+r_size2i[2] = "72";
+r_size2i[3] = "100";
+r_size2i[4] = "72";
+r_size2i[5] = "72";
+
+
+
+var r = Math.floor(1*Math.random())
+var myimage2i = theImages2i[r]
+var mylink2i = links2i[r]
+var mycode2i = code2i[r]
+var mysize2i = r_size2i[r]
+
+function showImage2i(){
+document.write('<A onclick="_gaq.push' + mycode2i +'" HREF="' + mylink2i + '" target="_blank"><IMG src="' + myimage2i + '" width="956" height="' + mysize2i + '" border="0"></A>')
+}
+function showText2i(){
+document.write(r_text2i[r]);
+}
+function showLink2i(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink2i + '" target="_blank"><FONT color="#CA0205">' + mytext2i +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+    <table width='956' height="69" border='0' align="center" cellpadding='0' cellspacing='0'>
+    <td><script>showImage2i();</script></td>
+  </tr>
+</table>
+
+<br />
+<br />
+
+<table id="topAndTodayNews" width='956' border='0' cellpadding='0' cellspacing='0' class='cajas'>
+<tr>
+	<td width="531" rowspan="2" valign="top" style="padding-right:10px"><span class='titulochico'>Today's News</span><br><br>
+February 25, 2017<br><br>
+<a href='http://artdaily.com/news/94053/Major-Turner-exhibition-unites-trio-of-monumental-port-scenes-for-the-first-time' class='linka_1' >Major Turner exhibition unites trio of monumental port scenes for the first time</a><br><br>
+<a href='http://artdaily.com/news/94036/Christie-s-to-offer-Francis-Bacon-s-first-ever-portrait-of-his-great-muse' class='linka_0' >Christie's to offer Francis Bacon's first ever portrait of his great muse</a><br><br>
+<a href='http://artdaily.com/news/94044/Comprehensive-survey-of-works-by-sculptor-Ron-Mueck-opens-at-the-Museum-of-Fine-Arts--Houston' class='linka_1' >Comprehensive survey of works by sculptor Ron Mueck opens at the Museum of Fine Arts, Houston</a><br><br>
+<a href='http://artdaily.com/news/94043/Exhibition-presents-graphics--portfolios-and-original-works-on-paper-and-canvas-by-Andy-Warhol' class='linka_0' >Exhibition presents graphics, portfolios and original works on paper and canvas by Andy Warhol</a><br><br>
+<a href='http://artdaily.com/news/94051/Sotheby-s-New-York-announces-highlights-from-its-Indian--Himalayan---Southeast-Asian-Works-of-Art-sale' class='linka_1' >Sotheby's New York announces highlights from its Indian, Himalayan & Southeast Asian Works of Art sale</a><br><br>
+<a href='http://artdaily.com/news/94040/Exhibition-of-works-from-the-Lam-Collection-of-Contemporary-Australian-Aboriginal-Art-opens-in-San-Antonio' class='linka_0' >Exhibition of works from the Lam Collection of Contemporary Australian Aboriginal Art opens in San Antonio</a><br><br>
+<a href='http://artdaily.com/news/94047/The-Kunsthal-Rotterdam-opens-unique-overview-of-photorealistic-painting' class='linka_1' >The Kunsthal Rotterdam opens unique overview of photorealistic painting</a><br><br>
+<a href='http://artdaily.com/news/94035/Smithsonian-announces-national-tour-of-exhibition-celebrating-the-50th-anniversary-of-the-Moon-landing' class='linka_0' >Smithsonian announces national tour of exhibition celebrating the 50th anniversary of the Moon landing</a><br><br>
+<a href='http://artdaily.com/news/94039/Autographed-45-of-The-Beatles---Please-Please-Me--may-bring--40-000-at-Heritage-Auctions' class='linka_1' >Autographed 45 of The Beatles' 'Please Please Me' may bring $40,000 at Heritage Auctions</a><br><br>
+<a href='http://artdaily.com/news/94034/Berlinische-Galerie-presents-works-and-film-projections-by-John-Bock' class='linka_0' >Berlinische Galerie presents works and film projections by John Bock</a><br><br>
+<a href='http://artdaily.com/news/94038/Seattle-Art-Museum-debuts-largest-iteration-of-John-Grade-s-sculpture--Middle-Fork-' class='linka_1' >Seattle Art Museum debuts largest iteration of John Grade's sculpture 'Middle Fork'</a><br><br>
+<a href='http://artdaily.com/news/94049/Mickey-Spillane-scripts--mementos-among-prized-lots-in-Heritage-Auctions--Rare-Books-Event' class='linka_0' >Mickey Spillane scripts, mementos among prized lots in Heritage Auctions' Rare Books Event</a><br><br>
+<a href='http://artdaily.com/news/94045/Inupiaq-artist-Sonya-Kelliher-Combs-opens-solo-exhibition-at-Peters-Projects' class='linka_1' >Inupiaq artist Sonya Kelliher-Combs opens solo exhibition at Peters Projects</a><br><br>
+<a href='http://artdaily.com/news/94046/Akron-Art-Museum-presents-varied--shifting-views-of-family-in-photography-exhibition' class='linka_0' >Akron Art Museum presents varied, shifting views of family in photography exhibition</a><br><br>
+<a href='http://artdaily.com/news/94050/Dramatic-and-innovative-exhibitions-open-at-the-Currier-Museum-of-Art' class='linka_1' >Dramatic and innovative exhibitions open at the Currier Museum of Art</a><br><br>
+<a href='http://artdaily.com/news/94048/Orlando-Museum-of-Art-acquires-works-by-renowned-artists' class='linka_0' >Orlando Museum of Art acquires works by renowned artists</a><br><br>
+<a href='http://artdaily.com/news/94041/Leonhard-Hurzlmeier-s-first-solo-exhibition-in-the-United-States-opens-at-Rachel-Uffner' class='linka_1' >Leonhard Hurzlmeier's first solo exhibition in the United States opens at Rachel Uffner</a><br><br>
+<a href='http://artdaily.com/news/94042/The-Museum-of-Contemporary-Art-of-Georgia-opens-Mario-Petrirena-s-first-retrospective' class='linka_0' >The Museum of Contemporary Art of Georgia opens Mario Petrirena's first retrospective</a><br><br>
+<a href='http://artdaily.com/news/94033/Exhibition-at-Ludwig-Museum-in-Budapest-explores-vulnerability-of-technological-artworks' class='linka_1' >Exhibition at Ludwig Museum in Budapest explores vulnerability of technological artworks</a><br><br>
+<a href='http://artdaily.com/news/94037/Gemeentemuseum-Den-Haag-opens-exhibition-of-work-from-every-stage-of-Lee-Bontecou-s-career' class='linka_0' >Gemeentemuseum Den Haag opens exhibition of work from every stage of Lee Bontecou's career</a><br><br>
+<a href='http://artdaily.com/news/94052/The-19th-century-collection-of-Daniel-Kirchner-goes-up-for-bid-at-Turner-Auctions---Appraisals' class='linka_1' >The 19th century collection of Daniel Kirchner goes up for bid at Turner Auctions + Appraisals</a><br><br>
+<a href='http://artdaily.com/news/94054/Solo-exhibition-of-works-by-Mario-Nigro-on-view-at-A-arte-Invernizzi-gallery' class='linka_0' >Solo exhibition of works by Mario Nigro on view at A arte Invernizzi gallery</a><br><br>
+<a href='http://artdaily.com/news/94055/Exhibition-explores-the-legacy-of-Allan-Sekula' class='linka_1' >Exhibition explores the legacy of Allan Sekula</a><br><br>
+<a href='http://artdaily.com/news/94056/The-New-York-Public-Library-explores-romance--sex--and-desire-in-new-exhibition' class='linka_0' >The New York Public Library explores romance, sex, and desire in new exhibition</a><br><br>
+</td>
+    <td width="425" valign="top" style="padding-left:15px;">
+	<span class='titulochico'>Most Popular Last Seven Days</span><br><br><br><br>
+1.- <a  class='linka_1' href='http://artdaily.com/news/93816/Exhibition-at-Sotheby-s-S-2-features-9-women-spanning-4-continents-and-over-100-years-of-creativity-'>Exhibition at Sotheby's S/2 features 9 women spanning 4 continents and over 100 years of creativity </a><br><br>2.- <a  class='linka_0' href='http://artdaily.com/news/93696/-Violence--moves-NY-museum-to-shut-down-anti-Trump-art-show'>'Violence' moves NY museum to shut down anti-Trump art show</a><br><br>3.- <a  class='linka_1' href='http://artdaily.com/news/93693/Erotica--Passion---Desire-exhibition-and-sale-tests-taboos-at-London-auction-house'>Erotica: Passion & Desire exhibition and sale tests taboos at London auction house</a><br><br>4.- <a  class='linka_0' href='http://artdaily.com/news/93746/Sotheby-s-to-offer-one-of-the-greatest-works-by-Gustav-Klimt-ever-to-appear-at-auction'>Sotheby's to offer one of the greatest works by Gustav Klimt ever to appear at auction</a><br><br>5.- <a  class='linka_1' href='http://artdaily.com/news/93748/Exhibition-explores-Edgar-Degas--fascination-with-the-hat-makers-of-Paris'>Exhibition explores Edgar Degas' fascination with the hat makers of Paris</a><br><br>6.- <a  class='linka_0' href='http://artdaily.com/news/93667/Guggenheim-celebrates-80-years-of-innovation-with-presentation-of-170-modern-works'>Guggenheim celebrates 80 years of innovation with presentation of 170 modern works</a><br><br>7.- <a  class='linka_1' href='http://artdaily.com/news/93722/Exhibition-focuses-on-the-work-of-the-two-top-painters-of-the-Dutch-De-Stijl-movement'>Exhibition focuses on the work of the two top painters of the Dutch De Stijl movement</a><br><br>8.- <a  class='linka_0' href='http://artdaily.com/news/93749/Botticelli-Venus-painting-on-view-for-first-time-in-United-States'>Botticelli Venus painting on view for first time in United States</a><br><br>9.- <a  class='linka_1' href='http://artdaily.com/news/93695/Parmigianino-s-16th-century-masterpiece-at-risk-of-leaving-the-United-Kingdom'>Parmigianino's 16th century masterpiece at risk of leaving the United Kingdom</a><br><br>10.- <a  class='linka_0' href='http://artdaily.com/news/93691/300-photographs-of-Rock---Roll-musicians-and-Jazz-greats-at-Shelburne-Museum'>300 photographs of Rock & Roll musicians and Jazz greats at Shelburne Museum</a><br><br></td>
+</tr>
+<tr>
+  <td valign="top" style="padding-left:15px;"></td>
+</tr>
+</table>
+<!-- Ends Int_sec -->
+<table width='100%' border='0' cellspacing='0' cellpadding='0'><tr>
+	<td width='100%' valign='top' bgcolor='ffffff' align='center'>
+
+		<table width='714' border='0' cellspacing='0' cellpadding='0' align=center>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+			<tr><td><hr class="gray" /></td></tr>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+			<tr><td valign='middle' class='pie' align='center'>
+			<br><a href='/index.asp?int_sec=100' class='pie'>Museums</a>, <a href='/index.asp?int_sec=101' class='pie'>Exhibits</a>, <a href='/index.asp?int_sec=102' class='pie'>Artists</a>, <a href='/index.asp?int_sec=103' class='pie'>Milestones</a>, <a href='/index.asp?int_sec=104' class='pie'>Digital Art</a>, <a href='/index.asp?int_sec=106' class='pie'>Architecture</a>, <a href='/index.asp?int_sec=107' class='pie'>Photography</a>,<br> <a href='/index.asp?int_sec=108' class='pie'>Photographers</a>, <a href='/index.asp?int_sec=109' class='pie'>Special Photos</a>, <a href='/index.asp?int_sec=123' class='pie'>Special Reports</a>, <a href='/index.asp?int_sec=111' class='pie'>Featured Stories</a>, <a href='/index.asp?int_sec=112' class='pie'>Auctions</a>, <a href='/index.asp?int_sec=113' class='pie'>Art Fairs</a>,<br> <a href='/index.asp?int_sec=114' class='pie'>Anecdotes</a>, <a href='/index.asp?int_sec=121' class='pie'>Art Quiz</a>, <a href='/index.asp?int_sec=115' class='pie'>Education</a>, <a href='/index.asp?int_sec=116' class='pie'>Mythology</a>, <a href='/index.asp?int_sec=118' class='pie'>3D Images</a>, <a href='/index.asp?int_sec=2&int_modo=2' class='pie'>Last Week</a>, <a href='/rss.asp' class='pie'><img src='/media/imagen/feed/rss.gif' border='0'></a>.</td></tr>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+			<tr><td><hr class="gray" /></td></tr>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+		</table>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<table width='574' border='0' cellspacing='0' cellpadding='0' height='5'><tr><td></td></tr></table><table width='574' height='51' border='0' cellspacing='0' cellpadding='0' class='cajas' background='/media/imagen/artdailysearch.gif'>
+	
+	<tr><form id=form1 name=form1 action="/index.asp" method=get>
+<td height='51' width=300 class="titulo" >&nbsp;</td>
+<td width=100 ><input type="text" name="b" size="30"></td>
+<td width=100 align=center >
+
+<input type='submit' class='botonSearch' value='ArtDaily Search' id=submit1 name=submit1>
+<input type="hidden" name="int_sec" value="220">
+</td>
+</form>
+</tr></table>
+		<table width='714' border='0' cellspacing='0' cellpadding='0' height='10'><tr><td></td></tr></table>
+		
+				
+		<table width='574' border='0' cellspacing='0' cellpadding='0' align=center>
+          <tr>
+            <td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td>
+          </tr>
+          <tr>
+            <td valign='bottom' class='pie' align='center'><img src='/media/imagen/logo_peq.gif' border='0'><BR>
+                <a href="http://www.ignaciovillarreal.org" class='pie'>Founder:<br>
+              <b>Ignacio Villarreal</b></a></td>
+          </tr>
+          <tr>
+            <td align='center' height='5'></td>
+          </tr>
+          <tr>
+            <td valign='bottom' class='pie' align='center'>
+            Editor &amp; Publisher:<a href="mailto:artdailynews@yahoo.com" class='pie'><font color="#0000FF">Jose Villarreal</font></a> <a class='pie'>- Consultant: </a> <a class='pie'>Ignacio Villarreal Jr.</a>
+       <br>
+      <a class='pie'>Art Director: Juan Jos&eacute; Sep&uacute;lveda Ram&iacute;rez </a>
+      <br />
+      </td>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+			<tr><td><hr class="gray" /></td></tr>
+			<tr><td height="15" valign="middle" bgcolor="#FFFFFF" class="pie"></td></tr>
+          </tr>
+      </table>
+		<table width='800' border='0' cellspacing='0' cellpadding='0'>
+			<tr><td valign="center" align="center" class="pie">Royalville Communications, Inc<br> produces:<br><br>
+				<table width="800" align="left">
+					<tr>
+                    <td width="25%" align="center"><a href="http://www.ignaciovillarreal.org" target="_blank" ><SPAN style="FONT-SIZE: 11pt; COLOR: #ef4600; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">ignacio</SPAN><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">villarreal</SPAN><SPAN style="FONT-SIZE: 11pt; COLOR:#ef4600; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">.org</SPAN></a></td>
+					<td width="25%" align="center"><a href="http://avemariasound.org/" target="_blank" ><SPAN style="FONT-SIZE: 11pt; COLOR: #010080; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">avemariasound</SPAN><SPAN style="FONT-SIZE: 11pt; COLOR: #53bdf7; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">.org</SPAN></a></td>
+					<td width="25%" align="center"><a href="http://juncodelavega.com" target="_blank" ><SPAN style="FONT-SIZE: 11pt; COLOR: #003300; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">juncodelavega</SPAN><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica; text-decoration: underline; font-weight:bold;">.com</SPAN></a></td>
+					<td width="25%" align="center"><a href="http://facundocabral-elfinal.org/" target="_blank" ><SPAN style="FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Helvetica;text-decoration: underline; font-weight:bold;">facundocabral-elfinal.org</SPAN></a></td>
+					</tr>					
+					<tr>
+					  <td valign="top" align="center"><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica;">Founder's Site.</SPAN></td>
+					  <td valign="top" align="center"><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica;">The most varied versions <br>of this beautiful prayer.</SPAN></td>
+					<td valign="top" align="center"><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica;">Hommage <br>to a Mexican poet.</SPAN></td>
+					
+					<td valign="top" align="center"><SPAN style="FONT-SIZE: 11pt; COLOR: black; FONT-FAMILY: Helvetica;">Hommage <br>
+					</SPAN></td>
+					</tr>
+					<tr>
+					  <td align="center">&nbsp;</td>
+					  <td align="center">&nbsp;</td>
+					  <td align="center">&nbsp;</td>
+				      <td align="center">&nbsp;</td>
+				  </tr>					  					  
+				</table>
+			</td></tr> 
+	  </table><br>
+		<a href='http://www.artdaily.org'><img src='/media/imagen/pixel.gif' width='1' height='1' border='0' alt='The First Art Newspaper on the Net.'></a>
+		<a href='http://www.theavemaria.org'><img src='/media/imagen/pixel.gif' width='1' height='1' border='0' alt='The Best Versions Of Ave Maria Song'></a>
+		<a href='http://www.juncodelavega.org'><img src='/media/imagen/pixel.gif' width='1' height='1' border='0' alt='Junco de la Vega Site'></a>
+		<a href='http://www.ignaciovillarreal.com'><img src='/media/imagen/pixel.gif' width='1' height='1' border='0' alt='Ignacio Villarreal Site'></a>
+	</td>
+	</tr>
+</table>
+
+    </td>	
+    </tr>	
+</table>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script> 
+
+<div id="popup" class="popup_contact">
+	<div style="width:100%;text-align:right;">
+		<img src="images/close.gif" onclick="cerrarpopup(this);" style="cursor:pointer;">			
+	</div>
+	<iframe src="http://visitor.r20.constantcontact.com/d.jsp?llr=mad89adab&amp;p=oi&amp;m=1102761004044&amp;sit=q5rzrhreb" scrolling="no" frameborder="0" style="width: 100%; height: 540px;"></iframe>
+</div>
+<div id="btnrecomendar" class="btn_tell noshow" >	
+	<span class="fa-stack fa-lg mail" title="Tell a Friend" >
+	  <i class="fa fa-square-o fa-stack-2x"></i>
+	  <i class="fa fa-share-alt fa-stack-1x"></i>
+	</span>	
+	<span class="fa-stack fa-lg face" title="Facebook">
+	  <i class="fa fa-square-o fa-stack-2x"></i>
+	  <i class="fa fa-facebook fa-stack-1x"></i>
+	</span>
+	<span class="fa-stack fa-lg twitter" title="Twitter">
+	  <i class="fa fa-square-o fa-stack-2x"></i>
+	  <i class="fa fa-twitter fa-stack-1x"></i>
+	</span>
+</div>
+
+
+<div id="tellafriend" class="divtellafriend">
+	<div id="frmtellafriend">
+		<div style="width:100%;text-align:right;">
+			<img src="images/close.gif" onclick="cerrartell(this);" style="cursor:pointer;">			
+		</div>
+		<div class="titulo_negro" style="text-align:center">Tell a Friend</div>
+		<div>
+			<span class="titulonewsinfoto" style="padding: 0 5px;">
+				Dear User, please complete the form below in order to recommend the Artdaily newsletter to someone you know.
+			</span>
+		</div>
+		<div>
+			<span class="textomedianogris">
+				Please complete all fields marked *.
+			</span>
+		</div>		
+		<form class="formulario" id="fomulariotell">
+			<label for="nombre">Your name *</label>
+			<input id="nombre1" type="text" name="nombre1" placeholder="Your name" required />
+			<label for="email">Your e-mail address *</label>
+			<input id="email1" type="email" name="sender" placeholder="example@mail.com" required />
+			<label for="nombre">Name of recipient *</label>
+			<input id="nombre2" type="text" name="nombre2" placeholder="Name of recipient" required />
+			<label for="email">Recipient's e-mail address *</label>
+			<input id="email2" type="email" name="receiver" placeholder="example@mail.com" required />
+			<label for="mensaje">Your message *</label>
+			<textarea id="mensaje" name="body" placeholder="Your message" required></textarea>		
+			<input type="submit" value="Submit" id="submit"  />
+		</form>
+	</div>
+	<div id="msgtellafriend" class="noshow">
+		<div class="titulo_negro" style="text-align:center">Sending Mail</div>		
+		<img src="/images/ajax-loader.gif">
+	</div>
+	<div id="msgtellafriendok" class="noshow">
+		<div class="titulo_negro" style="text-align:center">Sending Successful</div>		
+		<img src="/images/ok.png">
+	</div>
+</div>
+<script>
+	
+	function cerrartell(elem){					
+		elem.parentElement.parentElement.parentElement.className = elem.parentElement.parentElement.parentElement.className +  " cerrar";
+		setTimeout(function(){ 
+			elem.parentElement.parentElement.parentElement.style.display="none";
+			document.getElementById("btnrecomendar").className="btn_tell";			
+		}, 1500);
+		
+	}
+	
+	
+	jQuery(document).ready(function($){
+		
+		$("#btnrecomendar").removeClass("noshow");
+		
+		
+		$("#btnrecomendar .face").click(function(){	
+			window.open("https://www.facebook.com/ArtDaily-The-First-Art-Newspaper-on-the-Net-133781940016587","_blank");
+		});
+		
+		$("#btnrecomendar .twitter").click(function(){	
+			window.open("https://twitter.com/artdaily","_blank");
+		});
+		
+		
+		
+		$("#btnrecomendar .mail").click(function(){	
+			$("#frmtellafriend .formulario").trigger("reset");
+			$("#frmtellafriend").removeClass("noshow");
+			
+			$("#msgtellafriend").addClass("noshow");
+			$("#msgtellafriendok").addClass("noshow");
+			
+			$("#btnrecomendar").addClass("noshow");
+			$("#tellafriend").removeClass("cerrar");
+			$("#tellafriend").css("display","");
+			$("#tellafriend").addClass("active");
+		}); 
+		
+		$("#fomulariotell").submit(function(event){
+			event.preventDefault(); //prevent default form submit
+			$("#frmtellafriend").addClass("noshow");
+			$("#msgtellafriend").removeClass("noshow");
+			
+			var datos=$("#frmtellafriend .formulario").serialize();
+			
+			 $.ajax({
+                type: "GET",
+                url: "/Mail/Correo.aspx?" + datos,
+				//url: "/Mail/Correo.aspx?correo=angel.roacho@gmail.com&nombre=manuel",
+                //data: JSON.stringify([{correo:"angel.roacho@gmail.com"},{nombre:"angel"}]),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(response){
+					try{
+						if (response=="1"){
+							$("#msgtellafriend").addClass("noshow");
+							$("#msgtellafriendok").removeClass("noshow");
+							$("#tellafriend").addClass("cerrar");
+							setTimeout(function(){ 
+								$("#tellafriend").css("display","none");
+								document.getElementById("btnrecomendar").className="btn_tell";			
+							}, 5000);
+						}
+					}catch(e){
+						
+					}
+				},
+                failure: function(response) {
+                    alert(response.d);
+                }
+            });
+			return false;
+		});
+		
+	});
+	
+	
+	
+</script>
+<script type="text/javascript">
+	function cerrarpopup(elem){					
+		elem.parentElement.parentElement.className = elem.parentElement.parentElement.className +  " cerrar";
+		setTimeout(function(){ 
+			elem.parentElement.parentElement.style.display="none";
+			document.getElementById("btnrecomendar").className="btn_tell";			
+		}, 1500);
+		
+	}
+	
+	
+	 
+				
+		if (window.addEventListener) {
+		  window.addEventListener('load', function(){
+				var d = document.getElementById("popup");
+				d.className = d.className + " active";
+			});
+
+		} else if (window.attachEvent) {
+		  window.attachEvent('onload', function(){
+				var d = document.getElementById("popup");
+				d.className = d.className + " active";
+			});			
+		}
+		/*window.addEventListener("load", function(){
+				var d = document.getElementById("popup");
+			d.className = d.className + " active";
+		});	*/	
+		
+		
+			
+			
+	
+			
+			
+</script>
+</td>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var theImages2l = new Array(); 
+theImages2l[0] = "/banners/Barnebys-2016-03-l2.jpg"
+theImages2l[1] = "/banners/PalmBeachModernAuctions-12-l5.jpg"
+
+
+links2l = new Array ();
+links2l[0] = "https://www.barnebys.com/?utm_source=Art%20daily&utm_medium=widget&utm_campaign=strategic_partner&utm_content=logo"
+links2l[1] = "https://new.liveauctioneers.com/auctioneer/1045/palm-beach-modern-auctions-"
+
+
+code2l = new Array ();
+code2l[0] = "(['_trackEvent', 'Ads', 'Banner_2Lat', 'Barnebys']);"
+code2l[1] = "(['_trackEvent', 'Ads', 'Banner_2Lat', 'Palm Beach Modern Auctions']);"
+
+
+var r_size2l = new Array ();
+r_size2l[0] = "600";
+r_size2l[1] = "600";
+
+
+var r_width2l = new Array ();
+r_width2l[0] = "160";
+r_width2l[1] = "160";
+
+
+var r = Math.floor(1*Math.random())
+var myimage2l = theImages2l[r]
+var mylink2l = links2l[r]
+var mycode2l = code2l[r]
+var mysize2l = r_size2l[r]
+var mywidth2l = r_width2l[r]
+
+function showImage2l(){
+document.write('<A onclick="_gaq.push' + mycode2l +'" HREF="' + mylink2l + '" target="_blank"><IMG src="' + myimage2l + '" width="' + mywidth2l + '" height="' + mysize2l + '" border="0"></A>')
+}
+function showText2l(){
+document.write(r_text[r]);
+}
+function showLink2l(){
+document.write('<FONT color="#CA0205">360&deg;&nbsp;</FONT><A HREF="' + mylink2l + '" target="_blank"><FONT color="#CA0205">' + mytext2l +'</FONT></A>')
+}
+//-->
+</script>
+<!-- Start Ad -->
+	<!-- <td valign="top"><script>showImage2l();</script></td> -->
+
+	<td valign="top"><iframe width="160" height="600" scrolling="no" frameborder="0" scroll="no" border="0" style="width: 160px; height: 600px; border: 0; margin: 0; padding: 0;" src="https://widgethost.barnebys.com/widgets/114/?w=160&h=600"></iframe></td>
+
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- Meta Common -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="robots" content="all" />
+<meta name="copyright" content="Yonhapnews" />
+<meta name="keywords" content="south,korea,yonhap,breaking,news,yna,agency,yonhapnews,north,seoul,politics,diplomacy,korean,english,K-Pop, K-Wave, Hallyu, Korean Wave, Korean pop, Korean pop culture, Korean culture, Korean idol, Korean movies" />
+<meta property="og:site_name" content="Yonhap News Agency" />
+<meta property="og:keywords" content="Rio 2016 Olympic Games, south,korea,yonhap,breaking,news,yna,agency,yonhapnews,north,seoul,politics,diplomacy,korean,english" /> 
+<meta property="og:locale" content="en" />
+<meta property="article:publisher" content="https://www.facebook.com/yonhapenglish" />
+<meta name="twitter:site" content="@Yonhapnews" /> 
+<meta name="twitter:creator" content="@yonhapnews" />
+<meta itemprop="inLanguage" content="en" />
+<!-- //Meta Common -->
+<!-- Meta Article -->
+<title>FM Yun to raise voice against N. Korea's human rights, chemical weapons issues</title>
+<meta name="title" content="FM Yun to raise voice against N. Korea's human rights, chemical weapons issues" />
+<meta name="resource-type" content="article" />
+<meta name="writer" content="Yonhap News Agency" />
+<meta name="description" content=" South Korean Foreign Minister Yun Byung-se will attend international conferences this week to speak out against North Korea's human rights abuses and shed light on Pyongyang's use of chemical weapons, government officials said Sunday." />
+<meta name="image" content="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png" />
+<meta name="twitter:title" content="FM Yun to raise voice against N. Korea's human rights, chemical weapons issues" />
+<meta name="twitter:description" content=" South Korean Foreign Minister Yun Byung-se will attend international conferences this week to speak out against North Korea's human rights abuses and shed light on Pyongyang's use of chemical weapons, government officials said Sunday." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/tw_en_default.png" />
+<meta property="og:title" content="FM Yun to raise voice against N. Korea's human rights, chemical weapons issues" /> 
+<meta property="og:type" content="article" />
+<meta property="og:description" content=" South Korean Foreign Minister Yun Byung-se will attend international conferences this week to speak out against North Korea's human rights abuses and shed light on Pyongyang's use of chemical weapons, government officials said Sunday." />
+<meta property="og:image" content="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png" />
+<meta itemprop="headline" content="FM Yun to raise voice against N. Korea's human rights, chemical weapons issues" />
+<meta itemprop="name" content="FM Yun to raise voice against N. Korea's human rights, chemical weapons issues" />
+<meta itemprop="description" content=" South Korean Foreign Minister Yun Byung-se will attend international conferences this week to speak out against North Korea's human rights abuses and shed light on Pyongyang's use of chemical weapons, government officials said Sunday." />
+<meta itemprop="image" content="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png" />
+<meta itemprop="thumbnailUrl" content="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png" />
+<link rel="image_src" href="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/fb_en_logo.png" />
+<!-- //Meta Article -->
+<!-- Common Resource -->
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/common.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/main.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/dev.css" />
+<link rel="stylesheet" type="text/css" href="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/css/sub.css" />
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/jquery-1.10.0.min.js"></script>
+<script src="http://img.yonhapnews.co.kr/basic/svc/00_ko/resources/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/Yna.Lib.js?20150615"></script>
+<script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_common.js"></script>
+<script src="http://img.yonhapnews.co.kr/basic/svc/00_en/src/2016/js/ui.js"></script>
+<!-- //connon resource -->
+
+<!-- Resource Article -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-42288954-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- //Resource Article -->
+<script type="text/javascript" src="http://www.yonhapnews.co.kr/jscript/lib/redirect.js"></script>
+<script type="text/javascript">
+Redirect.check('http://m.yna.co.kr/mob2/en/contents_en.jsp?cid={cid}&{param}&site=0200000000');
+</script> 
+</head>
+
+<body>
+<div id="u_skip">
+	<a href="#hdr_search"><span>Go Search</span></a>
+	<a href="#container"><span>Go Contents</span></a>
+	<a href="#footer"><span>Go to bottom site map</span></a>
+</div>
+
+<div id="wrap">
+	<div class="urgent_wrap" style="display:none">
+		<div class="urgent">
+		<h2></h2>
+		<ul>
+		<li><a href="">N. Korea steps up attacks on Park amid signs of diplomacy</a></li>
+		</ul>
+		<p><button></button></p>
+		</div>
+	</div>
+
+
+<div id="header">
+    	<div id="header_top">
+        	<span><a href="http://english.yonhapnews.co.kr" title="Yonhap News Agency"><img src="http://img.yonhapnews.co.kr/basic/svc/00_en/home/2016/com/logo.gif?201601281058" alt="Yonhap News Agency" /></a></span>
+    	<div class="ticker">
+            	<h3><a href="http://english.yonhapnews.co.kr/news/0200000001.html">Latest News</a></h3>
+            	<ul class="tk_lst">
+            	<li style="display:none"><a href="#">Park says S. Korea, U.S. won't tolerate N. Korean provocations</a></li>
+            	</ul>
+              <div class="tk_ctl">
+           	    <button class="btnpause">Pause</button>
+           	    <button class="btnprev">Prev</button>
+           	    <button class="btnnext">Next</button>
+              </div>            	
+          </div>
+            <div class="ad"><script type="text/javascript" src="http://ad.yonhapnews.co.kr/RealMedia/ads/adstream_jx.ads/english.yonhapnews.co.kr/main@TopRight"></script></div>
+        </div>
+        <div id="header_middle">
+        	<div id="hdr_search">
+            	<h3 class="blind">Search</h3>
+                <form action="http://english.yonhapnews.co.kr/search1/index.html" method="get"  enctype="application/x-www-form-urlencoded">
+  		<fieldset>
+                    <legend>Search Area</legend>
+                    <input type="text" id="search" class="input_text" title="Keyword" name="query"/>
+                    <button type="submit" class="btn_sch" title="search"><span class="blind">Search</span></button>
+            		</fieldset>
+                </form>
+            </div>
+            <div class="hdr_date" style="display:none;">2013-05-09 (Thursday)</div>
+            <div class="top_wtr">
+      			<dl>
+			<dt class="blind">Weather</dt>
+			<dd style="display:none"><a href="http://english.yonhapnews.co.kr/weather/index.html" title="Weather"><span class="wtr"><span class="wtr02"></span></span>
+			<span class="tmpr">22.8℃</span><span class="lctn">Chuncheon</span></a></dd>
+      			</dl>
+            </div>
+            <div class="keyword">
+            	<ol>
+                <li style="display:none"><a href="#"><span>2</span>subscribebuttonsubscribebutton</a></li>
+                </ol>
+            </div>
+            <div class="hdr_sns2">
+            	<a class="fb" href="https://www.facebook.com/yonhapenglish" title="Facebook" target="_blank">Facebook</a>
+            	<a class="tw" href="https://twitter.com/yonhapnews" title="Twitter" target="_blank">Twitter</a>
+            	<a class="rss" href="http://english.yonhapnews.co.kr/tool/3201000000.html" title="rss page">Rss</a>
+            	<!--a class="gp" href="https://plus.google.com/+yonhap/posts" title="Google plus" target="_blank">Google plus</a-->
+            </div>
+</div>
+        <div id="header_navigation" style="height:74px;display:block;">
+        	<h2 class="blind">Global Navigation</h2>
+        	<div class="gnb">
+            	<ul>
+					<li class="home"><a href="http://english.yonhapnews.co.kr">HOME</a></li>
+					<li class="nat" id="menu_01"><a href="http://english.yonhapnews.co.kr/national/index.html">NATIONAL</a>
+						<ul class="smenu" id="smenu_01" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/national/0301000001.html">Politics/Diplomacy</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/national/0302000001.html">Society</a></li>
+						</ul>
+					</li>
+					<li class="nk" id="menu_02"><a href="http://english.yonhapnews.co.kr/northkorea/index.html">NORTH KOREA</a></li>
+					<li class="biz" id="menu_03"><a href="http://english.yonhapnews.co.kr/business/index.html" >BUSINESS</a>
+						<ul class="smenu" id="smenu_03" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/business/0501000001.html">Industry</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0502000001.html">Economy</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0503000001.html">Market</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/business/0504000001.html">Tech/Science</a></li>
+						</ul>                
+					</li>
+					<li class="cul" id="menu_04"><a href="http://english.yonhapnews.co.kr/culturesports/index.html">CULTURE/SPORTS</a>
+						<ul class="smenu" id="smenu_04" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/culturesports/0701000001.html">Culture</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/culturesports/0702000001.html">Sports</a></li>
+						</ul>                
+					</li>
+					<li class="kwave" id="menu_06"><a href="http://english.yonhapnews.co.kr/kwave/index.html">KOREAN WAVE</a>
+						<ul class="smenu" id="smenu_06" style="display:none">
+						<li class="nobdr"><a href="http://english.yonhapnews.co.kr/kwave/3001000001.html">K-Wave News</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/kwave/3002000001.html">K-Wave Photos</a></li>
+						<li><a href="http://english.yonhapnews.co.kr/kwave/3099000001.html">K-Wave Videos</a></li>
+						</ul>                
+					</li>
+                </ul>
+        	</div>
+        	<div class="lnb">
+            	<ul>
+					<li class="pto" id="menu_05"><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">PHOTOS</a>
+						<ul class="smenu2" id="smenu2_01" style="display:none">
+							<li class="nobdr"><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">All</a></li>
+							<li><a href="http://english.yonhapnews.co.kr/photo/2101000001.html">N. Korea</a></li>
+							<!--<li><a href="http://english.yonhapnews.co.kr/photo/2102000001.html">K-pop</a></li>-->
+						</ul>
+					</li>
+					<!--<li class="full"><a href="http://english.yonhapnews.co.kr/full/1200000001.html">FULLSTORIES</a></li>-->
+					<li class="topic"><a href="http://english.yonhapnews.co.kr/focus/1700000001.html">FOCUS</a></li>               
+                </ul>
+            </div>
+            <div class="select">
+            	<ul>
+                <li><a href="#"><span class="arw"></span>Select Language</a>
+            		<div class="language" style="display:none">
+                    	<a href="http://www.yonhapnews.co.kr/" title="Korean" class="ko"></a>
+                    	<a href="http://chinese.yonhapnews.co.kr" title="Chines(CG)" class="cg"></a>
+                    	<a href="http://big5.yonhapnews.co.kr:83" title="Chines(CB)" class="cb"></a>
+                    	<a href="http://japanese.yonhapnews.co.kr" title="Japanese" class="jp"></a>
+                    	<a href="http://arabic.yonhapnews.co.kr" title="Arabic" class="arb"></a>
+                    	<a href="http://spanish.yonhapnews.co.kr" title="Spanish" class="sp"></a>
+                    	<a href="http://french.yonhapnews.co.kr" title="Franch" class="fr"></a>
+                    </div>
+                  </li>
+                </ul>                	                  
+            </div>
+     </div>
+     <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_navigationCtl.js"></script>	
+</div><!--//header-->
+<hr/>    
+    <div id="container">
+    
+        <div id="content">
+            <div class="title">
+            	<h2><a href="http://english.yonhapnews.co.kr/news/0200000001.html">ALL HEADLINES</a></h2>
+            	<div class="location"><a href="http://english.yonhapnews.co.kr" title="Home"><span class="ichome"></span></a><span class="path"></span><span><a href="http://english.yonhapnews.co.kr/news/0200000001.html" class="b">All Headlines</a></span></div>
+            </div>
+            <div class="article_wrap">
+            	<h1>FM Yun to raise voice against N. Korea's human rights, chemical weapons issues </h1>
+            	<p class="send">2017/02/26 10:23</p>
+
+            	<div class="toolbar">
+            		<div class="social"><ul><li class="tw" title="Tweet"><a href="#">Tweet</a></li><li class="fb" title="Facebook Share"><a href="#">Facebook Share</a></li><li class="gp" title="Google +1"><a href="#">Google +1</a></li></ul></div>
+                	<div class="tool"><ul><li class="mn"  title="Reduce"><a href="#">Reduce</a></li><li class="pl" title="Enlarge"><a href="#">Enlarge</a></li><li class="pt"  title="Print"><a href="#">Print</a></li></ul></div>
+            	</div>
+                <script type="text/javascript" src="http://english.yonhapnews.co.kr/2013/jscript/Yna.En.ArticleBtns.js"></script>
+ 
+            	<div class="article">
+            	<p>SEOUL, Feb. 26 (Yonhap) -- South Korean Foreign Minister Yun Byung-se will attend international conferences this week to speak out against North Korea's human rights abuses and shed light on Pyongyang's use of chemical weapons, government officials said Sunday.</p><p>   Yun plans to visit Geneva on Monday and Tuesday to attend a session of the U.N. Human Rights Council and the Conference on Disarmament, Seoul's foreign ministry said. The minister is set to leave for the Switzerland on Sunday.</p><p>   At the U.N. meeting on human rights, South Korea's top diplomat will deliver a keynote speech in which he will express the government's strong concerns about North Korea's dismal human rights situation that has no parallel in the world, the ministry said.</p><p>   Seoul has usually sent a vice foreign minister to the U.N. meeting, but it raised the level of the country's representative following Malaysian police's revelation that VX nerve agent killed the half brother of North Korea's leader on Feb. 13.</p><p>   Kim Jong-nam, the estranged brother of Kim Jong-un, was killed at an airport in Malaysia after two Asian women allegedly rubbed VX nerve agent, which is classified by the U.N. as a weapon of mass destruction, on his face.</p><p>   Seoul's spy agency said that it is highly likely that North Korea is behind Kim's death. Malaysian police said that eight North Koreans are suspected of involvement in his murder.</p><p>   Tomas Ojea Quintana, the new U.N. special rapporteur on North Korea's human rights, submitted his first report on the situation to the U.N. Human Rights Council. A resolution condemning Pyongyang's rights abuses is expected to be adopted around March 23-24, the ministry said.</p><p>   The government said that Yun will call for a united front in pressing North Korea to give up its nuclear weapons at the Conference on Disarmament.</p><p>   Established in 1979, the conference is a multilateral forum to negotiate arms control and disarmament.</p><p>   Following his visit to Geneva, Yun plans to fly to Spain on Wednesday for a two-day visit to hold talks with his Spanish counterpart Alfonso Dastis, it said.</p><p>   They plan to discuss bilateral and global issues, and exchange views on North Korea's nuclear problem, it added.</p><p>   <a href="mailto:sooyeon@yna.co.kr">sooyeon@yna.co.kr</a></p><p>(END)</p>
+                </div>
+<div class="btm_ad">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px"
+
+data-ad-slot="5831778897"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Article_bottom_468x60 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+
+</div>
+
+ 
+ 
+
+            </div><!--//article_wrap-->
+
+        </div><!--//content-->
+        
+        <div id="content_right">
+<div style="margin-bottom:10px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px"
+
+data-ad-slot="5971531617"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Article_right_300x250 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+</div>
+
+
+        	<div class="mmost">
+            	<h3><a href="http://english.yonhapnews.co.kr/ranking/index.html">Most Viewed</a></h3>
+                <ol class="most">
+	<li class="n1" style="display:none;"><a title="Opening new web browser window" href="#">Seoul to ban smoking at cultural asset sites</a><p class="line"></p></li>
+                <li class="n2" style="display:none;"><a title="Opening new web browser window" href="#">(4th LD) Park apologizes over alleged sexual misconduct by ex-spokesman</a><p class="line"></p></li>
+                <li class="n3" style="display:none;"><a title="Opening new web browser window" href="#">Ssangyong says resumption of overnight shift turning point of normalization</a><p class="line"></p></li>
+                <li class="n4" style="display:none;"><a title="Opening new web browser window" href="#">(2nd LD) N. Korea's Kaesong region sure to be listed as UNESCO world heritage</a><p class="line"></p></li>
+                <li class="n5" style="display:none;"><a title="Opening new web browser window" href="#">N. Korean escapees to S. Korea to fall 20 pct this year: official</a></li>
+                </ol>
+                <a href="http://english.yonhapnews.co.kr/ranking/index.html" class="more">More</a>
+        	</div>
+                <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/en_mostview.js"></script>        
+        <div class="most_pto">
+        	<h3>Most Viewed Photos</h3>
+        	<ul class="most_ptolst"><li></li>
+        	<!-- <li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060301910034000_T.jpg" alt=""/></a>
+        	<p><a href="#">Young North Korean defectors sent back to Pyongyang</a><span>06/05 10:05</span></p>
+        	</li>
+        	<li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060302030001300_T.jpg" alt=""/></a>
+        	<p><a href="#">Denial by ex-president's son</a><span>06/05 10:05</span></p>
+        	</li>
+        	<li><a href="#" class="box"><img src="http://img.yonhapnews.co.kr/photo/yna/YH/2013/06/03/PYH2013060302500001300_T.jpg" alt=""/></a>
+        	<p><a href="#">S. Korean soldiers in plain clothes at World Cup qualifier</a><span>06/05 10:05</span></p>
+        	</li>-->
+        	</ul>
+        </div>
+        <script type="text/javascript" src="http://english.yonhapnews.co.kr/jscript/2013/Yna.En.MostViewPhoto2.js"></script>
+
+        <div class="sfocus">
+		<h3><a href="#">News Focus</a></h3> 
+			<ul>
+			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/22/84/1700000000AEN20170222006800320F.html">Commercial act revision, a necessary change or risky revenge?</a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/21/40/1700000000AEN20170221008000320F.html">S. Korea's tourism faces tough time amid rising complaints </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/17/1/1700000000AEN20170217007700320F.html">Cutting-edge ICT services ready for PyeongChang Winter Olympics </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/16/7/1700000000AEN20170216003900320F.html">Leadership vacuum puts Samsung on alert with Lee detained </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/15/23/1700000000AEN20170215007100315F.html">N.K. likely to face more isolation if involvement in assassination confirmed </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/14/86/1700000000AEN20170214012200315F.html">Half-brother of N.K. leader viewed as victim of reign of terror: observers </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/14/47/1700000000AEN20170214011900315F.html">Rekindled territory issue fans further Seoul-Tokyo tension </a></li>			<li><a href="HTTP://english.yonhapnews.co.kr/focus/2017/02/14/79/1700000000AEN20170214008300315F.html">Can a re-edit save 'Saimdang' from its downward spiral? </a></li>
+			</ul>
+        </div>   
+
+
+        </div><!-- //content_right -->
+
+   <div id="ad_lft"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:120px;height:600px"
+
+data-ad-slot="4494823737"
+
+data-ad-client="ca-pub-1930605407058425">
+
+<!-- Eng_Main_Left_120x600 -->
+
+</ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+<div style="margin-top:10px;"><a href="http://seoul.angloinfo.com" target="_blank"><img src="http://img.yonhapnews.co.kr/basic/home_english/14_images/seoul.gif" alt="angloinfo.com"/></a></div>
+</div>
+    </div><!--//container-->
+<hr/>    
+<hr/>                
+    <div id="footer">
+ 		<div class="sitemap">
+			<div class="map">
+				<h2>News<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/news/0200000001.html">All headlines</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/national/index.html">National</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/northkorea/index.html">North Korea</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/business/index.html">Business</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/culturesports/index.html">Culture / Sports</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/kwave/index.html">Korean Wave</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/photo/2100000001.html">Photo news</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/graphic/1000000001.html">Graphic news</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/focus/1700000001.html">Focus</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/ranking/index.html">Most viewed</a></li>
+				<!-- <li><a href="http://english.yonhapnews.co.kr/full/1200000001.html">Full stories</a></li> -->
+				</ul>
+			</div>
+			<div class="map">
+				<h2>Special Features<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/interview/0800000001.html">Interviews</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/feature/0900000001.html">Features</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/topic/index.html">Topics</a></li>
+				</ul>
+			</div>
+			<div class="map2">
+				<h2> Miscellaneous<span class="line"></span></h2>
+				<ul>
+				<li><a title="Newspaper headlines">Newspaper headlines</a></li>
+				<li><a title="Today in Korean history ">Today in Korean history </a></li>
+				<li><a href="http://english.yonhapnews.co.kr/summary/1500000001.html">Yonhap News summary</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/editorial/1600000001.html">Editorials from dailies</a></li>
+				</ul>
+			</div>
+		   <div class="map">
+				<h2>Tools<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/tool/3201000000.html">RSS</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/tool/3202000000.html">Mobile Service </a></li>
+				<li><a title="Opening new web browser window" href="https://twitter.com/yonhapnews" target="_blank">Twitter</a></li>
+				<li><a title="Opening new web browser window" href="https://www.facebook.com/yonhapenglish" target="_blank">Facebook</a></li>
+				<!--<li><a title="Opening new web browser window" href="https://plus.google.com/+yonhap" target="_blank">Google plus</a></li>-->
+				</ul>
+			</div>
+			<div class="map">
+				<h2>Information<span class="line"></span></h2>
+				<ul>
+				<li><a title="Opening new web browser window" href="http://engsales.yonhapnews.co.kr" target="_blank">Photo/Video Archives</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/brief/index.html">Korea in brief</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/link/index.html">Useful links</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/festival/index.html">Festival Calendar</a></li>
+				 <li><a href="http://english.yonhapnews.co.kr/weather/index.html">Weather</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/about/3101070000.html" target="_blank">Overseas Networks</a></li>
+				</ul>
+			</div>
+			<div class="map">
+				<h2>About Yonhap<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/about/3101000000.html" target="_blank">About Us </a></li>
+				<!--<li><a href="http://english.yonhapnews.co.kr/history/index.html">History</a></li>-->
+				<li><a href="http://english.yonhapnews.co.kr/about/3101090000.html">Contact Us</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/subscription/index.html">Subscription</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/copyright/index.html">Copyright</a></li>
+				</ul>
+			</div>
+		   <div class="map">
+				<h2>N.K Archives<span class="line"></span></h2>
+				<ul>
+				<li><a href="http://english.yonhapnews.co.kr/newsletter/index.html">N.K Newsletter</a></li>
+				<li><a href="http://english.yonhapnews.co.kr/vantage/index.html">Vantage Point </a></li>
+				</ul>
+			</div>
+	<address class="copy"><span class="cplogo"></span>Copyrights <span>Yonhap News  Agency.</span>  All Rights Reserved.</address>
+		</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42288954-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </div> <!--//footer-->
+
+</div><!-- //wrap-->
+</body>
+</html>

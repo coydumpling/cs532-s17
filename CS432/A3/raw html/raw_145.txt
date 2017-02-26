@@ -1,0 +1,1286 @@
+<!doctype html >
+<!--[if IE 8]><html
+class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]><html
+class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html
+lang="en-GB"> <!--<![endif]--><head><title>Council disappointment at Growth Deal announcement | Business Cornwall</title><meta
+charset="UTF-8" /><meta
+http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1.0"><link
+rel="pingback" href="https://www.businesscornwall.co.uk/xmlrpc.php" /><meta
+property="og:image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg" /><meta
+name="author" content="Nick Eyriey"><link
+rel="icon" type="image/png" href="https://www.businesscornwall.co.uk/wp-content/uploads/2015/12/favicon.png"><meta
+name="description"  content="The Council has expressed its disappointment that Cornwall is set to receive just £18 million." /><link
+rel="canonical" href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/" /><link
+rel='dns-prefetch' href='//s0.wp.com' /><link
+rel='dns-prefetch' href='//secure.gravatar.com' /><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Business Cornwall &raquo; Feed" href="https://www.businesscornwall.co.uk/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Business Cornwall &raquo; Comments Feed" href="https://www.businesscornwall.co.uk/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Business Cornwall &raquo; Council &#8216;shock&#8217; at Growth Deal announcement Comments Feed" href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/feed/" /> <script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.businesscornwall.co.uk\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link
+rel='stylesheet' id='contact-form-7-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' /><link
+rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/revslider/rs-plugin/css/settings.css' type='text/css' media='all' /><style id='rs-plugin-settings-inline-css' type='text/css'>.tp-caption
+a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}</style><link
+rel='stylesheet' id='wpt-twitter-feed-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/wp-to-twitter/css/twitter-feed.css' type='text/css' media='all' /><link
+rel='stylesheet' id='google_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.7.2' type='text/css' media='all' /><link
+rel='stylesheet' id='google_font_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C500italic%2C400%2C300&#038;ver=4.7.2' type='text/css' media='all' /><link
+rel='stylesheet' id='wptt_front-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/wp-twitter-feeds/controller/../css/admin_style.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='js_composer_front-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='td-theme-css'  href='https://www.businesscornwall.co.uk/wp-content/themes/Newspaper-child/style.css' type='text/css' media='all' /><link
+rel='stylesheet' id='jetpack_css-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' /><link
+rel='stylesheet' id='afg_colorbox_css-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/awesome-flickr-gallery-plugin/colorbox/colorbox.css' type='text/css' media='all' /><link
+rel='stylesheet' id='afg_css-css'  href='https://www.businesscornwall.co.uk/wp-content/plugins/awesome-flickr-gallery-plugin/afg.css' type='text/css' media='all' /> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-includes/js/jquery/jquery.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-includes/js/jquery/jquery-migrate.min.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/awesome-flickr-gallery-plugin/colorbox/jquery.colorbox-min.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/awesome-flickr-gallery-plugin/colorbox/mycolorbox.js'></script> <link
+rel='https://api.w.org/' href='https://www.businesscornwall.co.uk/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.businesscornwall.co.uk/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.businesscornwall.co.uk/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='Marine Hub Cornwall launches' href='https://www.businesscornwall.co.uk/news-by-location/hayle-business-news/2017/02/marine-hub-cornwall-launches/' /><link
+rel='next' title='Chris Watts in the spotlight' href='https://www.businesscornwall.co.uk/news-by-industry/manufacturing-in-cornwall/2017/02/chris-watts-in-the-spotlight/' /><meta
+name="generator" content="WordPress 4.7.2" /><link
+rel='shortlink' href='https://wp.me/p8noFz-eTZ' /><link
+rel="alternate" type="application/json+oembed" href="https://www.businesscornwall.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://www.businesscornwall.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F&#038;format=xml" /><style type="text/css" media="screen">.g{margin:0px;padding:0px;overflow:hidden;line-height:1;zoom:1}.g
+img{height:auto}.g-col{position:relative;float:left}.g-col:first-child{margin-left:0}.g-col:last-child{margin-right:0}.g-1{margin:1px}.g-2{margin:1px}.g-3{margin:1px}.g-4{margin:1px}.g-5{margin:1px}.g-6{margin:1px}.g-7{margin:1px}.g-8{margin:1px}.g-9{margin:1px}@media only screen and (max-width: 480px){.g-col,.g-dyn,.g-single{width:100%;margin-left:0;margin-right:0}}</style><style type="text/css"></style><script src="https://www.google.com/recaptcha/api.js" async defer></script> <script type="text/javascript">jQuery(document).ready(function(){var ajaxRevslider=function(obj){var content="";data={};data.action='revslider_ajax_call_front';data.client_action='get_slider_html';data.token='3480b0771b';data.type=obj.type;data.id=obj.id;data.aspectratio=obj.aspectratio;jQuery.ajax({type:"post",url:"https://www.businesscornwall.co.uk/wp-admin/admin-ajax.php",dataType:'json',data:data,async:false,success:function(ret,textStatus,XMLHttpRequest){if(ret.success==true)
+content=ret.data;},error:function(e){console.log(e);}});return content;};var ajaxRemoveRevslider=function(obj){return jQuery(obj.selector+" .rev_slider").revkill();};var extendessential=setInterval(function(){if(jQuery.fn.tpessential!=undefined){clearInterval(extendessential);if(typeof(jQuery.fn.tpessential.defaults)!=='undefined'){jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});}}},30);});</script> <link
+rel='dns-prefetch' href='//v0.wordpress.com'><style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta
+name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link
+rel="stylesheet" type="text/css" href="https://www.businesscornwall.co.uk/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link
+rel="stylesheet" type="text/css" href="https://www.businesscornwall.co.uk/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link
+rel="amphtml" href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/amp/" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Council &#8216;shock&#8217; at Growth Deal announcement" /><meta
+property="og:url" content="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/" /><meta
+property="og:description" content="The Council has expressed its disappointment that Cornwall is set to receive just £18 million in Growth Deal investment over the next three years, despite being one of the poorest parts of the UK." /><meta
+property="article:published_time" content="2017-02-24T08:51:55+00:00" /><meta
+property="article:modified_time" content="2017-02-24T09:01:53+00:00" /><meta
+property="og:site_name" content="Business Cornwall" /><meta
+property="og:image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg" /><meta
+property="og:image:width" content="1936" /><meta
+property="og:image:height" content="1564" /><meta
+property="og:locale" content="en_GB" /><meta
+name="twitter:image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg?w=640" /><meta
+name="twitter:card" content="summary_large_image" /> <script>var tdBlocksArray=[];function tdBlock(){this.id='';this.block_type=1;this.atts='';this.td_column_number='';this.td_current_page=1;this.post_count=0;this.found_posts=0;this.max_num_pages=0;this.td_filter_value='';this.is_ajax_running=false;this.td_user_action='';this.header_color='';this.ajax_pagination_infinite_stop='';}
+(function(){var htmlTag=document.getElementsByTagName("html")[0];if(navigator.userAgent.indexOf("MSIE 10.0")>-1){htmlTag.className+=' ie10';}
+if(!!navigator.userAgent.match(/Trident.*rv\:11\./)){htmlTag.className+=' ie11';}
+if(/(iPad|iPhone|iPod)/g.test(navigator.userAgent)){htmlTag.className+=' td-md-is-ios';}
+var user_agent=navigator.userAgent.toLowerCase();if(user_agent.indexOf("android")>-1){htmlTag.className+=' td-md-is-android';}
+if(-1!==navigator.userAgent.indexOf('Mac OS X')){htmlTag.className+=' td-md-is-os-x';}
+if(/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())){htmlTag.className+=' td-md-is-chrome';}
+if(-1!==navigator.userAgent.indexOf('Firefox')){htmlTag.className+=' td-md-is-firefox';}
+if(-1!==navigator.userAgent.indexOf('Safari')&&-1===navigator.userAgent.indexOf('Chrome')){htmlTag.className+=' td-md-is-safari';}})();var tdLocalCache={};(function(){"use strict";tdLocalCache={data:{},remove:function(resource_id){delete tdLocalCache.data[resource_id];},exist:function(resource_id){return tdLocalCache.data.hasOwnProperty(resource_id)&&tdLocalCache.data[resource_id]!==null;},get:function(resource_id){return tdLocalCache.data[resource_id];},set:function(resource_id,cachedData){tdLocalCache.remove(resource_id);tdLocalCache.data[resource_id]=cachedData;}};})();var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];var td_animation_stack_effect="type0";var tds_animation_stack=true;var td_animation_stack_specific_selectors=".entry-thumb, img";var td_animation_stack_general_selectors=".td-animation-stack img, .post img";var td_ajax_url="https:\/\/www.businesscornwall.co.uk\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=6.6";var td_get_template_directory_uri="https:\/\/www.businesscornwall.co.uk\/wp-content\/themes\/Newspaper";var tds_snap_menu="smart_snap_always";var tds_logo_on_sticky="show_header_logo";var tds_header_style="";var td_please_wait="Please wait...";var td_email_user_pass_incorrect="User or password incorrect!";var td_email_user_incorrect="Email or username incorrect!";var td_email_incorrect="Email incorrect!";var tds_more_articles_on_post_enable="";var tds_more_articles_on_post_time_to_wait="";var tds_more_articles_on_post_pages_distance_from_top=0;var tds_theme_color_site_wide="#b53531";var tds_smart_sidebar="enabled";var tdThemeName="Newspaper";var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";var td_magnific_popup_translation_tNext="Next (Right arrow key)";var td_magnific_popup_translation_tCounter="%curr% of %total%";var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";var td_ad_background_click_link="";var td_ad_background_click_target="";</script> <style>.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+.td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+.td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+.td-header-wrap .black-menu .sf-menu > li > a:hover,
+.td-header-wrap .black-menu .sf-menu > .sfHover > a,
+.td-header-style-12 .td-header-menu-wrap-full,
+.sf-menu > .current-menu-item > a:after,
+.sf-menu > .current-menu-ancestor > a:after,
+.sf-menu > .current-category-ancestor > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > .sfHover > a:after,
+.sf-menu ul .td-menu-item > a:hover,
+.sf-menu ul .sfHover > a,
+.sf-menu ul .current-menu-ancestor > a,
+.sf-menu ul .current-category-ancestor > a,
+.sf-menu ul .current-menu-item > a,
+.td-header-style-12 .td-affix,
+.header-search-wrap .td-drop-down-search:after,
+.header-search-wrap .td-drop-down-search .btn:hover,
+input[type=submit]:hover,
+.td-read-more a,
+.td-post-category:hover,
+.td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+.td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+.td_top_authors .td-active .td-author-post-count,
+.td_top_authors .td-active .td-author-comments-count,
+.td_top_authors .td_mod_wrap:hover .td-author-post-count,
+.td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+.td-404-sub-sub-title a:hover,
+.td-search-form-widget .wpb_button:hover,
+.td-rating-bar-wrap div,
+.td_category_template_3 .td-current-sub-category,
+.td-login-wrap .btn,
+.td_display_err,
+.td_display_msg_ok,
+.dropcap,
+.td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+.wpb_default,
+.wpb_default:hover,
+.td-left-smart-list:hover,
+.td-right-smart-list:hover,
+.woocommerce-checkout .woocommerce input.button:hover,
+.woocommerce-page .woocommerce a.button:hover,
+.woocommerce-account div.woocommerce .button:hover,
+#bbpress-forums button:hover,
+.bbp_widget_login .button:hover,
+.td-footer-wrapper .td-post-category,
+.td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+.woocommerce .product a.button:hover,
+.woocommerce .product #respond input#submit:hover,
+.woocommerce .checkout input#place_order:hover,
+.woocommerce .woocommerce.widget .button:hover,
+.single-product .product .summary .cart .button:hover,
+.woocommerce-cart .woocommerce table.cart .button:hover,
+.woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+.td-next-prev-wrap a:hover,
+.td-load-more-wrap a:hover,
+.td-post-small-box a:hover,
+.page-nav .current,
+.page-nav:first-child > div,
+.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+.td_category_template_4 .td-category-siblings .td-category a:hover,
+#bbpress-forums .bbp-pagination .current,
+#bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+.td-theme-slider:hover .slide-meta-cat a,
+a.vc_btn-black:hover,
+.td-trending-now-wrapper:hover .td-trending-now-title,
+.td-scroll-up-visible,
+.td-mobile-close a,.td-smart-list-button:hover,.td-weather-information:before,.td-weather-week:before{background-color:#b53531}.woocommerce .woocommerce-message .button:hover,
+.woocommerce .woocommerce-error .button:hover,
+.woocommerce .woocommerce-info .button:hover{background-color:#b53531 !important}.woocommerce .product .onsale,
+.woocommerce.widget .ui-slider .ui-slider-handle{background:none #b53531}.woocommerce.widget.widget_layered_nav_filters ul li
+a{background:none repeat scroll 0 0 #b53531 !important}a,
+cite a:hover,
+.td_mega_menu_sub_cats .cur-sub-cat,
+.td-mega-span h3 a:hover,
+.td_mod_mega_menu:hover .entry-title a,
+.header-search-wrap .result-msg a:hover,
+.top-header-menu li a:hover,
+.top-header-menu .current-menu-item > a,
+.top-header-menu .current-menu-ancestor > a,
+.top-header-menu .current-category-ancestor > a,
+.td-social-icon-wrap > a:hover,
+.td-header-sp-top-widget .td-social-icon-wrap a:hover,
+.td-page-content blockquote p,
+.td-post-content blockquote p,
+.mce-content-body blockquote p,
+.comment-content blockquote p,
+.wpb_text_column blockquote p,
+.td_block_text_with_title blockquote p,
+.td_module_wrap:hover .entry-title a,
+.td-subcat-filter .td-subcat-list a:hover,
+.td-subcat-filter .td-subcat-dropdown a:hover,
+.td_quote_on_blocks,
+.dropcap2,
+.dropcap3,
+.td_top_authors .td-active .td-authors-name a,
+.td_top_authors .td_mod_wrap:hover .td-authors-name a,
+.td-post-next-prev-content a:hover,
+.author-box-wrap .td-author-social a:hover,
+.td-author-name a:hover,
+.td-author-url a:hover,
+.td_mod_related_posts:hover h3 > a,
+.td-post-template-11 .td-related-title .td-related-left:hover,
+.td-post-template-11 .td-related-title .td-related-right:hover,
+.td-post-template-11 .td-related-title .td-cur-simple-item,
+.td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+.comment-reply-link:hover,
+.logged-in-as a:hover,
+#cancel-comment-reply-link:hover,
+.td-search-query,
+.td-category-header .td-pulldown-category-filter-link:hover,
+.td-category-siblings .td-subcat-dropdown a:hover,
+.td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+.td-login-wrap .td-login-info-text a:hover,
+.widget a:hover,
+.widget_calendar tfoot a:hover,
+.woocommerce a.added_to_cart:hover,
+#bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+#bbpress-forums .bbp-forum-freshness a:hover,
+#bbpress-forums .bbp-topic-freshness a:hover,
+#bbpress-forums .bbp-forums-list li a:hover,
+#bbpress-forums .bbp-forum-title:hover,
+#bbpress-forums .bbp-topic-permalink:hover,
+#bbpress-forums .bbp-topic-started-by a:hover,
+#bbpress-forums .bbp-topic-started-in a:hover,
+#bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+#bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+.widget_display_replies .bbp-author-name,
+.widget_display_topics .bbp-author-name,
+.footer-email-wrap a,
+.td-subfooter-menu li a:hover,
+.footer-social-wrap a:hover,
+a.vc_btn-black:hover,
+.td-mobile-content li a:hover,
+.td-mobile-content .sfHover > a,
+.td-mobile-content .current-menu-item > a,
+.td-mobile-content .current-menu-ancestor > a,
+.td-mobile-content .current-category-ancestor > a,
+.td-smart-list-dropdown-wrap .td-smart-list-button:hover{color:#b53531}.td_login_tab_focus,
+a.vc_btn-black.vc_btn_square_outlined:hover,
+a.vc_btn-black.vc_btn_outlined:hover,
+.td-mega-menu-page .wpb_content_element ul li a:hover{color:#b53531 !important}.td-next-prev-wrap a:hover,
+.td-load-more-wrap a:hover,
+.td-post-small-box a:hover,
+.page-nav .current,
+.page-nav:first-child > div,
+.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+.td_category_template_4 .td-category-siblings .td-category a:hover,
+#bbpress-forums .bbp-pagination .current,
+.td-login-panel-title,
+.post .td_quote_box,
+.page .td_quote_box,a.vc_btn-black:hover{border-color:#b53531}.td_wrapper_video_playlist .td_video_currently_playing:after{border-color:#b53531 !important}.header-search-wrap .td-drop-down-search:before{border-color:transparent transparent #b53531 transparent}.block-title > span,
+.block-title > a,
+.block-title > label,
+.widgettitle,
+.widgettitle:after,
+.td-trending-now-title,
+.td-trending-now-wrapper:hover .td-trending-now-title,
+.wpb_tabs li.ui-tabs-active a,
+.wpb_tabs li:hover a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+.td-related-title .td-cur-simple-item,
+.woocommerce .product .products h2,
+.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more{background-color:#b53531}.woocommerce div.product .woocommerce-tabs ul.tabs
+li.active{background-color:#b53531 !important}.block-title,
+.td-related-title,
+.wpb_tabs .wpb_tabs_nav,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-color:#b53531}.td_block_wrap .td-subcat-item .td-cur-simple-item{color:#b53531}.td-grid-style-4 .entry-title{background-color:rgba(181, 53, 49, 0.7)}.block-title > span,
+.block-title > a,
+.block-title > label,
+.widgettitle,
+.widgettitle:after,
+.td-trending-now-title,
+.td-trending-now-wrapper:hover .td-trending-now-title,
+.wpb_tabs li.ui-tabs-active a,
+.wpb_tabs li:hover a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+.td-related-title .td-cur-simple-item,
+.woocommerce .product .products h2,
+.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,.td-weather-information:before,.td-weather-week:before{background-color:#b53531}.woocommerce div.product .woocommerce-tabs ul.tabs
+li.active{background-color:#b53531 !important}.block-title,
+.td-related-title,
+.wpb_tabs .wpb_tabs_nav,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-color:#b53531}.td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover{color:#fff}</style><noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1}</style></noscript><meta
+name="google-site-verification" content="moghLkufDidNSlnAP9cZC5rLLgJ9OYdDwyAUwJ-C8Kw" /></head><body
+class="post-template-default single single-post postid-57287 single-format-standard single_template_7 wpb-js-composer js-comp-ver-4.8.1 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage"><noscript><iframe
+src="//www.googletagmanager.com/ns.html?id=GTM-TLVR3S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLVR3S');</script> <div
+class="td-scroll-up"><i
+class="td-icon-menu-up"></i></div><div
+id="td-outer-wrap"><div
+class="td-transition-content-and-menu td-mobile-nav-wrap"><div
+id="td-mobile-nav"><div
+class="td-mobile-close">
+<a
+href="#">CLOSE</a><div
+class="td-nav-triangle"></div></div><div
+class="td-mobile-content"><div
+class="menu-primary-container"><ul
+id="menu-primary" class=""><li
+id="menu-item-51461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first menu-item-51461"><a
+href="/">Home</a></li><li
+id="menu-item-30195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30195"><a
+href="https://www.businesscornwall.co.uk/subscribe/">Subscribe</a></li><li
+id="menu-item-25827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25827"><a
+href="https://www.businesscornwall.co.uk/events-networking-in-cornwall/cornwall-business-networking-calendar/">Events</a></li><li
+id="menu-item-25829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25829"><a
+href="https://www.businesscornwall.co.uk/category/featured-posts/">Featured</a></li><li
+id="menu-item-25832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25832"><a
+href="https://www.businesscornwall.co.uk/photos/">Pictures</a></li><li
+id="menu-item-25833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25833"><a
+href="https://www.businesscornwall.co.uk/advertisers/">Advertise</a></li><li
+id="menu-item-57220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57220"><a
+href="https://www.businesscornwall.co.uk/magazine/">Magazine</a></li><li
+id="menu-item-51885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51885"><a
+href="https://www.businesscornwall.co.uk/jobs/">Jobs</a></li><li
+id="menu-item-25828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25828"><a
+href="https://www.businesscornwall.co.uk/category/audio-podcasts/">Audio</a></li><li
+id="menu-item-25835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25835"><a
+href="https://www.businesscornwall.co.uk/contact-us/">Contact</a></li></ul></div></div></div></div><div
+class="td-transition-content-and-menu td-content-wrap"><div
+class="td-header-wrap td-header-style-1"><div
+class="td-header-top-menu-full"><div
+class="td-container td-header-row td-header-top-menu"><div
+class="top-bar-style-1"><div
+class="td-header-sp-top-menu"><div
+class="td_data_time">Sunday, February 26, 2017</div><ul
+class="top-header-menu td_ul_login"><li
+class="menu-item"><a
+class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span
+class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul><div
+id="login-form" class="white-popup-block mfp-hide mfp-with-anim"><ul
+class="td-login-tabs"><li><a
+id="login-link" class="td_login_tab_focus">LOG IN</a></li></ul><div
+class="td-login-wrap"><div
+class="td_display_err"></div><div
+id="td-login-div" class=""><div
+class="td-login-panel-title">Welcome! Log into your account</div>
+<input
+class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+<input
+class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="your password" required>
+<input
+type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In"><div
+class="td-login-info-text"><a
+href="#" id="forgot-pass-link">Forgot your password?</a></div></div><div
+id="td-forgot-pass-div" class="td-dispaly-none"><div
+class="td-login-panel-title">Recover your password</div>
+<input
+class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="your email" value="" required>
+<input
+type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Pass"></div></div></div></div><div
+class="td-header-sp-top-widget">
+<span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.facebook.com/BusinessCornwall" title="Facebook"><i
+class="td-icon-font td-icon-facebook"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.linkedin.com/groups/3967427/profile" title="Linkedin"><i
+class="td-icon-font td-icon-linkedin"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="http://www.businesscornwall.co.uk/feed" title="RSS"><i
+class="td-icon-font td-icon-rss"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://twitter.com/biz_cornwall" title="Twitter"><i
+class="td-icon-font td-icon-twitter"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.youtube.com/channel/UCEL6m0WZDUwcF0U9ajs_5hw" title="Youtube"><i
+class="td-icon-font td-icon-youtube"></i></a></span></div></div></div></div><div
+class="td-banner-wrap-full td-logo-wrap-full"><div
+class="td-container td-header-row td-header-header"><div
+class="td-header-sp-logo">
+<a
+itemprop="url" href="https://www.businesscornwall.co.uk/">
+<img
+class="td-retina-data" data-retina="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" alt="Business Cornwall Magazine"/>
+</a><meta
+itemprop="name" content="Business Cornwall"></div><div
+class="td-header-sp-recs"><div
+class="td-header-rec-wrap"><div
+class="td-a-rec td-a-rec-id-header "><div
+class="g g-11"><div
+class="g-single a-14"><div
+class="g g-19"><div
+class="g-single a-32"><a
+class="gofollow" data-track="MzIsMTksMSw2MA==" href="http://uk-mktg.vodafone.com/onb-video-Cornwall "><img
+src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/12/cornwall-banner-new-1.jpg" /></a></div></div></div></div></div></div></div></div></div><div
+class="td-header-menu-wrap-full"><div
+class="td-header-menu-wrap td-header-gradient"><div
+class="td-container td-header-row td-header-main-menu"><div
+id="td-header-menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><div
+id="td-top-mobile-toggle"><a
+href="#"><i
+class="td-icon-font td-icon-mobile"></i></a></div><div
+class="td-main-menu-logo">
+<a
+itemprop="url" class="td-mobile-logo td-sticky-header" href="https://www.businesscornwall.co.uk/">
+<img
+class="td-retina-data" data-retina="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" alt=""/>
+</a><meta
+itemprop="name" content="Business Cornwall">
+<a
+itemprop="url" class="td-header-logo td-sticky-header" href="https://www.businesscornwall.co.uk/">
+<img
+class="td-retina-data" data-retina="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/new-logo.png" alt=""/>
+</a><meta
+itemprop="name" content="Business Cornwall"></div><div
+class="menu-primary-container"><ul
+id="menu-primary-1" class="sf-menu"><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-51461"><a
+href="/">Home</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-30195"><a
+href="https://www.businesscornwall.co.uk/subscribe/">Subscribe</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-25827"><a
+href="https://www.businesscornwall.co.uk/events-networking-in-cornwall/cornwall-business-networking-calendar/">Events</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-25829"><a
+href="https://www.businesscornwall.co.uk/category/featured-posts/">Featured</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-25832"><a
+href="https://www.businesscornwall.co.uk/photos/">Pictures</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-25833"><a
+href="https://www.businesscornwall.co.uk/advertisers/">Advertise</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-57220"><a
+href="https://www.businesscornwall.co.uk/magazine/">Magazine</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-51885"><a
+href="https://www.businesscornwall.co.uk/jobs/">Jobs</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-25828"><a
+href="https://www.businesscornwall.co.uk/category/audio-podcasts/">Audio</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-25835"><a
+href="https://www.businesscornwall.co.uk/contact-us/">Contact</a></li></ul></div></div><div
+class="td-search-wrapper"><div
+id="td-top-search"><div
+class="header-search-wrap"><div
+class="dropdown header-search">
+<a
+id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i
+class="td-icon-search"></i></a></div></div></div></div><div
+class="header-search-wrap"><div
+class="dropdown header-search"><div
+class="td-drop-down-search" aria-labelledby="td-header-search-button"><form
+role="search" method="get" class="td-search-form" action="https://www.businesscornwall.co.uk/"><div
+class="td-head-form-search-wrap">
+<input
+id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input
+class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" /></div></form><div
+id="td-aj-search"></div></div></div></div></div></div></div></div>
+<article
+id="post-57287" class="td-post-template-7 post-57287 post type-post status-publish format-standard has-post-thumbnail hentry category-finance-and-investment-in-cornwall category-latest-news category-public-sector-news-categories tag-cornwall-and-isles-of-scilly-lep tag-cornwall-council tag-european-funding tag-julian-german tag-local-enterprise-partnership" itemscope itemtype="https://schema.org/Article"><div
+class="td-full-screen-header-image-wrap"><div
+class="td-container td-post-header"><div
+class="td-crumb-container"><div
+class="entry-crumbs"><span
+itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a
+title="" class="entry-crumb" itemprop="url" href="https://www.businesscornwall.co.uk/"><span
+itemprop="title">Home</span></a></span> <i
+class="td-icon-right td-bread-sep"></i> <span
+itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a
+title="View all posts in News by type" class="entry-crumb" itemprop="url" href="https://www.businesscornwall.co.uk/category/news-by-industry/"><span
+itemprop="title">News by type</span></a></span> <i
+class="td-icon-right td-bread-sep"></i> <span
+itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a
+title="View all posts in Finance" class="entry-crumb" itemprop="url" href="https://www.businesscornwall.co.uk/category/news-by-industry/finance-and-investment-in-cornwall/"><span
+itemprop="title">Finance</span></a></span> <i
+class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span
+class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta
+itemprop="title" content = "Council &#8216;shock&#8217; at Growth Deal announcement"><meta
+itemprop="url" content = "https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/">Council &#8216;shock&#8217; at Growth Deal announcement</span></div></div><div
+class="td-post-header-holder"><div
+class="td-parallax-header"><header
+class="td-post-title"><ul
+class="td-category"><li
+class="entry-category"><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/">News by type</a></li><li
+class="entry-category"><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/finance-and-investment-in-cornwall/">Finance</a></li><li
+class="entry-category"><a
+href="https://www.businesscornwall.co.uk/category/latest-news/">Latest News</a></li><li
+class="entry-category"><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/public-sector-news-categories/">Public Sector</a></li></ul><h1 class="entry-title">Council &#8216;shock&#8217; at Growth Deal announcement</h1><div
+class="td-module-meta-info"><div
+class="td-post-author-name">By <a
+itemprop="author" href="https://www.businesscornwall.co.uk/author/nick/">Nick Eyriey</a> -</div><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2017-02-24T08:51:55+00:00" >February 24, 2017</time><meta
+itemprop="interactionCount" content="UserComments:20"/></div><div
+class="td-post-views"><i
+class="td-icon-views"></i><span
+class="td-nr-views-57287">1337</span></div><div
+class="td-post-comments"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/#comments"><i
+class="td-icon-comments"></i>20</a></div></div></header><div
+class="td-read-down"><a
+href="#"><i
+class="td-icon-read-down"></i></a></div></div></div></div><div
+id="td-full-screen-header-image" class="td-image-gradient-style7">
+<img
+class="td-backstretch" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg"></div></div><div
+class="td-container"><div
+class="td-pb-row"><div
+class="td-pb-span8 td-main-content" role="main"><div
+class="td-ss-main-content"><div
+class="td-post-sharing td-post-sharing-top "><div
+class="td-default-sharing">
+<a
+class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-facebook"></i><div
+class="td-social-but-text">Share on Facebook</div></a>
+<a
+class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement&url=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F&via=biz_cornwall"  ><i
+class="td-icon-twitter"></i><div
+class="td-social-but-text">Tweet on Twitter</div></a>
+<a
+class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-googleplus"></i></a>
+<a
+class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/&amp;media=https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg&description=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-pinterest"></i></a>
+<a
+class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement - https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F" ><i
+class="td-icon-whatsapp"></i></a></div></div><div
+class="td-post-content"><p>The Council has expressed its disappointment that Cornwall is set to receive just £18 million in Growth Deal investment over the next three years, despite being one of the poorest parts of the UK.</p><p>The Cornwall and Isles of Scilly Local Enterprise Partnership (LEP) had been encouraged to make &#8220;an ambitious&#8221; bid into the Growth Deal and consequently asked for £127 million.</p><p>Julian German, the Council’s portfolio holder for economy and culture, said: “Having encouraged Cornwall to put in an ambitious bid for funding, I am shocked that Government investment in Cornwall is so small.</p><p>“Numerous businesses across Cornwall spent time and money putting in compelling bids for investment in products, services and infrastructure, many of them will now be left disappointed.”</p><p>The funding settlement is significantly less than the previous Growth Deal allocation given to Cornwall and falls far short, says the Council, of the investment required if Government is going to ensure that Cornwall does not lose out when European funding ceases as a result of the UK leaving the EU. EU funding currently provides £60 million per year to develop vital local projects such as superfast broadband and business support.</p><p>German added: “In future I would encourage Government investment to take account of need. The current process forces Cornwall to compete for investment with more affluent places such as London, Birmingham, Bristol and the south east. It takes no account of our low earnings, poverty and rurality.”</p><p>“As a result of this announcement, the LEP will be forced to reduce the investment it was hoping to make in Cornish businesses.”</p><p>Cornwall Council said it will be reviewing its current list of economic development projects when more detail is known.</p><div
+class="td-a-rec td-a-rec-id-content_bottom "><div
+class="g g-9"><div
+class="g-single a-35"><a
+class="gofollow" data-track="MzUsOSwxLDYw" href="http://www.helstongarages.co.uk/skoda/"><img
+src="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Carrs-ŠKODA_Octavia_LB_728x90.gif" /></a></div></div></div></div><footer><div
+class="td-post-source-tags"><ul
+class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a
+href="https://www.businesscornwall.co.uk/tag/cornwall-and-isles-of-scilly-lep/">cornwall and isles of scilly LEP</a></li><li><a
+href="https://www.businesscornwall.co.uk/tag/cornwall-council/">cornwall council</a></li><li><a
+href="https://www.businesscornwall.co.uk/tag/european-funding/">european funding</a></li><li><a
+href="https://www.businesscornwall.co.uk/tag/growth-deal/">growth deal</a></li><li><a
+href="https://www.businesscornwall.co.uk/tag/julian-german/">julian german</a></li><li><a
+href="https://www.businesscornwall.co.uk/tag/local-enterprise-partnership/">local enterprise partnership</a></li></ul></div><div
+class="td-post-sharing td-post-sharing-bottom td-with-like"><span
+class="td-post-share-title">SHARE</span><div
+class="td-default-sharing">
+<a
+class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-facebook"></i><div
+class="td-social-but-text">Facebook</div></a>
+<a
+class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement&url=https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F&via=biz_cornwall"><i
+class="td-icon-twitter"></i><div
+class="td-social-but-text">Twitter</div></a>
+<a
+class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-googleplus"></i></a>
+<a
+class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/&amp;media=https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg&description=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i
+class="td-icon-pinterest"></i></a>
+<a
+class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Council+%E2%80%98shock%E2%80%99+at+Growth+Deal+announcement - https%3A%2F%2Fwww.businesscornwall.co.uk%2Fnews-by-industry%2Fpublic-sector-news-categories%2F2017%2F02%2Fcouncil-shock-at-growth-deal-announcement%2F" ><i
+class="td-icon-whatsapp"></i></a></div><div
+class="td-classic-sharing"><ul><li
+class="td-classic-facebook"><iframe
+frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></li><li
+class="td-classic-twitter"><a
+href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/" data-text="Council &#8216;shock&#8217; at Growth Deal announcement" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li></ul></div></div><div
+class="td-block-row td-post-next-prev"><div
+class="td-block-span6 td-post-prev-post"><div
+class="td-post-next-prev-content"><span>Previous article</span><a
+href="https://www.businesscornwall.co.uk/news-by-location/hayle-business-news/2017/02/marine-hub-cornwall-launches/">Marine Hub Cornwall launches</a></div></div><div
+class="td-next-prev-separator"></div><div
+class="td-block-span6 td-post-next-post"><div
+class="td-post-next-prev-content"><span>Next article</span><a
+href="https://www.businesscornwall.co.uk/news-by-industry/manufacturing-in-cornwall/2017/02/chris-watts-in-the-spotlight/">Chris Watts in the spotlight</a></div></div></div><div
+class="author-box-wrap"><a
+itemprop="author" href="https://www.businesscornwall.co.uk/author/nick/"><img
+alt='' src='https://secure.gravatar.com/avatar/aa32ee18e400ac7096db147b26bdb7f3?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/aa32ee18e400ac7096db147b26bdb7f3?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></a><div
+class="desc"><div
+class="td-author-name vcard author"><span
+class="fn"><a
+itemprop="author" href="https://www.businesscornwall.co.uk/author/nick/">Nick Eyriey</a></span></div><div
+class="td-author-url"><a
+href="http://www.businesscornwall.co.uk">http://www.businesscornwall.co.uk</a></div><div
+class="td-author-description">Editorial director Nick Eyriey is an experienced and respected journalist having spent some 20 years in the local and national press working with newspapers such as The Yorkshire Post, Today, The Sun, and the Mail on Sunday.</div><div
+class="td-author-social"></div><div
+class="clearfix"></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2017-02-24T08:51:55+00:00"><meta
+itemprop="headline " content="Council &#039;shock&#039; at Growth Deal announcement"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/04/money.jpg"><meta
+itemprop="interactionCount" content="UserComments:20"/>    </footer> <script>var block_td_uid_1_58b2323ac2f26=new tdBlock();block_td_uid_1_58b2323ac2f26.id="td_uid_1_58b2323ac2f26";block_td_uid_1_58b2323ac2f26.atts='{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_tags","td_ajax_filter_type":"td_custom_related","class":"td_uid_1_58b2323ac2f26_rand","td_column_number":3,"live_filter_cur_post_id":57287,"live_filter_cur_post_author":"4"}';block_td_uid_1_58b2323ac2f26.td_column_number="3";block_td_uid_1_58b2323ac2f26.block_type="td_block_related_posts";block_td_uid_1_58b2323ac2f26.post_count="3";block_td_uid_1_58b2323ac2f26.found_posts="352";block_td_uid_1_58b2323ac2f26.header_color="";block_td_uid_1_58b2323ac2f26.ajax_pagination_infinite_stop="";block_td_uid_1_58b2323ac2f26.max_num_pages="118";tdBlocksArray.push(block_td_uid_1_58b2323ac2f26);</script><div
+class="td_block_wrap td_block_related_posts td_uid_1_58b2323ac2f26_rand td_with_ajax_pagination td-pb-border-top"><h4 class="td-related-title"><a
+id="td_uid_2_58b2323ac7490" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_1_58b2323ac2f26" href="#">RELATED ARTICLES</a><a
+id="td_uid_3_58b2323ac74dc" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_1_58b2323ac2f26" href="#">MORE FROM AUTHOR</a></h4><div
+id=td_uid_1_58b2323ac2f26 class="td_block_inner"><div
+class="td-related-row"><div
+class="td-related-span4"><div
+class="td_module_related_posts td-animation-stack td_mod_related_posts"><div
+class="td-module-image"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/events-and-networking/2017/02/industrial-strategy-workshops/" rel="bookmark" title="Industrial Strategy workshops"><img
+width="218" height="150" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/meeting-218x150.jpg" alt="" title="Industrial Strategy workshops"/></a></div>                <a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/networking-and-business-support-in-cornwall/" class="td-post-category">Business Support</a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/events-and-networking/2017/02/industrial-strategy-workshops/" rel="bookmark" title="Industrial Strategy workshops">Industrial Strategy workshops</a></h3></div></div></div><div
+class="td-related-span4"><div
+class="td_module_related_posts td-animation-stack td_mod_related_posts"><div
+class="td-module-image"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/5-4m-transport-hub-investment/" rel="bookmark" title="£5.4M transport hub investment"><img
+width="218" height="150" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/10/road-218x150.jpg" alt="" title="£5.4M transport hub investment"/></a></div>                <a
+href="https://www.businesscornwall.co.uk/category/latest-news/" class="td-post-category">Latest News</a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/5-4m-transport-hub-investment/" rel="bookmark" title="£5.4M transport hub investment">£5.4M transport hub investment</a></h3></div></div></div><div
+class="td-related-span4"><div
+class="td_module_related_posts td-animation-stack td_mod_related_posts"><div
+class="td-module-image"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/roads-and-transportation/2017/02/cornwall-reaching-for-the-stars/" rel="bookmark" title="Cornwall reaching for the stars"><img
+width="218" height="150" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Newquay-Airport-Runway-218x150.jpg" alt="" title="Cornwall reaching for the stars"/></a></div>                <a
+href="https://www.businesscornwall.co.uk/category/latest-news/" class="td-post-category">Latest News</a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/roads-and-transportation/2017/02/cornwall-reaching-for-the-stars/" rel="bookmark" title="Cornwall reaching for the stars">Cornwall reaching for the stars</a></h3></div></div></div></div></div><div
+class="td-next-prev-wrap"><a
+href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_58b2323ac2f26" data-td_block_id="td_uid_1_58b2323ac2f26"><i
+class="td-icon-font td-icon-menu-left"></i></a><a
+href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_58b2323ac2f26" data-td_block_id="td_uid_1_58b2323ac2f26"><i
+class="td-icon-font td-icon-menu-right"></i></a></div></div><div
+class="comments" id="comments"><div
+class="td-comments-title-wrap "><h4 class="block-title"><span>20 COMMENTS</span></h4></div><ol
+class="comment-list "><li
+class="comment " id="li-comment-100312">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/a75e46449feb23863f7d415f884c1a93?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a75e46449feb23863f7d415f884c1a93?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Mark L'Estrange</cite><a
+class="comment-link" href="#li-comment-100312">
+<time
+pubdate="1488064318">February 25, 2017 at 11:11 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>It will be just like Poldark. I&#8217;m looking forward to seeing begging peasants, carts, donkeys and wreckers again. It will make an interesting historic 19c theme park.</p></div><div
+class="comment-meta" id="comment-100312">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100312#respond' onclick='return addComment.moveForm( "comment-100312", "100312", "respond", "57287" )' aria-label='Reply to Mark L&#039;Estrange'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100306">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/6236689a7150253654ca2cda9a0dc50b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6236689a7150253654ca2cda9a0dc50b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>mary</cite><a
+class="comment-link" href="#li-comment-100306">
+<time
+pubdate="1488049839">February 25, 2017 at 7:10 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Remind me again did Cornwall vote leave or remain? Oh, that&#8217;s right it was leave. Suck it up so.</p></div><div
+class="comment-meta" id="comment-100306">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100306#respond' onclick='return addComment.moveForm( "comment-100306", "100306", "respond", "57287" )' aria-label='Reply to mary'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100305">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/8c09e208f1e86568af27f15a0b7da50a?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8c09e208f1e86568af27f15a0b7da50a?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>sandra</cite><a
+class="comment-link" href="#li-comment-100305">
+<time
+pubdate="1488049703">February 25, 2017 at 7:08 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Tut, tut, Cornwall, at least you are getting control back.</p></div><div
+class="comment-meta" id="comment-100305">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100305#respond' onclick='return addComment.moveForm( "comment-100305", "100305", "respond", "57287" )' aria-label='Reply to sandra'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100300">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/619e8f65acb89945b7861b0053c85076?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/619e8f65acb89945b7861b0053c85076?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Caroline</cite><a
+class="comment-link" href="#li-comment-100300">
+<time
+pubdate="1488047285">February 25, 2017 at 6:28 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Cornwall, time to wake up &#8211; you&#8217;ve been suckered.</p></div><div
+class="comment-meta" id="comment-100300">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100300#respond' onclick='return addComment.moveForm( "comment-100300", "100300", "respond", "57287" )' aria-label='Reply to Caroline'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100294">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ebe26b131a13c1a1348c74fb87845eff?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ebe26b131a13c1a1348c74fb87845eff?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>JC</cite><a
+class="comment-link" href="#li-comment-100294">
+<time
+pubdate="1488045597">February 25, 2017 at 5:59 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>I am Spanish myself but living in the UK. No region in Spain that is currently receiving EU funds would dare voting to get out of Europe. I suppose that voting for Brexit wasn&#8217;t a wise deal. I reckon you have been conned. As for me, before anyone says anything nasty, I am on my way back to my country&#8230; after 15 years teaching here. I feel that I am not welcomed anymore, so&#8230;</p></div><div
+class="comment-meta" id="comment-100294">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100294#respond' onclick='return addComment.moveForm( "comment-100294", "100294", "respond", "57287" )' aria-label='Reply to JC'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100307">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/6e0e930afcf6907bd76da45151afcbb4?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6e0e930afcf6907bd76da45151afcbb4?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Jeff</cite><a
+class="comment-link" href="#li-comment-100307">
+<time
+pubdate="1488053930">February 25, 2017 at 8:18 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>We pay £55 million a day to belong to the EU, the second highest contributor. We can use that money on ourselves when we exit. Can you not understand this? It is easy to understand if you think about it. We are a nett contributor, unlike Spain, Portugal, Greece, Italy, and all the eastern european members.</p></div><div
+class="comment-meta" id="comment-100307">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100307#respond' onclick='return addComment.moveForm( "comment-100307", "100307", "respond", "57287" )' aria-label='Reply to Jeff'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100308">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/827dafb4068cc8c176e9fb32445127dd?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/827dafb4068cc8c176e9fb32445127dd?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>MR RJ BANNISTER</cite><a
+class="comment-link" href="#li-comment-100308">
+<time
+pubdate="1488054914">February 25, 2017 at 8:35 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Still believing that 55m a day are we Jeff? Doesn&#8217;t the fact your own county got £18m from a requested £127 tip you off to the fact that the government will not have this money to reinvest in the UK?</p></div><div
+class="comment-meta" id="comment-100308">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100308#respond' onclick='return addComment.moveForm( "comment-100308", "100308", "respond", "57287" )' aria-label='Reply to MR RJ BANNISTER'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100310">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/a75e46449feb23863f7d415f884c1a93?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a75e46449feb23863f7d415f884c1a93?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Mark L'Estrange</cite><a
+class="comment-link" href="#li-comment-100310">
+<time
+pubdate="1488063942">February 25, 2017 at 11:05 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>The Bank of England spent 3 years contributions &#8216;letting the pound down gently&#8217; in the first two weeks after the referendum. Can you not understand this?<br
+/>
+The drop in the pound has increased debt payments to more than our EU contributions already and they are not going to stop for over 2 years anyway. You voted leave .. get your cheque book out you owe me .. and my kids.</p></div><div
+class="comment-meta" id="comment-100310">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100310#respond' onclick='return addComment.moveForm( "comment-100310", "100310", "respond", "57287" )' aria-label='Reply to Mark L&#039;Estrange'>Reply</a></div>
+</article></li></ul></li></ul></li><li
+class="comment " id="li-comment-100291">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/cbb77fff5da8dec45538d3525a9526e5?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/cbb77fff5da8dec45538d3525a9526e5?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Charles Fish</cite><a
+class="comment-link" href="#li-comment-100291">
+<time
+pubdate="1488043792">February 25, 2017 at 5:29 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Cornish have had it too good for too long. Time they learned to stand on their own two feet without subsidy -we didn&#8217;t vote for Brexit to continue to give handouts.</p></div><div
+class="comment-meta" id="comment-100291">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100291#respond' onclick='return addComment.moveForm( "comment-100291", "100291", "respond", "57287" )' aria-label='Reply to Charles Fish'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100293">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Dave the Badger</cite><a
+class="comment-link" href="#li-comment-100293">
+<time
+pubdate="1488044169">February 25, 2017 at 5:36 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Nonsense. We need a fare distribution of wealth. Areas which are economically strong should support those who aren&#8217;t. Your point just narrows done the myopia of Brexit even further. You vote to leave a benevolent trading bloc to,concentrate on the UK. But then you also want to split the UK even further, casting regions who are traditionally economically poorer to the wolves.</p><p>The &#8220;I&#8217;m all right Jack&#8221; attitude is *not* what made Britain great.</p></div><div
+class="comment-meta" id="comment-100293">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100293#respond' onclick='return addComment.moveForm( "comment-100293", "100293", "respond", "57287" )' aria-label='Reply to Dave the Badger'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100295">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/cbb77fff5da8dec45538d3525a9526e5?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/cbb77fff5da8dec45538d3525a9526e5?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Charles Fish</cite><a
+class="comment-link" href="#li-comment-100295">
+<time
+pubdate="1488045760">February 25, 2017 at 6:02 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>It is fair to see people make an equal contribution, and not rely on subsidies. The people have voted for Brexit to see value for money. This applies to all regions and all sectors. Well it&#8217;s time for the handouts to stop -including farming subsidies. There will be new tax breaks for business to stimulate growth, so there will still be the encouragement to succeed.</p></div><div
+class="comment-meta" id="comment-100295">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100295#respond' onclick='return addComment.moveForm( "comment-100295", "100295", "respond", "57287" )' aria-label='Reply to Charles Fish'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100296">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ebe26b131a13c1a1348c74fb87845eff?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ebe26b131a13c1a1348c74fb87845eff?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>JC</cite><a
+class="comment-link" href="#li-comment-100296">
+<time
+pubdate="1488046097">February 25, 2017 at 6:08 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Not all the sectors are equally important. I have to disagree with you. Some like food industry (including farming, fishing&#8230;), health and education, for example, need to be subsidised even if they are not profitable in strict economic terms, simply because a country cannot survive without food, health or education.</p></div><div
+class="comment-meta" id="comment-100296">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100296#respond' onclick='return addComment.moveForm( "comment-100296", "100296", "respond", "57287" )' aria-label='Reply to JC'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100302">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Dave the Badger</cite><a
+class="comment-link" href="#li-comment-100302">
+<time
+pubdate="1488048262">February 25, 2017 at 6:44 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>I disagree absolutely. You paint a picture of areas deliberately being reticent to look after themselves and sitting around waiting for handouts. The story here is that many businesses applied for this finding and were knocked back. It is this kind of funding that allows all parts of society to thrive. The narrow focus of conservatism on every man for himself merely rips apart society. Cohesive societies are benevolent and this lack of benevolence is precisely what we do not need, or areas whither and die and the populations just end up becoming reliant on welfare. Give a man arose and he&#8217;ll eat for a day. Give him a rod and teach him how to fish and he&#8217;ll dine forever. The UK suffers from concentrations of wealth, funding and opportunity in small areas, notably the south east and London. It is high time this was spread out.</p></div><div
+class="comment-meta" id="comment-100302">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100302#respond' onclick='return addComment.moveForm( "comment-100302", "100302", "respond", "57287" )' aria-label='Reply to Dave the Badger'>Reply</a></div>
+</article><ul
+class="children"><li
+class="comment " id="li-comment-100304">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Dave the Badger</cite><a
+class="comment-link" href="#li-comment-100304">
+<time
+pubdate="1488048459">February 25, 2017 at 6:47 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Of course, give a man a *fish* rather than a rose. My autocorrect seems to think people can live on love alone.</p></div><div
+class="comment-meta" id="comment-100304"></div>
+</article></li></ul></li></ul></li></ul></li><li
+class="comment " id="li-comment-100299">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/4d2846bbc96544d3e8aa2c47f196f4bc?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4d2846bbc96544d3e8aa2c47f196f4bc?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Andy B</cite><a
+class="comment-link" href="#li-comment-100299">
+<time
+pubdate="1488046209">February 25, 2017 at 6:10 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>When East Germany unified with West Germany, the East was poverty-stricken, its infrastructure was crumbling, and its businesses were uncompetitive.</p><p>The West Germans had two choices. They could either adopt Charles Fish&#8217;s approach&#8230; Leave them to &#8220;learn to stand on their own two feet without subsidy&#8221;, or invest heavily to allow that part of the unified country to raise its standards to world level.</p><p>They chose the later. And anyone who has visited the former East can attest to it being utterly transformed. Dresden is a stunning example. It puts most UK cities to shame. Germany as a whole benefited from what Charles Fish would call &#8220;handouts&#8221; to the East.</p><p>Cornwall&#8217;s people need to find out what life under Theresa May&#8217;s post-brexit UK will be for them.</p></div><div
+class="comment-meta" id="comment-100299">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100299#respond' onclick='return addComment.moveForm( "comment-100299", "100299", "respond", "57287" )' aria-label='Reply to Andy B'>Reply</a></div>
+</article></li></ul></li><li
+class="comment " id="li-comment-100290">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/4d2846bbc96544d3e8aa2c47f196f4bc?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4d2846bbc96544d3e8aa2c47f196f4bc?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Andy B</cite><a
+class="comment-link" href="#li-comment-100290">
+<time
+pubdate="1488043621">February 25, 2017 at 5:27 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>A good percentage of the money we give to the EU goes back into this country to support poorer areas like Cornwall.</p><p>The Leave campaign didn&#8217;t tell you about that did they? But at least they said the money would go to the NHS &#8211; but it turns out they were lying about that.</p><p>And the conservatives are theatening Europe with a low tax economy on their doorstep. That means you can kiss goodbye to funding from government and you can kiss goodbye to well funded schools and hospitals too.</p><p>Brexit is a game where the wealthy have played puppetmaster to the british people via the media they own &#8211; the Sun, the Express and the Mail. The owners of these papers aren&#8217;t interested in you. You&#8217;ve been played like fools.</p><p>Don&#8217;t you think you should be angry about this?</p></div><div
+class="comment-meta" id="comment-100290">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100290#respond' onclick='return addComment.moveForm( "comment-100290", "100290", "respond", "57287" )' aria-label='Reply to Andy B'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100288">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/a139889494b69f66039e20bf7c37787d?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a139889494b69f66039e20bf7c37787d?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Al</cite><a
+class="comment-link" href="#li-comment-100288">
+<time
+pubdate="1488043462">February 25, 2017 at 5:24 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>They voted to leave the EU, essentially biting the hand that feeds them. Nobody could be stupid or naive enough to think they would get what they were before so it&#8217;s no good complaining now.</p></div><div
+class="comment-meta" id="comment-100288">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100288#respond' onclick='return addComment.moveForm( "comment-100288", "100288", "respond", "57287" )' aria-label='Reply to Al'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100285">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/1cc970eec58817db38a886379e48e1c3?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1cc970eec58817db38a886379e48e1c3?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Hammer</cite><a
+class="comment-link" href="#li-comment-100285">
+<time
+pubdate="1488043197">February 25, 2017 at 5:19 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Cornwall is going to lose out massively from leaving the EU.  Just like they were told.  Suck it up.</p></div><div
+class="comment-meta" id="comment-100285">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100285#respond' onclick='return addComment.moveForm( "comment-100285", "100285", "respond", "57287" )' aria-label='Reply to Hammer'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100284">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ed24b494460af750f7942f2f4a0d5b3b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Dave the Badger</cite><a
+class="comment-link" href="#li-comment-100284">
+<time
+pubdate="1488043053">February 25, 2017 at 5:17 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>If the Conservative government continues in its push for a low tax, low revenue economy, I strongly doubt there will be any funding for Cornwall (or anywhere else) when EU funding ceases. The beneficiaries of the new UK order will be large corporations and rich oligarchs seeking to hide their cash here.</p><p>2 lessons here. First, don&#8217;t vote Tory. They are not your friends (nor are UKIP). Secondly, don&#8217;t vote to leave the EU, which is a huge donor to the south western economy&#8230;too late for that now, but do make sure the Lords and your MPs know your opinion. Write to them now. Ensure parliament and you have a say in the final deal or we&#8217;ll all end up on the breadline.</p></div><div
+class="comment-meta" id="comment-100284">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100284#respond' onclick='return addComment.moveForm( "comment-100284", "100284", "respond", "57287" )' aria-label='Reply to Dave the Badger'>Reply</a></div>
+</article></li><li
+class="comment " id="li-comment-100283">
+<article>
+<footer>
+<img
+alt='' src='https://secure.gravatar.com/avatar/df56a76497f555f7574fc1b67617021b?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/df56a76497f555f7574fc1b67617021b?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />                    <cite>Richard Bannister</cite><a
+class="comment-link" href="#li-comment-100283">
+<time
+pubdate="1488042563">February 25, 2017 at 5:09 pm</time>
+</a>
+</footer><div
+class="comment-content"><p>Shouldn&#8217;t have voted Leave then. Reap what you sow.</p></div><div
+class="comment-meta" id="comment-100283">
+<a
+rel='nofollow' class='comment-reply-link' href='https://www.businesscornwall.co.uk/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/?replytocom=100283#respond' onclick='return addComment.moveForm( "comment-100283", "100283", "respond", "57287" )' aria-label='Reply to Richard Bannister'>Reply</a></div>
+</article></li></ol><div
+class="comment-pagination"></div><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">LEAVE A REPLY <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/news-by-industry/public-sector-news-categories/2017/02/council-shock-at-growth-deal-announcement/#respond" style="display:none;">Cancel reply</a></small></h3><form
+action="https://www.businesscornwall.co.uk/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div
+class="clearfix"></div><p
+class="comment-form-input-wrap"><textarea placeholder="Comment:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p
+class="comment-form-input-wrap">
+<span
+class="comment-req-wrap">
+<input
+class="" id="author" name="author" placeholder="Name:" type="text" value="" size="30" /></span></p><p
+class="comment-form-input-wrap">
+<span
+class="comment-req-wrap"><input
+class="" id="email" name="email" placeholder="Email:" type="text" value="" size="30" /></span></p><p
+class="comment-form-input-wrap">
+<input
+class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" /></p><p
+class="form-submit"><input
+name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input
+type='hidden' name='comment_post_ID' value='57287' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p><div
+class="g-recaptcha" data-sitekey="6LcW4hITAAAAAE4qork9n75U1feG0KRAhLEV7GYg" data-theme="light"></div><p
+class="comment-subscription-form"><input
+type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label
+class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p
+class="comment-subscription-form"><input
+type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label
+class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p></form></div></div></div></div><div
+class="td-pb-span4 td-main-sidebar" role="complementary"><div
+class="td-ss-main-sidebar"><style scoped>.td_uid_4_58b2323ad8b70_rand .td_module_wrap:hover .entry-title a,
+.td_uid_4_58b2323ad8b70_rand a.td-pulldown-filter-link:hover,
+.td_uid_4_58b2323ad8b70_rand .td-subcat-item a:hover,
+.td_uid_4_58b2323ad8b70_rand .td-subcat-item .td-cur-simple-item,
+.td_uid_4_58b2323ad8b70_rand
+.td_quote_on_blocks{color:#B53531}.td_uid_4_58b2323ad8b70_rand .td-next-prev-wrap a:hover,
+.td_uid_4_58b2323ad8b70_rand .td-load-more-wrap a:hover{background-color:#B53531;border-color:#B53531}.td_uid_4_58b2323ad8b70_rand .td-subcat-dropdown:hover .td-subcat-more,
+.td_uid_4_58b2323ad8b70_rand .td-post-category:hover{background-color:#B53531}.td_uid_4_58b2323ad8b70_rand .block-title span,
+.td_uid_4_58b2323ad8b70_rand .td-trending-now-title,
+.td_uid_4_58b2323ad8b70_rand .block-title a,
+.td_uid_4_58b2323ad8b70_rand .td-read-more a,
+.td_uid_4_58b2323ad8b70_rand .td-weather-information:before,
+.td_uid_4_58b2323ad8b70_rand .td-weather-week:before{background-color:#B53531}.td_uid_4_58b2323ad8b70_rand .block-title{border-color:#B53531}.td_uid_4_58b2323ad8b70_rand .block-title span,
+.td_uid_4_58b2323ad8b70_rand .td-trending-now-title,
+.td_uid_4_58b2323ad8b70_rand .block-title
+a{color:#FFF}</style><div
+class="td_block_wrap td_block_text_with_title td_block_widget td_uid_4_58b2323ad8b70_rand td-pb-border-top"><h4 class="block-title"><span>DAILY DIGEST</span></h4><div
+class="td_mod_wrap"></div></div><aside
+class="widget widget_text"><div
+class="textwidget">Enter your email address to signup for our email news service<br
+/> <script type="text/javascript">(function(){if(!window.mc4wp){window.mc4wp={listeners:[],forms:{on:function(event,callback){window.mc4wp.listeners.push({event:event,callback:callback});}}}}})();</script><form
+id="mc4wp-form-1" class="mc4wp-form mc4wp-form-52278" method="post" data-id="52278" data-name="" ><input
+type="hidden" autocomplete="off" autocorrect="off" name="XB-QLg-e-W-P-tgd-pKD" value="" /><div
+class="mc4wp-form-fields"><p>
+<input
+style="width: 70%;" type="email" name="EMAIL" placeholder="Your email address" required />
+<input
+style="width: 20%;" type="submit" value="Sign up" /></p><div
+style="display: none;"><input
+type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input
+type="hidden" name="_mc4wp_timestamp" value="1488073274" /><input
+type="hidden" name="_mc4wp_form_id" value="52278" /><input
+type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div
+class="mc4wp-response"></div></form></div>
+</aside><style scoped>.td_uid_5_58b2323ae8dbe_rand .td_module_wrap:hover .entry-title a,
+.td_uid_5_58b2323ae8dbe_rand a.td-pulldown-filter-link:hover,
+.td_uid_5_58b2323ae8dbe_rand .td-subcat-item a:hover,
+.td_uid_5_58b2323ae8dbe_rand .td-subcat-item .td-cur-simple-item,
+.td_uid_5_58b2323ae8dbe_rand
+.td_quote_on_blocks{color:#B53531}.td_uid_5_58b2323ae8dbe_rand .td-next-prev-wrap a:hover,
+.td_uid_5_58b2323ae8dbe_rand .td-load-more-wrap a:hover{background-color:#B53531;border-color:#B53531}.td_uid_5_58b2323ae8dbe_rand .td-subcat-dropdown:hover .td-subcat-more,
+.td_uid_5_58b2323ae8dbe_rand .td-post-category:hover{background-color:#B53531}.td_uid_5_58b2323ae8dbe_rand .block-title span,
+.td_uid_5_58b2323ae8dbe_rand .td-trending-now-title,
+.td_uid_5_58b2323ae8dbe_rand .block-title a,
+.td_uid_5_58b2323ae8dbe_rand .td-read-more a,
+.td_uid_5_58b2323ae8dbe_rand .td-weather-information:before,
+.td_uid_5_58b2323ae8dbe_rand .td-weather-week:before{background-color:#B53531}.td_uid_5_58b2323ae8dbe_rand .block-title{border-color:#B53531}.td_uid_5_58b2323ae8dbe_rand .block-title span,
+.td_uid_5_58b2323ae8dbe_rand .td-trending-now-title,
+.td_uid_5_58b2323ae8dbe_rand .block-title
+a{color:#FFF}</style><div
+class="td_block_wrap td_block_social_counter td_block_widget td_uid_5_58b2323ae8dbe_rand td-pb-border-top"><h4 class="block-title"><span>STAY CONNECTED</span></h4><div
+class="td_social_type td-pb-margin-side td_social_twitter"><div
+class="td-sp td-sp-twitter"></div><span
+class="td_social_info">14,299</span><span
+class="td_social_info td_social_info_name">Followers</span><span
+class="td_social_button"><a
+href="https://twitter.com/biz_cornwall">Follow</a></span></div><div
+class="td_social_type td-pb-margin-side td_social_youtube"><div
+class="td-sp td-sp-youtube"></div><span
+class="td_social_info">7</span><span
+class="td_social_info td_social_info_name">Subscribers</span><span
+class="td_social_button"><a
+href="http://www.youtube.com/channel/UCSba_lDWlKXDqBSqFSwFVoA">Subscribe</a></span></div></div><div
+class="td-a-rec td-a-rec-id-sidebar "><span
+class="td-adspot-title">- Advertisement -</span><div
+class="g g-14"><div
+class="g-single a-34"><a
+class="gofollow" data-track="MzQsMTQsMSw2MA==" href="http://www.truro-penwith.ac.uk/csp"><img
+src="https://www.businesscornwall.co.uk/wp-content/uploads/2017/01/038-Business-Cornwall-online-Feb-2.jpg" /></a></div></div></div><style scoped>.td_uid_6_58b2323b04388_rand .td_module_wrap:hover .entry-title a,
+.td_uid_6_58b2323b04388_rand a.td-pulldown-filter-link:hover,
+.td_uid_6_58b2323b04388_rand .td-subcat-item a:hover,
+.td_uid_6_58b2323b04388_rand .td-subcat-item .td-cur-simple-item,
+.td_uid_6_58b2323b04388_rand
+.td_quote_on_blocks{color:#B53531}.td_uid_6_58b2323b04388_rand .td-next-prev-wrap a:hover,
+.td_uid_6_58b2323b04388_rand .td-load-more-wrap a:hover{background-color:#B53531;border-color:#B53531}.td_uid_6_58b2323b04388_rand .td-subcat-dropdown:hover .td-subcat-more,
+.td_uid_6_58b2323b04388_rand .td-post-category:hover{background-color:#B53531}.td_uid_6_58b2323b04388_rand .block-title span,
+.td_uid_6_58b2323b04388_rand .td-trending-now-title,
+.td_uid_6_58b2323b04388_rand .block-title a,
+.td_uid_6_58b2323b04388_rand .td-read-more a,
+.td_uid_6_58b2323b04388_rand .td-weather-information:before,
+.td_uid_6_58b2323b04388_rand .td-weather-week:before{background-color:#B53531}.td_uid_6_58b2323b04388_rand .block-title{border-color:#B53531}.td_uid_6_58b2323b04388_rand .block-title span,
+.td_uid_6_58b2323b04388_rand .td-trending-now-title,
+.td_uid_6_58b2323b04388_rand .block-title
+a{color:#FFF}</style><script>var block_td_uid_6_58b2323b04388=new tdBlock();block_td_uid_6_58b2323b04388.id="td_uid_6_58b2323b04388";block_td_uid_6_58b2323b04388.atts='{"sort":"popular","custom_title":"MOST POPULAR","limit":"4","header_color":"#B53531","ajax_pagination":"load_more","custom_url":"","header_text_color":"#FFFFFF","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","offset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_6_58b2323b04388_rand"}';block_td_uid_6_58b2323b04388.td_column_number="1";block_td_uid_6_58b2323b04388.block_type="td_block_7";block_td_uid_6_58b2323b04388.post_count="4";block_td_uid_6_58b2323b04388.found_posts="8452";block_td_uid_6_58b2323b04388.header_color="#B53531";block_td_uid_6_58b2323b04388.ajax_pagination_infinite_stop="";block_td_uid_6_58b2323b04388.max_num_pages="2113";tdBlocksArray.push(block_td_uid_6_58b2323b04388);</script><div
+class="td_block_wrap td_block_7 td_block_widget td_uid_6_58b2323b04388_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>MOST POPULAR</span></h4><div
+id=td_uid_6_58b2323b04388 class="td_block_inner"><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/cornwall-is-california-of-the-uk/" rel="bookmark" title="Cornwall is &#8216;California of the UK&#8217;"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/software-100x70.jpg" alt="" title="Cornwall is &#8216;California of the UK&#8217;"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/cornwall-is-california-of-the-uk/" rel="bookmark" title="Cornwall is &#8216;California of the UK&#8217;">Cornwall is &#8216;California of the UK&#8217;</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-02-18T11:27:56+00:00" >February 18, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-02-18T11:27:56+00:00"><meta
+itemprop="headline " content="Cornwall is &#039;California of the UK&#039;"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/software.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/awards/2016/04/cornwall-business-awards-finalists-2/" rel="bookmark" title="Cornwall Business Awards finalists"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/cbagen07-100x70.jpg" alt="" title="Cornwall Business Awards finalists"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/awards/2016/04/cornwall-business-awards-finalists-2/" rel="bookmark" title="Cornwall Business Awards finalists">Cornwall Business Awards finalists</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-04-06T15:09:26+00:00" >April 6, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-04-06T15:09:26+00:00"><meta
+itemprop="headline " content="Cornwall Business Awards finalists"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/cbagen07.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/new-digital-service-launched/" rel="bookmark" title="New digital service launched"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/Mark-Daryll-DWM-100x70.jpg" alt="" title="New digital service launched"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/new-digital-service-launched/" rel="bookmark" title="New digital service launched">New digital service launched</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-02-02T12:36:39+00:00" >February 2, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-02-02T12:36:39+00:00"><meta
+itemprop="headline " content="New digital service launched"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/Mark-Daryll-DWM.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/latest-news/2016/03/second-wind-for-energy-project/" rel="bookmark" title="Second wind for energy project?"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/03/Juliet-Davenport-Good-Energy-100x70.jpg" alt="" title="Second wind for energy project?"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/latest-news/2016/03/second-wind-for-energy-project/" rel="bookmark" title="Second wind for energy project?">Second wind for energy project?</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-03-02T14:35:24+00:00" >March 2, 2016</time><meta
+itemprop="interactionCount" content="UserComments:3"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-03-02T14:35:24+00:00"><meta
+itemprop="headline " content="Second wind for energy project?"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/03/Juliet-Davenport-Good-Energy.jpg"><meta
+itemprop="interactionCount" content="UserComments:3"/></div></div></div><div
+class="td-load-more-wrap"><a
+href="#" class="td_ajax_load_more td_ajax_load_more_js" id="next-page-td_uid_6_58b2323b04388" data-td_block_id="td_uid_6_58b2323b04388">Load more<i
+class="td-icon-font td-icon-menu-down"></i></a></div></div></div></div></div></div>
+</article><div
+class="td-footer-wrapper"><div
+class="td-container"><div
+class="td-pb-row"><div
+class="td-pb-span12"></div></div><div
+class="td-pb-row"><div
+class="td-pb-span4"> <script>var block_td_uid_7_58b2323b2aef5=new tdBlock();block_td_uid_7_58b2323b2aef5.id="td_uid_7_58b2323b2aef5";block_td_uid_7_58b2323b2aef5.atts='{"custom_title":"EDITOR PICKS","limit":3,"sort":"featured","class":"td_uid_7_58b2323b2aef5_rand"}';block_td_uid_7_58b2323b2aef5.td_column_number="1";block_td_uid_7_58b2323b2aef5.block_type="td_block_7";block_td_uid_7_58b2323b2aef5.post_count="3";block_td_uid_7_58b2323b2aef5.found_posts="8452";block_td_uid_7_58b2323b2aef5.header_color="";block_td_uid_7_58b2323b2aef5.ajax_pagination_infinite_stop="";block_td_uid_7_58b2323b2aef5.max_num_pages="2818";tdBlocksArray.push(block_td_uid_7_58b2323b2aef5);</script><div
+class="td_block_wrap td_block_7 td_uid_7_58b2323b2aef5_rand td-pb-border-top"><h4 class="block-title"><span>EDITOR PICKS</span></h4><div
+id=td_uid_7_58b2323b2aef5 class="td_block_inner"><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/manufacturing-in-cornwall/2017/02/enter-the-dragons-den/" rel="bookmark" title="Enter the Dragons&#8217; Den"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Simon-Heap-3-100x70.jpg" alt="" title="Enter the Dragons&#8217; Den"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/manufacturing-in-cornwall/2017/02/enter-the-dragons-den/" rel="bookmark" title="Enter the Dragons&#8217; Den">Enter the Dragons&#8217; Den</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2017-02-24T14:28:30+00:00" >February 24, 2017</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2017-02-24T14:28:30+00:00"><meta
+itemprop="headline " content="Enter the Dragons&#039; Den"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Simon-Heap-3.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-location/truro-business-news/2017/02/sing-when-youre-winning/" rel="bookmark" title="Sing when you&#8217;re winning"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Moye_Stephens_Scown_Choir_17-100x70.jpg" alt="" title="Sing when you&#8217;re winning"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-location/truro-business-news/2017/02/sing-when-youre-winning/" rel="bookmark" title="Sing when you&#8217;re winning">Sing when you&#8217;re winning</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2017-02-24T12:37:04+00:00" >February 24, 2017</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2017-02-24T12:37:04+00:00"><meta
+itemprop="headline " content="Sing when you&#039;re winning"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2017/02/Moye_Stephens_Scown_Choir_17.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2017/02/more-microsoft-gold-for-datasharp/" rel="bookmark" title="More Microsoft Gold for Datasharp"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/Datasharp-Directors-100x70.jpeg" alt="" title="More Microsoft Gold for Datasharp"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2017/02/more-microsoft-gold-for-datasharp/" rel="bookmark" title="More Microsoft Gold for Datasharp">More Microsoft Gold for Datasharp</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2017-02-24T11:06:47+00:00" >February 24, 2017</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2017-02-24T11:06:47+00:00"><meta
+itemprop="headline " content="More Microsoft Gold for Datasharp"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/Datasharp-Directors.jpeg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div></div></div><div
+class="td-pb-span4"> <script>var block_td_uid_8_58b2323b3c993=new tdBlock();block_td_uid_8_58b2323b3c993.id="td_uid_8_58b2323b3c993";block_td_uid_8_58b2323b3c993.atts='{"custom_title":"POPULAR POSTS","limit":3,"sort":"popular","class":"td_uid_8_58b2323b3c993_rand"}';block_td_uid_8_58b2323b3c993.td_column_number="1";block_td_uid_8_58b2323b3c993.block_type="td_block_7";block_td_uid_8_58b2323b3c993.post_count="3";block_td_uid_8_58b2323b3c993.found_posts="8452";block_td_uid_8_58b2323b3c993.header_color="";block_td_uid_8_58b2323b3c993.ajax_pagination_infinite_stop="";block_td_uid_8_58b2323b3c993.max_num_pages="2818";tdBlocksArray.push(block_td_uid_8_58b2323b3c993);</script><div
+class="td_block_wrap td_block_7 td_uid_8_58b2323b3c993_rand td-pb-border-top"><h4 class="block-title"><span>POPULAR POSTS</span></h4><div
+id=td_uid_8_58b2323b3c993 class="td_block_inner"><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/cornwall-is-california-of-the-uk/" rel="bookmark" title="Cornwall is &#8216;California of the UK&#8217;"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/software-100x70.jpg" alt="" title="Cornwall is &#8216;California of the UK&#8217;"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/cornwall-is-california-of-the-uk/" rel="bookmark" title="Cornwall is &#8216;California of the UK&#8217;">Cornwall is &#8216;California of the UK&#8217;</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-02-18T11:27:56+00:00" >February 18, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-02-18T11:27:56+00:00"><meta
+itemprop="headline " content="Cornwall is &#039;California of the UK&#039;"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/software.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/awards/2016/04/cornwall-business-awards-finalists-2/" rel="bookmark" title="Cornwall Business Awards finalists"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/cbagen07-100x70.jpg" alt="" title="Cornwall Business Awards finalists"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/awards/2016/04/cornwall-business-awards-finalists-2/" rel="bookmark" title="Cornwall Business Awards finalists">Cornwall Business Awards finalists</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-04-06T15:09:26+00:00" >April 6, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-04-06T15:09:26+00:00"><meta
+itemprop="headline " content="Cornwall Business Awards finalists"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/cbagen07.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div><div
+class="td-block-span12"><div
+class="td_module_6 td_module_wrap td-animation-stack" itemscope itemtype="https://schema.org/Article"><div
+class="td-module-thumb"><a
+href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/new-digital-service-launched/" rel="bookmark" title="New digital service launched"><img
+width="100" height="70" itemprop="image" class="entry-thumb" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/Mark-Daryll-DWM-100x70.jpg" alt="" title="New digital service launched"/></a></div><div
+class="item-details"><h3 itemprop="name" class="entry-title td-module-title"><a
+itemprop="url" href="https://www.businesscornwall.co.uk/news-by-industry/digital-industries/2016/02/new-digital-service-launched/" rel="bookmark" title="New digital service launched">New digital service launched</a></h3><div
+class="td-module-meta-info"><div
+class="td-post-date"><time
+itemprop="dateCreated" class="entry-date updated td-module-date" datetime="2016-02-02T12:36:39+00:00" >February 2, 2016</time><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div><meta
+itemprop="author" content = "Nick Eyriey"><meta
+itemprop="datePublished" content="2016-02-02T12:36:39+00:00"><meta
+itemprop="headline " content="New digital service launched"><meta
+itemprop="image" content="https://www.businesscornwall.co.uk/wp-content/uploads/2016/02/Mark-Daryll-DWM.jpg"><meta
+itemprop="interactionCount" content="UserComments:0"/></div></div></div></div></div><div
+class="td-pb-span4"><div
+class="td_block_wrap td_block_popular_categories td_uid_9_58b2323b56fa0_rand widget widget_categories td-pb-border-top"><h4 class="block-title"><span>POPULAR CATEGORY</span></h4><ul
+class="td-pb-padding-side"><li><a
+href="https://www.businesscornwall.co.uk/category/latest-news/">Latest News<span
+class="td-cat-no">7520</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-location/truro-business-news/">Truro<span
+class="td-cat-no">1640</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-location/falmouth-and-penryn-business-news/">Falmouth and Penryn<span
+class="td-cat-no">1012</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/networking-and-business-support-in-cornwall/">Business Support<span
+class="td-cat-no">961</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/tourism-sector-business-news-cornwall/">Tourism Sector<span
+class="td-cat-no">866</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/events-and-networking/">Events and Networking<span
+class="td-cat-no">848</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-location/camborne-pool-redurth-business-news/">Camborne, Pool and Redruth<span
+class="td-cat-no">799</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/finance-and-investment-in-cornwall/">Finance<span
+class="td-cat-no">747</span></a></li><li><a
+href="https://www.businesscornwall.co.uk/category/news-by-industry/food-and-drink/">Food and Drink<span
+class="td-cat-no">710</span></a></li></ul></div></div></div></div><div
+class="td-footer-bottom-full"><div
+class="td-container"><div
+class="td-pb-row"><div
+class="td-pb-span3"><aside
+class="footer-logo-wrap"><a
+href="https://www.businesscornwall.co.uk/"><img
+class="td-retina-data" src="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/logo-on-dark.png" data-retina="https://www.businesscornwall.co.uk/wp-content/uploads/2016/01/logo-on-dark.png" alt=""/></a></aside></div><div
+class="td-pb-span5"><aside
+class="footer-text-wrap"><div
+class="block-title"><span>ABOUT US</span></div>Business Cornwall is a magazine and website dedicated to providing the latest Cornish business news and information to the Duchy’s vibrant business community.<div
+class="footer-email-wrap">Contact us: <a
+href="mailto:info@businesscornwall.co.uk">info@businesscornwall.co.uk</a></div></aside></div><div
+class="td-pb-span4"><aside
+class="footer-social-wrap td-social-style-2"><div
+class="block-title"><span>FOLLOW US</span></div><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.facebook.com/BusinessCornwall" title="Facebook"><i
+class="td-icon-font td-icon-facebook"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.linkedin.com/groups/3967427/profile" title="Linkedin"><i
+class="td-icon-font td-icon-linkedin"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="http://www.businesscornwall.co.uk/feed" title="RSS"><i
+class="td-icon-font td-icon-rss"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://twitter.com/biz_cornwall" title="Twitter"><i
+class="td-icon-font td-icon-twitter"></i></a></span><span
+class="td-social-icon-wrap"><a
+target="_blank" href="https://www.youtube.com/channel/UCEL6m0WZDUwcF0U9ajs_5hw" title="Youtube"><i
+class="td-icon-font td-icon-youtube"></i></a></span></aside></div></div></div></div></div><div
+class="td-sub-footer-container"><div
+class="td-container"><div
+class="td-pb-row"><div
+class="td-pb-span7 td-sub-footer-menu"></div><div
+class="td-pb-span5 td-sub-footer-copy">
+&copy; 2016 - Business Cornwall Magazine</div></div></div></div></div></div><div
+style="display:none"><div
+class="grofile-hash-map-aa32ee18e400ac7096db147b26bdb7f3"></div><div
+class="grofile-hash-map-a75e46449feb23863f7d415f884c1a93"></div><div
+class="grofile-hash-map-6236689a7150253654ca2cda9a0dc50b"></div><div
+class="grofile-hash-map-8c09e208f1e86568af27f15a0b7da50a"></div><div
+class="grofile-hash-map-18ad9ce62c1a384cb1defc3f55bd564e"></div><div
+class="grofile-hash-map-ebe26b131a13c1a1348c74fb87845eff"></div><div
+class="grofile-hash-map-3dfe519140e1b452102b0b13e8a99b5d"></div><div
+class="grofile-hash-map-827dafb4068cc8c176e9fb32445127dd"></div><div
+class="grofile-hash-map-cbb77fff5da8dec45538d3525a9526e5"></div><div
+class="grofile-hash-map-ed24b494460af750f7942f2f4a0d5b3b"></div><div
+class="grofile-hash-map-4d2846bbc96544d3e8aa2c47f196f4bc"></div><div
+class="grofile-hash-map-e202260bf64b118c7ee37d8d284bc7b8"></div><div
+class="grofile-hash-map-76656eaff8a4611f64a9364114540b7a"></div><div
+class="grofile-hash-map-27eba4ea9c01af2af4d8bf9c2d3326b5"></div></div> <script type="text/javascript">(function(){function addEventListener(element,event,handler){if(element.addEventListener){element.addEventListener(event,handler,false);}else if(element.attachEvent){element.attachEvent('on'+event,handler);}}function maybePrefixUrlField(){if(this.value.trim()!==''&&this.value.indexOf('http')!==0){this.value="http://"+this.value;}}
+var urlFields=document.querySelectorAll('.mc4wp-form input[type="url"]');if(urlFields&&urlFields.length>0){for(var j=0;j<urlFields.length;j++){addEventListener(urlFields[j],'blur',maybePrefixUrlField);}}
+var testInput=document.createElement('input');testInput.setAttribute('type','date');if(testInput.type!=='date'){var dateFields=document.querySelectorAll('.mc4wp-form input[type="date"]');for(var i=0;i<dateFields.length;i++){if(!dateFields[i].placeholder){dateFields[i].placeholder='YYYY-MM-DD';}
+if(!dateFields[i].pattern){dateFields[i].pattern='[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';}}}})();</script><script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);(function(){var wpbrLoader=(function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://www.businesscornwall.co.uk/?gdbc-client=3.1.4-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();</script><script type='text/javascript'>var click_object={"ajax_url":"https:\/\/www.businesscornwall.co.uk\/wp-admin\/admin-ajax.php"};</script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script> <script type='text/javascript'>var _wpcf7={"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};</script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script> <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script> <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js'></script> <script type='text/javascript'>var WPGroHo={"my_hash":""};</script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/jetpack/modules/wpgroho.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/themes/Newspaper/js/tagdiv_theme.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-includes/js/comment-reply.min.js'></script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-includes/js/wp-embed.min.js'></script> <script type='text/javascript'>var mc4wp_forms_config=[];</script> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js'></script> <!--[if lte IE 9]> <script type='text/javascript' src='https://www.businesscornwall.co.uk/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script> <![endif]--> <script>jQuery(window).ready(function(){(function(){var td_backstr_item=new tdBackstr.item();td_backstr_item.wrapper_image_jquery_obj=jQuery("#td-full-screen-header-image");td_backstr_item.image_jquery_obj=td_backstr_item.wrapper_image_jquery_obj.find('img:first');tdBackstr.add_item(td_backstr_item);jQuery('.td-read-down a').click(function(event){event.preventDefault();var header_wrap=jQuery('.td-full-screen-header-image-wrap:first')
+if(1===header_wrap.length){tdUtil.scrollToPosition(header_wrap.height()+header_wrap.offset().top,1200);}});})();});(function(){var html_jquery_obj=jQuery('html');if(html_jquery_obj.length&&(html_jquery_obj.is('.ie8')||html_jquery_obj.is('.ie9'))){var path='https://www.businesscornwall.co.uk/wp-content/themes/Newspaper-child/style.css';jQuery.get(path,function(data){var str_split_separator='#td_css_split_separator';var arr_splits=data.split(str_split_separator);var arr_length=arr_splits.length;if(arr_length>1){var dir_path='https://www.businesscornwall.co.uk/wp-content/themes/Newspaper';var splited_css='';for(var i=0;i<arr_length;i++){if(i>0){arr_splits[i]=str_split_separator+' '+arr_splits[i];}
+var formated_str=arr_splits[i].replace(/\surl\(\'(?!data\:)/gi,function regex_function(str){return' url(\''+dir_path+'/'+str.replace(/url\(\'/gi,'').replace(/^\s+|\s+$/gm,'');});splited_css+="<style>"+formated_str+"</style>";}
+var td_theme_css=jQuery('link#td-theme-css');if(td_theme_css.length){td_theme_css.after(splited_css);}}});}})();</script> <script type='text/javascript' src='https://stats.wp.com/e-201708.js' async defer></script> <script type='text/javascript'>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:4.6',blog:'123787065',post:'57287',tz:'0',srv:'www.businesscornwall.co.uk'}]);_stq.push(['clickTrackerInit','123787065','57287']);</script> </body></html>
+<!--
+*** This site runs WP Super Minify plugin v1.5 - http://wordpress.org/plugins/wp-super-minify ***
+*** Total size saved: 13.855% | Size before compression: 137321 bytes | Size after compression: 118295 bytes. ***
+-->
+<!-- Dynamic page generated in 1.722 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-02-26 01:41:15 -->
+
+<!-- Compression = gzip -->

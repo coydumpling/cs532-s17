@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Bernard Amankwah To Host Another Concert This Year &bull;  News &bull; 233 Live | Latest News from Ghana and the World.</title>
+<base href="http://233live.com/" target="_top" />
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/master.css">
+<link rel="stylesheet" href="css/app.css">
+
+<link rel="icon" type="image/png" href="http://www.justinmensah.com/images/icon.png"><meta property="og:site_name" content="233 Live | Latest News from Ghana and the World"/>
+<meta property="fb:app_id" content="120950954658019"/>
+<meta property="og:title" content="Bernard Amankwah To Host Another Concert This Year" />
+<meta property="og:type" content="Blog" />
+<meta property="og:url" content="http://233live.com/2/94910.html" />
+<meta property="og:image" content="http://233live.com/images/photos/98652.jpg" />
+<meta property="og:description" content="Bernard Amankwah, one of the sensational gospel music icons in Ghana, is gearing up to host this year&rsquo;s edition of &lsquo;Celebration of His Grace&rsquo; concert in Accra." />
+<link rel="icon" type="image/png" href="http://www.justinmensah.com/images/icon.png"><link rel="canonical" href="http://233live.com/2/94910.html" />
+<script src='/google_analytics_auto.js'></script></head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=120950954658019";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+  
+<div class="container">
+<!-- header -->
+<nav class="row">
+  <div class="twelve columns"> <span class="date">Today is Sun, 26th Feb 2017</span>
+
+    <!-- mobile first -->
+    <div class="toggle"><a href="javascript:void(0);"><span></span><span></span><span></span></a></div>
+    <ul>
+     
+      <li><a href="general">General</a></li>
+       
+      <li><a href="entertainment">Entertainment</a></li>
+       
+      <li><a href="sports">Sports</a></li>
+       
+      <li><a href="business">Business</a></li>
+       
+      <li><a href="technology">Technology</a></li>
+       
+      <li><a href="international">International</a></li>
+       
+      <li><a href="health">Health</a></li>
+       
+      <li><a href="feature">Feature</a></li>
+          </ul>
+    
+    <!-- desktop only -->
+    <ul class="navbar">
+     
+      <li><a href="general">General</a></li>
+       
+      <li><a href="entertainment">Entertainment</a></li>
+       
+      <li><a href="sports">Sports</a></li>
+       
+      <li><a href="business">Business</a></li>
+       
+      <li><a href="technology">Technology</a></li>
+       
+      <li><a href="international">International</a></li>
+       
+      <li><a href="health">Health</a></li>
+       
+      <li><a href="feature">Feature</a></li>
+          </ul>
+    <a href="http://233live.com/" class="logo">233 Live</a></div>
+    <span class="corner_left"></span> <span class="corner_right"></span>
+</nav>
+
+<!-- content -->
+
+
+<div class="row ticker">
+        <div class="eight columns">
+        <div id="ticker">
+          <h3>Headlines</h3>
+          <div id="ticker_div">
+            <iframe src="ticker/" id="ticker" height="15" width="100%" marginwidth="0" scrolling="no" frameborder="0" marginheight="0"></iframe>
+          </div>
+          <div id="spacer"></div>
+        </div>
+        </div>
+        
+        <div class="four columns">
+        <form id="search" action="?ref=Search" method="get">
+        <input type="text" value="Type search and press enter" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;" name="q"  />
+        <input type="submit" class="submit" />
+        <div id="spacer"></div>
+      </form>
+        </div>
+</div>
+
+<div class="row content">
+
+
+<!-- left content -->
+      <div class="eight columns content-left"> 
+        
+        
+        
+        <!-- google_ad_section_start -->
+        <div class="row article">
+        <div class="twelve columns">
+        <ul class="breadcrumb"><li>You are here &raquo;<a href="/">Home &raquo;</a><a href=""></a></li></ul>
+        <h2>Bernard Amankwah To Host Another Concert This Year</h2>
+        <span>Posted on Tue, 20 Jan 2015 • <a href="javascript:void" data-disqus-identifier="94910" class="comment">loading...</a></span>
+        <div class="ad"><!-- Responsive JCCafe -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1488586612730989"
+     data-ad-slot="2736677715"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+        <div><img src="http://233live.com/images/photos/98652.jpg" border="0" title="Bernard Amankwah To Host Another Concert This Year" /><p></p></div>        <div>Bernard Amankwah, one of the sensational gospel music icons in Ghana, is gearing up to host this year&rsquo;s edition of &lsquo;Celebration of His Grace&rsquo; concert in Accra.</div>
+        <div>This year&rsquo;s concert would be used to raise funds to assist some selected needy institutions in the country.
+The concert, according to the multi-talented songwriter, would witness a gathering of believers of the gospel from all walks of life, adding, &ldquo;This is an event you will not want to miss.&rdquo;
+Bernard Amankwah, who is credited with several hit songs including like &lsquo;Presence&rsquo;, &lsquo;Presence II&rsquo;, &lsquo;Almighty&rsquo;, &lsquo;The Glory Has Come&rsquo;, &lsquo;Holy&rsquo;, &lsquo;Mercy Rescue Me&rsquo;, among others, has made a tremendous impact in motivating and inspiring so many people both in and out of the church.
+His projects lined up for the future include writing and producing songs for budding music talents as well as hosting another concert in Kumasi, adding, &ldquo;It is time for gospel music icons who expect great things from God to support the needy in society because God is ready to support all those who have the welfare of the needy at heart.&rdquo;
+Bernard&rsquo;s contribution to the music industry in Ghana would undoubtedly add to the rich repertoire of musical works that the country already has.</div>
+
+<ul class="share">
+<li><a href="http://twitter.com/share" class="twitter-share-button" data-text="'Bernard Amankwah To Host Another Concert This Year'" data-count="horizontal" data-via="233Live"></a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li>
+<fb:like href="http://233live.com/2/94910/Bernard+Amankwah+To+Host+Another+Concert+This+Year.html" send="true" width="100" show_faces="false" font="lucida grande" layout="button_count"></fb:like></li><li><g:plusone size="medium"></g:plusone>
+                <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li>
+            </ul>
+            
+            <div class="ad"><!-- Responsive JCCafe -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1488586612730989"
+     data-ad-slot="2736677715"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+            
+            
+            <div id="disqus_thread"></div>
+    <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = '233live'; // required: replace example with your forum shortname
+			var disqus_identifier = '94910';
+			var disqus_url = 'http://233live.com//94910/Bernard+Amankwah+To+Host+Another+Concert+This+Year.html';
+			var disqus_title = "Bernard Amankwah To Host Another Concert This Year";
+		  
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+    </script>
+        </div>
+        </div> 
+        
+        
+                
+      </div>
+      
+      
+<!-- right content -->
+      <div class="four columns content-right">
+      
+      <div id="poll">
+        <h3>[Poll]</h3>
+        <div id="pollcontainer"></div>
+      </div>
+      <div id="ad">
+        <h3><a href="mailto:info@233live.com?Subject=Advertise with us">[Advertisement]</a></h3>
+        <a href="http://www.justinmensah.com" target="_blank"><img src="images/ad_poi.jpg" title="Advertisement" /></a></div>
+      <div id="social">
+        <h3>[Like us on Facebook]</h3>
+        <fb:like-box href="http://www.facebook.com/233liveOnline" width="100%" height="260" connections="10" stream="false" header="false"></fb:like-box>
+      </div>
+      <div id="social">
+      <h3>[Follow on Twitter]</h3>
+      <a href="https://twitter.com/233liveOnline" class="twitter-follow-button" data-show-count="true">Follow Us</a>
+      <a class="twitter-timeline" href="https://twitter.com/233liveOnline" data-widget-id="512689577555787777" height="300" width="100%" data-chrome="noheader nofooter noborders noscrollbar" data-link-color="#f44a34" data-theme="light">Tweets by @233liveOnline</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+      
+      </div>
+      
+      
+  </div>
+  
+  <!-- footer -->
+  <footer class="row">
+    <div class="twelve columns">
+    <span class="corner_left"></span> <span class="corner_right"></span>
+      <p>Copyright 10 - 2017.
+        All Rights Reserved. Website designed by <a href="http://www.justinmensah.com" target="blank" title="Website Designed by Justin Mensah Ltd">JM</a>      </p>
+    </div>
+    <div class="twelve columns">
+      <ul> 
+      <li><a href="general">General</a></li>
+       
+      <li><a href="entertainment">Entertainment</a></li>
+       
+      <li><a href="sports">Sports</a></li>
+       
+      <li><a href="business">Business</a></li>
+       
+      <li><a href="technology">Technology</a></li>
+       
+      <li><a href="international">International</a></li>
+       
+      <li><a href="health">Health</a></li>
+       
+      <li><a href="feature">Feature</a></li>
+              <li class="facebook"><a href="http://www.facebook.com/233liveOnline" target="_blank">Facebook</a></li>
+        <li class="twitter"><a href="http://www.twitter.com/233liveOnline" target="_blank">Twitter</a></li>
+      </ul>
+    </div>
+  </footer>
+</div>
+
+
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script>
+// show/hide element on click 
+$(document).ready(function(){
+ 
+$(".toggle + ul").hide();
+	
+$(".toggle a").click(function(e) {
+    $(".toggle + ul").slideToggle();
+		e.stopPropagation();
+    });
+	
+$(document).click(function(e) {
+	$('.toggle + ul').slideUp();            
+	});
+
+$(".toggle + ul").click(function(e) {
+	e.stopPropagation();
+	});
+ 
+}); 
+
+
+// poll 
+$(function(){
+	var loader=$('#loader');
+	var pollcontainer=$('#pollcontainer');
+	loader.fadeIn();
+	//Load the poll form
+	$.get('poll.php', '', function(data, status){
+		pollcontainer.html(data);
+		animateResults(pollcontainer);
+		pollcontainer.find('#viewresult').click(function(){
+			//if user wants to see result
+			loader.fadeIn();
+			$.get('poll.php', 'result=1', function(data,status){
+				pollcontainer.fadeOut(1000, function(){
+					$(this).html(data);
+					animateResults(this);
+				});
+				loader.fadeOut();
+			});
+			//prevent default behavior
+			return false;
+		}).end()
+		.find('#pollform').submit(function(){
+			var selected_val=$(this).find('input[name=poll]:checked').val();
+			if(selected_val!=''){
+				//post data only if a value is selected
+				loader.fadeIn();
+				$.post('poll.php', $(this).serialize(), function(data, status){
+					$('#formcontainer').fadeOut(100, function(){
+						$(this).html(data);
+						animateResults(this);
+						loader.fadeOut();
+					});
+				});
+			}
+			//prevent form default behavior
+			return false;
+		});
+		loader.fadeOut();
+	});
+	
+	function animateResults(data){
+		$(data).find('.bar').hide().end().fadeIn('slow', function(){
+							$(this).find('.bar').each(function(){
+								var bar_width=$(this).css('width');
+								$(this).css('width', '0').animate({ width: bar_width }, 1000);
+							});
+						});
+	}
+	
+});
+
+
+// load more after reaching 40% down the page
+		$(document).ready(function(){
+		var fetching = false;
+		
+			function lastPostFunc() {
+				fetching = true;
+					$('#loadmorebutton').html('<p>Loading...pls wait</p>');
+					
+		   $.post("loadmore.php?cat=2&lastid=" + $(".postitem:last").attr("id"), 
+			function(data){
+				if (data != "") {
+						$(".postitem:last").after(data);
+							setTimeout(function(){
+							fetching = false;
+							},300);
+							$('#loadmorebutton').html('<p>nothing more to show</p>');
+						} 
+				});
+			};
+	
+	$(window).scroll(function(){
+		var bufferzone = $(window).scrollTop() * 0.10;
+		if (!fetching && ($(window).scrollTop() + bufferzone > ($(document).height()- $(window).height() ) )){
+		lastPostFunc();
+		} 
+	});	
+});
+
+
+</script>
+</body>
+</html>

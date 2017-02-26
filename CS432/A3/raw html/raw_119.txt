@@ -1,0 +1,1030 @@
+<!doctype html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"> <head>
+        
+<meta property="og:title" content="Marie's January to February Flashback Newsletter"/>
+<meta property="fb:page_id" content="43929265776" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />        
+    	<!-- NAME: ST. PADDY'S DAY BANNERS -->
+        <!--[if gte mso 15]>
+		<xml>
+			<o:OfficeDocumentSettings>
+			<o:AllowPNG/>
+			<o:PixelsPerInch>96</o:PixelsPerInch>
+			</o:OfficeDocumentSettings>
+		</xml>
+		<![endif]-->
+		<meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Marie&#039;s January to February Flashback Newsletter</title>
+        
+    <style type="text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable,#templateFooter{
+			background-color:#033715;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		#templateContainer{
+			border:0;
+		}
+		h1{
+			color:#0E6624 !important;
+			font-family:Helvetica;
+			font-size:24px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-1px;
+			text-align:left;
+		}
+		h2{
+			color:#0E6624 !important;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-.75px;
+			text-align:left;
+		}
+		h3{
+			color:#0E6624 !important;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-.5px;
+			text-align:left;
+		}
+		h4{
+			color:#0E6624 !important;
+			font-family:Helvetica;
+			font-size:16px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#0E6624;
+			border-top:0;
+			border-bottom:0;
+		}
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+			color:#FFFDE8;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:125%;
+			text-align:left;
+		}
+		.preheaderContainer .mcnTextContent a{
+			color:#FFFDE8;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#FFFDE8;
+			border-top:0;
+			border-bottom:0;
+		}
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			color:#303030;
+			font-family:Georgia;
+			font-size:18px;
+			line-height:150%;
+			text-align:center;
+		}
+		.headerContainer .mcnTextContent a{
+			color:#0E6624;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			background-color:#FFFDE8;
+			border-top:0;
+			border-bottom:0;
+		}
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			color:#303030;
+			font-family:Georgia;
+			font-size:18px;
+			line-height:150%;
+			text-align:center;
+		}
+		.bodyContainer .mcnTextContent a{
+			color:#11912f;
+			font-weight:bold;
+			text-decoration:underline;
+		}
+		#templateColumns{
+			background-color:#FFFDE8;
+			border-top:0;
+			border-bottom:0;
+		}
+		.leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextContent p{
+			color:#303030;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.leftColumnContainer .mcnTextContent a{
+			color:#0E6624;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextContent p{
+			color:#303030;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.rightColumnContainer .mcnTextContent a{
+			color:#0E6624;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			color:#66A279;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:125%;
+			text-align:center;
+		}
+		.footerContainer .mcnTextContent a{
+			color:#66A279;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateContainer,#templatePreheader,#templateHeader,#templateColumns,#templateBody,#templateFooter,.flexibleContainer{
+			max-width:600px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnsContainer{
+			display:block!important;
+			max-width:600px !important;
+			padding-bottom:18px !important;
+			padding-left:0 !important;
+			width:100%!important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			height:auto !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:24px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+			font-size:14px !important;
+			line-height:115% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			font-size:14px !important;
+			line-height:115% !important;
+		}
+
+}</style>        <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-329148-88', {'allowLinker': true});
+            ga('set', 'hostname', '.campaign-archive2.com');
+            ga('send', 'pageview');
+        </script>        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> <link rel="stylesheet" href="http://us3.campaign-archive2.com/css/archivebar-desktop.css" mc:nocompile> <script type="text/javascript" src="http://us3.campaign-archive2.com/js/archivebar-desktop-plugins.js" mc:nocompile></script> <script src="http://downloads.mailchimp.com/ZeroClipboard.min.js" mc:nocompile></script> <script type="text/javascript">
+            $(document).ready(function() {
+                ZeroClipboard.setDefaults({ moviePath: "//downloads.mailchimp.com/ZeroClipboard.07.13.swf", trustedDomains: ['us3.campaign-archive2.com']});
+                var clip = new ZeroClipboard( $('#copyURL') );
+                clip.setHandCursor(true);
+                clip.on('complete', function(client, args) {alert('Copied "'+args.text+'" to your clipboard.');});
+                clip.on('mouseover', function (client) { $('#copyURL').addClass('hover'); });
+                clip.on('mouseout', function (client) { $('#copyURL').removeClass('hover'); });
+
+                $('li.more > a').click(function(){
+                    var toToggle = $($(this).attr('href'));
+                    if(toToggle.is(':visible')){
+                        toToggle.slideUp('fast');
+                        $(this).removeClass('is-active');
+                        if ($('#awesomebar').find('.is-active').length < 1){
+                            $('#awesomebar').removeClass('sub-active');
+                        }
+                    } else {
+                        toToggle.slideDown('fast');
+                        $(this).addClass('is-active');
+                        $('#awesomebar').addClass('sub-active');
+                    }
+                    return false;
+                });
+
+            });
+        </script> <script src="http://us3.campaign-archive2.com/js/mailchimp/fancyzoom.mc.js"></script>  <script type="text/javascript">
+    function incrementFacebookLikeCount() {
+        var current = parseInt($('#campaign-fb-like-btn span').html());
+        $('#campaign-fb-like-btn span').fadeOut().html(++current).fadeIn();
+    }
+
+    function getUrlParams(str) {
+        var vars = {}, hash;
+        if (!str) return vars;
+        var hashes = str.slice(str.indexOf('?') + 1).split('&');
+        for(var i = 0; i < hashes.length; i++) {
+            hash = hashes[i].split('=');
+            vars[hash[0]] = hash[1];
+        }
+        return vars;
+    }
+    
+    function setupSocialSharingStuffs() {
+        var numSocialElems = $('a[rel=socialproxy]').length;
+        var numSocialInitialized = 0;
+        var urlParams = getUrlParams(window.document.location.href);
+        var paramsToCopy = {'e':true, 'eo':true};
+        $('a[rel=socialproxy]').each(function() {
+            var href = $(this).attr('href');
+            var newHref = decodeURIComponent(href.match(/socialproxy=(.*)/)[1]);
+            // for facebook insanity to work well, it needs to all be run against just campaign-archive
+            newHref = newHref.replace(/campaign-archive(\d)/gi, 'campaign-archive');
+            var newHrefParams = getUrlParams(newHref);
+            for(var param in urlParams) {
+                if ((param in paramsToCopy) && !(param in newHrefParams)) {
+                    newHref += '&' + param + '=' + urlParams[param];
+                }
+            }
+            $(this).attr('href', newHref);
+            if (href.indexOf('facebook-comment') !== -1) {
+                $(this).fancyZoom({"zoom_id": "social-proxy", "width":620, "height":450, "iframe_height": 450});
+            } else {
+                $(this).fancyZoom({"zoom_id": "social-proxy", "width":500, "height":200, "iframe_height": 500});
+            }
+            numSocialInitialized++;
+                    });
+    }
+	if (window.top!=window.self){
+        $(function() {
+          var iframeOffset = $("#archive", window.parent.document).offset();
+          $("a").each(function () {
+              var link = $(this);
+              var href = link.attr("href");
+              if (href && href[0] == "#") {
+                  var name = href.substring(1);
+                  $(this).click(function () {
+                      var nameElement = $("[name='" + name + "']");
+                      var idElement = $("#" + name);
+                      var element = null;
+                      if (nameElement.length > 0) {
+                          element = nameElement;
+                      } else if (idElement.length > 0) {
+                          element = idElement;
+                      }
+         
+                      if (element) {
+                          var offset = element.offset();
+                          var height = element.height();
+                          //3 is totally arbitrary, but seems to work best.
+                          window.parent.scrollTo(offset.left, (offset.top + iframeOffset.top - (height*3)) );
+                      }
+         
+                      return false;
+                  });
+              }
+          });
+        });
+    }
+</script>  <script type="text/javascript">
+            $(document).ready(function() {
+                setupSocialSharingStuffs();
+            });
+        </script> </head> <body id="archivebody"> <div id="awesomewrap"> <div id="awesomeshare"> <div id="zclipwrap"> <label for="shortURL">Short URL</label> <span id="copyURL" data-clipboard-target="shortURL"> <input id="shortURL" name="shorturl" style="margin-top:6px;" type="text" value="http://eepurl.com/cDNj_r" class="av-text"> <span>Copy</span> </span> <div id="zero_clipboard"></div> </div> <ul id="awesomesocial"> <li class="fbk"> <a class="fbk-like" id="campaign-fb-like-btn" rel="socialproxy" href="http://us3.campaign-archive2.com/?u=8c91c1cd620355e1fdddd0e3c&amp;id=c1ad964057?socialproxy=http%3A%2F%2Fus3.campaign-archive1.com%2Fsocial-proxy%2Ffacebook-like%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057%26url%3Dhttp%253A%252F%252Fus3.campaign-archive1.com%252F%253Fu%253D8c91c1cd620355e1fdddd0e3c%2526id%253Dc1ad964057%26title%3DMarie%2527s%2520January%2520to%2520February%2520Flashback%2520Newsletter" title="Like Marie&#039;s January to February Flashback Newsletter on Facebook">Facebook <b>0 <i>likes</i></b></a> </li> <li class="twt"> <a title="Share on Twitter" target="_blank" href="http://twitter.com/share?url=http%3A%2F%2Feepurl.com%2FcDNj_r">Twitter <b>0 <i>tweets</i></b></a> </li> <li class="ggl"> <a title="+1 on Google Plus" id="campaign-gpo-btn" href="http://us3.campaign-archive2.com/?u=8c91c1cd620355e1fdddd0e3c&amp;id=c1ad964057&amp;socialproxy=http%3A%2F%2Fus3.campaign-archive1.com%2Fsocial-proxy%2Fgoogle-plus-one%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057%26url%3Dhttp%253A%252F%252Fus3.campaign-archive2.com%252F%253Fu%253D8c91c1cd620355e1fdddd0e3c%2526id%253Dc1ad964057%26title%3DMarie%2527s%2520January%2520to%2520February%2520Flashback%2520Newsletter" class="twitter-share-button" rel="socialproxy">Google +1</a> </li> </ul> </div> <ul id="awesomebar"> <li> <a href="http://eepurl.com/6CSDX" title="Subscribe to List" target="_blank">Subscribe</a> </li> <li id="toggleshare" class="more"><a href="#awesomeshare">Share</a></li> <li><a href="http://us3.campaign-archive1.com/home/?u=8c91c1cd620355e1fdddd0e3c&amp;id=fda6b67bb6" title="View Past Issues" target="_blank">Past Issues</a></li> <li class="float-r"><a class="rss" target="_blank" href="http://us3.campaign-archive2.com/feed?u=8c91c1cd620355e1fdddd0e3c&amp;id=fda6b67bb6" title="subscribe to the email archive feed">RSS</a></li> <li class="float-r more"><a href="#translate">Translate</a> <ul id="translate"> <li> <a rel="nofollow" title="English" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|en&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">English</a> </li><li> <a rel="nofollow" title="العربية" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ar&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">العربية</a> </li><li> <a rel="nofollow" title="Afrikaans" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|af&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Afrikaans</a> </li><li> <a rel="nofollow" title="беларуская мова" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|be&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">беларуская мова</a> </li><li> <a rel="nofollow" title="български" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|bg&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">български</a> </li><li> <a rel="nofollow" title="català" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ca&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">català</a> </li><li> <a rel="nofollow" title="中文（简体）" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|zh-CN&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">中文（简体）</a> </li><li> <a rel="nofollow" title="中文（繁體）" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|zh-TW&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">中文（繁體）</a> </li><li> <a rel="nofollow" title="Hrvatski" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|hr&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Hrvatski</a> </li><li> <a rel="nofollow" title="Česky" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|cs&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Česky</a> </li><li> <a rel="nofollow" title="Dansk" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|da&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Dansk</a> </li><li> <a rel="nofollow" title="eesti&nbsp;keel" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|et&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">eesti&nbsp;keel</a> </li><li> <a rel="nofollow" title="Nederlands" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|nl&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Nederlands</a> </li><li> <a rel="nofollow" title="Suomi" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|fi&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Suomi</a> </li><li> <a rel="nofollow" title="Fran&ccedil;ais" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|fr&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Fran&ccedil;ais</a> </li><li> <a rel="nofollow" title="Deutsch" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|de&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Deutsch</a> </li><li> <a rel="nofollow" title="&Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|el&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">&Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή</a> </li><li> <a rel="nofollow" title="हिन्दी" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|hi&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">हिन्दी</a> </li><li> <a rel="nofollow" title="Magyar" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|hu&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Magyar</a> </li><li> <a rel="nofollow" title="Gaeilge" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ga&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Gaeilge</a> </li><li> <a rel="nofollow" title="Indonesia" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|id&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Indonesia</a> </li><li> <a rel="nofollow" title="íslenska" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|is&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">íslenska</a> </li><li> <a rel="nofollow" title="Italiano" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|it&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Italiano</a> </li><li> <a rel="nofollow" title="日本語" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ja&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">日本語</a> </li><li> <a rel="nofollow" title="ភាសាខ្មែរ" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|km&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">ភាសាខ្មែរ</a> </li><li> <a rel="nofollow" title="한국어" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ko&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">한국어</a> </li><li> <a rel="nofollow" title="македонски&nbsp;јазик" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|mk&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">македонски&nbsp;јазик</a> </li><li> <a rel="nofollow" title="بهاس ملايو" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ms&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">بهاس ملايو</a> </li><li> <a rel="nofollow" title="Malti" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|mt&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Malti</a> </li><li> <a rel="nofollow" title="Norsk" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|no&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Norsk</a> </li><li> <a rel="nofollow" title="Polski" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|pl&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Polski</a> </li><li> <a rel="nofollow" title="Portugu&ecirc;s" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|pt&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Portugu&ecirc;s</a> </li><li> <a rel="nofollow" title="Portugu&ecirc;s&nbsp;-&nbsp;Portugal" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|pt-PT&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Portugu&ecirc;s&nbsp;-&nbsp;Portugal</a> </li><li> <a rel="nofollow" title="Rom&acirc;nă" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ro&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Rom&acirc;nă</a> </li><li> <a rel="nofollow" title="Русский" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ru&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Русский</a> </li><li> <a rel="nofollow" title="Espa&ntilde;ol" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|es&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Espa&ntilde;ol</a> </li><li> <a rel="nofollow" title="Kiswahili" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|sw&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Kiswahili</a> </li><li> <a rel="nofollow" title="Svenska" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|sv&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Svenska</a> </li><li> <a rel="nofollow" title="עברית" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|iw&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">עברית</a> </li><li> <a rel="nofollow" title="Lietuvių" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|lt&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Lietuvių</a> </li><li> <a rel="nofollow" title="latviešu" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|lv&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">latviešu</a> </li><li> <a rel="nofollow" title="slovenčina" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|sk&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">slovenčina</a> </li><li> <a rel="nofollow" title="slovenščina" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|sl&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">slovenščina</a> </li><li> <a rel="nofollow" title="српски" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|sr&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">српски</a> </li><li> <a rel="nofollow" title="தமிழ்" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|ta&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">தமிழ்</a> </li><li> <a rel="nofollow" title="ภาษาไทย" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|th&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">ภาษาไทย</a> </li><li> <a rel="nofollow" title="Türkçe" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|tr&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Türkçe</a> </li><li> <a rel="nofollow" title="Filipino" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|tl&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Filipino</a> </li><li> <a rel="nofollow" title="украї́нська" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|uk&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">украї́нська</a> </li><li> <a rel="nofollow" title="Tiếng&nbsp;Việt" href="http://translate.google.com/translate?hl=auto&amp;langpair=auto|vi&amp;u=http%3A%2F%2Fus3.campaign-archive2.com%2F%3Fu%3D8c91c1cd620355e1fdddd0e3c%26id%3Dc1ad964057">Tiếng&nbsp;Việt</a> </li> </ul> </li> </ul> </div>
+        <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #033715;">
+        <center>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #033715;">
+                <tr>
+                    <td align="center" valign="top" id="bodyCell" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #0E6624;border-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <!-- BEGIN PREHEADER // -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="600" class="flexibleContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                    <tr>
+                                                        <td valign="top" class="preheaderContainer" style="padding-top: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="390" style="width:390px;">
+				<![endif]-->
+                <table style="max-width: 390px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top: 0;padding-left: 18px;padding-bottom: 9px;padding-right: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #FFFDE8;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;" valign="top">
+                        
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				<td valign="top" width="210" style="width:210px;">
+				<![endif]-->
+                <table style="max-width: 210px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top: 0;padding-left: 18px;padding-bottom: 9px;padding-right: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #FFFDE8;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;" valign="top">
+                        
+                            <a href="http://us3.campaign-archive2.com/?u=8c91c1cd620355e1fdddd0e3c&id=c1ad964057&e=[UNIQID]" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #FFFDE8;font-weight: normal;text-decoration: underline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // END PREHEADER -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;">
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <!-- BEGIN HEADER // -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                    <tr>
+                                                        <td align="center" valign="top" style="padding-top: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <tr>
+                                                                    <td align="center" valign="bottom" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <img src="http://cdn-images.mailchimp.com/templates/gallery/2000050/leprechaun_hat_600.png" height="85" width="600" class="mcnImage" style="display: block;max-width: 600px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;">
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFDE8;border-top: 0;border-bottom: 0;">
+                                                                <tr>
+                                                                    <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <img src="http://cdn-images.mailchimp.com/templates/gallery/2000050/irish_banner_outside.png" height="90" width="200" class="mcnImage" style="max-width: 200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;">
+                                                                    </td>
+                                                                    <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <img src="http://cdn-images.mailchimp.com/templates/gallery/2000050/irish_banner_center.png" height="90" width="200" class="mcnImage" style="max-width: 200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;">
+                                                                    </td>
+                                                                    <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <img src="http://cdn-images.mailchimp.com/templates/gallery/2000050/irish_banner_outside.png" height="90" width="200" class="mcnImage" style="max-width: 200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3" valign="top" class="headerContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner" valign="top">
+                    <table class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                        <tbody><tr>
+                            <td class="mcnImageContent" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+                                
+                                    
+                                        <img alt="" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/ce66cd2c-0558-4f46-be61-826b71fc7142.png" style="max-width: 890px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage" align="middle" width="564">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #303030;font-family: Georgia;font-size: 18px;line-height: 150%;text-align: center;" valign="top">
+                        
+                            <h4 style="text-align: center;display: block;margin: 0;padding: 0;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;color: #0E6624 !important;"><span style="font-size:22px"><strong>Marie Lavender’s January to February 2017<br>
+Flashback Newsletter</strong></span><br>
+&nbsp;</h4>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // END HEADER -->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <!-- BEGIN BODY // -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFDE8;border-top: 0;border-bottom: 0;">
+                                                    <tr>
+                                                        <td valign="top" class="bodyContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #303030;font-family: Georgia;font-size: 18px;line-height: 150%;text-align: center;" valign="top">
+                        
+                            <div style="text-align: justify;"><span style="color:#000000">Hi, readers! I hope your Valentine’s Day turned out perfectly! Time has just flown by this month, hasn’t it?<br>
+<br>
+I hope this newsletter provides updates about events you may have missed since the last one, as well as some exciting events coming up!</span><br>
+<br>
+<span style="color:#006400"><strong><u>Updates</u></strong></span></div>
+&nbsp;
+
+<div style="text-align: justify;"><span style="color:#000000">Initially, I’d like to mention a couple of reviews I missed in the last pass. On December 6<sup>th</sup>, a reviewer was kind enough to leave </span><a href="https://www.amazon.com/gp/customer-reviews/R1RNMIFW7HQE8P/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;ASIN=B01MXKPLYX" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a five star review on Amazon for <em>Blue Vision</em></span></a><span style="color:#000000">. So, thank you, David, for your awesome take on my sci-fi romance! At the end of December, <em>Blue Vision</em> also received </span><a href="https://www.amazon.com/gp/customer-reviews/R3LRDSW1MQCT1L/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&amp;ASIN=B01MXKPLYX" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a great four star review from Pamela</span></a><span style="color:#000000">, whose lovely words humbled me. Thank you for reading the book! :)<br>
+<br>
+<a href="http://bookgoodies.com/a/B01MXKPLYX" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2700113" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/_compresseds/2f130538-6845-4c72-abbd-fea2a8fe6962.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="378" width="257"></a><br>
+<br>
+On January 23<sup>rd</sup>, Stef Smulders came to the Writing in the Modern Age blog to talk about his book, <em>Living in Italy: The Real Deal</em>. </span><a href="http://marielavender.blogspot.com/2017/01/interview-with-author-stef-smulders.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">In the interview</span></a><span style="color:#000000">, we learned of his fascinating journey that brought him to write about his travels and home in Italy. On the 24<sup>th</sup>, </span><a href="http://marielavenderbooks.blogspot.com/2017/01/spotlight-alistair-cross-visits-to-talk-dark-fantasy-the-angel-alejandro.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Alistair Cross visited the MLB blog to discuss his dark fantasy novel</span></a><span style="color:#000000">, <em>The Angel Alejandro</em>. What a compelling excerpt! And two days later, </span><a href="http://marielavenderbooks.blogspot.com/2017/01/spotlight-rhonda-cratty-visits-to-talk-family-life-novel-our-family-quilt.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Rhonda Cratty came to same blog</span></a><span style="color:#000000"> to talk about her family life novel, <em>Our Family Quilt</em>. This looks rather inspiring! On January 27<sup>th</sup>, author L. Anne Carrington visited Writing in the Modern Age to talk about her sports fiction/romance book, <em>On Ice</em>. </span><a href="http://marielavender.blogspot.com/2017/01/interview-with-author-l-anne-carrington.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">This detailed interview</span></a><span style="color:#000000"> portrays L. Anne’s author journey, her writing process and what’s next for her. Four days later, </span><a href="https://iloveromanceblog.wordpress.com/2017/01/31/guest-poet-spotlight-d-l-owens/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">D. L. Owens came to the I Love Romance Blog</span></a><span style="color:#000000"> to offer a sample of her poetry. I love her romantic poems. Her illustrations are interesting as well.<br>
+<br>
+<img data-file-id="2949013" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/e067a5e6-1a01-4e06-b66f-28177bce9e9b.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="166" width="319"><br>
+<br>
+On February 2<sup>nd</sup>, </span><a href="http://marielavenderbooks.blogspot.com/2017/02/spotlight-tom-starita-visits-to-talk-humorous-fiction-growth-and-change-are-highly-overrated.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Tom Starita came to the MLB blog</span></a><span style="color:#000000"> to discuss his humorous fiction novel. Sounds interesting! The next day brought </span><a href="http://marielavender.blogspot.com/2017/02/how-real-is-writers-block-and-what-to-do-by-branka-cubrilo.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a guest post by Branka Čubrilo</span></a><span style="color:#000000">, offering tips about writer’s block, on Writing in the Modern Age. On February 6<sup>th</sup>, </span><a href="http://marielavender.blogspot.com/2017/02/poetry-spotlight-d-l-owens.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">D.L. Owens came to the same blog</span></a><span style="color:#000000"> to offer more of her poetry! On the 7<sup>th</sup>, my upcoming historical romance/family saga novel, <em>Upon Your Love</em>, received </span><a href="http://lizzystevens.blogspot.com/2017/02/guest-blogger-marie-lavendar.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a nice book promo on author Lizzy Stevens’ blog</span></a><span style="color:#000000">. Two days later, I had a guest post, titled “A Labor of Love”, on Natasha Murray’s blog. The article detailed my journey from writer to author. Check it out </span><a href="http://www.nmurray.moonfruit.com/#/blog/4553650515/A-Labor-of-Love-Guest-Post-by-Author-of-23-Novels---Marie-Lavender/11087773" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">here</span></a><span style="color:#000000">! Also on February 9<sup>th</sup>, <em>Upon Your Love</em>, or more affectionately termed </span><a href="https://jemsbooks.wordpress.com/2017/02/09/author-marie-lavender-with-new-book/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">UYL, which is book three of the Heiresses in Love Series, had a promo on Janice Spina’s blog</span></a><span style="color:#000000">. The following day brought </span><a href="http://marielavender.blogspot.com/2017/02/book-feature-rhonda-cratty-family-life-novel-our-family-quilt.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a great book feature for Rhonda Cratty’s family-oriented, crafting non-fiction novel, <em>Our Family Quilt</em></span></a><span style="color:#000000">, on Writing in the Modern Age.<br>
+<br>
+<a href="https://bookgoodies.com/a/B01N8WSCV7" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2949017" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/3966ce8d-d1b4-44e4-b0b3-65bec3672518.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="341" width="227"></a><br>
+<br>
+On February 11<sup>th</sup>, I was interviewed by Fiona McVie on her blog. </span><a href="https://authorsinterviews.wordpress.com/2017/02/11/here-is-my-interview-with-marie-lavender-2/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Take a look here</span></a><span style="color:#000000"> to learn about me as a writer, as well as how UYL came into being. The following day brought </span><a href="https://elodieparkes.blogspot.com/2017/02/coming-soon-from-marielavender1-romance.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a pre-release book promo for UYL on Elodie Parkes’ blog</span></a><span style="color:#000000">. On February 13<sup>th</sup>, </span><a href="https://iloveromanceblog.wordpress.com/2017/02/13/new-release-feature-cupids-arrow-anthology-by-solstice-publishing/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">ILRB</span></a><span style="color:#000000"> and </span><a href="http://marielavenderbooks.blogspot.com/2017/02/new-release-feature-cupids-arrow-anthology-plus-when-jack-trumps-ace.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">the MLB blog</span></a><span style="color:#000000"> both hosted a new release feature about <em>Cupid’s Arrow</em>, a Valentine’s anthology released through Solstice Publishing the previous day. This looks like a nice set of romantic tales! Also check out a mention of Debbie De Louise’s romantic comedy, <em>When Jack Trumps Ace</em>. The same day brought </span><a href="https://iloveromanceblog.wordpress.com/2017/02/13/new-release-feature-too-sexy-for-love-by-author-sable-hunter/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a feature for Sable Hunter’s new release, <em>Too Sexy for Love</em></span></a><span style="color:#000000">, on the I Love Romance Blog. Such a great excerpt! I can’t wait to read more of this contemporary romance! February 13<sup>th</sup> also provided a short promo about <em>Upon Your Love</em> on Nina Soden’s blog. Check it out </span><a href="https://ninasoden.wordpress.com/2017/02/13/upon-your-love-by-marie-lavend/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">here</span></a><span style="color:#000000">, and learn a little background on one of the main characters.<br>
+<br>
+<img data-file-id="2949021" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/141d40f3-ed22-433d-a843-f91ffa0e394b.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="274" width="208"><br>
+<br>
+Three days later, UYL had a book feature on Bernard Foong’s blog. Check out an exclusive excerpt from the book </span><a href="http://bernardfoong.typepad.com/in_the_harem/2017/02/upon-your-love-by-.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">here</span></a><span style="color:#000000">! On February 17<sup>th</sup>, <em>Blue Vision</em> got </span><a href="http://www.knockinbooks.com/reviews/blue-vision" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a decent official review on the Knockin’ Books blog</span></a><span style="color:#000000">. The following day brought </span><a href="https://meglenaivanova.wordpress.com/2017/02/18/upon-your-love-by-marie-lavender-multi-genre-author/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a book feature for UYL on Meglena Ivanova’s blog</span></a><span style="color:#000000">. On February 20<sup>th</sup>, <em>The Missing Piece</em>, my new adult romance story, was officially released on its own! Woo hoo! :) Check out the details in </span><a href="https://marielavender.com/2017/02/22/new-release/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">this post</span></a><span style="color:#000000">. On the 21<sup>st</sup>, </span><a href="https://iloveromanceblog.wordpress.com/2017/02/21/blog-tour-feature-hell-yeah-kindle-world-tour-presented-by-sable-hunter/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a blog tour was featured on ILRB</span></a><span style="color:#000000">. Sable Hunter presented readers with six books by various authors in the Hell Yeah! Kindle World Tour. These contemporary western romance novels look like great reads!<br>
+<br>
+<a href="https://iloveromanceblog.wordpress.com/2017/02/21/blog-tour-feature-hell-yeah-kindle-world-tour-presented-by-sable-hunter/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2949025" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/b0b7ba12-6e99-414d-812f-ed03e7f56a37.jpg" style="border: 0px;width: 500px;height: 94px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="94" width="500"></a><br>
+<br>
+On February 22<sup>nd</sup>, Rhonda Cratty’s family life novel, <em>Our Family Quilt</em>, went on a Kindle Countdown deal on Amazon, and </span><a href="http://marielavenderbooks.blogspot.com/2017/02/amazon-countdown-deal-our-family-quilt-by-rhonda-cratty.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">the book was featured on the MLB blog</span></a><span style="color:#000000">. I believe the sale is still going on right now, at least for a few short hours, so don’t miss out! Also on the 22<sup>nd</sup>, I had a guest post on Nina Soden’s blog. The article was titled </span><a href="https://ninasoden.wordpress.com/2017/02/22/the-process-a-writers-perspectiv/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">“The Process: A Writer’s Perspective”</span></a><span style="color:#000000">, and it provides a little insight into the way the writing process works. The same day brought </span><a href="http://www.junetakey.com/posts/upon-your-love-by-marie-lavender/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">an author interview of mine on Juneta Key’s blog</span></a><span style="color:#000000">. In the interview, she asked me questions about UYL – offering more details from the book, my favorite part of writing the story, and some of the historical research that was done – as well as a few other general inquiries about being an author.<br>
+<br>
+On February 24<sup>th</sup>, there was a UYL feature on the Smile Somebody Loves You blog. Get a deeper look at the book </span><a href="https://sslyblog.wordpress.com/2017/02/24/upon-your-love-marie-lavender/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">here</span></a><span style="color:#000000">, and you’ll even find the book trailer in this spotlight.<br>
+<br>
+<a href="https://youtu.be/UVENg4kOros" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2949029" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/1d49c2cc-0934-4d21-909c-73492dab9a7b.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="269" width="343"></a></span><br>
+<br>
+<span style="color:#006400"><strong><u>News</u></strong></span><br>
+&nbsp;</div>
+
+<div style="text-align: justify;"><span style="color:#000000">As you probably already know, I had two new book releases this month. One was <em>The Missing Piece</em>, a new adult romance, first released in the </span><em><a href="https://marielavender.com/2017/02/13/new-release-feature-cupids-arrow-anthology-by-solstice-publishing/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Cupid’s Arrow anthology</span></a></em><span style="color:#000000">, and then </span><a href="http://marielavenderbooks.blogspot.com/2017/02/exciting-news.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">on its own in ebook format</span></a><span style="color:#000000">. If paperback format is more convenient for you, there is </span><a href="https://www.createspace.com/6933779" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">a print version of the anthology</span></a><span style="color:#000000">.<br>
+<br>
+<a href="https://bookgoodies.com/a/B06W5RYBD8" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2949033" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/d1651602-4e9b-4281-81d7-1a7c7ac19c09.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="284" width="284"></a><br>
+<br>
+Also, in three days, <em>Upon Your Love</em>, the final book of the Heiresses in Love Series, will officially be released. Yay! I am beyond excited to at last show this full-length novel to readers. Yes, exactly four years after <em>Upon Your Return</em>, the first book in the series, came out, this is finally happening! :) Please feel free to stop by </span><a href="https://www.facebook.com/events/1295840327128728/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">the book release party on Facebook</span></a><span style="color:#000000">, throughout the day and evening on Tuesday, for a chance to win some great prizes and meet other authors!<br>
+<br>
+<a href="http://Author.to/MarieLavender" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><img data-file-id="2949037" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/_compresseds/154291ae-4759-404e-9e36-e8ab53da0b41.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="352" width="257"></a><br>
+<br>
+In other news, I’m on the last leg of edits with <em>Directions of the Heart</em>, a modern romantic drama collection of four emotional romance stories. It should be ready for beta readers very soon!<br>
+<br>
+<img data-file-id="2692129" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/_compresseds/fae49ea9-dc37-451d-89a3-54e687054128.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="385" width="257"><br>
+<br>
+Additionally, I’m almost finished writing <em>Blood Instincts</em>, a futuristic paranormal romance/urban fantasy and the second book of the Blood at First Sight Series. I just need to do a final read to make sure I didn’t miss anything, before editing begins. I’m very excited to show you the sequel to <em>Second Nature</em>.<br>
+<br>
+<img data-file-id="2949041" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/d28f7027-9f1c-4bdd-a67d-768b1530f5d0.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="246" width="246"><br>
+<br>
+As always, you can keep apprised of my author updates through this newsletter, by checking the ‘</span><a href="https://marielavender.com/about/updates-news/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Updates/News</span></a><span style="color:#000000">’ section of my website, or by following my </span><a href="https://facebook.com/MarieAnnLavender/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">official Facebook author page</span></a><span style="color:#000000">.<br>
+<br>
+Here are some events coming up, which are worth mentioning…</span><br>
+<br>
+<span style="color:#006400"><strong><u>Upcoming Events for Marie</u></strong></span></div>
+
+<div style="text-align: justify;"><br>
+<strong>February 26th – interview on <a href="http://www.writerworking.net/blog/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Carl R. Brush’s blog</a>.</strong><br>
+<strong>February 27th – new release promo for UYL on <a href="https://debbiedelouise.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Debbie De Louise’s site</a>.</strong><br>
+<strong>February 28th – official book release of historical romance/family saga novel, <em>Upon Your Love </em>(book three of the Heiresses in Love Series)<em>.</em></strong><br>
+<strong>February 28th – UYL <a href="https://www.facebook.com/events/1295840327128728/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">book release party on Facebook</a>.</strong><br>
+<strong>February 28th – guest post and UYL spotlight on <a href="http://tonyriches.blogspot.co.uk/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">The Writing Desk blog</a>.</strong><br>
+<strong>February 28th – UYL feature on <a href="http://pennyestelle.blogspot.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Penny Estelle’s blog</a>.</strong><br>
+<strong>February 28th – UYL promo on <a href="http://authormigrainecentral.blogspot.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Crystal Miles Gauthier’s blog</a>.</strong><br>
+<strong>February 28th – UYL feature on <a href="https://romancewriterelodieparkes.blogspot.com/2017/02/a-saga-like-no-other-heiress-in-love.html" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">A Romance Writers blog</a>.</strong><br>
+<strong>February 28th – UYL feature on <a href="http://rachaelstapleton.blogspot.ca/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Rachael Stapleton’s blog</a>.</strong><br>
+<strong>February 28th – guest post on <a href="http://atime2write.com.au/marie-lavender-how-to-use-fear-courageously/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Fiona Tarr’s blog</a>.</strong><br>
+<strong>March ? – guest post on <a href="https://msahno.com/blog/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Michael J. Sahno’s blog</a>.</strong><br>
+<strong>March 1st – new release feature on the <a href="http://wp.me/p2vpp9-4Fa" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Reading Renee blog</a>.</strong><br>
+<strong>March 1st – UYL feature on <a href="https://indielindy.blogspot.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Linda Lee Williams’ blog</a>.</strong><br>
+<strong>March 6th – <a href="http://www.theromancereviews.com/event.php" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">The Romance Reviews’ 6th Anniversary Party</a> (Q&amp;A contest for a copy of UYL).</strong><br>
+<strong>March 7th – guest post and UYL feature on <a href="https://wp.me/p73X7h-2ik" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Olga&nbsp;Núñez Miret’s blog</a>.</strong><br>
+<strong>March 7th – guest post (historical research) on <a href="http://www.nancychristie.com/writersplace/2017/03/07/research-how-to-uncover-the-truth-guest-post-by-marie-lavender/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Nancy Christie’s blog</a>.</strong><br>
+<strong>March 8th – UYL character interview on <a href="http://www.devikafernando.com/blog" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Devika Fernando’s blog</a>.</strong><br>
+<strong>March 8th – guest post on <a href="http://www.readingbetweenthewinesbookclub.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Reading Between the Wines Book Club</a>.</strong><br>
+<strong>March 15th – book feature for UYL on <a href="http://writerchristi.blogspot.com/2017/02/upon-your-love.html" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Christi Williams’ Some Like It Hotter blog</a>.</strong><br>
+<strong>March 20th – book promo for UYL on <a href="http://evelyncullet.com/blog/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Evelyn Cullet’s blog</a>.</strong><br>
+<strong>March 25th – author/book spotlight for UYL on the <a href="http://www.romantichistoricalreviews.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Romantic Historical Reviews site</a>.</strong><br>
+<strong>March 27th – guest post on Dan Buri’s <a href="http://nothinganygood.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Nothing Any Good blog</a>.</strong><br>
+<strong>March 29th – UYL feature on <a href="https://michaelaronovitz.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Michael Aronovitz’s blog</a>.</strong><br>
+<strong>April 6th – paranormal themed radio interview @ 8PM EST on <a href="http://www.blogtalkradio.com/tags?q=thorne--cross-haunted-nights-live" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;">Haunted Nights Live!</a><em>.</em></strong><br>
+<strong>April 14th – UYL spotlight on<a href="https://susanleighnoble.wordpress.com/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"> Susan Leigh Noble’s blog</a>.</strong><br>
+&nbsp;</div>
+
+<div style="text-align: justify;"><span style="color:#006400"><strong><u>Bizarre &amp; Unusual</u></strong></span></div>
+
+<div style="text-align: justify;"><br>
+<span style="color:#000000">If you’ve followed my newsletters thus far, then you know it’s my habit to include a bizarre or unique holiday for the month. Below are some that stood out to me for the rest of this month and parts of next month.</span>
+
+<h2 align="center" style="display: block;margin: 0;padding: 0;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -.75px;text-align: left;color: #0E6624 !important;">&nbsp;</h2>
+
+<h2 style="text-align: center;display: block;margin: 0;padding: 0;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -.75px;color: #0E6624 !important;"><span style="color:#800000">February, 2017 Bizarre and Unique Holidays</span></h2>
+<span style="color:#000000"><strong>Month:</strong></span>
+
+<ul>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">American Heart Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">Creative Romance Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">Great American Pie Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Cherry Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Weddings Month</span></li>
+</ul>
+<span style="color:#000000"><strong>February 2017 Daily Holidays, Special and Wacky Days:</strong><br>
+<br>
+25 </span><a href="http://www.holidayinsights.com/moreholidays/February/open-that-bottle-night.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Open That Bottle Night</span></a><span style="color:#000000"> - last Saturday of month<br>
+26 </span><a href="http://www.holidayinsights.com/moreholidays/February/carnivalday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Carnival Day</span></a><br>
+<span style="color:#000000">26 </span><a href="http://www.holidayinsights.com/moreholidays/February/pistachioday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Pistachio Day</span></a><span style="color:#000000"> - it's a nutty day!<br>
+26 </span><a href="http://www.holidayinsights.com/moreholidays/February/tellfairytaleday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Tell a Fairy Tale Day</span></a><br>
+<span style="color:#000000">27 </span><a href="http://www.holidayinsights.com/moreholidays/February/polarbearday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Polar Bear Day</span></a><br>
+<span style="color:#000000">28 </span><a href="http://www.holidayinsights.com/christian/fat2day.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Mardi Gras / Fat Tuesday </span></a><span style="color:#000000">- date varies<br>
+28 </span><a href="http://www.holidayinsights.com/moreholidays/February/floraldesignday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Floral Design Day</span></a><br>
+<span style="color:#000000">28 </span><a href="http://www.holidayinsights.com/moreholidays/February/publicsleeping.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Public Sleeping Day</span></a>
+
+<h2 align="center" style="display: block;margin: 0;padding: 0;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -.75px;text-align: left;color: #0E6624 !important;">&nbsp;</h2>
+
+<h2 style="text-align: center;display: block;margin: 0;padding: 0;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -.75px;color: #0E6624 !important;"><span style="color:#008000">March, 2017 Bizarre and Unique Holidays</span></h2>
+<span style="color:#000000"><strong>Month:</strong></span>
+
+<ul>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">Music in Our Schools Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Craft Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Irish American Heritage Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Nutrition Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Peanut Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">National Women's History Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">Red Cross Month</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">Social Workers Month</span></li>
+</ul>
+<span style="color:#000000"><strong>Week Celebrations:</strong></span>
+
+<ul>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">2nd Week National Bubble Week</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#000000">2nd Week Crochet Week</span></li>
+</ul>
+<span style="color:#000000"><strong>March, 2017 Daily Holidays, Special and Wacky Days:</strong><br>
+<br>
+1 - </span><a href="http://holidayinsights.com/christian/ashwed.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Ash Wednesday</span></a><span style="color:#000000"> - date varies<br>
+1 - </span><a href="http://holidayinsights.com/moreholidays/March/pbloversday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Peanut Butter Lovers' Day</span></a><br>
+<span style="color:#000000">2 - </span><a href="http://holidayinsights.com/moreholidays/March/oldstuffday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Old Stuff Day</span></a><br>
+<span style="color:#000000">3 - </span><a href="http://holidayinsights.com/moreholidays/November/caregiver-appreciation-day.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Caregiver Appreciation Day</span></a><br>
+<span style="color:#000000">3 - </span><a href="http://holidayinsights.com/moreholidays/March/empappday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Employee Appreciation Day</span></a><span style="color:#000000"> first Friday in March<br>
+3 -&nbsp; </span><a href="http://holidayinsights.com/moreholidays/March/behappyday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">I Want You to be Happy Day</span></a><br>
+<span style="color:#000000">3 -&nbsp; </span><a href="http://holidayinsights.com/moreholidays/March/peachblossomday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Peach Blossom Day</span></a><br>
+<span style="color:#000000">7 -&nbsp; </span><a href="http://holidayinsights.com/moreholidays/March/roastporkday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Crown Roast of Pork Day</span></a><br>
+<span style="color:#000000">8 - </span><a href="http://holidayinsights.com/other/iwd.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">International (Working) Women's Day</span></a><br>
+<span style="color:#000000">9 - </span><a href="http://holidayinsights.com/moreholidays/March/panicday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Panic Day</span></a><br>
+<span style="color:#000000">9 - </span><a href="http://holidayinsights.com/moreholidays/March/popcornlovers.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Popcorn Lover's Day</span></a><span style="color:#000000"> second Thursday<br>
+10 - </span><a href="http://holidayinsights.com/moreholidays/March/middlenameday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Middle Name Pride Day</span></a><br>
+<span style="color:#000000">12 - </span><a href="http://holidayinsights.com/moreholidays/March/plantflowerday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Plant a Flower Day</span></a><br>
+<span style="color:#000000">13 - </span><a href="http://holidayinsights.com/moreholidays/March/jewelday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Jewel Day</span></a><br>
+<span style="color:#000000">14 - </span><a href="http://holidayinsights.com/moreholidays/March/butterfliesday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Learn about Butterflies Day</span></a><br>
+<span style="color:#000000">16 - </span><a href="http://holidayinsights.com/moreholidays/March/everythingrightday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Everything You Do is Right Day</span></a><br>
+<span style="color:#000000">16 - </span><a href="http://holidayinsights.com/moreholidays/March/freeinfoday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Freedom of Information Day</span></a><br>
+<span style="color:#000000">16 - </span><a href="http://holidayinsights.com/moreholidays/March/incrediblekidday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Incredible Kid Day</span></a><span style="color:#000000"> - date varies<br>
+17 - </span><a href="http://holidayinsights.com/stpat/index.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Saint Patrick's Day</span></a><br>
+<span style="color:#000000">18 - </span><a href="http://holidayinsights.com/moreholidays/March/goddessfertilityday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Goddess of Fertility Day</span></a><br>
+<span style="color:#000000">18 - </span><a href="http://holidayinsights.com/moreholidays/March/quiltingday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Quilting Day</span></a><span style="color:#000000"> - third Saturday of month<br>
+20 - </span><a href="http://holidayinsights.com/other/earth.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">International Earth Day</span></a><br>
+<span style="color:#000000">20 - </span><a href="http://holidayinsights.com/moreholidays/March/proposalday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Proposal Day</span></a><br>
+<span style="color:#000000">21 - </span><a href="http://holidayinsights.com/moreholidays/March/fragranceday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Fragrance Day</span></a><br>
+<span style="color:#000000">21 - </span><a href="http://holidayinsights.com/moreholidays/March/tea-for-two-tuesday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">Tea for Two Tuesday</span></a><span style="color:#000000"> - third Tuesday in March<br>
+22 - </span><a href="http://holidayinsights.com/other/goofoffday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Goof Off Day</span></a><br>
+<span style="color:#000000">23 - </span><a href="http://holidayinsights.com/moreholidays/March/chipdipday.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Chip and Dip Day</span></a><br>
+<span style="color:#000000">23 - </span><a href="http://holidayinsights.com/moreholidays/March/national-puppy-day.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">National Puppy Day</span></a><br>
+<br>
+<span style="color:#000000">Wow! So many to choose from. I think that for this time, I’ll choose Middle Name Pride Day on March 10<sup>th</sup>.<br>
+<br>
+Believe it or not, Marie is actually my middle name. When I chose my pen name, the one I’d stick with from now on during my author career, I knew I needed something that felt right. Marie was familiar enough. My mother gave me her middle name, and her mother was inspired by an aunt for my mom’s name. And as for Lavender? That was a family name as well, the maiden name of my Cherokee great-great grandmother. The name was unique, yet familiar, something that made me feel a little closer to my roots.<br>
+<br>
+I know some of us have first names, even middle names, which we’ve never been completely satisfied with. But why not take a day and learn about your middle name? Maybe it came from another relative. Perhaps your parents were inspired by an event they experienced, or even someone they met. Why don’t you ask them? Or at least find someone – another family member or friend – who knows why you were named that way.<br>
+<br>
+I love learning about my family history. If I had a lot more free time, I’d definitely be a genealogy freak. Heck, until a few years ago, I never even knew I had strong Irish roots. I was always fascinated with the culture, yet I didn’t realize there was a deeper reason. The only way you’ll discover these tidbits, though, is to find out.<br>
+<br>
+Who knows? Perhaps you’ll learn an interesting story that goes along with your middle name, something to carry with pride. So, why not try? You might be pleasantly surprised.<br>
+<br>
+Well, I guess that time has come once more. For now, I’ll sign off.<br>
+<br>
+Don’t forget to </span><a href="https://bookgoodies.com/a/B06W5RYBD8" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">check out <em>The Missing Piece</em></span></a><span style="color:#000000"> when you get a free moment, and </span><a href="https://www.facebook.com/events/1295840327128728/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #11912f;font-weight: bold;text-decoration: underline;"><span style="color:#000000">the book release party for <em>Upon Your Love</em></span></a><span style="color:#000000"> on February 28<sup>th</sup>! Look for the book on Amazon that day as well!<br>
+<br>
+Happy St. Patrick’s Day, if we don’t talk before the next newsletter (and if you celebrate the holiday)!<br>
+<br>
+<img data-file-id="2949045" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/453cf472-015f-4717-a636-4ba9ef3506a1.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="270" width="433"><br>
+<br>
+Take care, and, as always, happy reading! :)</span><br>
+<br>
+<span style="color:#000000"><img data-file-id="2692101" src="https://gallery.mailchimp.com/8c91c1cd620355e1fdddd0e3c/images/899d8d4f-1086-4dc9-beb9-e8ab14ade358.jpg" style="border: 0px none;margin: 0px;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="85" width="356">&nbsp; </span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // END BODY -->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <!-- BEGIN COLUMNS // -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFDE8;border-top: 0;border-bottom: 0;">
+                                                    <tr>
+                                                        <td align="left" valign="top" class="columnsContainer" width="50%" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateColumn" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <tr>
+                                                                    <td valign="top" class="leftColumnContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class="mcnDividerBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;table-layout: fixed !important;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnDividerBlockOuter">
+        <tr>
+            <td class="mcnDividerBlockInner" style="min-width: 100%;padding: 6px 18px 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <table class="mcnDividerContent" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        <td style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--            
+                <td class="mcnDividerBlockInner" style="padding: 18px;">
+                <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align="left" valign="top" class="columnsContainer" width="50%" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateColumn" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <tr>
+                                                                    <td valign="top" class="rightColumnContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" colspan="2" valign="top" style="padding-top: 18px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <img src="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/fourleafclover.png" height="50" width="40" style="border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // END COLUMNS -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #033715;">
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <!-- BEGIN FOOTER // -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="600" class="flexibleContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                    <tr>
+                                                        <td valign="top" class="footerContainer" style="padding-top: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer" cellspacing="0" cellpadding="0" border="0" align="left" width="100%">
+                    <tbody><tr>
+                        
+                        <td class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #66A279;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: center;" valign="top">
+                        
+                            <em>Copyright © 2017 Marie Lavender, All rights reserved.</em>
+<br>
+
+    <br>
+    <br>
+	Want to change how you receive these emails?<br>
+    You can <a href="http://marielavender.us3.list-manage.com/profile?u=8c91c1cd620355e1fdddd0e3c&id=fda6b67bb6&e=[UNIQID]" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #66A279;font-weight: normal;text-decoration: underline;">update your preferences</a> or <a href="http://marielavender.us3.list-manage.com/unsubscribe?u=8c91c1cd620355e1fdddd0e3c&id=fda6b67bb6&e=[UNIQID]&c=c1ad964057" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #66A279;font-weight: normal;text-decoration: underline;">unsubscribe from this list</a>
+    <br>
+    <br>
+     <a href="http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=8c91c1cd620355e1fdddd0e3c&afl=1"><img src="https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png" border="0" alt="Email Marketing Powered by MailChimp" title="MailChimp Email Marketing" width="139" height="54"></a>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // END FOOTER -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>    </body> </html>

@@ -1,0 +1,2695 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/NewsArticle" class="no-js" prefix="og: http://ogp.me/ns#" lang="en-CA">
+<head>
+	<meta charset="UTF-8">
+
+	
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="robots" content="noarchive">
+	<meta name="msvalidate.01" content="915AE10930FFCE1EFBB9D7838CE66DE7" />
+
+	<title>
+		Trump Tower developer sues Vancouver company over shoddy construction | Vancouver Sun	</title>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://vancouversun.com/xmlrpc.php">
+
+	
+<meta name="description" content="Vancouver Trump Tower developer is suing a local company, claiming that shoddy work and poor management of trade contractors delayed project" /><meta name="news_keywords" content="Trump Tower Vancouver, Holborn, sues Vancouver construction company, Urban One Construction," />
+<meta name="keywords" content="trump tower vancouver, holborn, sues vancouver construction company, urban one construction" />
+<meta name="google-site-verification" content="Fh4c9YVMW7SlW7lZ_NFatG04YvMg1x3MId7GI_2zAkI" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=vancouversun.com&amp;id=103935566&amp;t=1488073260&amp;back=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//cdn.districtm.ca' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//static.freeskreen.com' />
+<link rel='dns-prefetch' href='//cdn.mediavoice.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//www.canada.com' />
+<link rel='dns-prefetch' href='//postmediavancouversun2.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Vancouver Sun &raquo; Feed" href="http://vancouversun.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Vancouver Sun &raquo; Trump Tower developer sues Vancouver construction company for alleged shoddy work and bad management Comments Feed" href="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management/feed" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='http://s0.wp.com/_static/??-eJylkttOwzAMhl8IExBjwAXiUZCbeq03J46adIO3J03ZVjaoGNxE9i/78ylmF8CqT+STSS05imbLwQSNyVHNCEWEqlOsY0uUo8gFwZQDA6PX7Zux8dO+ztaVmRBdD0H6hn3MqlUH0bHQ+4k3lya8yZXWlALaDRRvLtxqR1l3AdMQUUYgyRP4NJfmwnKfNZhtrjVbZmy/qkJHMUJ+HfduXNV53rdr3ZNQBNiDeoIt16QwzFk2ukFJfYeX4U4V8LSLQilRV6BH93fcs+sPEIfs/5G+47qhdOGegoeollFGeWQU3CjDVL8MbQVj5BVTHafco/w6pbLxmjiD48GY+ylNPqmoxcTqvziwEuTzK0xSO6pEm2w2pZ+j+9cvkcsfWpkewv18znZhGtEKZQh4cc+3i8eH5dPi7v5m/QGH6ZqG' type='text/css' media='all' />
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<script type="text/javascript" src="//cdn.districtm.ca/merge/merge.105386.js" async></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PostmediaVO = {"appServiceUrl":"http:\/\/app.canada.com\/video\/video.svc"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Postmedia = {"adConfig":{"site":"vs_news.com","msite":"vs.m","preroll":"on","networkId":3081,"keys":{"aid":525311,"author":"joanne-lee-young","ck":"news","nk":"print","page":"story","pr":"vs","sck":"local-news"},"async":true,"enablecasale":false,"zone":"news\/local-news\/story"},"Urls":{"home_url":"http:\/\/vancouversun.com","stylesheet_directory_uri":"http:\/\/s0.wp.com\/wp-content\/themes\/vip\/postmedia-theme-broadsheet","ajaxurl":"http:\/\/vancouversun.com\/wp-admin\/admin-ajax.php"},"Properties":{"domain":"","userAgents":["mozilla","msie","webkit","ipad"],"mobileAgents":["iphone","ipod","android"],"isMobile":false,"isIpad":false,"isModal":false},"Facebook":{"pageId":"41743dd369ff9d9d763282ea7e2cd33e","appId":"375057209234363","mobileId":"vs.m"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var postmedia_janrain = ["vancouversun","Vancouver Sun"];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyl0sFOxCAQBuAXkhIbTdeDMR697cmrGWG2O5QCMtM2fXupW9er7d7ID/MFhtFTUiYGwSBaztgj65GSTpGlR0ugkh9aCqztKSmwrB3rFJQbWBQFJdRj5fhO72NMjB3dAkwI5XTeA5XqkSxGFUfMuaxW8hImDzPmTSB4v7QkBvw1wHQL2oGXIcO/sJ9QfeZY3nhGlKXeWKMGIc83CRZk/xX+OlX6slu57n44CBkobOqv8cBMJ0LLaiLbXkz3NWCeKzMbj1X5gqqumnrbIFyTFqOPBoRiWOh1uKp+40UhgJ+FDK/JYr0Tk8T8enwr1Ev/fP9waA7NU1M/um8JplH+'></script>
+<link rel='stylesheet' id='all-css-0-2' href='http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://postmediavancouversun2.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management" />
+<link rel='shortlink' href='http://wp.me/p726o6-2cEL' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Trump Tower developer sues Vancouver construction company for alleged shoddy work and bad management" />
+<meta property="og:url" content="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management" />
+<meta property="og:description" content="The developer of Trump International Tower and Hotel is suing a local construction company, claiming that shoddy work and poor management of trade contractors delayed the high-profile project." />
+<meta property="article:published_time" content="2017-01-25T03:43:53+00:00" />
+<meta property="article:modified_time" content="2017-01-25T03:43:53+00:00" />
+<meta property="og:site_name" content="Vancouver Sun" />
+<meta property="og:image" content="http://wpmedia.vancouversun.com/2017/01/tower-the-still-under-construction-trump-international-hotel.jpeg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="750" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="http://wpmedia.vancouversun.com/2017/01/tower-the-still-under-construction-trump-international-hotel.jpeg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/vancouver-sun" />
+<meta name="twitter:description" content="Vancouver Trump Tower developer is suing a local company, claiming that shoddy work and poor management of trade contractors delayed project" />
+<meta name="twitter:title" content="Trump Tower developer sues Vancouver company over shoddy construction" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/65a4d89c994dadfbdfbf531bd11e514b?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/65a4d89c994dadfbdfbf531bd11e514b?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/65a4d89c994dadfbdfbf531bd11e514b?s=114" />
+<link rel='openid.server' href='http://postmediavancouversun2.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://postmediavancouversun2.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://vancouversun.com/osd.xml" title="Vancouver Sun" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="stats-full-init" value="0.006" />
+<meta name="stats-postmedia_theme_pre_initialize" value="0.000" />
+<meta name="stats-initialize" value="0.006" />
+<meta name="stats-postmedia_theme_post_initialize" value="0.001" />
+<meta name="stats-vip_load_plugins" value="0.001" />
+<meta name="stats-load_plugins" value="0.004" />
+<meta name="stats-register_widgets" value="0.000" />
+<script type="text/javascript">
+function janrainSignOut(){
+	janrain.capture.ui.endCaptureSession();
+}
+(function() {
+	if (typeof window.janrain !== 'object') window.janrain = {};
+	window.janrain.settings = {};
+	window.janrain.settings.capture = {};
+
+	// capture settings
+	janrain.settings.capture.redirectUri = 'https://postmediavancouversun2.wordpress.com/wp-admin/admin-ajax.php?action=janrain_capture_redirect_uri';
+	janrain.settings.capture.appId= 'ztcpr5854s8kyh93khrgw44sv9';
+	janrain.settings.capture.clientId = '82vpqvnv8v9mbrthmfx3bj3ssbbckcyx';
+	janrain.settings.capture.responseType = 'token';
+	janrain.settings.capture.captureServer = 'https://postmedia.us.janraincapture.com';
+	janrain.settings.capture.registerFlow = 'socialRegistration';
+	janrain.settings.packages = ['capture','login'];
+
+	janrain.settings.capture.setProfileCookie = true;
+	janrain.settings.capture.keepProfileCookieAfterLogout = true;
+	janrain.settings.capture.setProfileData = 'true';
+
+	janrain.settings.capture.federateEnableSafari = true;
+
+	// styles
+	janrain.settings.capture.stylesheets = ['http://s0.wp.com/wp-content/themes/vip/postmedia-theme-broadsheet/janrain-capture-screens/stylesheets/styles.css?m=1483727235h'];
+	janrain.settings.capture.mobileStylesheets = ['http://s0.wp.com/wp-content/themes/vip/postmedia-theme-broadsheet/janrain-capture-screens/stylesheets/mobile-styles.css?m=1483727235h'];
+	janrain.settings.capture.recaptchaPublicKey = '6LeVKb4SAAAAAGv-hg5i6gtiOV4XrLuCDsJOnYoP';
+
+	// engage settings
+	janrain.settings.appUrl = 'https://login.canada.com';
+	janrain.settings.tokenAction = 'event';
+		
+
+	// federate settings
+	janrain.settings.capture.federate = 1;
+	janrain.settings.capture.federateServer = 'https://postmedia.us.janrainsso.com';
+	janrain.settings.capture.federateXdReceiver = 'http://vancouversun.com/wp-content/themes/vip/plugins/janrain-capture/xdcomm.html';
+	janrain.settings.capture.federateLogoutUri = 'https://postmediavancouversun2.wordpress.com/wp-login.php?loggedout=true';
+		
+	function isReady() { janrain.ready = true; };
+	if (document.addEventListener) {
+		document.addEventListener("DOMContentLoaded", isReady, false);
+	} else {
+		window.attachEvent('onload', isReady);
+	}
+
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.id = 'janrainAuthWidget'
+	var url = document.location.protocol === 'https:' ? 'https://' : 'http://';
+	url += 'widget-cdn.rpxnow.com/load/login.canada.com';
+	e.src = url;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(e, s);
+})();
+</script><script type="text/javascript">function janrainCaptureWidgetOnLoad() {
+    
+	function getUrlPramVal(param){
+		var field = param;
+		var href = window.location.href;
+		var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+		return reg.exec(href);
+	}
+	
+	function janrainSignIn() {
+		var soLink = jQuery('.header-links a.sign-out');
+		var siLink = jQuery('.header-links a.signin-btn');
+		
+		soLink.show().animate({opacity: 1});
+		siLink.hide();
+		
+		soLink.on('click', function(e) {
+			e.preventDefault();
+			janrainSignOut(); // janrain built-in function
+			
+			if( jQuery('#editProfile')[0] ){
+				window.location.href = '/';
+			} else {
+				window.location.reload();
+			}
+		});
+	}
+	
+	function pm_user_signout() {
+		var soLink = jQuery('.header-links a.sign-out');
+		var siLink = jQuery('.header-links a.signin-btn');
+		
+		soLink.hide();
+		siLink.animate({opacity: 1}).removeClass('loading');
+	}
+	
+	janrain.events.onCaptureSessionFound.addHandler(function(){
+		janrainSignIn();
+	});
+
+	janrain.events.onCaptureSessionNotFound.addHandler(function(){
+		pm_user_signout();
+	});
+
+	janrain.events.onCaptureLoginSuccess.addHandler(function(){
+		var paramVal = getUrlPramVal('returnUrl');
+		if ( paramVal != null ) {
+			var returnUrl = paramVal[1];
+		
+			location.href = returnUrl;
+		} 
+		else {
+			janrainSignIn();
+		}
+	});
+
+	janrain.events.onCaptureLoginFailed.addHandler(function(result){
+		if (result.statusMessage == "accountDeactivated") {
+            janrain.capture.ui.renderScreen('accountDeactivated');
+        }
+
+        pm_user_signout();
+	});
+
+	janrain.events.onCaptureRegistrationSuccess.addHandler(function(){
+		janrainSignIn();
+	});
+
+	janrain.events.onCaptureAccountDeactivateSuccess.addHandler(function(result){
+		if(result.status == "success") {
+            document.getElementById("editProfile").style.display = 'none';
+            janrain.capture.ui.modal.close();
+            janrain.capture.ui.endCaptureSession();
+            window.location = '/?screenToRender=accountDeactivated';
+        }
+	});
+	
+	janrain.events.onCaptureModalReady.addHandler(function(result){
+		var paramVal = getUrlPramVal('screenToRender');
+		
+		if ( paramVal != null ) {
+			var screen = paramVal[1];
+			janrain.capture.ui.renderScreen(screen);
+		}
+	 });
+	
+	janrain.events.onCaptureAccessDenied.addHandler(function(){
+		location.href = '/?screenToRender=signIn&returnUrl=/edit-profile'
+	});
+	
+	// register postal code validation
+	janrain.capture.ui.registerFunction('postalCodeValidation', function( name, value ){
+		return /^[A-Za-z]\d[A-Za-z][ ]?\d[A-Za-z]\d$/.test(value);
+	});
+	
+	// modal open tracking
+	janrain.events.onCaptureScreenShow.addHandler(function(result){
+		var callFunction = true;
+		var eventMsg = '';
+		switch (result.screen){
+			case 'signIn': //2.1
+				eventMsg = 'Signin Meter Login'
+				break;
+			case 'returnSocial': //2.2
+				eventMsg = 'Social Login Return User'
+				break;
+			case 'returnTraditional': //2.3
+				eventMsg = 'Traditional Login Return User';
+				break;
+			case 'socialRegistration':  //2.5
+				eventMsg = 'Social Registration Meter Account Creation';
+				break;
+			case 'traditionalRegistration': //2.6
+				eventMsg = 'Traditional Registration Meter Account Creation';
+				break;
+			case 'emailVerificationNotification': //2.7
+				eventMsg = 'Email Notification Meter Purchase Summary';
+				break;
+			case 'forgotPassword': //2.8
+				eventMsg = 'Forgot Pwd Enter Email';
+				break;
+			case 'forgotPasswordSuccess': //2.9
+				eventMsg = 'Forgot Pwd Success Email Sent';
+				break;
+			case 'verifyEmail': //2.12
+				eventMsg = 'Verify Email';
+				break;
+			case 'resendVerificationSuccess': //2.13
+				eventMsg = 'Resend Verification Success';
+				break;
+			case 'verifyEmailSuccess': //2.14.
+				eventMsg = 'Verify Email Success';
+				break;
+			case 'resetPassword':  //2.15
+				eventMsg = 'Reset Pwd New Password';
+				break;
+			case 'resetPasswordSuccess': //2.16
+				eventMsg = 'Reset Pwd Success Pwd Changed';
+				break;
+			case 'resetPasswordRequestCode': //2.17
+				eventMsg = 'Reset Pwd Request Code';
+				break;
+			case 'resetPasswordRequestCodeSuccess': //2.18
+				eventMsg = 'Reset Pwd Request Code Success';
+				break;
+			case 'editProfile': //2.19
+				eventMsg = 'Edit Profile';
+				break;
+			case 'changePassword': //2.20
+				eventMsg = 'Change Pwd';
+				break;
+			case 'confirmAccountDeactivation': //2.21
+				eventMsg = 'Confirm Account Deactivation';
+				break;
+			case 'accountDeactivated': //2.4
+			case 'mergeAccounts': //2.10
+			case 'traditionalAuthenticateMerge': //2.11
+			case 'reactivateAccount':
+			case 'reactivateAccountSuccess':
+			case 'emailVerificationRequired':
+			default:
+				callFunction = false;
+				break;
+		}
+
+		if (callFunction){
+			Postmedia.Analytics.ModelScreen('Janrain', eventMsg);
+		}
+	});
+	
+	/* Social login button click tracking
+	 *
+	 * For more information, please go to http://developers.janrain.com/overview/integrations/blueprint-integrations/omniture-sitecatalyst/#overview
+	 */
+	janrain.events.onProviderLoginStart.addHandler(function(result){
+		var callFunction = true;
+		var provider = null;
+		
+		switch( result.provider ) {
+			case 'facebook':
+				provider = Postmedia.Analytics.SocialTypes.FACEBOOK_LOGIN;
+				break;
+			case 'twitter':
+				provider = Postmedia.Analytics.SocialTypes.TWITTER_LOGIN;
+				break;
+			case 'googleplus':
+				provider = Postmedia.Analytics.SocialTypes.GOOGLE_LOGIN;
+				break;
+			case 'yahoo':
+				provider = Postmedia.Analytics.SocialTypes.YAHOO_LOGIN;
+				break;
+			case 'linkedin':
+				provider = Postmedia.Analytics.SocialTypes.LINKEDIN_LOGIN;
+				break;
+			case 'openid':
+				provider = Postmedia.Analytics.SocialTypes.OPENID_LOGIN;
+				break;
+			default :
+				callFunction = false;
+				break;
+		}
+		
+		if (callFunction){
+			Postmedia.Analytics.SocialLogin(provider);
+		}
+	});
+	 
+    janrain.capture.ui.start();
+}
+</script>			<meta property="fb:pages" content="7116517082" />
+			                <script type="text/javascript">var AamGpt={strictEncode:function(a){return encodeURIComponent(a).replace(/[!'()]/g,escape).replace(/\*/g,'%2A')},getCookie:function(b){var d,a,f,e=document.cookie.split(';');for(d=0;d<e.length;d++){a=e[d].substr(0,e[d].indexOf('='));f=e[d].substr(e[d].indexOf('=')+1);a=a.replace(/^\s+|\s+$/g,'');if(a==b){return unescape(f)}}},getKey:function(a){var d=this.getCookie(a);d=this.strictEncode(d);if(typeof d!='undefined'&&d.match(/\w+%3D/)){var b=d.split('%3D');if(typeof b[0]!='undefined'&&b[0].match(/\w+/)){return b[0]}}},getValues:function(a){var e=this.getCookie(a);e=this.strictEncode(e);if(typeof e!='undefined'&&e.match(/\w+%3D\w+/)){var b=e.split('%3D');if(typeof b[1]!='undefined'&&b[1].match(/\w+/)){var d=b[1].split('%2C');if(typeof d[0]!='undefined'){return d}else{return null}}else{return null}}else{return null}}};</script>
+            <script type="text/javascript"> var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.getElementsByTagName('script')[0],b=document.createElement("script");b.async=true;b.src="http://www.googletagservices.com/tag/js/gpt.js";b.type='text/javascript';a.parentNode.insertBefore(b,a)}()); </script>
+            
+        <script type="text/javascript">
+           
+         googletag.cmd.push(function(){  googletag.pubads() 
+                     .setTargeting(
+                        'aid'
+                        , "525311"                     )
+
+                   
+                     .setTargeting(
+                        'author'
+                        , "joanne-lee-young"                     )
+
+                   
+                     .setTargeting(
+                        'ck'
+                        , "news"                     )
+
+                   
+                     .setTargeting(
+                        'nk'
+                        , "print"                     )
+
+                   
+                     .setTargeting(
+                        'page'
+                        , "story"                     )
+
+                   
+                     .setTargeting(
+                        'pr'
+                        , "vs"                     )
+
+                   
+                     .setTargeting(
+                        'sck'
+                        , "local-news"                     )
+
+                   
+
+           ; if( typeof AamGpt.getCookie( "aam_dfp" ) != "undefined" ){ googletag.pubads().setTargeting( AamGpt.getKey( "aam_dfp" ),AamGpt.getValues( "aam_dfp") ); };
+
+                
+            if( typeof AamGpt.getCookie("aam_uuid") != "undefined" ){ googletag.pubads().setTargeting( "aamId", AamGpt.getCookie("aam_uuid") ); };
+
+
+            if ( document.referrer )
+                googletag.pubads().setTargeting( "r" ,document.referrer.split('/')[2] )
+            
+                if ( 'undefined' != typeof pnWeatherCookieHandler && null != pnWeatherCookieHandler ) {
+
+                    var pn_weather = pnWeatherCookieHandler.setPostmediaAdConfig();
+                }
+
+                if ( 'undefined' != typeof pn_weather ) {
+
+                    if ( null != pn_weather ) {
+
+                        if ( null != pn_weather.wc ) {
+
+                            googletag.pubads().setTargeting( "wc" , pn_weather.wc );
+
+                            googletag.pubads().setTargeting( "wt", pn_weather.wt );
+
+                            googletag.pubads().setTargeting( "ww", pn_weather.ww );
+
+                        }
+
+                    }
+
+                }
+
+                if(  'undefined' != typeof I10C ) {
+                    if ( 'undefined' != I10C.Morph ) {
+                        if ( null != I10C.Morph ) {
+                            if ( 1 == I10C.Morph ) {
+                               googletag.pubads().setTargeting( "shield" , "1" );
+                            }
+                        }
+                    }
+                }
+            googletag.pubads().collapseEmptyDivs();
+ 	 googletag.pubads().disableInitialLoad();
+ 	 googletag.enableServices();});        </script>
+    
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var adSlots = [];
+			/* ]]> */
+		</script>
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var pn_Gpt_Weather = {"wc":"overcast","wt":"3","ww":"0"};
+                /* ]]> */
+            </script><meta name="ROBOTS" content="NOARCHIVE" />			<meta name="google-site-verification" content="Fh4c9YVMW7SlW7lZ_NFatG04YvMg1x3MId7GI_2zAkI" />
+						<meta itemprop="genre" content="News" />
+						<link rel="publisher" href="https://plus.google.com/+VancouverSun/about" />
+					<script type='text/javascript'>
+			/* <![CDATA[ */
+			 				var pn_theme_piano_app_id = "E9moANse1G";
+ 						/* ]]> */
+		</script>
+		
+			<meta itemprop="mainEntityOfPage" content="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management" />
+			<meta itemprop="datePublished" content="January 24, 2017" />
+			<meta itemprop="dateModified" content="January 24, 2017">
+			<meta itemprop="copyrightYear" content="2017" />
+			<meta itemprop="description" name="description" content="<p>The developer of Trump International Tower and Hotel is suing a local construction company, claiming that shoddy work and poor management of trade contractors delayed the high-profile project.</p>
+" />
+
+			<meta property="fb:app_id" content="375057209234363" />
+<meta property="fb:page_id" content="41743dd369ff9d9d763282ea7e2cd33e" />
+<meta property="fb:admins" content="100002625504753" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Vancouver Sun" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Vancouver News, Top Stories, Breaking Headlines &amp; Videos" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://vancouversun.com/feed;icon-uri=http://0.gravatar.com/blavatar/65a4d89c994dadfbdfbf531bd11e514b?s=16" /><link rel="amphtml" href="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management/amp" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="single single-post postid-525311 single-format-standard mp6 customizer-styles-applied group-blog highlander-enabled highlander-light" >
+					<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5L2R36" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,"script","dataLayer","GTM-5L2R36");</script>
+				
+	<!-- Needs to be the first ad rendered on the page -->
+	<div id="gpt-nulladslot" style='height:0; display:none;'>
+		<!-- Null Ad Slot for bug DAS-265-->
+		<script>
+			googletag.cmd.push(function() { 
+				  var gpt_nulladslot = googletag.defineSlot('null', [66, 6], 'gpt-nulladslot').addService(googletag.pubads());
+				googletag.display('gpt-nulladslot');
+				googletag.pubads().refresh( [ gpt_nulladslot ], {changeCorrelator: false} );
+			});
+		</script>
+		<!-- Null Ad Slot ends -->
+	</div>
+
+	
+	<div id="fb-root"></div>
+					<div class="out-of-page">
+			<!-- Out of Page Ad -->
+	            <div id="gpt-oop" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_oop = googletag.
+
+			 defineOutOfPageSlot ("/3081/vs_news.com/news/local-news/story" , 'gpt-oop'); gpt_oop.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-oop"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_oop,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    			<!-- Out of Page ends -->
+			</div>
+		
+	<nav class="accessibility-nav"> 
+		<ol>
+			<li><a href="#side-navigation">Skip to navigation</a></li>
+			<li><a href="#main">Skip to content</a></li>
+			<!--li><a href="#sidebar">Skip to sidebar</a></li-->
+		</ol>
+	</nav>
+	<!-- / accessibility-nav -->
+
+			<div class="wallpaper-container" style="position:absolute">
+	            <div id="gpt-wallpaper" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_wallpaper = googletag.
+
+			 defineSlot ("/3081/vs_news.com/news/local-news/story", [[4,4]] , 'gpt-wallpaper');  adSlots.push( gpt_wallpaper ); gpt_wallpaper.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-wallpaper"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_wallpaper,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    		</div>
+	
+
+<div id="page" class="hfeed site" >
+
+	<!-- OLD ALERTS SHOWED HERE -->
+	<header class="l-header   ">
+	
+	<div class="l-constrained">
+		<div  id="news"  class="header-nav 
+				 ">
+
+			<div itemprop="publisher" class="header-logo track_event" data-event-tracking="Logo" itemscope itemtype="http://schema.org/Organization">
+				<a itemprop="url" href="http://vancouversun.com">						
+						
+					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+						<img itemprop="url" src="https://postmediavancouversun2.files.wordpress.com/2016/02/logo-vancouver1.png" alt="Vancouver Sun						Homepage" />
+					</div>
+				</a>
+				<meta itemprop="name" content="Vancouver Sun">
+				<link itemprop="sameAs" href="http://www.facebook.com/Vancouversun">
+				<link itemprop="sameAs" href="http://twitter.com/VancouverSun">
+				<link itemprop="sameAs" href="https://plus.google.com/+VancouverSun">
+				<link itemprop="sameAs" href="https://www.youtube.com/user/VancouverSunOnline">
+				<link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.indusblue.vancouversun&#038;hl=en">
+				<link itemprop="sameAs" href="https://itunes.apple.com/ca/app/the-vancouver-sun/id406561903?mt=8">
+				<link itemprop="sameAs" href="https://www.instagram.com/thevancouversun/">
+				<link itemprop="sameAs" href="https://www.pinterest.com/vancouversun/">
+				<link itemprop="sameAs" href="https://en.wikipedia.org/wiki/The_Vancouver_Sun">
+			</div>
+
+			<div class="nav-wrap track_event" data-event-tracking="Main">
+				<div class="left-drop-shadow"></div>			
+				<nav id="primary-nav" class="navigation"><ul id="menu-primary-nav" class=""><li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-menu-ancestor current-post-ancestor menu-item-has-children menu-item-108 news"><a href="http://vancouversun.com/category/news">News</a>
+<div class="subnav">
+<ul>	<li id="menu-item-113" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-113 news"><a href="http://vancouversun.com/category/news">All News</a>	<li id="menu-item-110" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-110 local-news"><a href="http://vancouversun.com/category/news/local-news">Local News</a>	<li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-124 opinion"><a href="http://vancouversun.com/category/opinion">Opinion</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125 opinion"><a href="http://vancouversun.com/category/opinion">All Opinion</a>		<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126 columnists"><a href="http://vancouversun.com/category/opinion/columnists">Columnists</a>		<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127 editorials"><a href="http://vancouversun.com/category/opinion/editorials">Editorials</a>		<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128 letters"><a href="http://vancouversun.com/category/opinion/letters">Letters</a>		<li id="menu-item-263812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263812"><a href="http://vancouversun.com/tag/op-ed">Op-Ed</a>		</ul>
+	</div>
+	<li id="menu-item-193917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193917 politics"><a href="http://vancouversun.com/category/news/politics">Politics</a>	<li id="menu-item-111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111 national"><a href="http://vancouversun.com/category/news/national">National</a>	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109 crime"><a href="http://vancouversun.com/category/news/crime">Crime</a>	<li id="menu-item-112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112 world"><a href="http://vancouversun.com/category/news/world">World</a>	<li id="menu-item-263809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263809"><a href="http://vancouversun.com/tag/education">Education</a>	<li id="menu-item-445373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445373"><a href="http://vancouversun.com/weather">Weather</a>	<li id="menu-item-193918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193918 staff-blogs"><a href="http://vancouversun.com/category/news/staff-blogs">Staff Blogs</a>	<li id="menu-item-193919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193919 community-blogs"><a href="http://vancouversun.com/category/news/community-blogs">Community Blogs</a>	</ul>
+</div>
+<li id="menu-item-154" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-has-children menu-item-154 business"><a href="http://vancouversun.com/category/business">Business</a>
+<div class="subnav">
+<ul>	<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-155 business"><a href="http://vancouversun.com/category/business">All Business</a>	<li id="menu-item-156" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-156 local-business"><a href="http://vancouversun.com/category/business/local-business">Local Business</a>	<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157 energy"><a href="http://vancouversun.com/category/business/energy">Energy</a>	<li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158 mortgages"><a href="http://vancouversun.com/category/business/mortgages">Mortgages</a>	<li id="menu-item-193920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193920 real-estate"><a href="http://vancouversun.com/category/business/real-estate">Real Estate</a>	<li id="menu-item-159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-159 commercial-real-estate"><a href="http://vancouversun.com/category/business/commercial-real-estate">Commercial Real Estate</a>	<li id="menu-item-444310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444310"><a href="http://vancouversun.com/tag/economy-next">Economy Next</a>	<li id="menu-item-160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-160 technology"><a href="http://vancouversun.com/category/technology">Technology</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161 technology"><a href="http://vancouversun.com/category/technology">All Technology</a>		<li id="menu-item-162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-162 gaming"><a href="http://vancouversun.com/category/technology/gaming">Gaming</a>		<li id="menu-item-163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-163 internet"><a href="http://vancouversun.com/category/technology/internet">Internet</a>		<li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-164 personal-tech"><a href="http://vancouversun.com/category/technology/personal-tech">Personal Tech</a>		</ul>
+	</div>
+	<li id="menu-item-218693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218693"><a href="http://vancouversun.com/tag/retail">Retail</a>	</ul>
+</div>
+<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-129 sports"><a href="http://vancouversun.com/category/sports">Sports</a>
+<div class="subnav">
+<ul>	<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130 sports"><a href="http://vancouversun.com/category/sports">All Sports</a>	<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-131 hockey"><a href="http://vancouversun.com/category/sports/hockey">Hockey</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132 hockey"><a href="http://vancouversun.com/category/sports/hockey">All Hockey</a>		<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134 vancouver-canucks"><a href="http://vancouversun.com/category/sports/hockey/nhl/vancouver-canucks">Vancouver Canucks</a>		<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133 nhl"><a href="http://vancouversun.com/category/sports/hockey/nhl">NHL</a>		</ul>
+	</div>
+	<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-135 football"><a href="http://vancouversun.com/category/sports/football">Football</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136 football"><a href="http://vancouversun.com/category/sports/football">All Football</a>		<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138 bc-lions"><a href="http://vancouversun.com/category/sports/football/cfl/bc-lions">BC Lions</a>		<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137 cfl"><a href="http://vancouversun.com/category/sports/football/cfl">CFL</a>		<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139 nfl"><a href="http://vancouversun.com/category/sports/football/nfl">NFL</a>		</ul>
+	</div>
+	<li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-140 soccer"><a href="http://vancouversun.com/category/sports/soccer">Soccer</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141 soccer"><a href="http://vancouversun.com/category/sports/soccer">All Soccer</a>		<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143 vancouver-whitecaps"><a href="http://vancouversun.com/category/sports/soccer/mls/vancouver-whitecaps">Vancouver Whitecaps</a>		<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142 mls"><a href="http://vancouversun.com/category/sports/soccer/mls">MLS</a>		<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144 international-soccer"><a href="http://vancouversun.com/category/sports/soccer/international-soccer">International</a>		</ul>
+	</div>
+	<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151 baseball"><a href="http://vancouversun.com/category/sports/baseball">Baseball</a>	<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-146 basketball"><a href="http://vancouversun.com/category/sports/basketball">Basketball</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147 basketball"><a href="http://vancouversun.com/category/sports/basketball">All Basketball</a>		<li id="menu-item-148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148 nba"><a href="http://vancouversun.com/category/sports/basketball/nba">NBA</a>		<li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149 ncaa"><a href="http://vancouversun.com/category/sports/basketball/ncaa">NCAA</a>		</ul>
+	</div>
+	<li id="menu-item-145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145 golf"><a href="http://vancouversun.com/category/sports/golf">Golf</a>	<li id="menu-item-193921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193921 mma"><a href="http://vancouversun.com/category/sports/mma">MMA</a>	<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150 curling"><a href="http://vancouversun.com/category/sports/curling">Curling</a>	<li id="menu-item-153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153 tennis"><a href="http://vancouversun.com/category/sports/tennis">Tennis</a>	<li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152 auto-racing"><a href="http://vancouversun.com/category/sports/auto-racing">Auto Racing</a>	</ul>
+</div>
+<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-165 entertainment"><a href="http://vancouversun.com/category/entertainment">Arts &amp; Life</a>
+<div class="subnav">
+<ul>	<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166 entertainment"><a href="http://vancouversun.com/category/entertainment">All Arts &amp; Life</a>	<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-167 local-arts"><a href="http://vancouversun.com/category/entertainment/local-arts">Local Arts</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-193922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193922 local-arts"><a href="http://vancouversun.com/category/entertainment/local-arts">All Local Arts</a>		<li id="menu-item-193927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193927"><a href="http://www.vancouversun.com/entertainment/listings/index.html">Events Listings</a>		</ul>
+	</div>
+	<li id="menu-item-340506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-340506 entertainment"><a href="http://vancouversun.com/category/entertainment">Entertainment</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168 celebrity"><a href="http://vancouversun.com/category/entertainment/celebrity">Celebrity</a>		<li id="menu-item-211554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211554"><a href="http://preprod.vancouversun.com/tag/festivals">Festivals</a>		<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-170 movies"><a href="http://vancouversun.com/category/entertainment/movies">Movies</a>
+		<div class="subnav">
+<ul>			<li id="menu-item-193923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193923 movies"><a href="http://vancouversun.com/category/entertainment/movies">All Movies</a>			<li id="menu-item-193925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193925"><a href="http://movies.vancouversun.com/movies.aspx">Movie Listings</a>			</ul>
+		</div>
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-171 television"><a href="http://vancouversun.com/category/entertainment/television">Television</a>
+		<div class="subnav">
+<ul>			<li id="menu-item-193924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193924 television"><a href="http://vancouversun.com/category/entertainment/television">All Television</a>			<li id="menu-item-193926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193926"><a href="http://www.vancouversun.com/entertainment/television/tv-listings/index.html">TV Listings</a>			</ul>
+		</div>
+		<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-172 music"><a href="http://vancouversun.com/category/entertainment/music">Music</a>
+		<div class="subnav">
+<ul>			<li id="menu-item-539219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-539219 music"><a href="http://vancouversun.com/category/entertainment/music">All Music</a>			<li id="menu-item-539216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539216"><a target="_blank" href="http://youtube.com/nationalpostmusic">NP Music</a>			</ul>
+		</div>
+		<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-173 theatre"><a href="http://vancouversun.com/category/entertainment/theatre">Theatre</a>		<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174 books"><a href="http://vancouversun.com/category/entertainment/books">Books</a>		</ul>
+	</div>
+	<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-185 food"><a href="http://vancouversun.com/category/life/food">Food</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-186 food"><a href="http://vancouversun.com/category/life/food">All Food</a>		<li id="menu-item-187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187 local-food-reviews"><a href="http://vancouversun.com/category/life/food/local-food-reviews">Local Food Reviews</a>		<li id="menu-item-188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188 recipes"><a href="http://vancouversun.com/category/life/food/recipes">Recipes</a>		<li id="menu-item-223759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223759"><a href="http://vancouversun.com/tag/wine-country">Wine Country</a>		</ul>
+	</div>
+	<li id="menu-item-189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-189 health"><a href="http://vancouversun.com/category/health">Health</a>
+	<div class="subnav">
+<ul>		<li id="menu-item-190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-190 health"><a href="http://vancouversun.com/category/health">All Health</a>		<li id="menu-item-191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-191 local-health"><a href="http://vancouversun.com/category/health/local-health">Local Health</a>		<li id="menu-item-194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-194 diet-fitness"><a href="http://vancouversun.com/category/health/diet-fitness">Diet &amp; Fitness</a>		<li id="menu-item-197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197 family-child"><a href="http://vancouversun.com/category/health/family-child">Family &amp; Child</a>		<li id="menu-item-193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193 men"><a href="http://vancouversun.com/category/health/men">Men</a>		<li id="menu-item-192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-192 women"><a href="http://vancouversun.com/category/health/women">Women</a>		<li id="menu-item-196" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-196 seniors"><a href="http://vancouversun.com/category/health/seniors">Seniors</a>		<li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-195 sexual-health"><a href="http://vancouversun.com/category/health/sexual-health">Sexual Health</a>		</ul>
+	</div>
+	<li id="menu-item-198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198 fashion-beauty"><a href="http://vancouversun.com/category/life/fashion-beauty">Fashion &amp; Beauty</a>	<li id="menu-item-200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-200 parenting"><a href="http://vancouversun.com/category/life/parenting">Parenting</a>	<li id="menu-item-201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201 relationships"><a href="http://vancouversun.com/category/life/relationships">Relationships</a>	<li id="menu-item-229156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229156"><a href="http://www.vancouversun.com/life/diversions/index.html">Puzzles &amp; Comics</a>	<li id="menu-item-199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-199 royals"><a href="http://vancouversun.com/category/life/royals">Royals</a>	</ul>
+</div>
+<li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-177 homes"><a href="http://vancouversun.com/category/life/homes">Homes</a>
+<div class="subnav">
+<ul>	<li id="menu-item-178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178 homes"><a href="http://vancouversun.com/category/life/homes">All Homes</a>	<li id="menu-item-181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181 buying-selling"><a href="http://vancouversun.com/category/life/homes/buying-selling">Buying &amp; Selling</a>	<li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 condos"><a href="http://vancouversun.com/category/life/homes/condos">Condos</a>	<li id="menu-item-183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-183 decorating"><a href="http://vancouversun.com/category/life/homes/decorating">Decorating</a>	<li id="menu-item-180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180 gardening"><a href="http://vancouversun.com/category/life/homes/gardening">Gardening</a>	<li id="menu-item-182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182 renovating"><a href="http://vancouversun.com/category/life/homes/renovating">Renovating</a>	<li id="menu-item-184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-184 vacation-homes"><a href="http://vancouversun.com/category/life/homes/vacation-homes">Vacation Homes</a>	</ul>
+</div>
+<li id="menu-item-202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-202 travel"><a href="http://vancouversun.com/category/travel">Travel</a><li id="menu-item-203" class="jobs menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-has-children menu-item-203"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home">Careers</a>
+<div class="subnav">
+<ul>	<li id="menu-item-211451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211451"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home">All Careers</a>	<li id="menu-item-211452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211452"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home">Find Jobs</a>	<li id="menu-item-211453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211453"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/products">Post Jobs</a>	</ul>
+</div>
+<li id="menu-item-204" class="obits menu-item menu-item-type-custom menu-item-object-custom menu-item-204"><a href="http://www.legacy.com/obituaries/vancouversun/">Obits</a><li id="menu-item-116" class="obits menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-116"><a href="http://classifieds.vancouversun.com/">Classifieds</a>
+<div class="subnav">
+<ul>	<li id="menu-item-211454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211454"><a href="http://classifieds.vancouversun.com/">All Classifieds</a>	<li id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="http://www.flyercity.ca/?p=vancouversun&#038;locale=en&#038;utm_campaign=pm_nav-bar#!/flyers/sears-flyer?flyer_run_id=71967">FlyerCity</a>	<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119"><a href="http://shopping.vancouversun.com/ROP/Categories.aspx">Shopping</a>	<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="http://www.legacy.com/celebration/vancouversun/">Announcements</a>	<li id="menu-item-211455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211455"><a href="http://classifieds.vancouversun.com/">Browse Listings</a>	<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a href="http://vancouversunandprovince.adperfect.com/">Place a Classifieds Ad</a>	</ul>
+</div>
+<li id="menu-item-115" class="driving menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-115"><a href="http://driving.ca">Driving</a>
+<div class="subnav">
+<ul>	<li id="menu-item-193911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193911"><a href="http://www.driving.ca/">All Driving</a>	<li id="menu-item-193912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193912"><a href="http://driving.ca/category/auto-news">News</a>	<li id="menu-item-193913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193913"><a href="http://driving.ca/category/reviews">Reviews</a>	<li id="menu-item-193914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193914"><a href="http://driving.ca/car-comparison">Car Comparison</a>	<li id="menu-item-193915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193915"><a href="http://driving.ca/buyers-guide/2015">Buyer&#039;s Guide</a>	</ul>
+</div>
+</ul></nav>								<div class="right-drop-shadow"></div>				
+			</div>
+			<!-- /nav-wrap -->
+
+							<div class="lower-header">
+					<div class="breadcrumb-wrap news sub menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-menu-ancestor current-post-ancestor">
+	
+		<ul class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="news sub menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-menu-ancestor current-post-ancestor track_event" data-event-tracking="Parent Breadcrumbs">
+				<a href="http://vancouversun.com/category/news" itemprop="item"><span itemprop="name">News</span><meta itemprop="position" content="1" /></a>
+			</li>
+						<li  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="local-news sub menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent track_event" data-event-tracking="Parent Breadcrumbs">
+				<a href="http://vancouversun.com/category/news/local-news" itemprop="item"><span itemprop="name">Local News</span><meta itemprop="position" content="2" /></a>
+			</li>
+				</ul>
+
+	<div class="more-category-and-feature">
+
+			<ul class="circular-list">
+
+				
+		  <li class="featured-title"><div class="feature-title"><span class="separator">|</span>Featured:</div></li>
+				   <li class="track_event" data-event-tracking="Category Feature Item"><a href="http://vancouversun.com/tag/real-scoop"  >The Real Scoop</a></li>
+						   <li class="track_event" data-event-tracking="Category Feature Item"><a href="http://vancouversun.com/tag/medicine-matters-blog"  >Medicine Matters</a></li>
+						   <li class="track_event" data-event-tracking="Category Feature Item"><a href="http://vancouversun.com/tag/bc-education-report-blog"  >Education Report</a></li>
+						   <li class="track_event" data-event-tracking="Category Feature Item"><a href="http://vancouversun.com/tag/the-search-blog" target="_blank" >The Search</a></li>
+						   <li class="track_event" data-event-tracking="Category Feature Item"><a href="http://vancouversun.com/tag/civic-lee-speaking-blog"  >Civic Lee Speaking</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://www.vancouversun.com/sunrun/index.html" target="_blank" >Sun Run</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/bc-election-2017"  >B.C. Election 2017</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/canada-150"  >Canada 150</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://www.vancouversun.com/business/public-sector-salaries/basic.html"  >Public Sector Salaries</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/economy-next"  >Economy Next</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/vancouver-sun-videos"  >Videos</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/conversations-that-matter"  >Conversations that Matter</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/vancouver-in-the-seventies"  >Vancouver in the &#039;70s</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://www.homesanddesign.ca/" target="_blank" >Westcoast Homes &amp; Design</a></li>
+								 <li class="track_event" data-event-tracking="Global Feature Item"><a href="http://vancouversun.com/tag/affordability"  >Affordability</a></li>
+					  <li><span class="separator last_separator">|</span></li>
+				
+		</ul>
+	</div>
+	<div class="right-drop-shadow"></div>
+	<a href="javascript:void(0);" class="more-items">More</a>
+</div>
+							
+					<ul class="header-actions">
+						<li class="search">
+							<form class="form-search" action="http://vancouversun.com/" method="get">
+								<fieldset>
+									<label for="main-searcher"><span title="Open Search" alt="Open Search"></span></label>
+									<input type="text" name="s" id="main-searcher" placeholder="Find something right now" title="Find something right now">
+									<input class="start-search" type="submit" alt="Search" value="" title="Search">
+								</fieldset>
+							</form>
+						</li>
+					</ul>
+				</div>
+				<!-- /lower-header -->			
+
+				<div class="header-links track_event" data-event-tracking="Header Subscription">
+							<a class="signin-btn loading" onclick="janrain.capture.ui.renderScreen('signIn');" href="javascript:void(0);">Sign In</a>
+		<a class="sign-out" style="display:none" href="javascript:void(0);">Sign Out</a>					
+		 <style>#janrainModal .logo_image { background-image: url( https://postmediavancouversun2.files.wordpress.com/2016/02/logo-vancouver1.png ); }</style> 							            	<a class="subscribe-btn" href="http://vancouversun.com/subscription">Subscribe</a>
+									
+									</div>
+				<!-- / header-links -->
+				<a href="http://www.postmedia.com/" class="postmedia-logo track_event" data-event-tracking="Postmedia Logo" target="_blank"><span></span></a>
+				<!-- / postmedia brands -->
+				
+					
+		</div> <!-- /header-nav -->			
+	</div><!-- /l-constrained-->
+</header>
+<!-- / header -->
+
+	<div class="l-constrained alerts"></div>
+	<div id="content" class="site-content">
+
+	<div class="l-content">
+		<div class="l-constrained container contentbody">
+			
+			<section class="l-top-content">
+				<div class="adunit">
+		
+	<div class="widget widget-advertisement advertisement pnLeaderboard">
+		<div id="gpt-billboard"></div>
+		<div id="pn-leaderboard-ad-large">
+			            <div id="gpt-leaderboard" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_leaderboard = googletag.
+
+			 defineSlot ("/3081/vs_news.com/news/local-news/story", [[728,90],[970,90],[970,250],[1200,90],[1200,250]] , 'gpt-leaderboard');  adSlots.push( gpt_leaderboard ); gpt_leaderboard.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-leaderboard"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_leaderboard,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    		</div>
+	</div>
+				</div>
+				<div class="pmeditorspick" style="display:none">
+	<div class="pmeditorspickcontent">
+
+			<ul>
+				<li class="track_event" data-event-tracking="Header| 1| Featured Slider| 1| 1| zone| Editors Picks">
+	   <article class="post post-excerpt hentry">
+		<a rel="bookmark" href="http://vancouversun.com/news/local-news/top-vancouver-christian-leaders-reject-franklin-grahams-crusade">
+										<figure class="thumbnail">                        
+								<img width="120" height="90" src="http://wpmedia.vancouversun.com/2017/02/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t.jpeg?quality=55&amp;strip=all&amp;w=120&amp;h=90&amp;crop=1" class="attachment-pn_120 size-pn_120 wp-post-image" alt="A growing number of Christians in Metro Vancouver want to stop contentious U.S. evangelist Franklin Graham from leading a major crusade next month in the city." data-attachment-id="543020" data-permalink="http://vancouversun.com/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t-jpeg-4" data-orig-file="http://wpmedia.vancouversun.com/2017/02/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t.jpeg?quality=55&amp;strip=all" data-orig-size="1000,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Jason Halstead, Winnipeg Sun&quot;,&quot;camera&quot;:&quot;Canon EOS-1D&quot;,&quot;caption&quot;:&quot;Christian evangelist Franklin Graham talks to the crowd at the Central Canada Franklin Graham Festival at the MTS Centre. ORG XMIT: POS2016081211413813&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;(c) Winnipeg Sun&quot;,&quot;focal_length&quot;:&quot;300&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;Franklin Graham&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="021717-Franklin_Graham-0220_franklin_graham_protest-W.jpg" data-image-description="&lt;p&gt;A growing number of Christians in Metro Vancouver want to stop contentious U.S. evangelist Franklin Graham from leading a major crusade next month in the city.&lt;/p&gt;
+" data-medium-file="http://wpmedia.vancouversun.com/2017/02/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t.jpeg?quality=55&amp;strip=all&amp;w=300" data-large-file="http://wpmedia.vancouversun.com/2017/02/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t.jpeg?quality=55&amp;strip=all&amp;w=640" />							</figure>
+			                
+		  </a>
+		  <header>    
+		<span class="label">
+		 <a class="blue news" href="http://vancouversun.com/category/news/local-news">Local News</a>
+		</span>
+		<h4 class="entry-title">
+		 <a rel="bookmark" href="http://vancouversun.com/news/local-news/top-vancouver-christian-leaders-reject-franklin-grahams-crusade">
+																Top Vancouver Christian leaders reject Franklin Graham&#039;s crusade		 </a>
+		</h4>                    
+		  </header>
+		 </article>
+		</li>
+				<li class="track_event" data-event-tracking="Header| 1| Featured Slider| 1| 2| zone| Editors Picks">
+	   <article class="post post-excerpt hentry">
+		<a rel="bookmark" href="http://vancouversun.com/opinion/columnists/daphne-bramham-by-learning-trades-women-can-save-themselves-and-maybe-even-the-economy">
+										<figure class="thumbnail">                        
+								<img width="120" height="90" src="http://wpmedia.vancouversun.com/2017/02/vancouver-b-c-february-21-2017-bright-future-women-le.jpeg?quality=55&amp;strip=all&amp;w=120&amp;h=90&amp;crop=1" class="attachment-pn_120 size-pn_120 wp-post-image" alt="Kavan Anne Smith, left, leads a women in trades class at BCIT." data-attachment-id="545186" data-permalink="http://vancouversun.com/vancouver-b-c-february-21-2017-bright-future-women-le-jpeg" data-orig-file="http://wpmedia.vancouversun.com/2017/02/vancouver-b-c-february-21-2017-bright-future-women-le.jpeg?quality=55&amp;strip=all" data-orig-size="1000,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;PNG&quot;,&quot;camera&quot;:&quot;NIKON D3S&quot;,&quot;caption&quot;:&quot;Vancouver  B.C.  February 21, 2017   Bright future--Women learning from  instructor Kavan Anne Smith (front left) in an electrical program  in BCIT&#039;s women in trades class.   Front right Katie Melen and others learn the basics.  rear Jen Kuta, Emily Wilson,  Sophie Trinch,  Eva Ho (above) and Chantell Woods   (right)   Mark van Manen PNG Staff  photographer   see Daphne Bramham News  stories Vancouver Sun\/Province News   stories  and Web.  00047926A [PNG Merlin Archive]&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;\u00a9 Pacific Newspaper Group&quot;,&quot;focal_length&quot;:&quot;14&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;PNG0221M WomenTr2.jpg&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BCIT women in trades" data-image-description="&lt;p&gt;Vancouver  B.C.  February 21, 2017   Bright future&#8211;Women learning from  instructor Kavan Anne Smith (front left) in an electrical program  in BCIT&#8217;s women in trades class.   Front right Katie Melen and others learn the basics.  rear Jen Kuta, Emily Wilson,  Sophie Trinch,  Eva Ho (above) and Chantell Woods   (right)   Mark van Manen PNG Staff  photographer   see Daphne Bramham News  stories Vancouver Sun/Province News   stories  and Web.  00047926A [PNG Merlin Archive]&lt;/p&gt;
+" data-medium-file="http://wpmedia.vancouversun.com/2017/02/vancouver-b-c-february-21-2017-bright-future-women-le.jpeg?quality=55&amp;strip=all&amp;w=300" data-large-file="http://wpmedia.vancouversun.com/2017/02/vancouver-b-c-february-21-2017-bright-future-women-le.jpeg?quality=55&amp;strip=all&amp;w=640" />							</figure>
+			                
+		  </a>
+		  <header>    
+		<span class="label">
+		 <a class="blue opinion" href="http://vancouversun.com/category/opinion/columnists">Columnists</a>
+		</span>
+		<h4 class="entry-title">
+		 <a rel="bookmark" href="http://vancouversun.com/opinion/columnists/daphne-bramham-by-learning-trades-women-can-save-themselves-and-maybe-even-the-economy">
+								 <span class="glyphicons glyphicons-play-button" aria-hidden="true">&#xE221;</span> 								Daphne Bramham: By learning trades, women can save themselves — ...		 </a>
+		</h4>                    
+		  </header>
+		 </article>
+		</li>
+				<li class="track_event" data-event-tracking="Header| 1| Featured Slider| 1| 3| zone| Editors Picks">
+	   <article class="post post-excerpt hentry">
+		<a rel="bookmark" href="http://vancouversun.com/news/local-news/trumping-the-luxury-hotels-in-vancouver">
+										<figure class="thumbnail">                        
+								<img width="120" height="90" src="http://wpmedia.vancouversun.com/2017/02/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&amp;strip=all&amp;w=120&amp;h=90&amp;crop=1" class="attachment-pn_120 size-pn_120 wp-post-image" alt="The Trump International Hotel and Tower on West Georgia." data-attachment-id="547105" data-permalink="http://vancouversun.com/tower-the-still-under-construction-trump-international-hotel-jpeg-5" data-orig-file="http://wpmedia.vancouversun.com/2017/02/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&amp;strip=all" data-orig-size="1000,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;THE CANADIAN PRESS&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X Mark II&quot;,&quot;caption&quot;:&quot;The still-under-construction Trump International Hotel and Tower is seen in Vancouver, B.C., on Friday January 20, 2017. The project includes a hotel and more than 200 condos. THE CANADIAN PRESS\/Darryl Dyck ORG XMIT: VCRD104&quot;,&quot;created_timestamp&quot;:&quot;1484915931&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;16&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0015625&quot;,&quot;title&quot;:&quot;Tower&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="022317-Trump_Hotel_20170120-232545554-Trump_Hotel_20170120-W.jpg" data-image-description="&lt;p&gt;The still-under-construction Trump International Hotel and Tower is seen in Vancouver, B.C., on Friday January 20, 2017. The project includes a hotel and more than 200 condos.&lt;/p&gt;
+" data-medium-file="http://wpmedia.vancouversun.com/2017/02/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&amp;strip=all&amp;w=300" data-large-file="http://wpmedia.vancouversun.com/2017/02/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&amp;strip=all&amp;w=640" />							</figure>
+			                
+		  </a>
+		  <header>    
+		<span class="label">
+		 <a class="blue news" href="http://vancouversun.com/category/news/local-news">Local News</a>
+		</span>
+		<h4 class="entry-title">
+		 <a rel="bookmark" href="http://vancouversun.com/news/local-news/trumping-the-luxury-hotels-in-vancouver">
+																Trumping the luxury hotels in Vancouver		 </a>
+		</h4>                    
+		  </header>
+		 </article>
+		</li>
+				<li class="track_event" data-event-tracking="Header| 1| Featured Slider| 1| 4| zone| Editors Picks">
+	   <article class="post post-excerpt hentry">
+		<a rel="bookmark" href="http://vancouversun.com/opinion/columnists/stephen-hume-soft-power-cultural-diplomacy-and-all-that-jazz">
+										<figure class="thumbnail">                        
+								<img width="120" height="90" src="http://wpmedia.vancouversun.com/2017/02/prv0812n-olympics-02-beijing-china-august-12-2008.jpeg?quality=55&amp;strip=all&amp;w=120&amp;h=90&amp;crop=1" class="attachment-pn_120 size-pn_120 wp-post-image" alt="Mark &quot;Dashan&quot; Rowswell is arguably the most famous foreigner in China. He has star status among people and attracts huge crowds where ever he goes." data-attachment-id="545149" data-permalink="http://vancouversun.com/prv0812n-olympics-02-beijing-china-august-12-2008-jpeg" data-orig-file="http://wpmedia.vancouversun.com/2017/02/prv0812n-olympics-02-beijing-china-august-12-2008.jpeg?quality=55&amp;strip=all" data-orig-size="1000,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;11&quot;,&quot;credit&quot;:&quot;PROVINCE&quot;,&quot;camera&quot;:&quot;NIKON D3&quot;,&quot;caption&quot;:&quot;prv0812N olympics 02 -- BEIJING, CHINA -- AUGUST 12, 2008 -- FOR CITY AND NEWS STORY BY MICHAEL SMYTH -- Mark \&quot;Dashan\&quot; Rowswell is arguably the most famous foreigner in China. He has star status among people and attracts huge crowds where ever he goes. Rowswell is the attache for the 2008 Canadian Olympic team in Beijing. He is pictured having his picture taken with adoring fans outside the Olympic aquatic center Tuesday. PROVINCE STAFF PHOTO BY JASON PAYNE [PNG Merlin Archive]&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;17&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;prv0812N olympics 02&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="022117-prv0812N_olympics_02-0225_rowswell-W.jpg" data-image-description="&lt;p&gt;prv0812N olympics 02 &#8212; BEIJING, CHINA &#8212; AUGUST 12, 2008 &#8212; FOR CITY AND NEWS STORY BY MICHAEL SMYTH &#8212; Mark &#8220;Dashan&#8221; Rowswell is arguably the most famous foreigner in China. He has star status among people and attracts huge crowds where ever he goes. Rowswell is the attache for the 2008 Canadian Olympic team in Beijing. He is pictured having his picture taken with adoring fans outside the Olympic aquatic center Tuesday. PROVINCE STAFF PHOTO BY JASON PAYNE [PNG Merlin Archive]&lt;/p&gt;
+" data-medium-file="http://wpmedia.vancouversun.com/2017/02/prv0812n-olympics-02-beijing-china-august-12-2008.jpeg?quality=55&amp;strip=all&amp;w=300" data-large-file="http://wpmedia.vancouversun.com/2017/02/prv0812n-olympics-02-beijing-china-august-12-2008.jpeg?quality=55&amp;strip=all&amp;w=640" />							</figure>
+			                
+		  </a>
+		  <header>    
+		<span class="label">
+		 <a class="blue opinion" href="http://vancouversun.com/category/opinion/columnists">Columnists</a>
+		</span>
+		<h4 class="entry-title">
+		 <a rel="bookmark" href="http://vancouversun.com/opinion/columnists/stephen-hume-soft-power-cultural-diplomacy-and-all-that-jazz">
+																Stephen Hume: Soft power, cultural diplomacy and all that jazz		 </a>
+		</h4>                    
+		  </header>
+		 </article>
+		</li>
+				<li class="track_event" data-event-tracking="Header| 1| Featured Slider| 1| 5| zone| Editors Picks">
+	   <article class="post post-excerpt hentry">
+		<a rel="bookmark" href="http://vancouversun.com/entertainment/theatre/town-talk-bacchanalia-food-and-winefest-funds-bard-on-the-beach">
+										<figure class="thumbnail">                        
+								<img width="120" height="90" src="http://wpmedia.vancouversun.com/2017/02/seen-with-a-poster-for-one-of-the-arts-club-theatres-many-sh.jpeg?quality=55&amp;strip=all&amp;w=120&amp;h=90&amp;crop=1" class="attachment-pn_120 size-pn_120 wp-post-image" alt="Seen with a poster for one of the Arts Club Theatre&#039;s many shows, artistic director Bill Millerd never lost his ear for what audiences wanted." data-attachment-id="544317" data-permalink="http://vancouversun.com/seen-with-a-poster-for-one-of-the-arts-club-theatres-many-sh-jpeg" data-orig-file="http://wpmedia.vancouversun.com/2017/02/seen-with-a-poster-for-one-of-the-arts-club-theatres-many-sh.jpeg?quality=55&amp;strip=all" data-orig-size="1000,750" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;PNG&quot;,&quot;camera&quot;:&quot;Canon PowerShot SD800 IS&quot;,&quot;caption&quot;:&quot;Seen with a poster for one of the Arts Club Theatre\u0092s many shows, artistic director Bill Millerd never lost his ear for what audiences wanted. Photo for the Mac Parry Town Talk column of Feb. 25, 2017. Malcolm Parry\/Vancouver Sun [PNG Merlin Archive]&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.6&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;0225 col parry S0214-03 Bill Millerd.jpg&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="022017-0225_col_parry_S0214-03_Bill_Millerd.jpg-233204570-0225_col_parry_S0214-03_Bill_Millerd-W.jpg" data-image-description="&lt;p&gt;Seen with a poster for one of the Arts Club Theatre&#8217;s many shows, artistic director Bill Millerd never lost his ear for what audiences wanted. &lt;/p&gt;
+" data-medium-file="http://wpmedia.vancouversun.com/2017/02/seen-with-a-poster-for-one-of-the-arts-club-theatres-many-sh.jpeg?quality=55&amp;strip=all&amp;w=300" data-large-file="http://wpmedia.vancouversun.com/2017/02/seen-with-a-poster-for-one-of-the-arts-club-theatres-many-sh.jpeg?quality=55&amp;strip=all&amp;w=640" />							</figure>
+			                
+		  </a>
+		  <header>    
+		<span class="label">
+		 <a class="blue entertainment" href="http://vancouversun.com/category/entertainment/theatre">Theatre</a>
+		</span>
+		<h4 class="entry-title">
+		 <a rel="bookmark" href="http://vancouversun.com/entertainment/theatre/town-talk-bacchanalia-food-and-winefest-funds-bard-on-the-beach">
+																Town Talk: Bacchanalia food-and-winefest funds Bard on The Beach		 </a>
+		</h4>                    
+		  </header>
+		 </article>
+		</li>
+				</ul>
+	   </div>
+	   <div class="counter">
+		<span class="current">5</span> / <span class="total">5</span>
+	   </div>
+	   <div class="arrow">
+		<img src="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-broadsheet/images/common/arrow.png?m=1483781086h" alt="Editor's Pick slider" />
+	   </div>
+	  </div> <!-- pmeditorspick ends -->
+
+		
+							</section>
+	
+	  <div class="l-main" id="main">
+	
+		
+<article id="post-525311" class="l-article post-525311 post type-post status-publish format-standard has-post-thumbnail hentry category-local-business category-local-news tag-donald-trump tag-real-estate tag-vancouver">
+	<header class="entry-header">
+		<h1 itemprop="headline" class="entry-title">Trump Tower developer sues Vancouver construction company for alleged shoddy work and bad management</h1>
+
+		<div class="entry-details byline">
+	<div class='story_details'>				<div class="author-wrap">
+					<div itemprop="author" itemscope itemtype="http://schema.org/person">
+						<meta itemprop="name" content="Joanne Lee-Young" />
+						<link itemprop="sameAs" href="http://vancouversun.com/author/joanneleeyoungsun"/>
+						<a itemprop="name" class="author" href="http://vancouversun.com/author/joanneleeyoungsun"><img alt='' src='http://2.gravatar.com/avatar/827f8837886774a88fde720711c832b4?s=33&#038;d=identicon&#038;r=G' class='avatar avatar-33' height='33' width='33' /> <span class="name">Joanne Lee-Young</span><br> <span class="author-more">More from Joanne Lee-Young</span></a>					</div>
+				</div>
+						<div class="byline-dates">
+		Published on: January 24, 2017 | Last Updated: January 24, 2017 7:43 PM PST		</div>
+		</div>
+				</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content p402_premium">
+	
+	<figure class="align-none wp-caption post-img" id="post-525816media-525816" itemprop="image" itemscope itemid="http://wpmedia.vancouversun.com/2017/01/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&#038;strip=all&#038;w=840&#038;h=630&#038;crop=1" itemtype="http://schema.org/ImageObject">
+
+				<img itemprop="url" class="wp-post-image" alt="The American Chamber of Commerce in Canada had long planned to hold a meeting Thursday night at the Vancouver home of a U.S. diplomatic official to talk about trade relations in the Donald Trump era. Then, two days ago, the group suddenly switched its plan - choosing instead to rent space for $2,500 at the glittering new hotel tower bearing the U.S. president&#039;s name." src="http://wpmedia.vancouversun.com/2017/01/tower-the-still-under-construction-trump-international-hotel.jpeg?quality=55&#038;strip=all&#038;w=840&#038;h=630&#038;crop=1" width="840" height="630" />
+				<meta itemprop="width" content="840">
+				<meta itemprop="height" content="630">
+
+									<figcaption class="wp-caption-text" itemprop="description">
+						<p><span class="img-caption">The American Chamber of Commerce in Canada had long planned to hold a meeting Thursday night at the Vancouver home of a U.S. diplomatic official to talk about trade relations in the Donald Trump era. Then, two days ago, the group suddenly switched its plan - choosing instead to rent space for $2,500 at the glittering new hotel tower bearing the U.S. president&#039;s name.</span>
+		<span class="img-author"><span itemprop="creator">DARRYL DYCK</span> / <span itemprop="copyrightHolder">THE CANADIAN PRESS</span></span>						</p>
+					</figcaption>
+				
+	 </figure>
+
+	
+	<div class="article-actions">
+	<a href="#" class="icon-share" data-modal-target="#modal-share">Share</a>
+	<a href="#" class="icon-adjust">Adjust</a>
+	<a href="#" class="icon-comment">Comment</a>
+	<a href="javascript:window.print();" class="icon-print">Print</a>
+</div>
+<!-- / article-actions -->
+
+		<div itemprop="articleBody">
+	<p>The developer of Trump International Tower and Hotel is suing a local construction company, claiming that shoddy work and poor management of trade contractors delayed the high-profile project.</p>
+<p class="p1">Holborn Developments (West Georgia) Ltd. filed a notice of civil claim on Jan. 17 in B.C. Supreme Court with a list of over 25 complaints about Richmond-based Urban One Construction Management.</p>
+<p class="p1">These included failure to establish a project schedule and properly supervise trade contractors. The claim said Urban One allowed sub-par work to pass, did not&nbsp;inspect&nbsp;appliances to make sure they were in good condition and misled Holborn about possible schedule delays.</p>
+<p class="p1">According to the claim, the two companies entered a construction management contract&nbsp;in July 2012.</p>
+<p class="p1">None of the allegations have been proven in court.</p>
+<p class="p1">In an email,&nbsp;<span class="s1">Urban One Construction Management Inc. said it was &#8220;founded five years ago and is responsible for managing some of the highest-profile construction developments in Western Canada.&nbsp;Urban One stands behind the quality of our services, reputation and people. There is no substance or merit behind the allegations identified in the lawsuit filed by&nbsp;Holborn Developments (West Georgia) Ltd. and we intend to vigorously defend against these claims.&#8221;</span></p>
+<p>The tower was supposed to open last summer, but, due to construction delays, residents only moved into the condo part of the tower recently.</p>
+<p>The hotel part is slated to open soon, according to Holborn, which didn&#8217;t give a specific target date.</p>
+<p>The City of Vancouver said Holborn has completed a final inspection and is working &#8220;to resolve any minor deficiency&#8221; in order to secure occupancy permits.</p>
+<p>Holborn is asking for unspecified damages for breach of contract, negligence and construction delays. Holborn CEO Joo Kim Tiah did not reply to queries by deadline.</p>
+<h2 class="cat-head short"><span>Related</span></h2>
+<ul class="related_links"><li><a href="http://vancouversun.com/life/food/hong-kong-mott-32-opening-next-week-at-vancouvers-trump-tower">Hong Kong&#039;s Mott 32 opening next week at Vancouver&#039;s Trump Tower</a></li><li><a href="http://vancouversun.com/business/local-business/wealthy-locals-american-billionaire-among-trump-vancouver-condo-owners">Wealthy locals, American billionaire among Trump Vancouver condo owners</a></li></ul>
+<p><a href="mailto:jlee-young@postmedia.com">jlee-young@postmedia.com</a></p>
+<p>&nbsp;</p>
+
+			<ul class="tags"><li><a href="http://vancouversun.com/tag/donald-trump">Donald Trump </a></li><li><a href="http://vancouversun.com/tag/real-estate">Real Estate </a></li><li><a href="http://vancouversun.com/tag/vancouver">Vancouver </a></li></ul>		</div>
+		<div class="clearfix"></div>
+				
+		</div><!-- .entry-content -->
+
+	<footer class="entry-meta ">
+		</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+		<nav role="navigation" id="nav-below" class="pagination post-navigation">
+
+		
+			<nav class="pagination">
+
+					<a href="http://vancouversun.com/news/local-news/vancouver-park-board-asks-staff-for-alternatives-to-referendum-on-whales-dolphins" class="previous">
+			<span class="tablet-up pag-content">
+									<img src="http://wpmedia.vancouversun.com/2017/01/vancouver-bc-january-24-2017-rescued-cetaceans-helen.jpeg?quality=55&#038;strip=all&#038;w=150" alt="" class="attachment-post-thumbnail wp-post-image" />
+				
+					<span>
+												Vancouver park board asks staff for &#039;alternatives&#039; to referendum on whales,...</span>
+					</span>
+				</a>
+
+					<a href="http://vancouversun.com/news/local-news/shots-fired-in-incident-on-abbotsford-road-three-hospitalized" class="next">
+<span class="tablet-up pag-content">
+<img src="http://wpmedia.vancouversun.com/2016/04/breaking-news-police-tape-surrounds-a-crime-scene-in-burnab.jpeg?quality=55&#038;strip=all&#038;w=150" alt="" class="attachment-post-thumbnail wp-post-image" />
+					<span>
+		Shots fired in incident on Abbotsford road, three hospitalized</span>
+		</span>
+	</a>
+
+	
+			</nav>
+	
+		
+		</nav><!-- #nav-below -->
+		<div id="flyertown_module_389"></div>	<div id="comments" class="comments-area">
+		<h2 class="comments-title">Comments</h2>
+
+	We encourage all readers to share their views on our articles and blog posts. We are committed to maintaining a lively but civil forum for discussion, so we ask you to avoid personal attacks, and please keep your comments relevant and respectful. If you encounter a comment that is abusive, click the "X" in the upper right corner of the comment box to report spam or abuse. We are using Facebook commenting. <a href="http://www.vancouversun.com/news/story.html?id=7195492" target="_blank">Visit our FAQ page</a> for more information.
+
+		<!-- Facebook Code -->
+		<div class="fb-comments" data-href="http://vancouversun.com/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management" data-num-posts="5"></div>
+		<!-- / Facebook Code -->
+	</div><!-- #comments -->
+		
+	  </div>
+
+		<aside id="sidebar" class="l-sidebar">
+<div id="pn_dfpad-180"  class="track_event-0 widget widget_pn_dfpad">            <div id="gpt-bigboxtop" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_bigboxtop = googletag.
+
+			 defineSlot ("/3081/vs_news.com/news/local-news/story", [[300,250],[300,251],[300,600],[300,601],[300,1050]] , 'gpt-bigboxtop');  adSlots.push( gpt_bigboxtop ); gpt_bigboxtop.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "top"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-bigboxtop"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_bigboxtop,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    </div><div id="pn_kaltura-40" class="track_event-1 widget pn_kaltura"><h3 class="widget-title">Latest Local News Videos</h3><div id="pn_video_975540"></div><script type="text/javascript">( function() { pnShowVideo( "0_ir3eryub", 975540, "", "", "false", "", "", "kaltura", "playlist", "http:\/\/vancouversun.com\/news\/local-news\/video\/{videoId}", null, "", "false" ); } )();</script></div><div id="pn_socialmedia_widget-79" class="track_event-2 widget pn_socialmedia_widget">		<h2 class="cat-head"><span>Connect With Us</span></h2>
+		<div id="social_media_widget" class="widget">
+		<ul>
+				<li class="fb"><a href="http://www.facebook.com/Vancouversun" target="_blank"></a></li>
+				<li class="twitter"><a href="http://twitter.com/VancouverSun" target="_blank"></a></li>
+				<li class="rss"><a href="/feed" target="_blank"></a></li>
+				</ul>
+		</div>
+		</div><div id="newsletter_widget-23" class="track_event-3 widget newsletter_widget"><div class="widget widget-updates newsletter-signup" id="pn-newsletter-signup">
+	<h2 class="cat-head"><span>Email Alerts</span></h2>
+	<div class="form-wrap">
+		<form class="widget-form">
+			<fieldset>
+				<label for="widget-email-popup">Get the latest news in your mailbox as it happens</label>
+				<input id="widget-email-popup" type="button" value="Sign Up" onclick="openNewsletterModal();">
+			</fieldset>
+		</form>
+	</div>
+</div>
+</div><div id="postmedia_polarmediavoice-23" class="track_event-4 widget postmedia_polarmediavoice">		<div class="rightrail_native_ad">
+			<div class="nativead">
+				<div class="adcontent">
+				</div>
+			</div>
+		</div>
+
+		</div><div id="pmlay_lists_widget-13" class="track_event-5 widget widget_pmlay_lists_widget">	<section class="widget_4 widget-outfit widget-outfit-thumb-title-thumb-title-list">        
+		
+				<header id="section-header" class="section-header ">
+			 <div id="section-label" class="section-label  clearfix">
+										<h2 class="cat-head ">
+							<span>Staff blogs</span>
+						</h2>                        
+							  <div id="section-body"></div>
+			 </div>
+			</header>
+		            
+		
+		<ul class="posts-list two_col_images sixcol-li hfeed clearfix">            
+				<li class="			">
+	   <article class="post post-excerpt hentry track_event" data-event-tracking="Sidebar Outfit| 5| 2 Thumbs+2 Thumbs| 0| 1| cax| Staff Blogs&quot; "  >
+		<figure class="thumbnail ">
+			<a id="link-543020" href="http://vancouversun.com/news/local-news/top-vancouver-christian-leaders-reject-franklin-grahams-crusade" target="_self">
+					<img itemprop="image" src="http://wpmedia.vancouversun.com/2017/02/christian-evangelist-franklin-graham-talks-to-the-crowd-at-t.jpeg?quality=65&#038;strip=all&#038;w=140&#038;h=105&#038;crop=1" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt="" 
+				id="img-543020"/>
+			</a>
+		</figure>
+			  <header>    
+			<h4 class="entry-title"><a href="http://vancouversun.com/news/local-news/top-vancouver-christian-leaders-reject-franklin-grahams-crusade" target="_self" rel="bookmark" title="">Top Vancouver Christian leaders reject Franklin Graham&#039;s crusade</a></h4>			  </header>
+
+				
+		  </article>
+					 </li>
+						<li class=" last			">
+	   <article class="post post-excerpt hentry track_event" data-event-tracking="Sidebar Outfit| 5| 2 Thumbs+2 Thumbs| 0| 2| cax| Staff Blogs&quot; "  >
+		<figure class="thumbnail ">
+			<a id="link-545776" href="http://vancouversun.com/opinion/columnists/douglas-todd-pedophilia-and-how-what-we-dont-know-about-it-further-hurts-us" target="_self">
+					<img itemprop="image" src="http://wpmedia.vancouversun.com/2017/02/vancouver-bc-february-21-2017-psychologist-anton-schw1.jpeg?quality=55&#038;strip=all&#038;w=140&#038;h=105&#038;crop=1" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt="" 
+				id="img-545776"/>
+			</a>
+		</figure>
+			  <header>    
+			<h4 class="entry-title"><a href="http://vancouversun.com/opinion/columnists/douglas-todd-pedophilia-and-how-what-we-dont-know-about-it-further-hurts-us" target="_self" rel="bookmark" title="">Douglas Todd: Pedophilia sets off alarms. Here are the facts</a></h4>			  </header>
+
+				
+		  </article>
+					 </li>
+			<div class="clearfix rowspacer"></div>
+			<li class="			">
+	   <article class="post post-excerpt hentry track_event" data-event-tracking="Sidebar Outfit| 5| 2 Thumbs+2 Thumbs| 0| 3| cax| Staff Blogs&quot; "  >
+		<figure class="thumbnail ">
+			<a id="link-397322" href="http://vancouversun.com/news/staff-blogs/real-scoop-abby-pd-issues-public-warning-about-gang-conflict" target="_self">
+					<img itemprop="image" src="http://wpmedia.vancouversun.com/2016/07/breaking-news-police-tape-surrounds-a-crime-scene-in-burnab.jpeg?quality=55&#038;strip=all&#038;w=140&#038;h=105&#038;crop=1" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt="" 
+				id="img-397322"/>
+			</a>
+		</figure>
+			  <header>    
+			<h4 class="entry-title"><a href="http://vancouversun.com/news/staff-blogs/real-scoop-abby-pd-issues-public-warning-about-gang-conflict" target="_self" rel="bookmark" title="">REAL SCOOP: Abby PD issues public warning about gang conflict</a></h4>			  </header>
+
+				
+		  </article>
+					 </li>
+						<li class=" last			">
+	   <article class="post post-excerpt hentry track_event" data-event-tracking="Sidebar Outfit| 5| 2 Thumbs+2 Thumbs| 0| 4| cax| Staff Blogs&quot; "  >
+		<figure class="thumbnail ">
+			<a id="link-546166" href="http://vancouversun.com/life/homes/gardening/steve-whysall-home-and-garden-show-like-a-dear-old-friend" target="_self">
+					<img itemprop="image" src="http://wpmedia.vancouversun.com/2017/02/vancouver-b-c-february-22-2017-celebrated-garden-write5.jpeg?quality=55&#038;strip=all&#038;w=140&#038;h=105&#038;crop=1" 
+				class="attachment-post-thumbnail wp-post-image " 
+				alt="" 
+				id="img-546166"/>
+			</a>
+		</figure>
+			  <header>    
+			<h4 class="entry-title"><a href="http://vancouversun.com/life/homes/gardening/steve-whysall-home-and-garden-show-like-a-dear-old-friend" target="_self" rel="bookmark" title="">Steve Whysall: Home and Garden Show like a dear old friend</a></h4>			  </header>
+
+				
+		  </article>
+					 </li>
+			<div class="clearfix rowspacer"></div>
+		</ul>
+		</section>
+	</div><div id="pn_native_ad_collection-59" class="track_event-6 widget widget_pn_native_ad_collection">		<section class="rightrail-nativeadcollection"><div class="nativeadcollection"></div></section>
+		</div><div id="pn_dfpad-184"  class="track_event-7 widget widget_pn_dfpad">            <div id="gpt-bigboxmid" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_bigboxmid = googletag.
+
+			 defineSlot ("/3081/vs_news.com/news/local-news/story", [[300,250],[300,252],[300,600],[300,602]] , 'gpt-bigboxmid');  adSlots.push( gpt_bigboxmid ); gpt_bigboxmid.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "mid"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-bigboxmid"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_bigboxmid,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    </div><div id="pn_classifieds_carousel-22"  class="track_event-8 widget pn_classifieds_carousel">		
+		<div class="widget">
+		
+		<h2 class="cat-head"><span>Classified</span></h2>
+		
+		<div id="classified_slider_holder" class="pnClassifiedsCarousel clearfix">
+		
+				<div id="classified_slider" class="pnClassifiedsCarousel">
+				
+					<ul id="classified_slider">
+					
+															<li>
+								
+								<a href="http://classifieds.vancouversun.com/"><img src="https://postmediavancouversun2.files.wordpress.com/2016/03/online_classifieds-140x80.png" alt=""></a>
+								
+								<p>Buy, sell and trade smarter.</p>
+								
+								</li>
+							
+															<li>
+								
+								<a href="http://www.legacy.com/obituaries/vancouversun"><img src="https://postmediavancouversun2.files.wordpress.com/2016/03/remembering_ca-border-140x80.png" alt=""></a>
+								
+								<p>Stories, pictures and tributes to life. View and place obituaries, and more.</p>
+								
+								</li>
+							
+															<li>
+								
+								<a href="http://www.legacy.com/celebration/vancouversun"><img src="https://postmediavancouversun2.files.wordpress.com/2016/03/celebrating_com-border-140x80.png" alt=""></a>
+								
+								<p>Share the joy. Tell the world. Read and place announcements here.</p>
+								
+								</li>
+							
+															<li>
+								
+								<a href="http://www.flyercity.ca/?p=vancouversun&#038;locale=en&#038;utm_campaign=pm_nav-bar&#038;utm_source=nav-bar&#038;utm_medium=nav-bar&#038;utm_term=Vancouver%20Sun"><img src="https://postmediavancouversun2.files.wordpress.com/2016/03/flyercity_ca-border-140x80.png" alt=""></a>
+								
+								<p>The faster, fresher and greener way to shop flyers.</p>
+								
+								</li>
+							
+															<li>
+								
+								<a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home"><img src="https://postmediavancouversun2.files.wordpress.com/2016/03/workopolis-border-140x80.png" alt=""></a>
+								
+								<p>Find the job you want in your city. View and place job listings, and more.</p>
+								
+								</li>
+							
+						
+					
+					</ul>
+					
+					<div id="classified_navigation" style="float:right;">
+					
+					<a class="pnNext" href="#Next"><img src="http://s1.wp.com/wp-content/themes/vip/postmedia-plugins/classifieds-widget//images/previous.jpg?m=1412153737h" /></a>
+					
+					<a class="pnPrev" href="#Prev"><img src="http://s2.wp.com/wp-content/themes/vip/postmedia-plugins/classifieds-widget//images/next.jpg?m=1412153737h" /></a>
+					
+					</div>
+		
+				</div>
+		
+			</div>
+		</div>
+		
+		<script type="text/javascript">
+			jQuery('#classified_slider ul').cycle({ 
+				fx: "fade",
+				prev: '.pnNext',
+				next: '.pnPrev',
+				speed:  1500, 
+				timeout: 6000, 
+				pager:  null
+			});
+		</script>
+		
+		
+		</div><div id="pn_dfpad-187"  class="track_event-9 widget widget_pn_dfpad">            <div id="gpt-bigboxbot" class="pn_dfpads adslot">
+                        <script type="text/javascript">
+            
+                                        jQuery( document ).ready( function() {
+                            
+                                googletag.cmd.push(function() {
+                                    
+				var gpt_bigboxbot = googletag.
+
+			 defineSlot ("/3081/vs_news.com/news/local-news/story", [[300,250],[300,253]] , 'gpt-bigboxbot');  adSlots.push( gpt_bigboxbot ); gpt_bigboxbot.addService( googletag.pubads() ) 
+                     .setTargeting(
+                        'loc'
+                        , "bot"                     )
+
+                   
+
+            ;                                     pnJustInTime.route( 
+            { 
+                                        ad_id: '"#gpt-bigboxbot"',
+                                        pixels_away:100,
+                                        pixels_away_count:1,
+                                        mode:'down',
+                                        lazy_loading_enabled:'"on"',
+                                        refresh_enabled:'"on"',
+                                        refresh_count:5,
+                                        refresh_time:62,
+                                        block_these_ads:'"#gpt-bigboxtop, #gpt-grannybar,#gpt-skinnybar,#gpt-wallpaper, #gpt-leaderboard, #gpt-oop, #gpt-bigboxtop-mobile, #gpt-leaderboard-mobile"',
+                                        admode:'""',
+                                        ad_data:'null',
+                                        adslot: gpt_bigboxbot,
+                                        } 
+                                    );
+                                    
+                                });
+                            });
+                         </script>
+                </div>
+        
+
+    </div></aside>
+
+<div id="modal-share" class="modal">
+	<div class="modal-wrap">
+		<button class="modal-close" type="button" title="Close (Esc)">×</button>
+		<header class="modal-header">
+			<span class="share">Share</span>
+			<h2 class="modal-title">Trump Tower developer sues Vancouver construction company for alleged shoddy work and bad management</h2>
+		</header>
+		<!-- / modal-header -->
+		<div class="modal-content">
+			<div class="copy-wrap">
+				<input class="url" value="" />
+			</div>
+			<ul class="share-icons">
+				<li>
+							<a href="mailto:?subject=Vancouver%20Sun%3A%20Trump%20Tower%20developer%20sues%20Vancouver%20construction%20company%20for%20alleged%20shoddy%20work%20and%20bad%20management&amp;body=I%20wanted%20to%20share%20a%20story%20with%20you%20from%20Vancouver%20Sun%3A%0A%0ATrump%20Tower%20developer%20sues%20Vancouver%20construction%20company%20for%20alleged%20shoddy%20work%20and%20bad%20management%0AThe%20developer%20of%20Trump%20International%20Tower%20and%20Hotel%20is%20suing%20a%20local%20construction%20company%2C%20claiming%20that%20shoddy%20work%20and%20poor%20management%20of%20trade%20contractors%20delayed%20the%20high-profile%20project.%0Ahttp%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%0A" class="share-icon email">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="plane-email" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#EAC200" d="M4.369 36.084c0 0 13.3 7.4 14.5 8.032c-0.038 1.337-0.438 17.029-0.438 17 s13.22-10.036 14.397-10.928c1.267 0.6 10.7 5.3 10.7 5.317l22.652-45.29L4.369 36.084z M21.147 54.3 c0.097-3.491 0.247-9.11 0.296-11.014l32.368-23.026L26.305 43.8"/>
+</svg>
+<![endif]-->
+
+		Email					</a>
+				</li>
+				<li>
+					<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%2F&#038;text=Trump+Tower+developer+sues+Vancouver+construction+company+for+alleged+shoddy+work+and+bad+management" target="_blank" class="share-icon tw">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="twitter-bird" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#2CAAE1" d="M71.873 13.278c-2.643 1.174-5.491 1.966-8.469 2.318c3.041-1.82 5.382-4.713 6.489-8.157 c-2.854 1.686-6.01 2.915-9.372 3.578c-2.69-2.863-6.526-4.659-10.765-4.659c-8.142 0-14.751 6.604-14.751 14.7 c0 1.2 0.1 2.3 0.4 3.362C23.141 23.9 12.3 18 5 9.058c-1.272 2.175-1.995 4.711-1.995 7.4 c0 5.1 2.2 9.6 6.1 12.279C6.705 28.7 2 28 2 26.899c0 0.1 0 0.1 0 0.189c0 7.1 5.5 13.1 12.3 14.5 c-1.247 0.338-2.324 0.52-3.661 0.52c-0.958 0-1.772-0.097-2.673-0.266c1.88 5.9 7.4 10.1 13.8 10.2 c-5.043 3.952-11.372 6.316-18.278 6.316c-1.198 0-2.349-0.078-3.503-0.215c6.527 4.2 14.3 6.6 22.6 6.6 c27.109 0 41.952-22.469 41.952-41.957c0-0.639-0.016-1.275-0.043-1.908C67.392 18.8 69.9 16.2 71.9 13.278z"/>
+</svg>
+<![endif]-->
+
+						Twitter
+					</a>
+				</li>
+				<li>
+					<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%2F&#038;t=Trump+Tower+developer+sues+Vancouver+construction+company+for+alleged+shoddy+work+and+bad+management" target="_blank" class="share-icon fb">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="facebook-f" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#3C5A99" d="M53.811 13.983H43.696c-0.667 0-1.26 0.356-1.782 1.069c-0.524 0.713-0.783 1.592-0.783 2.636v7.266h12.679 v10.544H41.132v31.488H29.02V35.498H18.191V24.954H29.02v-6.127c0-4.463 1.4-8.239 4.204-11.327c2.8-3.084 6.29-4.63 10.472-4.63 h10.115V13.983z"/>
+</svg>
+<![endif]-->
+
+						Facebook
+					</a>
+				</li>
+				<li>
+					<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%2F&#038;media=http%3A%2F%2Fwpmedia.vancouversun.com%2F2017%2F01%2Ftower-the-still-under-construction-trump-international-hotel.jpeg%3Fquality%3D55%26strip%3Dall%26w%3D640&#038;description=Trump+Tower+developer+sues+Vancouver+construction+company+for+alleged+shoddy+work+and+bad+management" target="_blank" class="share-icon pin">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="pinterest-p" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#C8242D" d="M30.292 46.904c-1.218 5.972-2.578 10.817-4.074 14.539c-1.496 3.718-3.743 6.681-6.739 8.9 c-0.282-3.397-0.447-6.152-0.491-8.268c-0.049-2.111 0.209-4.636 0.771-7.578c0.562-2.938 1.073-5.327 1.545-7.166 c0.467-1.835 1.073-4.11 1.827-6.819c0.747-2.709 1.309-4.983 1.683-6.822c-1.123-2.387-1.567-5.05-1.334-7.992 c0.233-2.937 1.358-5.372 3.372-7.301c2.014-1.93 4.33-2.389 6.953-1.379c1.871 0.7 2.9 2.1 3.1 4.1 c0.185 1.976-0.12 4.159-0.916 6.545c-0.798 2.391-1.545 4.754-2.245 7.096c-0.705 2.345-0.798 4.411-0.282 6.2 c0.513 1.8 2 2.9 4.4 3.374c3.181 0.6 6.015-0.228 8.495-2.616s4.212-5.396 5.197-9.026 c0.982-3.627 1.238-7.372 0.774-11.229c-0.469-3.86-1.734-6.798-3.792-8.82c-2.903-2.941-6.439-4.549-10.604-4.824 c-4.168-0.276-7.984 0.485-11.447 2.275c-3.465 1.79-6.275 4.478-8.428 8.061c-2.154 3.583-2.903 7.489-2.245 11.7 c0.187 1 0.7 2.2 1.5 3.583c0.842 1.4 1.3 2.5 1.5 3.238c0.14 0.781-0.26 2.319-1.198 4.6 c-6.832-1.559-10.109-6.841-9.829-15.844c0.187-6.339 2.643-11.712 7.373-16.123c4.728-4.409 10.184-6.979 16.361-7.715 c7.679-0.828 14.5 0.5 20.4 3.926c5.897 3.4 9.3 8.5 10.1 15.089c1.216 8.085-0.329 15.364-4.634 21.8 c-4.31 6.476-10.206 9.438-17.699 8.89c-1.031-0.092-2.014-0.298-2.947-0.621c-0.938-0.321-1.64-0.62-2.107-0.896 c-0.469-0.276-1.194-0.758-2.176-1.448C31.488 47.7 30.8 47.2 30.3 46.904z"/>
+</svg>
+<![endif]-->
+
+						Pinterest
+					</a>
+				</li>
+				<li>
+					<a href="https://plus.google.com/share?url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%2F" target="_blank" class="share-icon google">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="google-plus" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#DD4B38" d="M11.605 21.71c0-2.327 0.5-4.373 1.504-6.139c1.002-1.765 2.124-3.07 3.371-3.911 c1.243-0.843 2.626-1.524 4.152-2.047c1.526-0.523 2.648-0.823 3.371-0.903c0.723-0.079 1.243-0.12 1.564-0.12h13.844v0.24 c0 0.886-1.564 1.606-4.694 2.167c-1.123 0-1.887 0.121-2.287 0.362c1.604 0.8 2.7 1.9 3.2 3.4 c0.562 1.4 0.8 3.4 0.8 5.779c0 4.093-1.367 7.263-4.094 9.508c-1.524 1.529-2.287 2.61-2.287 3.3 c0 0.7 1 2 3 3.851c4.174 3.6 6.3 7.2 6.3 10.715c0 5.619-2.329 9.511-6.981 11.7 c-2.73 1.364-5.738 2.046-9.029 2.046c-0.078 0-0.161 0-0.239 0l-0.243-0.12c-0.078 0.08-0.161 0.12-0.239 0.1 c-0.964 0-2.048-0.1-3.253-0.3c-1.201-0.198-2.709-0.621-4.514-1.263c-1.805-0.642-3.291-1.788-4.455-3.433 c-1.163-1.644-1.743-3.71-1.743-6.2c0-2.406 0.641-4.432 1.926-6.078c1.283-1.645 2.948-2.788 4.997-3.43 c2.044-0.642 3.809-1.083 5.295-1.325c1.484-0.241 2.907-0.361 4.273-0.361h0.122c-0.644-0.882-1.126-1.824-1.446-2.829 c-0.323-1.002-0.482-1.785-0.482-2.348l0.12-0.841H22.68c-2.572 0-4.776-0.602-6.622-1.808 C13.087 29.6 11.6 26.4 11.6 21.71z M31.649 54.212c1.641-1.446 2.386-3.21 2.227-5.297 c-0.164-2.086-1.024-3.772-2.59-5.056c-1.564-1.284-3.632-1.927-6.198-1.927h-0.962c-2.572 0.081-4.859 1.006-6.863 2.8 c-1.847 1.686-2.69 3.571-2.528 5.656c0.159 2.1 1.2 3.7 3.2 4.818c1.964 1.1 4.4 1.6 7.2 1.4 C27.814 56.5 30 55.7 31.6 54.212z M30.264 18.82c-1.205-4.332-3.652-6.501-7.344-6.501c-0.482 0-0.883 0.042-1.203 0.1 c-1.608 0.482-2.769 1.728-3.49 3.732c-0.644 2.006-0.683 4.133-0.122 6.378c0.56 2.1 1.5 3.8 2.8 5.1 c1.325 1.3 2.7 2 4.3 1.986c0.482 0 0.843-0.04 1.086-0.12c1.685-0.482 2.948-1.786 3.791-3.913 C30.924 23.5 31 21.2 30.3 18.82z M53.617 29.293h9.029v5.658h-9.029v9.028h-5.658v-9.028H38.93v-5.658h9.029v-9.029 h5.658V29.293z"/>
+</svg>
+<![endif]-->
+
+						Google+
+					</a>
+				</li>
+				<li>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fvancouversun.com%2Fnews%2Flocal-news%2Ftrump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management%2F&#038;title=Trump+Tower+developer+sues+Vancouver+construction+company+for+alleged+shoddy+work+and+bad+management&#038;summary=The+developer+of+Trump+International+Tower+and+Hotel+is+suing+a+local+construction+company%2C+claiming+that+shoddy+work+and+poor+management+of+trade+contractors+delayed+the+high-profile+project." target="_blank" class="share-icon lin">
+						<!--[if !lt IE 9]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 72 70" enable-background="new 0 0 72 70" xml:space="preserve">
+<path fill="#1176A9" d="M19.023 10.817c0 1.85-0.672 3.42-2.01 4.714c-1.341 1.296-3.076 1.94-5.199 1.9 c-2.034 0-3.699-0.644-4.99-1.94c-1.296-1.294-1.943-2.865-1.943-4.714c0-1.941 0.648-3.535 1.943-4.783 c1.291-1.249 2.999-1.873 5.129-1.873c2.123 0 3.8 0.6 5.1 1.873C18.26 7.3 18.9 8.9 19 10.817z M5.297 65.58V22.74 h13.308V65.58H5.297z M26.508 36.465c0-3.973-0.094-8.548-0.276-13.724h11.506l0.693 5.961h0.276 c2.773-4.621 7.164-6.931 13.171-6.931c4.621 0 8.3 1.5 11.2 4.645c2.817 3.1 4.2 7.7 4.2 13.794V65.58H53.959V41.871 c0-6.19-2.267-9.287-6.794-9.287c-3.237 0-5.499 1.663-6.792 4.99c-0.278 0.555-0.415 1.665-0.415 3.326V65.58h-13.45V36.465z"/>
+</svg>
+<![endif]-->
+
+						Linkedin
+					</a>
+				</li>
+			</ul>
+			<!-- / share-social -->
+		</div>
+		<!-- / modal-content -->
+	</div>
+	<!-- / modal-wrap -->
+	<div class="bg-modal"></div>
+</div>
+<!-- / modal-share -->
+
+		</div>
+		<!-- / container -->
+	</div>
+	<!-- / main -->
+
+
+	</div><!-- #content -->
+
+	<footer itemscope itemtype="http://schema.org/WPFooter" class="l-footer">
+		<div class="top-footer">
+			<div class="l-constrained container track_event" data-event-tracking="Footer - Categories">
+				<nav id="footer-nav" class="footer-nav"><ul id="menu-primary-nav-1" class=""><li class="col menu-item-108 news menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children current-menu-ancestor current-post-ancestor menu-item-has-children"><h2 class="head"><a href="http://vancouversun.com/category/news">News</a></h2>
+<ul class="subnav">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-113"><a href="http://vancouversun.com/category/news">All News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-110"><a href="http://vancouversun.com/category/news/local-news">Local News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-124"><a href="http://vancouversun.com/category/opinion">Opinion</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193917"><a href="http://vancouversun.com/category/news/politics">Politics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111"><a href="http://vancouversun.com/category/news/national">National</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="http://vancouversun.com/category/news/crime">Crime</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112"><a href="http://vancouversun.com/category/news/world">World</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263809"><a href="http://vancouversun.com/tag/education">Education</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445373"><a href="http://vancouversun.com/weather">Weather</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193918"><a href="http://vancouversun.com/category/news/staff-blogs">Staff Blogs</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193919"><a href="http://vancouversun.com/category/news/community-blogs">Community Blogs</a></li>
+</ul>
+</li>
+<li class="col menu-item-154 business menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-has-children"><h2 class="head"><a href="http://vancouversun.com/category/business">Business</a></h2>
+<ul class="subnav">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-155"><a href="http://vancouversun.com/category/business">All Business</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-156"><a href="http://vancouversun.com/category/business/local-business">Local Business</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="http://vancouversun.com/category/business/energy">Energy</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158"><a href="http://vancouversun.com/category/business/mortgages">Mortgages</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193920"><a href="http://vancouversun.com/category/business/real-estate">Real Estate</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-159"><a href="http://vancouversun.com/category/business/commercial-real-estate">Commercial Real Estate</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444310"><a href="http://vancouversun.com/tag/economy-next">Economy Next</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-160"><a href="http://vancouversun.com/category/technology">Technology</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218693"><a href="http://vancouversun.com/tag/retail">Retail</a></li>
+</ul>
+</li>
+<li class="col menu-item-129 sports menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children"><h2 class="head"><a href="http://vancouversun.com/category/sports">Sports</a></h2>
+<ul class="subnav">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"><a href="http://vancouversun.com/category/sports">All Sports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-131"><a href="http://vancouversun.com/category/sports/hockey">Hockey</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-135"><a href="http://vancouversun.com/category/sports/football">Football</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-140"><a href="http://vancouversun.com/category/sports/soccer">Soccer</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="http://vancouversun.com/category/sports/baseball">Baseball</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-146"><a href="http://vancouversun.com/category/sports/basketball">Basketball</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145"><a href="http://vancouversun.com/category/sports/golf">Golf</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-193921"><a href="http://vancouversun.com/category/sports/mma">MMA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="http://vancouversun.com/category/sports/curling">Curling</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153"><a href="http://vancouversun.com/category/sports/tennis">Tennis</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="http://vancouversun.com/category/sports/auto-racing">Auto Racing</a></li>
+</ul>
+</li>
+<li class="col menu-item-165 entertainment menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children"><h2 class="head"><a href="http://vancouversun.com/category/entertainment">Arts &amp; Life</a></h2>
+<ul class="subnav">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="http://vancouversun.com/category/entertainment">All Arts &amp; Life</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-167"><a href="http://vancouversun.com/category/entertainment/local-arts">Local Arts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-340506"><a href="http://vancouversun.com/category/entertainment">Entertainment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-185"><a href="http://vancouversun.com/category/life/food">Food</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children menu-item-189"><a href="http://vancouversun.com/category/health">Health</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198"><a href="http://vancouversun.com/category/life/fashion-beauty">Fashion &amp; Beauty</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-200"><a href="http://vancouversun.com/category/life/parenting">Parenting</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201"><a href="http://vancouversun.com/category/life/relationships">Relationships</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229156"><a href="http://www.vancouversun.com/life/diversions/index.html">Puzzles &amp; Comics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-199"><a href="http://vancouversun.com/category/life/royals">Royals</a></li>
+</ul>
+</li>
+<li class="col menu-item-177 homes menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-children"><h2 class="head"><a href="http://vancouversun.com/category/life/homes">Homes</a></h2>
+<ul class="subnav">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178"><a href="http://vancouversun.com/category/life/homes">All Homes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181"><a href="http://vancouversun.com/category/life/homes/buying-selling">Buying &amp; Selling</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179"><a href="http://vancouversun.com/category/life/homes/condos">Condos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-183"><a href="http://vancouversun.com/category/life/homes/decorating">Decorating</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180"><a href="http://vancouversun.com/category/life/homes/gardening">Gardening</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182"><a href="http://vancouversun.com/category/life/homes/renovating">Renovating</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-184"><a href="http://vancouversun.com/category/life/homes/vacation-homes">Vacation Homes</a></li>
+</ul>
+</li>
+<li class="col menu-item-202 travel menu-item menu-item-type-taxonomy menu-item-object-category"><h2 class="head"><a href="http://vancouversun.com/category/travel">Travel</a></h2></li>
+</ul></nav>				<!-- / navigation -->
+			</div>
+			<!-- / l-constrained -->
+		</div>
+		<!-- / top-footer -->
+		<div class="bottom-footer">
+			<div class="l-constrained container track_event" data-event-tracking="Footer - Info">
+				<div class="col footer-info">
+					<a href="http://www.postmedia.com" class="postmedia" title="Postmedia Network Inc."><img src="http://s0.wp.com/wp-content/themes/vip/postmedia-theme-broadsheet/images/common/logo-postmedia.png?m=1483630886h" alt="Postmedia Logo" /></a>
+					<p class="copy">&copy; <span itemprop="copyrightYear">2017</span> <span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid=" http://www.postmedia.com"><span itemprop="name">Postmedia Network Inc.</span></span> All rights reserved.</p>
+					<p class="restrictions">Unauthorized distribution, transmission or republication strictly prohibited.</p>
+					<p>Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+				</div>
+
+				<ul id="menu-footer" class="footer-links"><li class="col menu-item-221 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><h2 class="head">Classifieds</h2>
+<ul class="subnav">
+	<li id="menu-item-223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223"><a href="http://www.driving.ca/">Driving</a></li>
+	<li id="menu-item-226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-226"><a href="http://www.legacy.com/obituaries/vancouversun/">Obits</a></li>
+	<li id="menu-item-209120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209120"><a href="http://www.legacy.com/celebration/vancouversun/">Announcements</a></li>
+	<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="http://www.flyercity.ca/?p=vancouversun&#038;locale=en">FlyerCity</a></li>
+	<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="http://shopping.vancouversun.com/ROP/Categories.aspx">Shopping</a></li>
+	<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="http://www.workopolis.com/jobsearch/whitelabel/vancouversun/home">Careers</a></li>
+	<li id="menu-item-225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225"><a href="http://classifieds.vancouversun.com/">Browse Listings</a></li>
+	<li id="menu-item-227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227"><a href="http://vancouversunandprovince.adperfect.com/?pref=skinvansun">Place a Classifieds Ad</a></li>
+</ul>
+</li>
+<li class="col menu-item-229 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><h2 class="head">Legal</h2>
+<ul class="subnav">
+	<li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="http://www.postmedia.com/privacy-statement/">Privacy</a></li>
+	<li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a href="http://www.canada.com/aboutus/termsofservice.html">Terms</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-232"><a href="http://www.canada.com/aboutus/copyright.html">Copyright &amp; Permissions</a></li>
+</ul>
+</li>
+<li class="col menu-item-233 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><h2 class="head">Services</h2>
+<ul class="subnav">
+	<li id="menu-item-234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234"><a href="http://www.postmediaadvertising.com/audience/brand/vancouver-sun/">Advertise With Us</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-235"><a href="/subscription">Subscribe</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><a href="/subscription/my-subscription">My Subscription</a></li>
+	<li id="menu-item-489717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489717"><a href="http://vancouversun.com/edit-profile">Edit Profile</a></li>
+	<li id="menu-item-237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="/contact">Contact Us</a></li>
+	<li id="menu-item-238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="http://epaper.vancouversun.com/epaper">ePaper</a></li>
+	<li id="menu-item-239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239"><a href="/subscription">Digital Access</a></li>
+	<li id="menu-item-324579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324579"><a href="#managenewsletters">Manage Newsletters</a></li>
+	<li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="http://www.vancouversun.com/contests/index.html">Contests</a></li>
+</ul>
+</li>
+<li class="col menu-item-242 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><h2 class="head">Properties</h2>
+<ul class="subnav">
+	<li id="menu-item-243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a href="http://calgaryherald.com/">Calgary Herald</a></li>
+	<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a href="http://www.canada.com/">Canada.com</a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245"><a href="http://edmontonjournal.com/">Edmonton Journal</a></li>
+	<li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-246"><a href="http://montrealgazette.com">Montreal Gazette</a></li>
+	<li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a href="http://nationalpost.com/">National Post</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-248"><a href="http://ottawacitizen.com/">Ottawa Citizen</a></li>
+	<li id="menu-item-249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249"><a href="http://leaderpost.com/">Regina Leader-Post</a></li>
+	<li id="menu-item-250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-250"><a href="http://thestarphoenix.com/">Saskatoon StarPhoenix</a></li>
+	<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a href="http://theprovince.com/">The Province (Vancouver)</a></li>
+	<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a href="http://windsorstar.com">Windsor Star</a></li>
+</ul>
+</li>
+</ul>			</div>
+			<!-- / l-constrained -->
+		</div>
+		<!-- / bottom-footer -->
+	</footer>
+
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+<input type="hidden" id="dfp_weather_field_id" name="dfp_weather_field_id" value="5f55bf2072" /><input type="hidden" name="_wp_http_referer" value="/news/local-news/trump-tower-developer-sues-vancouver-construction-company-for-alleged-shoddy-work-and-bad-management" />			<script>
+				$ = jQuery.noConflict();
+
+				// dynamically load MG2 script to improve initial page load
+				function openNewsletterModal () {
+					var newsletterScript = document.getElementById('scriptMg2Widget');
+					if ( typeof newsletterScript.src == undefined || newsletterScript.src == '' ) {
+						newsletterScript.src = "http:\/\/d24ftjcfgttqm3.cloudfront.net\/dist\/1.0\/MG2Widget-newsletterwidget-nojquery.min.js";
+						newsletterScript.addEventListener( 'load', function () {
+				            mg2WidgetAPI.openNewsletter( { defaultCategoryId: "11" } );
+				        });
+					} else {
+						// script is already loaded
+						mg2WidgetAPI.openNewsletter( { defaultCategoryId: "11" } );
+					}
+			    }
+			</script>
+			<script id="scriptMg2Widget"></script>
+			<div id="mg2Widget-newsletter-container"></div>
+							<script>
+					jQuery(document).on('click', ".footer-links .subnav a[href='#managenewsletters'], #editProfile .capture_grid_block .capture_deactivate_section a[href='#managenewsletters']" , function() {
+						openNewsletterModal()
+					});
+				</script>
+						<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201708y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-827f8837886774a88fde720711c832b4">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/postmediavancouversun2.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/postmediavancouversun2.wordpress.com\/wp-login.php?action=logout&_wpnonce=bbfe199540","homeURL":"http:\/\/vancouversun.com\/","postID":"525311","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript'>
+janrain.settings.borderColor = '#ffffff';
+janrain.settings.fontFamily = 'Helvetica, Lucida Grande, Verdana, sans-serif';
+janrain.settings.width = 300;
+janrain.settings.actionText = ' ';
+janrain.settings.capture.modalCloseHtml = ' ';
+janrain.settings.capture.noModalBorderInlineCss = true;
+
+janrain.settings.capture.flowName = 'standard';
+</script>
+<!--
+============================================================================
+    SIGNIN SCREENS:
+    The following screens are part of the sign in user workflow. For a
+    complete out-of-the-box sign in experience, these screens must be
+    included on the page where you are implementing sign in and registration.
+============================================================================
+-->
+
+<!-- signIn:
+This is the starting point for sign in and registration. This screen is
+rendered by default. In order to change this behavior, the Flow must be
+edited.
+-->
+<div style="display:none;" id="signIn">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign Up / Sign In</h1>
+		</div>
+		<div class="capture_signin">
+			<h2>With your existing account from:</h2>
+			{* loginWidget *} <br />
+		</div>
+		<div class="capture_backgroundColor">
+			<div class="capture_signin">
+				<h2>or with your <span class="marketname">Market</span> account:</h2>
+				{* #signInForm *}
+					{* signInEmailAddress *}
+					{* currentPassword *}
+					<div class="capture_form_item">
+						<a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+					</div>
+					<div>
+						<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+						<a href="#" id="capture_signIn_createAccountButton" data-capturescreen="traditionalRegistration" class="capture_btn_half capture_createAccountButton capture_btn capture_primary">Create Account</a>
+					</div>
+				{* /signInForm *}
+			</div>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- returnSocial:
+This is the screen the user sees in place of the signIn screen if they've
+already signed in with a social account on this site. Rendering of this
+screen is defined in the Flow only when the 'janrainLastAuthMethod' cookie
+is set to'socialSignin'.
+-->
+<div style="display:none;" id="returnSocial">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to your account</h1>
+		</div>
+		<div class="capture_signin">
+			<h2>Welcome back, {* welcomeName *}!</h2>
+			{* loginWidget *}
+			<div class="capture_centerText switchLink">Not {* welcomeName *}? <a href="#" data-cancelcapturereturnexperience="true">Switch Account</a></div>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- returnTraditional:
+This is the screen the user sees in place of the signIn screen if they've
+already signed in with a traditional account on this site. Rendering of this
+screen is defined in the Flow only when the 'janrainLastAuthMethod' cookie
+is set to'traditionalSignin'.
+-->
+<div style="display:none;" id="returnTraditional">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to your account</h1>
+		</div>
+		<h2 class="capture_centerText"><span id="traditionalWelcomeName">Welcome Back, {* welcomeName *}!</span></h2>
+		<div class="capture_backgroundColor">
+			{* #signInForm *}
+				{* signInEmailAddress *}
+				{* currentPassword *}
+				<div class="capture_form_item capture_rightText">
+					<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+				</div>
+			{* /signInForm *}
+			<div class="capture_centerText switchLink">Not {* welcomeName *}? <a href="#" data-cancelcapturereturnexperience="true">Switch Account</a></div>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- accountDeactivated:
+    This screen is rendered if the user's account is deactivated. Screen
+    rendering is handled in janrain-init.js.
+-->
+<div style="display:none;" id="accountDeactivated">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Deactivated</h1>
+		</div>
+		<div class="content_wrapper">
+			<p class="message">Your account has been deactivated.</p>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<div style="display:none;" id="reactivateAccount"> 
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Reactivation Failed</h1>
+		</div>
+		<p class="message">Sorry, we could not verify that email address.</p>  
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>    
+<div style="display: none;" id="reactivateAccountSuccess">  
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Account Activated</h1>
+		</div>		
+		<p class="message">Your account has been reactivated.
+			<div class="capture_rightText">
+				<a href="/" class="capture_btn capture_primary">Sign in</a>
+			</div>
+		</p> 
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+
+<!-- emailVerificationRequired:
+    This screen is rendered if you have enabled the requirement for verified emails and the user's email has not yet been verified. This screen may appear immediately after registration and also on subsequent logins until the email is verified. Screen rendering is handled in the postLoginScreens Capture settings per API client. A value of "emailVerificationRequired" will enable the requirement of having a verified email. A value of "false" will disable the requirement of having a verified email.
+-->
+<div style="display:none;" id="emailVerificationRequired">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Email Verification Required</h1>
+		</div>
+		<p class="message">You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email.</p>
+
+		{* #resendVerificationForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Submit" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /resendVerificationForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+
+<!--
+============================================================================
+    REGISTRATION SCREENS:
+    The following screens are part of the registration user workflow. For a
+    complete out-of-the-box registration experience, these screens must be
+    included on the page where you are implementing sign in and
+    registration.
+============================================================================
+-->
+
+<!-- socialRegistration:
+    When a user clicks an IDP and does not already have an account in your
+    capture application, this screen is rendered. This behavior is defined
+    in the Flow.
+-->
+<div style="display:none;" id="socialRegistration">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+			<div class="capture_header">
+				<h1>Almost Done!</h1>
+			</div>
+			<p class="message">Please confirm your details below.</p>
+			{* #socialRegistrationForm *}
+				<!-- The following fields are required by default and must be included in the socialRegistrationForm. In order to change any of these fields to optional, the Flow must be edited. -->
+				{* firstName *}
+				{* lastName *}
+				{* emailAddress *}
+				{* displayName *}
+				<div class="border-top-form">
+					<p class="message">Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.</p>
+					<div class="full-width-row"><span class="text_label">Birthdate</span>{* birthdate *}</div>
+					<div class="full-width-row"><span class="text_label">Gender</span>{* gender *}</div>
+				</div>
+				<div class="bordered-form">
+					<p class="message"><strong>Attention Print Newspaper Subscribers</strong><br />For verification of Print Subscriber offers (e.g. epaper, Digital Access, Subscriber Rewards), please input your Print Newspaper subscription phone number and postal code.</p>
+					{* phone *}
+					{* addressPostalCode *}
+				</div>
+				<!-- The following fields are optional and may be uncommented if you wish to collect any of these fields via the socialRegistrationForm. In order to change any of these fields to required, the Flow must be edited. 
+				{* middleName *}
+				{* gender *}
+				{* birthdate *}
+				{* phone *}
+				{* mobile *}
+				{* addressStreetAddress1 *}
+				{* addressStreetAddress2 *}
+				{* addressCity *}
+				{* addressPostalCode *}
+				{* addressState *}
+				{* addressCountry *}
+				{* optInRegistration *}
+				-->
+				<p class="terms_text">By clicking "Create Account", I hearby grant permission to <span class="marketname">Market</span> to use my account information to create my account.<p> 
+				<p class="terms_text">I also accept and agree to be bound by Postmedia's <a href="http://www.canada.com/aboutus/termsofservice.html" target="_blank">Terms and Conditions</a> with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's <a href="http://www.postmediaadvertising.com/privacy-statement/" target="_blank">Privacy Policy</a>.</p>
+				<div class="capture_rightText">
+					{* backButton *}
+					<input value="Create Account" type="submit" class="capture_btn capture_primary">
+				</div>
+			{* /socialRegistrationForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- traditionalRegistration:
+    When a user clicks the 'Create Account' button this screen is rendered.
+-->
+<div style="display:none;" id="traditionalRegistration">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Almost Done!</h1>
+		</div>
+		<p class="message">Please confirm your details below. <br /> Already have an account? <a id="capture_traditionalRegistration_navSignIn" href="#" data-capturescreen="signIn">Sign In.</a></p>
+		{* #registrationForm *}		
+			<!-- The following fields are required by default and must be included in the registrationForm. In order to change any of these fields to optional, the Flow must be edited. -->
+			{* firstName *}
+			{* lastName *}
+			{* emailAddress *}
+			{* displayName *}
+			{* newPassword *}
+			{* newPasswordConfirm *}
+			<div class="border-top-form">
+				<p class="message">Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.</p>
+				<div class="full-width-row"><span class="text_label">Birthdate</span>{* birthdate *}</div>
+				<div class="full-width-row"><span class="text_label">Gender</span>{* gender *}</div>
+			</div>
+			<div class="bordered-form">
+				<p class="message"><strong>Attention Print Newspaper Subscribers</strong><br />For verification of Print Subscriber offers (e.g. epaper, Digital Access, Subscriber Rewards), please input your Print Newspaper subscription phone number and postal code.</p>
+				{* phone *}
+				{* addressPostalCode *}
+			</div>
+			<!-- The following fields are optional and may be uncommented if you wish to collect any of these fields via the registrationForm. In order to change any of these fields to required, the Flow must be edited. 
+			{* middleName *}
+			{* gender *}
+			{* birthdate *}
+			{* phone *}
+			{* mobile *}
+			{* addressStreetAddress1 *}
+			{* addressStreetAddress2 *}
+			{* addressCity *}
+			{* addressPostalCode *}
+			{* addressState *}
+			{* addressCountry *}
+			{* optInRegistration *}
+			-->
+			<p class="terms_text">By clicking "Create Account", I hearby grant permission to Postmedia to use my account information to create my account.<p> 
+			<p class="terms_text">I also accept and agree to be bound by Postmedia's <a href="http://www.canada.com/aboutus/termsofservice.html" target="_blank">Terms and Conditions</a> with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's <a href="http://www.postmediaadvertising.com/privacy-statement/" target="_blank">Privacy Policy</a>.</p>
+			<div class="capture_rightText">
+				{* backButton *}
+				<input value="Create Account" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /registrationForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- emailVerificationNotification:
+    This screen is rendered after a user has registered. In the case of
+    traditional registration, this screen is always rendered after the user
+    completes registration on the traditionalRegistration screen. In the
+    case of social registration, this screen is only rendered if the data
+    returned from the IDP does not contain a verified email address.
+    Twitter is an example of an IDP that does not return a verified email.
+-->
+<div style="display:none;" id="emailVerificationNotification">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Verfiy your email</h1>
+		</div>
+		<p class="message">We have sent you a confirmation email to {* emailAddressData *}. Please check your inbox and follow the instructions to confirm your email address.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close();" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!--
+============================================================================
+    FORGOT PASSWORD SCREENS:
+    The following screens are part of the forgot password user workflow. For
+    a complete out-of-the-box registration experience, these screens must be
+    included on the page where you are implementing forgot password
+    functionality.
+============================================================================
+-->
+
+<!-- forgotPassword:
+    Entry point into the forgot password user workflow. This screen is
+    rendered when the user clicks on the 'Forgot your password?' link on the
+    signIn screen.
+-->
+<div style="display:none;" id="forgotPassword">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create a new password</h1>
+		</div>
+		<h2>Follow these simple steps to create a new password.</h2>
+		<p>1. Enter your email address below<br />
+		2. Wait for the instructions to arrive in your inbox<br />
+		3. Follow the instructions to update your password</p>
+		{* #forgotPasswordForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				{* backButton *}
+				<input value="Send" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /forgotPasswordForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- forgotPasswordSuccess:
+    When the user submits an email address on the forgotPassword screen,
+    this screen is rendered.
+-->
+<div style="display:none;" id="forgotPasswordSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create a new password</h1>
+		</div>
+		<p class="message">We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!--
+============================================================================
+    MERGE ACCOUNT SCREENS:
+    The following screens are part of the account merging user workflow. For
+    a complete out-of-the-box account merging experience, these screens must
+    be included on the page where you are implementing account merging
+    functionality.
+============================================================================
+-->
+
+<!-- mergeAccounts:
+    This screen is rendered if the user created their account through
+    traditional registration and then tries to sign in with an IDP that
+    shares the same email address that exists in their user record.
+
+    NOTE! You will notice special tags you see on this screen. These tags,
+    such as '{| current_displayName |}' are rendered by the Janrain Capture
+    Widget in a way similar to JTL tags, but are more limited. We currently
+    only support modifying the text in this screen through the Flow. You
+    can, however, add your own markup and text throughout this screen as you
+    see fit.
+-->
+<div style="display:none;" id="mergeAccounts">
+    {* mergeAccounts {"custom": true} *}
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div id="capture_mergeAccounts_mergeAccounts_mergeOptionsContainer" class="capture_mergeAccounts_mergeOptionsContainer">
+			<h1>Merge Your Accounts</h1>
+			<div class="capture_header">
+				<div class="capture_icon_col">
+					{| rendered_current_photo |}
+				</div>
+				<div class="capture_displayName_col">
+					{| current_displayName |}<br />
+					{| current_emailAddress |}
+				</div>
+				<span class="capture_mergeProvider janrain-provider-icon-24 janrain-provider-icon-{| current_provider_lowerCase |}"></span>
+			</div>
+			<span class="message">{| foundExistingAccountText |} <b>{| current_emailAddress |}</b>.
+				<div class="capture_hover">
+					<div class="capture_popup_container">
+						<span class="capture_popup-arrow"></span>{| moreInfoHoverText |}<br />
+						{| existing_displayName |} - {| existing_provider |} : {| existing_siteName |} {| existing_createdDate |}
+					</div>
+					{| moreInfoText |}
+				</div>
+			</span>
+			
+			<div class="capture_dashed">
+				<div class="capture_mergeCol capture_mergeExisting_col capture_right">
+					<div class="capture_backgroundColor capture_border">
+						<span class="capture_mergeProvider janrain-provider-icon-32 janrain-provider-icon-{| existing_provider_lowerCase |} "></span>
+						<div class="capture_displayName_col">
+							{| existing_displayName |}<br />
+							<b>{| existing_provider_emailAddress |}</b>
+						</div>
+						<div class="capture_smallText">Created {| existing_createdDate |} at {| existing_siteName |}</div>
+					</div>
+				</div>
+			</div>
+			<div id="capture_mergeAccounts_form_collection_mergeAccounts_mergeRadio" class="capture_form_collection_merge_radioButtonCollection capture_form_collection capture_elementCollection capture_form_collection_mergeAccounts_mergeRadio" data-capturefield="undefined">
+				<div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_1_0" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_1_0 capture_toggled" data-capturefield="undefined">
+					<label for="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0">
+						<input id="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0" data-capturefield="undefined" data-capturecollection="true" value="1" type="radio" class="capture_mergeAccounts_mergeRadio_1_0 capture_input_radio" checked="checked" name="mergeAccounts_mergeRadio">
+							{| connectLegacyRadioText |}
+					</label>
+				</div>
+				<div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_2_1" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined">
+					<label for="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1">
+						<input id="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined" data-capturecollection="true" value="2" type="radio" class="capture_mergeAccounts_mergeRadio_2_1 capture_input_radio" name="mergeAccounts_mergeRadio">
+							{| createRadioText |} {| current_provider |}
+					</label>
+				</div>
+				<div class="capture_tip" style="display:none;">
+				</div>
+				<div class="capture_tip_validating" data-elementname="mergeAccounts_mergeRadio">Validating</div>
+				<div class="capture_tip_error" data-elementname="mergeAccounts_mergeRadio"></div>
+			</div>
+			<div class="capture_footer">
+				{| connect_button |}
+				{| create_button |}
+			</div>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- traditionalAuthenticateMerge:
+    When the user elects to merge their traditional and social account, the
+    user will see this screen. They will then enter their current sign in
+    credentials and, upon successful authorization, the accounts will be
+    merged.
+-->
+<div style="display:none;" id="traditionalAuthenticateMerge">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Sign in to complete account merge</h1>
+			<p></p>
+		</div>
+		<div class="capture_signin">
+			{* #signInForm *}
+				{* signInEmailAddress *}
+				{* currentPassword *}
+				<div class="capture_rightText">
+					{* backButton *}
+					<button class="capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button>
+				</div>
+			 {* /signInForm *}
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- =============================== verify.html =============================== -->
+<!--
+============================================================================
+    EMAIL VERIFICATION SCREENS:
+    The following screens are part of the email verification user workflow.
+    For a complete out-of-the-box email verification experience, these
+    screens must be included on page where you are implementing email
+    verification.
+============================================================================
+-->
+
+<!-- verifyEmail:
+    This is the landing screen after a user clicks on the link in the
+    verification email sent to the user when they've registered with a
+    non-verified email address.
+
+    HOW IT WORKS: The code that is generated by Capture and included in the
+    link sent in the verification email is sent to the server and, if valid,
+    the user's email will be marked as valid and the verifyEmailSuccess
+    screen will be rendered. If the code is not accepted for any reason,
+    the verifyEmail screen is shown and the user has another opportunity
+    to have the verification email sent to them.
+
+    NOTE: The links generated in the emails sent to users are based on
+    Capture settings found in Janrain's Capture Dashboard. In addition to
+    entering the URL of your email verification page, you will need to add
+    'screenToRender' as a parameter in the URL with a value of 'verifyEmail'
+    which is this screen.
+-->
+<div style="display:none;" id="verifyEmail">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Resend Verification Email</h1>
+		</div>
+		<p class="message">Sorry, we could not verify your email address. Please enter your email below, and we'll resend the instructions for email verification.</p>
+		{* #resendVerificationForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Submit" type="submit" class="capture_btn capture_primary">
+			</div>
+		 {* /resendVerificationForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- resendVerificationSuccess:
+    This screen is rendered when a user enters an email address from the
+    verifyEmail screen.
+-->
+<div style="display:none;" id="resendVerificationSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Verification Email Sent</h1>
+		</div>
+		<div class="hr"></div>
+		<p class="message">Check your email for a link to verify your email address.</p>
+		<div class="capture_rightText">
+			<a href="/" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- verifyEmailSuccess:
+    This screen is rendered if the verification code provided in the link
+    sent to the user in the verification email is accepted and the user's
+    email address has been verified.
+-->
+<div style="display:none;" id="verifyEmailSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Email Verified</h1>
+		</div>
+		<p class="message">Thank you for verifiying your email address.
+		<div class="capture_rightText">
+			<a href="/" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- =============================== forgot.html =============================== -->
+<!--
+============================================================================
+    RESET PASSWORD SCREENS:
+    The following screens are part of the password reset user workflow.
+    For a complete out-of-the-box password reset experience, these screens
+    must be included on the page where you are implementing password reset
+    functionality.
+
+    NOTE: The order in which these screens are rendered is as follows:
+    resetPasswordRequestCode
+    resetPasswordRequestCodeSuccess
+    resetPassword
+    resetPasswordSuccess
+============================================================================
+-->
+
+<!-- resetPassword:
+    This screen is rendered when the user clicks the link in provided in the
+    password reset email and the code in the link is valid.
+-->
+<div style="display:none;" id="resetPassword">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Change Password</h1>
+			<p></p>
+		</div>
+		<div class="capture_signin">
+			{* #changePasswordFormNoAuth *}
+				{* newPassword *}
+				{* newPasswordConfirm *}
+				<div class="capture_rightText">
+					<input value="Submit" type="submit" class="capture_btn capture_primary">
+				</div>
+			{* /changePasswordFormNoAuth *}
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+<!-- resetPasswordSuccess:
+    This screen is rendered when the user successfully changes their
+    password from the resetPassword screen.
+-->
+<div style="display:none;" id="resetPasswordSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Password Changed</h1>
+		</div>
+		<p class="message">Your password has been successfully updated.</p>
+		<div class="capture_rightText">
+			<a href="/" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+<!-- resetPasswordRequestCode:
+    This is the landing screen for the password reset workflow. When the
+    user clicks the link provided in the reset password email, a code is
+    supplied and is passed to Capture for verification. If the code is valid
+    the resetPassword screen is rendered immediately and the content of
+    this screen is not presented. If the code is not accepted for any reason
+    this screen is then presented, allowing the user to re-enter their
+    email address.
+-->
+<div style="display:none;" id="resetPasswordRequestCode">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create New Password</h1>
+		</div>
+		<p class="message">We didn't recognize the password reset code. Please enter your email below below, and we'll send you a new code to reset your password.</p>
+		{* #resetPasswordForm *}
+			{* signInEmailAddress *}
+			<div class="capture_rightText">
+				<input value="Send" type="submit" class="capture_btn capture_primary">
+			</div>
+		{* /resetPasswordForm *}
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<!-- resetPasswordRequestCodeSuccess:
+    This screen is rendered if the user submitted an email address on the
+    resetPasswordRequestCode screen.
+-->
+<div style="display:none;" id="resetPasswordRequestCodeSuccess">
+	<div class="modalarea">
+		<figure class="logo_image"></figure>
+		<div class="capture_header">
+			<h1>Create New Password</h1>
+		</div>
+		<p class="message">We've sent you an email with instructions to create a new password. Your existing password has not been changed.</p>
+		<div class="capture_rightText">
+			<a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a>
+		</div>
+	</div>
+	<div class="modal_footer">
+		<div class="mice-type"><span class="marketname">Market</span> is a division of Postmedia Inc.</div>
+		<div class="footer_menu">
+			<a href="http://www.postmediaadvertising.com/privacy-statement" target="_blank">Privacy</a>
+			<a class="marketfaq" href="https://contests.canada.com/theprovince/subscribe/faq/index.html" target="_blank">FAQ</a>
+		</div>
+	</div>
+</div>
+
+<script type='text/javascript'>
+jQuery('.marketname').replaceWith(postmedia_janrain[1]);
+jQuery('.marketfaq').attr('href', 'https://contests.canada.com/' + postmedia_janrain[0] + '/subscribe/faq/index.html');
+</script>
+<link rel='stylesheet' id='all-css-0-3' href='http://s1.wp.com/_static/??-eJyFzEsOgjAURuENWS8GFB0Q1lLbX1rTV3ovsH2BkYkDp19yDq1FmZwESUgcIpgWX6hklgjrtSphnnziL9EBVX7hbJhP9G93oHrWrC07QGir6AUtc4VVHLxF3U9jHC7dvb89uvbavD/Zvz4H' type='text/css' media='all' />
+<link rel='stylesheet' id='tv_listings_widget_css_external-css'  href='http://www.tvpassport.com/tvmds/leader/css/tvmds-primetime.css?ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-3' href='http://s0.wp.com/_static/??-eJyljFkOwjAMBS9EMIiW5QNxFtNaTVAWK7Zacfu6QeoF+HtvNBpY2A0lK2UF9ZRIYA4MXEQTjQFdg+5dC47iicyixBHVRPFYQ55gkH0fbR/gn2ZGnjBGqsFeKxtxP/Td8q/0PHf32/XRXfrTZwXQfkge' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var postmedia_piano = {"paywall_exempt_ie":"1","endpoint":"\/\/experience.tinypass.com\/xbuilder\/experience\/load"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJx9kN0OAUEMhV/IKCJ+LsQTSCQEt2Ondrvmz3Zm8fZmBdlYcdf0nH7tKVy9yJwNaAOEAg0y1OTBOw4GFUnhdczJcquj6VjJ6g6ZlszJv34rsMcjbBsIbDAEsjnDyqmoGxNJ63YHKBOpKUV965fcg9b6JCmsKUPfkUz83KHpnHCXiBELaZXG6tvcjvEaqpC9s0w1CjIyT2r5o/kP1PmHOnkh1RPkrdCyiZsm3ZkwcZZmMRzPppP5YDIYlQ/RY4Wh'></script>
+<script type="text/javascript" src="https://static.freeskreen.com/publisher/1565/freeskreen.min.js?ver=4.6.1-RC1-38499" async="async"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PostmediaFB = {"appID":"375057209234363"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJydjlsOwjAMwC5ECIjx+kCcpVszmtIm1RKBxOmZdoT+WrJl/DaYVJzE0RNVMvxww6bmlSIH2CCMi4ZoicgxG9bAss+2wx45G/8oQithoqQl0tKdMpZXoW59Xg9G1TewsK+VZ30ch9v1ch9O50P+Azf4aUo='></script>
+<script type='text/javascript' src='http://cdn.mediavoice.com/nativeads/script/postmedia/polarAd-2.0-prod.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1411795912h'></script>
+<script type='text/javascript' src='http://www.canada.com/js/analytics/core.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJyNj90KwjAMhV/IGsX5dyE+S7ZGzWja0mQT395NxImCeBc+yHfOgWt2TYpG0cAuJKTQc4ac1IQ8o8uhO3NUwIjhZtzok0CrkMUliWxdoXmrM3hzSTd9euHoaiwgqEZluFzqqRT2Q9qLfRp+tpkIBir2Df6yPaCrS0KvFyIbN50Ixz3eaRj6ja2OclhWu+1mX63Wi/YO9c5zKQ=='></script>
+<script type='text/javascript' src='http://api.flyertown.ca/389/ee8162b90e657cb4/flyertown_module.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/themes/vip/postmedia-theme-broadsheet/templates/snapgalleries/js/snapgalleries.js?m=1487082683h'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">s.prop47 = "0125 holborn suit";s.prop24 = "2017\/01\/24";jQuery( document ).ready( function() { void( s.t() ) } );</script><!-- LSA Measure Tracking --><script src="https://s3.amazonaws.com/script-cache/lsa_dynamic.js" async></script><!-- END LSA Measure Tracking --><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'103935566','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'103935566','v':'wpcom','tz':'-8','user_id':'0','post':'525311','subd':'postmediavancouversun2'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=103935566&v=wpcomvt&tz=-8&user_id=0&post=525311&subd=postmediavancouversun2&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/MUhXW11WSmguZHBnMVY9MCxuSkdvb2hvSCZmTltdfm9zN3RnTVgvL0UsbnwmRFUuSDc5XXhET0dzVyxJYXE0RGRPK2wtWUlJaGl0ajlCQiw2dmpKaGxydG1aZiYvNG1VLUItdzZxWEloUUUwOWtuOVt5ZG1VUDM3dnZUdCVhSmJBbGZsWit0Vk1nZHowOUY9Wm8va2UwX0IsaE9DeEd5LHBbOFhUOFE1UmhDK1Q4SDFiT3VrQXclYlVjXTg='}]);
+_stq.push([ 'clickTrackerInit', '103935566', '525311' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+			<!-- Google Analytics Code Begins-->
+			<script type="text/javascript">
+
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', "UA-24419597-9"]);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+
+			</script>
+			<!-- Google Analytics Code Ends-->
+					<!-- Comscore Code Begins -->
+			<script>
+				var _comscore = _comscore || [];
+				_comscore.push({ c1: "2", c2: "10276888" });
+
+				(function() {
+					var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+					s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+					el.parentNode.insertBefore(s, el);
+				})();
+			</script>
+
+			<noscript>
+				<img src="http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1" />
+			</noscript>
+			<!-- Comscore Code Ends -->
+					<!-- Chartbeat Code Begins -->
+			<script type="text/javascript">
+
+				var _sf_async_config={};
+				_sf_async_config.uid = 34988;
+				_sf_async_config.domain = "postmedia.com";
+				_sf_async_config.useCanonical = true;
+				_sf_async_config.sections = "vancouversun.com";
+				_sf_async_config.videoPageGroups = true;
+
+				_sf_async_config.authors = "Joanne Lee-Young";
+				( function(){
+					function loadChartbeat() {
+						window._sf_endpt=(new Date()).getTime();
+						var e = document.createElement('script');
+						e.setAttribute('language', 'javascript');
+						e.setAttribute('type', 'text/javascript');
+						e.setAttribute('src',
+							 (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+							 'js/chartbeat_video.js');
+						document.body.appendChild(e);
+					}
+					var oldonload = window.onload;
+					window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+				})();
+
+			</script>
+			<!-- Chartbeat Code Ends -->
+				<!-- Google Code for Remarketing Tag -->	
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 990309138;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+				<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>		
+		<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

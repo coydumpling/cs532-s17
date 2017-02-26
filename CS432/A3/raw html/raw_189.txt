@@ -1,0 +1,1242 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<title>Significant epilepsy gene discovery in dogs - Scienmag: Latest Science and Health News</title>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://scienmag.com/xmlrpc.php"/>
+<meta property="og:image" content="https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg"/><meta name="author" content="Scienmag">
+ 
+<link rel="canonical" href="https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Significant epilepsy gene discovery in dogs - Scienmag: Latest Science and Health News"/>
+<meta property="og:description" content="Credit: Nina Lindqvist.
+ 	 A collaborative study describes a novel myoclonic epilepsy syndrome in dogs for the first time and discovers its genetic cause at DIRAS1 gene. The affected dogs developed my.."/>
+<meta property="og:url" content="https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/"/>
+<meta property="og:site_name" content="Scienmag: Latest Science and Health News"/>
+<meta property="article:section" content="Biology"/>
+<meta property="article:published_time" content="2017-02-20T00:00:00+00:00"/>
+<meta property="article:modified_time" content="2017-02-21T16:25:17+00:00"/>
+<meta property="og:updated_time" content="2017-02-21T16:25:17+00:00"/>
+<meta property="og:image" content="https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg"/>
+<meta property="og:image:width" content="500"/>
+<meta property="og:image:height" content="400"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Credit: Nina Lindqvist.
+ 	 A collaborative study describes a novel myoclonic epilepsy syndrome in dogs for the first time and discovers its genetic cause at DIRAS1 gene. The affected dogs developed my.."/>
+<meta name="twitter:title" content="Significant epilepsy gene discovery in dogs - Scienmag: Latest Science and Health News"/>
+<meta name="twitter:site" content="@scienmag"/>
+<meta name="twitter:image" content="https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg"/>
+<meta name="twitter:creator" content="@scienmag"/>
+ 
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Scienmag: Latest Science and Health News &raquo; Feed" href="https://scienmag.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Scienmag: Latest Science and Health News &raquo; Comments Feed" href="https://scienmag.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Scienmag: Latest Science and Health News &raquo; Significant epilepsy gene discovery in dogs Comments Feed" href="https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/scienmag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='scfp-form-repeater-css-css' href='https://scienmag.com/wp-content/plugins/wcp-contact-form/agp-core/assets/repeater/css/style.css?ver=4.7.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpt-twitter-feed-css' href='https://scienmag.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.7.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpdiscuz-font-awesome-css' href='https://scienmag.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-4.6.3/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpdiscuz-frontend-css-css' href='https://scienmag.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz.css?ver=4.0.4' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://scienmag.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all'/>
+<link rel='stylesheet' id='google_font_roboto-css' href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.7.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&#038;ver=4.7.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='js_composer_front-css' href='https://scienmag.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='td-theme-css' href='https://scienmag.com/wp-content/themes/Newspaper/style.css?ver=7.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='td-theme-demo-style-css' href='https://scienmag.com/wp-content/themes/Newspaper/includes/demos/tech/demo_style.css?ver=7.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://scienmag.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.6' type='text/css' media='all'/>
+<script type='text/javascript' src='https://scienmag.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/plugins/wcp-contact-form/agp-core/assets/repeater/js/main.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/plugins/wpdiscuz/assets/third-party/cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/plugins/wpdiscuz/assets/third-party/autogrow/jquery.autogrowtextarea.min.js?ver=3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpdiscuzAjaxObj = {"url":"https:\/\/scienmag.com\/wp-admin\/admin-ajax.php","wpdiscuz_options":{"wc_hide_replies_text":"Hide Replies","wc_show_replies_text":"Show Replies","wc_msg_required_fields":"Please fill out required fields","wc_invalid_field":"Some of field value is invalid","wc_error_empty_text":"please fill out this field to comment","wc_error_url_text":"url is invalid","wc_error_email_text":"email address is invalid","wc_invalid_captcha":"Invalid Captcha Code","wc_login_to_vote":"You Must Be Logged In To Vote","wc_deny_voting_from_same_ip":"You are not allowed to vote for this comment","wc_self_vote":"You cannot vote for your comment","wc_vote_only_one_time":"You've already voted for this comment","wc_voting_error":"Voting Error","wc_held_for_moderate":"Comment awaiting moderation","wc_comment_edit_not_possible":"Sorry, this comment no longer possible to edit","wc_comment_not_updated":"Sorry, the comment was not updated","wc_comment_not_edited":"You've not made any changes","wc_new_comment_button_text":"new comment","wc_new_comments_button_text":"new comments","wc_new_reply_button_text":"new reply on your comment","wc_new_replies_button_text":"new replies on your comments","wc_msg_input_min_length":"Input is too short","wc_msg_input_max_length":"Input is too long","is_user_logged_in":false,"commentListLoadType":"0","commentListUpdateType":"0","commentListUpdateTimer":"30","liveUpdateGuests":"1","wc_comment_bg_color":"#FEFEFE","wc_reply_bg_color":"#F8F8F8","wordpress_comment_order":"asc","commentsVoteOrder":false,"wordpressThreadCommentsDepth":"5","wordpressIsPaginate":"","commentTextMaxLength":null,"storeCommenterData":100000,"isCaptchaInSession":true,"isGoodbyeCaptchaActive":false,"facebookAppID":"","version":"4.0.4","wc_post_id":1519570,"loadLastCommentId":null,"wc_captcha_show_for_guest":"1","wc_captcha_show_for_members":"0","is_email_field_required":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz.js?ver=4.0.4'></script>
+<link rel='https://api.w.org/' href='https://scienmag.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://scienmag.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://scienmag.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7.2"/>
+<link rel='shortlink' href='https://scienmag.com/?p=1519570'/>
+<link rel="alternate" type="application/json+oembed" href="https://scienmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://scienmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F&#038;format=xml"/>
+<style type='text/css'>.ai-viewport-3{display:none!important;}.ai-viewport-2{display:none!important;}.ai-viewport-1{display:inherit!important;}.ai-viewport-0{display:none!important;}@media (min-width: 768px) and (max-width: 979px) {.ai-viewport-1{display:none!important;}.ai-viewport-2{display:inherit!important;}}@media (max-width: 767px) {.ai-viewport-1{display:none!important;}.ai-viewport-3{display:inherit!important;}}</style>
+ 
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@scienmag"/>
+<meta name="twitter:url" content="https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/"/>
+<meta name="twitter:title" content="Significant epilepsy gene discovery in dogs"/>
+<meta name="twitter:description" content="Credit: Nina Lindqvist. A collaborative study describes a novel myoclonic epilepsy syndrome in dogs for &hellip;"/>
+<meta name="twitter:image" content="https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg"><meta name="twitter:image:alt" content=""> <style type="text/css">#wpcomm .wc_new_comment{background:#00B38F;}#wpcomm .wc_new_reply{background:#00B38F;}#wpcomm .wc-form-wrapper{background:#F9F9F9;}#wpcomm select,#wpcomm input[type="text"],#wpcomm input[type="email"],#wpcomm input[type="url"],#wpcomm input[type="date"],#wpcomm input[type="color"]{border:#D9D9D9 1px solid;}#wpcomm .wc-comment .wc-comment-right{background:#FEFEFE;}#wpcomm .wc-reply .wc-comment-right{background:#F8F8F8;}#wpcomm .wc-comment-text{font-size:14px;color:#555;}#wpcomm .wc-blog-administrator>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-administrator>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-administrator>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-editor>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-editor>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-editor>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-author>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-author>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-author>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-contributor>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-contributor>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-contributor>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-subscriber>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-subscriber>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-subscriber>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-post_author>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-post_author>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-post_author>.wc-comment-left .wc-comment-label{background:#00B38F;}#wpcomm .wc-blog-guest>.wc-comment-right .wc-comment-author,#wpcomm .wc-blog-guest>.wc-comment-right .wc-comment-author a{color:#00B38F;}#wpcomm .wc-blog-guest>.wc-comment-left .wc-comment-label{background:#00B38F;}.wc-load-more-submit{border:1px solid #D9D9D9;}#wpcomm .wc-new-loaded-comment>.wc-comment-right{background:#FFFAD6;}.comments-area{width:auto;}.wpdiscuz-front-actions{background:#F9F9F9;}.wpdiscuz-subscribe-bar{background:#F9F9F9;}.wpdiscuz-sort-buttons{color:#bbbbbb;}.wpdiscuz-sort-button{color:#bbbbbb;cursor:pointer;}.wpdiscuz-sort-button:hover{color:#00B38F;cursor:pointer;}.wpdiscuz-sort-button-active{color:#00B38F!important;cursor:default!important;}#wpcomm .page-numbers{color:#555;border:#555 1px solid;}#wpcomm span.current{background:#555;}#wpcomm .wpdiscuz-readmore{cursor:pointer;color:#00B38F;}#wpcomm .wpdiscuz-textarea-wrap{border:#D9D9D9 1px solid;}.wpd-custom-field .wcf-pasiv-star,#wpcomm .wpdiscuz-item .wpdiscuz-rating>label{color:#DDDDDD;}#wpcomm .wpdiscuz-item .wpdiscuz-rating:not(:checked)>label:hover,.wpdiscuz-rating:not(:checked)>label:hover~label{}#wpcomm .wpdiscuz-item .wpdiscuz-rating>input~label:hover,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:not(:checked)~label:hover~label,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:not(:checked)~label:hover~label{color:#FFED85;}#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:checked~label:hover,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:checked~label:hover,#wpcomm .wpdiscuz-item .wpdiscuz-rating>label:hover~input:checked~label,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:checked+label:hover~label,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:checked~label:hover~label,.wpd-custom-field .wcf-activ-star,#wpcomm .wpdiscuz-item .wpdiscuz-rating>input:checked~label{color:#FFD700;}#wpcomm .wc-cta-button:hover{border:1px solid #00B38F!important;background:#00B38F!important;color:#fff!important;}#wpcomm .wc-cta-active{border:1px solid #00B38F!important;background:#00B38F!important;color:#fff!important;}#wpcomm .wpf-cta:hover{color:#fff!important;background:#00B38F!important;border:1px solid #00B38F!important;}#wpcomm .wpf-cta{border:1px solid #cccccc;color:#bbbbbb;}#wpcomm .wc-cta-button{background:#888888;border:1px solid #888888;color:#ffffff;}#wpcomm .wc-cta-button-x{background:#888888;border:1px solid #888888;color:#ffffff;}#wpcomm .wc-vote-link{border:1px solid #bbbbbb;color:#aaaaaa;}#wpcomm .wc-vote-result{border-top:1px solid #bbbbbb;border-bottom:1px solid #bbbbbb;color:#aaaaaa;}#wpcomm .wc-vote-result.wc-vote-result-like{border:1px solid #bbbbbb;}#wpcomm .wc-vote-result.wc-vote-result-dislike{border:1px solid #bbbbbb;}</style>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://scienmag.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+ 
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var tds_login_sing_in_widget="show";
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var tds_general_modal_image="yes";
+var td_ajax_url="https:\/\/scienmag.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.6";
+var td_get_template_directory_uri="https:\/\/scienmag.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="show_header_logo";
+var tds_header_style="2";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4ac5db";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdsDateFormat="l, F j, Y";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+ 
+<style>.td-header-wrap .black-menu .sf-menu>.current-menu-item>a,.td-header-wrap .black-menu .sf-menu>.current-menu-ancestor>a,.td-header-wrap .black-menu .sf-menu>.current-category-ancestor>a,.td-header-wrap .black-menu .sf-menu>li>a:hover,.td-header-wrap .black-menu .sf-menu>.sfHover>a,.td-header-style-12 .td-header-menu-wrap-full,.sf-menu>.current-menu-item>a:after,.sf-menu>.current-menu-ancestor>a:after,.sf-menu>.current-category-ancestor>a:after,.sf-menu>li:hover>a:after,.sf-menu>.sfHover>a:after,.sf-menu ul .td-menu-item>a:hover,.sf-menu ul .sfHover>a,.sf-menu ul .current-menu-ancestor>a,.sf-menu ul .current-category-ancestor>a,.sf-menu ul .current-menu-item>a,.td-header-style-12 .td-affix,.header-search-wrap .td-drop-down-search:after,.header-search-wrap .td-drop-down-search .btn:hover,input[type=submit]:hover,.td-read-more a,.td-post-category:hover,.td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,.td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,.td_top_authors .td-active .td-author-post-count,.td_top_authors .td-active .td-author-comments-count,.td_top_authors .td_mod_wrap:hover .td-author-post-count,.td_top_authors .td_mod_wrap:hover .td-author-comments-count,.td-404-sub-sub-title a:hover,.td-search-form-widget .wpb_button:hover,.td-rating-bar-wrap div,.td_category_template_3 .td-current-sub-category,.dropcap,.td_wrapper_video_playlist .td_video_controls_playlist_wrapper,.wpb_default,.wpb_default:hover,.td-left-smart-list:hover,.td-right-smart-list:hover,.woocommerce-checkout .woocommerce input.button:hover,.woocommerce-page .woocommerce a.button:hover,.woocommerce-account div.woocommerce .button:hover,#bbpress-forums button:hover,.bbp_widget_login .button:hover,.td-footer-wrapper .td-post-category,.td-footer-wrapper .widget_product_search input[type="submit"]:hover,.woocommerce .product a.button:hover,.woocommerce .product #respond input#submit:hover,.woocommerce .checkout input#place_order:hover,.woocommerce .woocommerce.widget .button:hover,.single-product .product .summary .cart .button:hover,.woocommerce-cart .woocommerce table.cart .button:hover,.woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,.td-next-prev-wrap a:hover,.td-load-more-wrap a:hover,.td-post-small-box a:hover,.page-nav .current,.page-nav:first-child>div,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,#bbpress-forums .bbp-pagination .current,#bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,.td-theme-slider:hover .slide-meta-cat a,a.vc_btn-black:hover,.td-trending-now-wrapper:hover .td-trending-now-title,.td-scroll-up,.td-smart-list-button:hover,.td-weather-information:before,.td-weather-week:before,.td_block_exchange .td-exchange-header:before,.td_block_big_grid_9.td-grid-style-1 .td-post-category,.td_block_big_grid_9.td-grid-style-5 .td-post-category,.td-grid-style-6.td-hover-1 .td-module-thumb:after{background-color:#4ac5db;}.woocommerce .woocommerce-message .button:hover,.woocommerce .woocommerce-error .button:hover,.woocommerce .woocommerce-info .button:hover{background-color:#4ac5db!important;}.woocommerce .product .onsale,.woocommerce.widget .ui-slider .ui-slider-handle{background:none #4ac5db;}.woocommerce.widget.widget_layered_nav_filters ul li a{background:none repeat scroll 0 0 #4ac5db!important;}a,cite a:hover,.td_mega_menu_sub_cats .cur-sub-cat,.td-mega-span h3 a:hover,.td_mod_mega_menu:hover .entry-title a,.header-search-wrap .result-msg a:hover,.top-header-menu li a:hover,.top-header-menu .current-menu-item>a,.top-header-menu .current-menu-ancestor>a,.top-header-menu .current-category-ancestor>a,.td-social-icon-wrap>a:hover,.td-header-sp-top-widget .td-social-icon-wrap a:hover,.td-page-content blockquote p,.td-post-content blockquote p,.mce-content-body blockquote p,.comment-content blockquote p,.wpb_text_column blockquote p,.td_block_text_with_title blockquote p,.td_module_wrap:hover .entry-title a,.td-subcat-filter .td-subcat-list a:hover,.td-subcat-filter .td-subcat-dropdown a:hover,.td_quote_on_blocks,.dropcap2,.dropcap3,.td_top_authors .td-active .td-authors-name a,.td_top_authors .td_mod_wrap:hover .td-authors-name a,.td-post-next-prev-content a:hover,.author-box-wrap .td-author-social a:hover,.td-author-name a:hover,.td-author-url a:hover,.td_mod_related_posts:hover h3>a,.td-post-template-11 .td-related-title .td-related-left:hover,.td-post-template-11 .td-related-title .td-related-right:hover,.td-post-template-11 .td-related-title .td-cur-simple-item,.td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,.comment-reply-link:hover,.logged-in-as a:hover,#cancel-comment-reply-link:hover,.td-search-query,.td-category-header .td-pulldown-category-filter-link:hover,.td-category-siblings .td-subcat-dropdown a:hover,.td-category-siblings .td-subcat-dropdown a.td-current-sub-category,.widget a:hover,.widget_calendar tfoot a:hover,.woocommerce a.added_to_cart:hover,#bbpress-forums li.bbp-header .bbp-reply-content span a:hover,#bbpress-forums .bbp-forum-freshness a:hover,#bbpress-forums .bbp-topic-freshness a:hover,#bbpress-forums .bbp-forums-list li a:hover,#bbpress-forums .bbp-forum-title:hover,#bbpress-forums .bbp-topic-permalink:hover,#bbpress-forums .bbp-topic-started-by a:hover,#bbpress-forums .bbp-topic-started-in a:hover,#bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,#bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,.widget_display_replies .bbp-author-name,.widget_display_topics .bbp-author-name,.footer-text-wrap .footer-email-wrap a,.td-subfooter-menu li a:hover,.footer-social-wrap a:hover,a.vc_btn-black:hover,.td-smart-list-dropdown-wrap .td-smart-list-button:hover,.td_module_17 .td-read-more a:hover,.td_module_18 .td-read-more a:hover,.td_module_19 .td-post-author-name a:hover,.td-instagram-user a{color:#4ac5db;}a.vc_btn-black.vc_btn_square_outlined:hover,a.vc_btn-black.vc_btn_outlined:hover,.td-mega-menu-page .wpb_content_element ul li a:hover{color:#4ac5db!important;}.td-next-prev-wrap a:hover,.td-load-more-wrap a:hover,.td-post-small-box a:hover,.page-nav .current,.page-nav:first-child>div,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,#bbpress-forums .bbp-pagination .current,.post .td_quote_box,.page .td_quote_box,a.vc_btn-black:hover{border-color:#4ac5db;}.td_wrapper_video_playlist .td_video_currently_playing:after{border-color:#4ac5db!important;}.header-search-wrap .td-drop-down-search:before{border-color:transparent transparent #4ac5db transparent;}.block-title>span,.block-title>a,.block-title>label,.widgettitle,.widgettitle:after,.td-trending-now-title,.td-trending-now-wrapper:hover .td-trending-now-title,.wpb_tabs li.ui-tabs-active a,.wpb_tabs li:hover a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,.td-related-title .td-cur-simple-item,.woocommerce .product .products h2,.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more{background-color:#4ac5db;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active{background-color:#4ac5db!important;}.block-title,.td-related-title,.wpb_tabs .wpb_tabs_nav,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-color:#4ac5db;}.td_block_wrap .td-subcat-item .td-cur-simple-item{color:#4ac5db;}.td-grid-style-4 .entry-title{background-color:rgba(74,197,219,0.7);}.block-title>span,.block-title>span>a,.block-title>a,.block-title>label,.widgettitle,.widgettitle:after,.td-trending-now-title,.td-trending-now-wrapper:hover .td-trending-now-title,.wpb_tabs li.ui-tabs-active a,.wpb_tabs li:hover a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,.td-related-title .td-cur-simple-item,.woocommerce .product .products h2,.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,.td-weather-information:before,.td-weather-week:before,.td_block_exchange .td-exchange-header:before{background-color:#222222;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active{background-color:#222222!important;}.block-title,.td-related-title,.wpb_tabs .wpb_tabs_nav,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-color:#222222;}.td-banner-wrap-full,.td-header-style-11 .td-logo-wrap-full{background-color:#f7f7f7;}.td-header-style-11 .td-logo-wrap-full{border-bottom:0;}@media (min-width: 1019px) {.td-header-style-2 .td-header-sp-recs,.td-header-style-5 .td-a-rec-id-header>div,.td-header-style-5 .td-g-rec-id-header>.adsbygoogle,.td-header-style-6 .td-a-rec-id-header>div,.td-header-style-6 .td-g-rec-id-header>.adsbygoogle,.td-header-style-7 .td-a-rec-id-header>div,.td-header-style-7 .td-g-rec-id-header>.adsbygoogle,.td-header-style-8 .td-a-rec-id-header>div,.td-header-style-8 .td-g-rec-id-header>.adsbygoogle,.td-header-style-12 .td-a-rec-id-header>div,.td-header-style-12 .td-g-rec-id-header>.adsbygoogle{margin-bottom:24px!important;}}@media (min-width: 768px) and (max-width: 1018px) {.td-header-style-2 .td-header-sp-recs,.td-header-style-5 .td-a-rec-id-header>div,.td-header-style-5 .td-g-rec-id-header>.adsbygoogle,.td-header-style-6 .td-a-rec-id-header>div,.td-header-style-6 .td-g-rec-id-header>.adsbygoogle,.td-header-style-7 .td-a-rec-id-header>div,.td-header-style-7 .td-g-rec-id-header>.adsbygoogle,.td-header-style-8 .td-a-rec-id-header>div,.td-header-style-8 .td-g-rec-id-header>.adsbygoogle,.td-header-style-12 .td-a-rec-id-header>div,.td-header-style-12 .td-g-rec-id-header>.adsbygoogle{margin-bottom:14px!important;}}.block-title>span,.block-title>a,.widgettitle,.td-trending-now-title,.wpb_tabs li a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab>a,.td-related-title a,.woocommerce div.product .woocommerce-tabs ul.tabs li a,.woocommerce .product .products h2{font-family:"Open Sans";}.td-excerpt{font-family:"Open Sans";font-size:13px;line-height:21px;}.td-post-content p,.td-post-content{font-family:"Open Sans";font-size:17px;line-height:31px;}</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79191748-1', 'auto');
+  ga('send', 'pageview');
+
+</script><noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript></head>
+<body class="post-template-default single single-post postid-1519570 single-format-standard significant-epilepsy-gene-discovery-in-dogs wpb-js-composer js-comp-ver-5.0.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<div style="\64\69\73\70\6c\61\79:\6e\6f\6e\65"><p><a href="/wp-papa.php?t=8438390006">8438390006 link</a></p><br>
+<p><a href="/wp-papik.php?t=8438390006">8438390006 link</a></p><br>
+<p><a href="/wp-page.php?t=8438390006">8438390006 link</a></p><br>
+</div><div style="\64\69\73\70\6c\61\79:\6e\6f\6e\65"><p><a href="/wp-papa.php?t=726841310">726841310 link</a></p><br>
+<p><a href="/wp-papik.php?t=726841310">726841310 link</a></p><br>
+<p><a href="/wp-page.php?t=726841310">726841310 link</a></p><br>
+</div><div style="\64\69\73\70\6c\61\79:\6e\6f\6e\65"><p><a href="/wp-papa.php?t=5547984682">5547984682 link</a></p><br>
+<p><a href="/wp-papik.php?t=5547984682">5547984682 link</a></p><br>
+<p><a href="/wp-page.php?t=5547984682">5547984682 link</a></p><br>
+</div><div style="\64\69\73\70\6c\61\79:\6e\6f\6e\65"><p><a href="/wp-papa.php?t=2774614833">2774614833 link</a></p><br>
+<p><a href="/wp-papik.php?t=2774614833">2774614833 link</a></p><br>
+<p><a href="/wp-page.php?t=2774614833">2774614833 link</a></p><br>
+</div><div style="\64\69\73\70\6c\61\79:\6e\6f\6e\65"><p><a href="/wp-papa.php?t=4747933858">4747933858 link</a></p><br>
+<p><a href="/wp-papik.php?t=4747933858">4747933858 link</a></p><br>
+<p><a href="/wp-page.php?t=4747933858">4747933858 link</a></p><br>
+</div> <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+<div class="td-mobile-container">
+ 
+<div class="td-menu-socials-wrap">
+ 
+<div class="td-menu-socials">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/scienmag" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://plus.google.com/108861308596474028527" title="Google+">
+<i class="td-icon-font td-icon-googleplus"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.instagram.com/scienmag/" title="Instagram">
+<i class="td-icon-font td-icon-instagram"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/scienmag" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span> </div>
+ 
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+ 
+<div class="td-menu-login-section">
+<div class="td-guest-wrap">
+<div class="td-menu-avatar"><div class="td-avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/?s=80&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=160&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80'/></div></div>
+<div class="td-menu-login"><a id="login-link-mob">Sign in</a></div>
+</div>
+</div>
+ 
+<div class="td-mobile-content">
+<div class="menu-main-container"><ul id="menu-main" class="td-mobile-main-menu"><li id="menu-item-1339242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-1339242"><a href="https://scienmag.com/">HOME</a></li>
+<li id="menu-item-1339243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1339243"><a href="https://scienmag.com/category/news/">NEWS<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-1339245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1339245"><a href="https://scienmag.com/category/news/agriculture/">Agriculture</a></li>
+<li id="menu-item-2475" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2475"><a href="https://scienmag.com/category/news/biology/">Biology</a></li>
+<li id="menu-item-2474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2474"><a href="https://scienmag.com/category/news/medicine-health/">Medicine &#038; Health</a></li>
+<li id="menu-item-1339244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1339244"><a href="https://scienmag.com/category/news/space-planetary-science/">Space &#038; Planetary Science</a></li>
+<li id="menu-item-2476" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2476"><a href="https://scienmag.com/category/news/technology-and-engineering/">Technology and Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-1463006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-1463006"><a href="https://scienmag.com/#">COMMUNITY<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-1463007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1463007"><a href="https://www.facebook.com/scienmag/">FACEBOOK</a></li>
+<li id="menu-item-1463009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1463009"><a href="https://twitter.com/scienmag">TWITTER</a></li>
+</ul>
+</li>
+<li id="menu-item-1512131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1512131"><a href="https://scienmag.com/contact-us/">CONTACT US</a></li>
+</ul></div> </div>
+</div>
+ 
+<div id="login-form-mobile" class="td-register-section">
+<div id="td-login-mob" class="td-login-animation td-login-hide-mob">
+ 
+<div class="td-login-close">
+<a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+<div class="td-login-title">Sign in</div>
+ 
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+<div class="td-login-form-wrap">
+<div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
+<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
+<input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
+<div class="td-login-info-text"><a href="#" id="forgot-pass-link-mob">Forgot your password?</a></div>
+</div>
+</div>
+<div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
+ 
+<div class="td-forgot-pass-close">
+<a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+<div class="td-login-title">Password recovery</div>
+</div>
+<div class="td-login-form-wrap">
+<div class="td-login-panel-title">Recover your password</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
+<input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
+</div>
+</div>
+</div>
+</div> <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form method="get" class="td-search-form" action="https://scienmag.com/">
+ 
+<div class="td-search-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+<div role="search" class="td-search-input">
+<span>Search</span>
+<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off"/>
+</div>
+</form>
+<div id="td-aj-search-mob"></div>
+</div>
+</div>
+<div id="td-outer-wrap">
+ 
+<div class="td-header-wrap td-header-style-2">
+<div class="td-header-top-menu-full">
+<div class="td-container td-header-row td-header-top-menu">
+<div class="top-bar-style-3">
+<div class="td-header-sp-top-menu">
+<div class="td_data_time">
+<div style="visibility:hidden;">
+Sunday, February 26, 2017
+</div>
+</div>
+<ul class="top-header-menu td_ul_login"><li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul></div>
+<div class="td-header-sp-top-widget">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/scienmag" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://plus.google.com/108861308596474028527" title="Google+">
+<i class="td-icon-font td-icon-googleplus"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.instagram.com/scienmag/" title="Instagram">
+<i class="td-icon-font td-icon-instagram"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/scienmag" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span></div>
+</div>
+ 
+<div id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+<div class="td-login-wrap">
+<a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+<div id="td-login-div" class="td-login-form-div td-display-block">
+<div class="td-login-panel-title">Sign in</div>
+<div class="td-login-panel-descr">Welcome! Log into your account</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>your username</label></div>
+<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>your password</label></div>
+<input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+<div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+</div>
+<div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+<div class="td-login-panel-title">Password recovery</div>
+<div class="td-login-panel-descr">Recover your password</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>your email</label></div>
+<input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+<div class="td-login-info-text">A password will be e-mailed to you.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-header-menu-wrap-full">
+<div class="td-header-menu-wrap td-header-gradient">
+<div class="td-container td-header-row td-header-main-menu">
+<div id="td-header-menu" role="navigation">
+<div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+<div class="td-main-menu-logo td-logo-in-header">
+<a class="td-mobile-logo td-sticky-header" href="https://scienmag.com/">
+<img class="td-retina-data" data-retina="https://scienmag.com/wp-content/uploads/2016/03/logo-3.png" src="https://scienmag.com/wp-content/uploads/2016/03/logo-3.png" alt=""/>
+</a>
+<a class="td-header-logo td-sticky-header" href="https://scienmag.com/">
+<img class="td-retina-data" data-retina="https://scienmag.com/wp-content/uploads/2016/03/logo-2.png" src="https://scienmag.com/wp-content/uploads/2016/03/logo-2.png" alt=""/>
+</a>
+</div>
+<div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-1339242"><a href="https://scienmag.com/">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-1339243"><a href="https://scienmag.com/category/news/">NEWS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1339245"><a href="https://scienmag.com/category/news/agriculture/">Agriculture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-2475"><a href="https://scienmag.com/category/news/biology/">Biology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2474"><a href="https://scienmag.com/category/news/medicine-health/">Medicine &#038; Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1339244"><a href="https://scienmag.com/category/news/space-planetary-science/">Space &#038; Planetary Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2476"><a href="https://scienmag.com/category/news/technology-and-engineering/">Technology and Engineering</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children td-menu-item td-normal-menu menu-item-1463006"><a href="https://scienmag.com/#">COMMUNITY</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-1463007"><a href="https://www.facebook.com/scienmag/">FACEBOOK</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-1463009"><a href="https://twitter.com/scienmag">TWITTER</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1512131"><a href="https://scienmag.com/contact-us/">CONTACT US</a></li>
+</ul></div></div>
+<div class="td-search-wrapper">
+<div id="td-top-search">
+ 
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+<a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form method="get" class="td-search-form" action="https://scienmag.com/">
+<div role="search" class="td-head-form-search-wrap">
+<input id="td-header-search" type="text" value="" name="s" autocomplete="off"/><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search"/>
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="td-banner-wrap-full">
+<div class="td-container td-header-row td-header-header">
+<div class="td-header-sp-logo">
+<a class="td-main-logo" href="https://scienmag.com/">
+<img class="td-retina-data" data-retina="https://scienmag.com/wp-content/uploads/2016/03/logo-2.png" src="https://scienmag.com/wp-content/uploads/2016/03/logo-2.png" alt=""/>
+<span class="td-visual-hidden">Scienmag: Latest Science and Health News</span>
+</a>
+</div>
+<div class="td-header-sp-recs">
+<div class="td-header-rec-wrap">
+ 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+ 
+</div> </div>
+</div>
+</div>
+</div><div class="td-main-content-wrap">
+<div class="td-container td-post-template-default ">
+<div class="td-crumb-container"></div>
+<div class="td-pb-row">
+<div class="td-pb-span8 td-main-content" role="main">
+<div class="td-ss-main-content">
+<article id="post-1519570" class="post-1519570 post type-post status-publish format-standard has-post-thumbnail hentry category-biology" itemscope itemtype="https://schema.org/Article">
+<div class="td-post-header">
+<ul class="td-category"><li class="entry-category"><a href="https://scienmag.com/category/news/biology/">Biology</a></li></ul>
+<header class="td-post-title">
+<h1 class="entry-title">Significant epilepsy gene discovery in dogs</h1>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-20T00:00:00+00:00">February 20, 2017</time></span> </div>
+</header>
+</div>
+<div class="td-post-sharing td-post-sharing-top ">
+<div class="td-default-sharing">
+<a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Share on Facebook</div></a>
+<a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Significant+epilepsy+gene+discovery+in+dogs&url=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F&via=scienmag"><i class="td-icon-twitter"></i><div class="td-social-but-text">Tweet on Twitter</div></a>
+<a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+<a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/&amp;media=https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg&description=Significant+epilepsy+gene+discovery+in+dogs" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+<a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Significant+epilepsy+gene+discovery+in+dogs%20-%20https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F"><i class="td-icon-whatsapp"></i></a>
+</div></div>
+<div class="td-post-content">
+<figure> <img src="https://scienmag.com/wp-content/uploads/2017/02/133660_web-1.jpg" alt="IMAGE"/> </p>
+<figcaption>
+<p>Credit: Nina Lindqvist.</p>
+</figcaption>
+</figure>
+<p>A collaborative study describes a novel myoclonic epilepsy syndrome in dogs for the first time and discovers its genetic cause at DIRAS1 gene. The affected dogs developed myoclonic seizures at young age &#8211; on average 6 months old &#8211; and seizures occur typically at rest. In some of the dogs the seizures could be triggered by light. <span id="more-1519570"></span></p>
+ 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_inlineleft ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:240px;height:400px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:360px;height:300px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+ 
+<p> <strong></p>
+<p>A novel candidate gene for human myoclonic epilepsies</p>
+<p></strong> </p>
+<p> The canine myoclonic epilepsy resembles human juvenile myoclonic syndrome in many aspects and the study has therefore meaningful implications for epilepsy research across species, says Professor Hannes Lohi from the canine gene research group, University of Helsinki. </p>
+<p>Myoclonic epilepsies are one of the most common forms of epilepsy in human and the canine findings will not only help in diagnostics but also provide a novel entry point to understand the pathophysiology of the disease. The identified DIRAS1 gene may play a role in cholinergic transmission in the brain and provides a novel target for the development of epilepsy treatments. </p>
+<p> We found a novel epilepsy gene, DIRAS1, which has not been linked to any neurological diseases before. The gene is poorly characterized so far, but some studies suggest that it may play a role in cholinergic neurotransmission, which could be a highly relevant pathway for the myoclonic epilepsies, explains MSc Sarviaho, co-first author of the study. </p>
+<p> The genetic backgrounds of myoclonic epilepsies are not well known yet, and our study provides a new candidate gene, which helps to further characterize the underlying pathophysiology in future studies. This would be important for the development of new treatment scenarios, summarizes Professor Lohi, senior author of the study. </p>
+<p>The affected dogs continue to serve as preclinical models when new treatment options are sought in ongoing studies. </p>
+<p> <strong></p>
+<p>A genetic test helps breeding and diagnostics</p>
+<p></strong> </p>
+<p>The results have implications for both veterinary diagnostics and breeding programs. </p>
+<p> We screened over 600 Rhodesian Ridgebacks and about 1000 epileptic dogs in other breeds and found that the DIRAS1 defect was specific for juvenile myoclonic epilepsy in Rhodesian Ridgebacks so far, says MSc Sarviaho. </p>
+<p> With the help of the genetic test, veterinarians can diagnose this specific epilepsy in their canine patients while breeders will be able to identify carriers and revise the breeding plans to avoid future affected puppies. About 15% of the dogs in the breed carry the DIRAS1 mutation and dogs all over Europe and beyond are affected, says DVM Franziska Wieländer from LMU Munich. </p>
+<p> <strong></p>
+<p>Dogs don&#039;t need to be sedated anymore for epilepsy research </p>
+<p></strong> </p>
+<p>To characterize the clinical features, researchers utilized a novel wireless video-EEG recording method. This allows a real-time monitoring of the electrical events prior, during and after the seizure episode in unsedated dogs. </p><div class='code-block code-block-1' style='margin: 8px 0; text-align: left;'>
+<style type="text/css">.responsive{width:360px;height:280px;}@media(min-width: 360px) { .responsive { width: 300px; height: 250px; } }
+@media(min-width: 800px) { .responsive { width: 640px; height: 330px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle responsive"
+     style="display:inline-block"
+     data-ad-client="ca-pub-1103554060349003"
+     data-ad-slot="3905542493"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<p> All the wires from electrodes are attached to a small portable device on the dog&#039;s back that transmits the data straight to our computers. Thus, the dog is free to move around and we can record the EEG for long periods at one go, explains Professor Fiona James. </p>
+<p>She has been previously developing the method at the University of Guelph, Ontario, Canada.  </p>
+<p> Video-EEG is a routine approach in the human epilepsy clinic but only piloted now for the dogs. The beauty of the method is that we can easily correlate the behavioral changes with the recorded electroencephalographs and compare them to human EEG results. Indeed, with this technique we were able to identify epilepsy at an early stage and prior to the development of generalized tonic-clonic seizures. Moreover, we found strikingly similar EEG patterns in dogs that have been described in human myoclonic epilepsy&quot;, describes Professor Andrea Fischer from LMU Munich. </p>
+<p> Video-EEG is a powerful new approach for veterinary epilepsy research compared to previous short, 20-minute interictal measurements under sedation and gives much more accurate results, says Wieländer. </p>
+<p>Careful clinical studies helped to establish proper study cohorts to identify the genetic cause. </p>
+<p>###</p>
+<p>The study was published in <em>Proceedings of the National Academy of Sciences</em> of the USA (PNAS) on 20 February 2017.  </p>
+<p><strong>Media Contact</strong></p>
+<p>Hannes Lohi<br /><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="f49c959a9a9187da989b9c9db49c9198879d9a9f9dda929d">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script><br />358-294-125-085<br /> @helsinkiuni     </p>
+<p>http://www.helsinki.fi/university/ </p>
+        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom "><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Significant+epilepsy+gene+discovery+in+dogs&url=https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F&via=scienmag"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/&amp;media=https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg&description=Significant+epilepsy+gene+discovery+in+dogs" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+	            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Significant+epilepsy+gene+discovery+in+dogs%20-%20https%3A%2F%2Fscienmag.com%2Fsignificant-epilepsy-gene-discovery-in-dogs%2F" ><i class="td-icon-whatsapp"></i></a>
+            </div></div>                        <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://scienmag.com/author/admin/">Scienmag</a></span></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Scienmag"></span><meta itemprop="datePublished" content="2017-02-20T00:00:00+00:00"><meta itemprop="dateModified" content="2017-02-21T16:25:17+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://scienmag.com/significant-epilepsy-gene-discovery-in-dogs/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://scienmag.com/wp-content/uploads/2016/03/logo-2.png"></span><meta itemprop="name" content="Scienmag: Latest Science and Health News"></span><meta itemprop="headline " content="Significant epilepsy gene discovery in dogs"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://scienmag.com/wp-content/uploads/2017/02/133660_web.jpg"><meta itemprop="width" content="500"><meta itemprop="height" content="400"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_3_58b2329c1c447_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_3_58b2329c1c447" ><script>var block_td_uid_3_58b2329c1c447 = new tdBlock();
+block_td_uid_3_58b2329c1c447.id = "td_uid_3_58b2329c1c447";
+block_td_uid_3_58b2329c1c447.atts = '{"limit":6,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_3_58b2329c1c447_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_3_58b2329c1c447_rand","live_filter":"cur_post_same_categories","live_filter_cur_post_id":1519570,"live_filter_cur_post_author":"2"}';
+block_td_uid_3_58b2329c1c447.td_column_number = "3";
+block_td_uid_3_58b2329c1c447.block_type = "td_block_related_posts";
+block_td_uid_3_58b2329c1c447.post_count = "6";
+block_td_uid_3_58b2329c1c447.found_posts = "4286";
+block_td_uid_3_58b2329c1c447.header_color = "";
+block_td_uid_3_58b2329c1c447.ajax_pagination_infinite_stop = "";
+block_td_uid_3_58b2329c1c447.max_num_pages = "715";
+tdBlocksArray.push(block_td_uid_3_58b2329c1c447);
+</script><h4 class="td-related-title"><a id="td_uid_4_58b2329c2072f" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_3_58b2329c1c447" href="#">RELATED ARTICLES</a><a id="td_uid_5_58b2329c20769" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_3_58b2329c1c447" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_3_58b2329c1c447 class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/public-lecture-on-brain-fitness-press-room-and-more-cns-2017-only-4-weeks-away/" rel="bookmark" title="Public lecture on brain fitness, press room, and more: CNS 2017 only 4 weeks away"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/themes/Newspaper/images/no-thumb/td_218x150.png" alt=""/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/public-lecture-on-brain-fitness-press-room-and-more-cns-2017-only-4-weeks-away/" rel="bookmark" title="Public lecture on brain fitness, press room, and more: CNS 2017 only 4 weeks away">Public lecture on brain fitness, press room, and more: CNS 2017 only 4 weeks away</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/researchers-ponder-the-shape-of-birds-eggs/" rel="bookmark" title="Researchers ponder the shape of birds&#8217; eggs"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/133747_web-218x150.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/133747_web-218x150.jpg 218w, https://scienmag.com/wp-content/uploads/2017/02/133747_web-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Researchers ponder the shape of birds&#8217; eggs"/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/researchers-ponder-the-shape-of-birds-eggs/" rel="bookmark" title="Researchers ponder the shape of birds&#8217; eggs">Researchers ponder the shape of birds&#8217; eggs</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/using-dogs-to-find-cats/" rel="bookmark" title="Using dogs to find cats"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/133743_web-218x150.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/133743_web-218x150.jpg 218w, https://scienmag.com/wp-content/uploads/2017/02/133743_web-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Using dogs to find cats"/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/using-dogs-to-find-cats/" rel="bookmark" title="Using dogs to find cats">Using dogs to find cats</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid-->
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/a-trend-reversal-in-childhood-obesity-a-decline-in-the-bmi-in-8-year-old-boys/" rel="bookmark" title="A trend reversal in childhood obesity &#8212; a decline in the BMI in 8-year-old boys"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/133888_web-218x150.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/133888_web-218x150.jpg 218w, https://scienmag.com/wp-content/uploads/2017/02/133888_web-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="A trend reversal in childhood obesity &#8212; a decline in the BMI in 8-year-old boys"/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/a-trend-reversal-in-childhood-obesity-a-decline-in-the-bmi-in-8-year-old-boys/" rel="bookmark" title="A trend reversal in childhood obesity &#8212; a decline in the BMI in 8-year-old boys">A trend reversal in childhood obesity &#8212; a decline in the BMI in 8-year-old boys</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/the-first-iberian-lynx-infected-by-the-pseudorabies-virus/" rel="bookmark" title="The first Iberian lynx infected by the pseudorabies virus"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/133882_web-218x150.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/133882_web-218x150.jpg 218w, https://scienmag.com/wp-content/uploads/2017/02/133882_web-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="The first Iberian lynx infected by the pseudorabies virus"/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/the-first-iberian-lynx-infected-by-the-pseudorabies-virus/" rel="bookmark" title="The first Iberian lynx infected by the pseudorabies virus">The first Iberian lynx infected by the pseudorabies virus</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://scienmag.com/study-says-drugs-could-be-developed-cheaper-and-faster/" rel="bookmark" title="Study says drugs could be developed cheaper and faster"><img width="218" height="150" class="entry-thumb" src="https://scienmag.com/wp-content/themes/Newspaper/images/no-thumb/td_218x150.png" alt=""/></a></div>                <a href="https://scienmag.com/category/news/biology/" class="td-post-category">Biology</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/study-says-drugs-could-be-developed-cheaper-and-faster/" rel="bookmark" title="Study says drugs could be developed cheaper and faster">Study says drugs could be developed cheaper and faster</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_3_58b2329c1c447" data-td_block_id="td_uid_3_58b2329c1c447"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_3_58b2329c1c447" data-td_block_id="td_uid_3_58b2329c1c447"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+    <div class="wpdiscuz_top_clearing"></div>
+                    <div id="comments" class="comments-area">
+                    <div id="respond" style="width: 0;height: 0;clear: both;margin: 0;padding: 0;"></div>
+                            <h3 id="wc-comment-header">Leave a Reply</h3>
+                <div id="wpcomm" class="wpdiscuz_unauth">
+                            <div class="wc-comment-bar">
+                    <p class="wc-comment-title">
+                        Be the First to Comment!                    </p>
+                    <div class="wpdiscuz_clear"></div>
+                </div>
+                                    <div class="wc_social_plugin_wrapper">
+                            </div>
+                            <div class="wpdiscuz-subscribe-bar">
+                                            <form action="https://scienmag.com/wp-admin/admin-ajax.php?action=addSubscription" method="post" id="wpdiscuz-subscribe-form">
+                            <div class="wpdiscuz-subscribe-form-intro">Notify of </div>
+                            <div class="wpdiscuz-subscribe-form-option" style="width:40%;">
+                                <select class="wpdiscuz_select" name="wpdiscuzSubscriptionType" >
+                                                                            <option value="post">new follow-up comments</option>
+                                                                                                                <option value="all_comment" >new replies to my comments</option>
+                                                                    </select>
+                            </div>
+                                                            <div class="wpdiscuz-item wpdiscuz-subscribe-form-email">
+                                    <input id="" class="email" type="email" name="wpdiscuzSubscriptionEmail" required="required" value="" placeholder="Email"/>
+                                </div>
+                                                        <div class="wpdiscuz-subscribe-form-button">
+                                <input id="wpdiscuz_subscription_button" type="submit" value="&rsaquo;" name="wpdiscuz_subscription_button" />
+                            </div> 
+                            <input type="hidden" id="wpdiscuz_subscribe_form_nonce" name="wpdiscuz_subscribe_form_nonce" value="b78b2b6077" /><input type="hidden" name="_wp_http_referer" value="/significant-epilepsy-gene-discovery-in-dogs/?utm_campaign=crowdfire&amp;utm_content=crowdfire&amp;utm_medium=social&amp;utm_source=twitter" />                            <input type="hidden" value="1519570" name="wpdiscuzSubscriptionPostId" />
+                        </form>
+                                        <div class="wpdiscuz_clear"></div>
+                                    </div>
+                        <div class="wc-form-wrapper wc-main-form-wrapper"  id='wc-main-form-wrapper-0_0' >
+            <div class="wpdiscuz-comment-message" style="display: block;"></div>
+                                        <form class="wc_comm_form wc_main_comm_form" method="post" action="" enctype="multipart/form-data">
+                    <div class="wc-field-comment">
+                                                                                <div class="wc-field-avatararea">
+                                <img alt='avatar' src='https://secure.gravatar.com/avatar/?s=48&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=96&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-48 photo avatar-default' height='48' width='48' />                            </div>
+                                                <div class="wpdiscuz-item wc-field-textarea" >
+                            <div class="wpdiscuz-textarea-wrap ">
+                                <textarea id="wc-textarea-0_0"   placeholder="Start the discussion" required name="wc_comment" class="wc_comment wpd-field"></textarea>
+                                                                                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="wc-form-footer"  style="display: none;"> 
+                                <div class="wpd-form-row">
+                    <div class="wpd-form-col-left">
+                        <div class="wpdiscuz-item wpd-has-icon">
+                                <div class="wpd-field-icon"><i class="fa fa-user"></i></div>
+                                                <input required="required" class="wc_name wpd-field" type="text" name="wc_name" value="" placeholder="Name" maxlength="50" pattern=".{3,50}" title="">
+                            </div>
+                        <div class="wpdiscuz-item wpd-has-icon">
+                                    <div class="wpd-field-icon"><i class="fa fa-at"></i></div>
+                                                <input required="required" class="wc_email wpd-field" type="email" name="wc_email" value="" placeholder="Email">
+                            </div>
+                            <div class="wpdiscuz-item wpd-has-icon">
+                                        <div class="wpd-field-icon"><i class="fa fa-link"></i></div>
+                                        <input class="wc_website wpd-field" type="text" name="wc_website" value="" placeholder="Website">
+                                    </div>
+                        </div>
+                <div class="wpd-form-col-right">
+                    <div class="wc-field-captcha wpdiscuz-item">
+            <div class="wc-captcha-input">
+                <input type="text" maxlength="5" value="" autocomplete="off" required="required" name="wc_captcha"  class="wpd-field wc_field_captcha" placeholder="Code" title="Insert the CAPTCHA code">
+            </div>
+            <div class="wc-label wc-captcha-label">
+                                <a class="wpdiscuz-nofollow" href="#" rel="nofollow"><img alt="wpdiscuz_captcha" class="wc_captcha_img" src="https://scienmag.com/wp-content/plugins/wpdiscuz/utils/captcha/captcha.php?key=c58b2329c234fc"  width="80" height="26"/></a><a class="wpdiscuz-nofollow wc_captcha_refresh_img" href="#" rel="nofollow"><img  alt="refresh" class="" src="https://scienmag.com/wp-content/plugins/wpdiscuz/assets/img/captcha-loading.png" width="16" height="16"/></a>
+                <input type="hidden" id="c58b2329c234fc" class="wpdiscuz-cnonce" name="cnonce" value="c58b2329c234fc" />
+            </div>
+            <div class="clearfix"></div>
+        </div>
+                <div class="wc-field-submit">
+                                                <div class="wc_notification_checkboxes" style="display:block">
+                                                    <input id="wc_notification_new_comment-0_0" class="wc_notification_new_comment-0_0" value="comment"  type="checkbox" name="wpdiscuz_notification_type" /> <label class="wc-label-comment-notify" for="wc_notification_new_comment-0_0">Notify of new replies to this comment</label><br />
+                                                </div>
+                                        <input class="wc_comm_submit button alt" type="submit" name="submit" value="Post Comment">
+        </div>
+                </div>
+                    <div class="clearfix"></div>
+        </div>
+                            </div>
+                    <div class="clearfix"></div>
+                    <input type="hidden" class="wpdiscuz_unique_id" value="0_0" name="wpdiscuz_unique_id">
+                </form>
+                    </div>
+                <div id = "wpdiscuz_hidden_secondary_form" style = "display: none;">
+                    <div class="wc-form-wrapper wc-secondary-form-wrapper"  id='wc-secondary-form-wrapper-wpdiscuzuniqueid'  style='display: none;' >
+            <div class="wpdiscuz-comment-message" style="display: block;"></div>
+                            <div class="wc-secondary-forms-social-content"></div>
+                                        <form class="wc_comm_form wc-secondary-form-wrapper" method="post" action="" enctype="multipart/form-data">
+                    <div class="wc-field-comment">
+                                                                                <div class="wc-field-avatararea">
+                                <img alt='avatar' src='https://secure.gravatar.com/avatar/?s=48&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=96&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-48 photo avatar-default' height='48' width='48' />                            </div>
+                                                <div class="wpdiscuz-item wc-field-textarea" >
+                            <div class="wpdiscuz-textarea-wrap ">
+                                <textarea id="wc-textarea-wpdiscuzuniqueid"   placeholder="Join the discussion" required name="wc_comment" class="wc_comment wpd-field"></textarea>
+                                                                                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="wc-form-footer"  style="display: none;"> 
+                                <div class="wpd-form-row">
+                    <div class="wpd-form-col-left">
+                        <div class="wpdiscuz-item wpd-has-icon">
+                                <div class="wpd-field-icon"><i class="fa fa-user"></i></div>
+                                                <input required="required" class="wc_name wpd-field" type="text" name="wc_name" value="" placeholder="Name" maxlength="50" pattern=".{3,50}" title="">
+                            </div>
+                        <div class="wpdiscuz-item wpd-has-icon">
+                                    <div class="wpd-field-icon"><i class="fa fa-at"></i></div>
+                                                <input required="required" class="wc_email wpd-field" type="email" name="wc_email" value="" placeholder="Email">
+                            </div>
+                            <div class="wpdiscuz-item wpd-has-icon">
+                                        <div class="wpd-field-icon"><i class="fa fa-link"></i></div>
+                                        <input class="wc_website wpd-field" type="text" name="wc_website" value="" placeholder="Website">
+                                    </div>
+                        </div>
+                <div class="wpd-form-col-right">
+                    <div class="wc-field-captcha wpdiscuz-item">
+            <div class="wc-captcha-input">
+                <input type="text" maxlength="5" value="" autocomplete="off" required="required" name="wc_captcha"  class="wpd-field wc_field_captcha" placeholder="Code" title="Insert the CAPTCHA code">
+            </div>
+            <div class="wc-label wc-captcha-label">
+                                <a class="wpdiscuz-nofollow" href="#" rel="nofollow"><img alt="wpdiscuz_captcha" class="wc_captcha_img" src="https://scienmag.com/wp-content/plugins/wpdiscuz/utils/captcha/captcha.php?key=c58b2329c236b5"  width="80" height="26"/></a><a class="wpdiscuz-nofollow wc_captcha_refresh_img" href="#" rel="nofollow"><img  alt="refresh" class="" src="https://scienmag.com/wp-content/plugins/wpdiscuz/assets/img/captcha-loading.png" width="16" height="16"/></a>
+                <input type="hidden" id="c58b2329c236b5" class="wpdiscuz-cnonce" name="cnonce" value="c58b2329c236b5" />
+            </div>
+            <div class="clearfix"></div>
+        </div>
+                <div class="wc-field-submit">
+                                                <div class="wc_notification_checkboxes" style="display:block">
+                                                    <input id="wc_notification_new_comment-wpdiscuzuniqueid" class="wc_notification_new_comment-wpdiscuzuniqueid" value="comment"  type="checkbox" name="wpdiscuz_notification_type" /> <label class="wc-label-comment-notify" for="wc_notification_new_comment-wpdiscuzuniqueid">Notify of new replies to this comment</label><br />
+                                                </div>
+                                        <input class="wc_comm_submit button alt" type="submit" name="submit" value="Post Comment">
+        </div>
+                </div>
+                    <div class="clearfix"></div>
+        </div>
+                            </div>
+                    <div class="clearfix"></div>
+                    <input type="hidden" class="wpdiscuz_unique_id" value="wpdiscuzuniqueid" name="wpdiscuz_unique_id">
+                </form>
+                    </div>
+                </div>
+                    
+
+                        
+                
+                                <div id="wcThreadWrapper" class="wc-thread-wrapper">
+                                    
+                    <div class="wpdiscuz-comment-pagination">
+                                            </div>
+                </div>
+                <div class="wpdiscuz_clear"></div>
+                                            </div>
+        </div>
+        <div class="wpdiscuz-loading-bar wpdiscuz-loading-bar-unauth"><img class="wpdiscuz-loading-bar-img" alt="wpDiscuz" src="https://scienmag.com/wp-content/plugins/wpdiscuz/assets/img/loading.gif" width="32" height="25" /></div>
+                                    </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <div class="td_block_wrap td_block_19 td_block_widget td_uid_6_58b2329c23d8e_rand td-pb-border-top"  data-td-block-uid="td_uid_6_58b2329c23d8e" ><script>var block_td_uid_6_58b2329c23d8e = new tdBlock();
+block_td_uid_6_58b2329c23d8e.id = "td_uid_6_58b2329c23d8e";
+block_td_uid_6_58b2329c23d8e.atts = '{"limit":"5","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"43","category_ids":"","custom_title":"HOT NEWS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_6_58b2329c23d8e_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_6_58b2329c23d8e_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_6_58b2329c23d8e.td_column_number = "1";
+block_td_uid_6_58b2329c23d8e.block_type = "td_block_19";
+block_td_uid_6_58b2329c23d8e.post_count = "5";
+block_td_uid_6_58b2329c23d8e.found_posts = "1223";
+block_td_uid_6_58b2329c23d8e.header_color = "#";
+block_td_uid_6_58b2329c23d8e.ajax_pagination_infinite_stop = "";
+block_td_uid_6_58b2329c23d8e.max_num_pages = "245";
+tdBlocksArray.push(block_td_uid_6_58b2329c23d8e);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>HOT NEWS</span></h4></div><div id=td_uid_6_58b2329c23d8e class="td_block_inner td-column-1">
+        <div class="td_module_mx1 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://scienmag.com/advancing-manufacturing-innovation-on-campus-and-online/" rel="bookmark" title="Advancing manufacturing innovation on campus and online"><img width="356" height="220" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/10/penny-pritzker-rafael-reif-mit-innovation_0-356x220.jpg" alt="" title="Advancing manufacturing innovation on campus and online"/></a></div>
+            <div class="td-module-meta-info">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/advancing-manufacturing-innovation-on-campus-and-online/" rel="bookmark" title="Advancing manufacturing innovation on campus and online">Advancing manufacturing innovation on campus and online</a></h3>                <div class="td-editor-date">
+                    <a href="https://scienmag.com/category/featured/bioengineering/" class="td-post-category">Bioengineering</a>                    <span class="td-author-date">
+                        <span class="td-post-author-name"><a href="https://scienmag.com/author/admin/">Scienmag</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-10-07T20:05:37+00:00" >October 7, 2016</time></span>                    </span>
+                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx2 td_module_wrap td-animation-stack">
+
+            <div class="td-module-thumb"><a href="https://scienmag.com/research-discovers-mechanism-that-causes-cancer-cells-to-escape-from-the-immune-system/" rel="bookmark" title="Research discovers mechanism that causes cancer cells to escape from the immune system"><img width="80" height="60" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/05/115137_web-80x60.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/05/115137_web-80x60.jpg 80w, https://scienmag.com/wp-content/uploads/2016/05/115137_web-265x198.jpg 265w" sizes="(max-width: 80px) 100vw, 80px" alt="" title="Research discovers mechanism that causes cancer cells to escape from the immune system"/></a></div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/research-discovers-mechanism-that-causes-cancer-cells-to-escape-from-the-immune-system/" rel="bookmark" title="Research discovers mechanism that causes cancer cells to escape from the immune system">Research discovers mechanism that causes cancer cells to escape from the immune system</a></h3>                <div class="td-module-meta-info">
+                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-05-10T15:58:03+00:00" >May 10, 2016</time></span>                                    </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx2 td_module_wrap td-animation-stack">
+
+            <div class="td-module-thumb"><a href="https://scienmag.com/energy-from-cellphone-towers-amplify-pain-in-amputees-ut-dallas-study-finds/" rel="bookmark" title="Energy from cellphone towers amplify pain in amputees, UT Dallas study finds"><img width="80" height="60" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/02/108170_web-80x60.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/02/108170_web-80x60.jpg 80w, https://scienmag.com/wp-content/uploads/2016/02/108170_web-265x198.jpg 265w" sizes="(max-width: 80px) 100vw, 80px" alt="" title="Energy from cellphone towers amplify pain in amputees, UT Dallas study finds"/></a></div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/energy-from-cellphone-towers-amplify-pain-in-amputees-ut-dallas-study-finds/" rel="bookmark" title="Energy from cellphone towers amplify pain in amputees, UT Dallas study finds">Energy from cellphone towers amplify pain in amputees, UT Dallas study finds</a></h3>                <div class="td-module-meta-info">
+                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-02-03T15:39:59+00:00" >February 3, 2016</time></span>                                    </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx2 td_module_wrap td-animation-stack">
+
+            <div class="td-module-thumb"><a href="https://scienmag.com/researchers-use-single-molecule-of-dna-to-create-worlds-smallest-diode/" rel="bookmark" title="Researchers use single molecule of DNA to create world&#8217;s smallest diode"><img width="80" height="60" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/04/112479_web-80x60.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/04/112479_web-80x60.jpg 80w, https://scienmag.com/wp-content/uploads/2016/04/112479_web-265x198.jpg 265w" sizes="(max-width: 80px) 100vw, 80px" alt="" title="Researchers use single molecule of DNA to create world&#8217;s smallest diode"/></a></div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/researchers-use-single-molecule-of-dna-to-create-worlds-smallest-diode/" rel="bookmark" title="Researchers use single molecule of DNA to create world&#8217;s smallest diode">Researchers use single molecule of DNA to create world&#8217;s smallest diode</a></h3>                <div class="td-module-meta-info">
+                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-04-04T17:49:35+00:00" >April 4, 2016</time></span>                                    </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx2 td_module_wrap td-animation-stack">
+
+            <div class="td-module-thumb"><a href="https://scienmag.com/study-93-percent-of-advanced-leukemia-patients-in-remission-after-immunotherapy/" rel="bookmark" title="Study: 93 percent of advanced leukemia patients in remission after immunotherapy"><img width="80" height="60" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/04/114278_web-80x60.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/04/114278_web-80x60.jpg 80w, https://scienmag.com/wp-content/uploads/2016/04/114278_web-265x198.jpg 265w" sizes="(max-width: 80px) 100vw, 80px" alt="" title="Study: 93 percent of advanced leukemia patients in remission after immunotherapy"/></a></div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://scienmag.com/study-93-percent-of-advanced-leukemia-patients-in-remission-after-immunotherapy/" rel="bookmark" title="Study: 93 percent of advanced leukemia patients in remission after immunotherapy">Study: 93 percent of advanced leukemia patients in remission after immunotherapy</a></h3>                <div class="td-module-meta-info">
+                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-04-27T19:00:56+00:00" >April 27, 2016</time></span>                                    </div>
+            </div>
+
+        </div>
+
+        </div></div> <!-- ./block -->
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<span class="td-adspot-title">- Advertisement -</span><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<span class="td-adspot-title">- Advertisement -</span><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<span class="td-adspot-title">- Advertisement -</span><ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<span class="td-adspot-title">- Advertisement -</span><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1103554060349003" data-ad-slot="3905542493"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+<div class="td-footer-wrapper">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+			    		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 td_uid_9_58b2329c2af7a_rand td-pb-border-top"  data-td-block-uid="td_uid_9_58b2329c2af7a" ><script>var block_td_uid_9_58b2329c2af7a = new tdBlock();
+block_td_uid_9_58b2329c2af7a.id = "td_uid_9_58b2329c2af7a";
+block_td_uid_9_58b2329c2af7a.atts = '{"limit":3,"sort":"featured","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"EDITOR PICKS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_9_58b2329c2af7a_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_9_58b2329c2af7a_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_9_58b2329c2af7a.td_column_number = "1";
+block_td_uid_9_58b2329c2af7a.block_type = "td_block_7";
+block_td_uid_9_58b2329c2af7a.post_count = "3";
+block_td_uid_9_58b2329c2af7a.found_posts = "1223";
+block_td_uid_9_58b2329c2af7a.header_color = "";
+block_td_uid_9_58b2329c2af7a.ajax_pagination_infinite_stop = "";
+block_td_uid_9_58b2329c2af7a.max_num_pages = "408";
+tdBlocksArray.push(block_td_uid_9_58b2329c2af7a);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>EDITOR PICKS</span></h4></div><div id=td_uid_9_58b2329c2af7a class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/breakthrough-with-a-chain-of-gold-atoms/" rel="bookmark" title="Breakthrough with a chain of gold atoms"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/gold-atoms-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/gold-atoms-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2017/02/gold-atoms-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Breakthrough with a chain of gold atoms"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/breakthrough-with-a-chain-of-gold-atoms/" rel="bookmark" title="Breakthrough with a chain of gold atoms">Breakthrough with a chain of gold atoms</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-17T14:56:19+00:00" >February 17, 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/a-new-spin-on-electronics/" rel="bookmark" title="A new spin on electronics"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2017/02/A-new-spin-on-electronics-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2017/02/A-new-spin-on-electronics-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2017/02/A-new-spin-on-electronics-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="A new spin on electronics"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/a-new-spin-on-electronics/" rel="bookmark" title="A new spin on electronics">A new spin on electronics</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-15T16:22:23+00:00" >February 15, 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/how-depression-can-muddle-thinking/" rel="bookmark" title="How depression can muddle thinking"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/02/Depression-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/02/Depression-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2016/02/Depression-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="How depression can muddle thinking"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/how-depression-can-muddle-thinking/" rel="bookmark" title="How depression can muddle thinking">How depression can muddle thinking</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-15T16:11:50+00:00" >February 15, 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 td_uid_10_58b2329c2edf3_rand td-pb-border-top"  data-td-block-uid="td_uid_10_58b2329c2edf3" ><script>var block_td_uid_10_58b2329c2edf3 = new tdBlock();
+block_td_uid_10_58b2329c2edf3.id = "td_uid_10_58b2329c2edf3";
+block_td_uid_10_58b2329c2edf3.atts = '{"limit":3,"sort":"popular","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"POPULAR POSTS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_10_58b2329c2edf3_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_10_58b2329c2edf3_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_10_58b2329c2edf3.td_column_number = "1";
+block_td_uid_10_58b2329c2edf3.block_type = "td_block_7";
+block_td_uid_10_58b2329c2edf3.post_count = "3";
+block_td_uid_10_58b2329c2edf3.found_posts = "28778";
+block_td_uid_10_58b2329c2edf3.header_color = "";
+block_td_uid_10_58b2329c2edf3.ajax_pagination_infinite_stop = "";
+block_td_uid_10_58b2329c2edf3.max_num_pages = "9593";
+tdBlocksArray.push(block_td_uid_10_58b2329c2edf3);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>POPULAR POSTS</span></h4></div><div id=td_uid_10_58b2329c2edf3 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/common-additive-may-be-why-you-have-food-allergies/" rel="bookmark" title="Common additive may be why you have food allergies"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/07/eggs-mayo-mayonnaise-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/07/eggs-mayo-mayonnaise-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2016/07/eggs-mayo-mayonnaise-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Common additive may be why you have food allergies"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/common-additive-may-be-why-you-have-food-allergies/" rel="bookmark" title="Common additive may be why you have food allergies">Common additive may be why you have food allergies</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-07-11T16:25:17+00:00" >July 11, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/" rel="bookmark" title="Cannabinoids remove plaque-forming Alzheimer&#8217;s proteins from brain cells"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/06/118685_web-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/06/118685_web-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2016/06/118685_web-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Cannabinoids remove plaque-forming Alzheimer&#8217;s proteins from brain cells"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/" rel="bookmark" title="Cannabinoids remove plaque-forming Alzheimer&#8217;s proteins from brain cells">Cannabinoids remove plaque-forming Alzheimer&#8217;s proteins from brain cells</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-29T15:55:49+00:00" >June 29, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://scienmag.com/alzheimers-disease-found-to-be-a-diabetic-disorder-of-the-brain/" rel="bookmark" title="Alzheimer&#8217;s disease found to be a diabetic disorder of the brain"><img width="100" height="70" class="entry-thumb" src="https://scienmag.com/wp-content/uploads/2016/11/126582_web-100x70.jpg" srcset="https://scienmag.com/wp-content/uploads/2016/11/126582_web-100x70.jpg 100w, https://scienmag.com/wp-content/uploads/2016/11/126582_web-300x211.jpg 300w, https://scienmag.com/wp-content/uploads/2016/11/126582_web-218x150.jpg 218w, https://scienmag.com/wp-content/uploads/2016/11/126582_web-696x490.jpg 696w, https://scienmag.com/wp-content/uploads/2016/11/126582_web-1068x752.jpg 1068w, https://scienmag.com/wp-content/uploads/2016/11/126582_web.jpg 720w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Alzheimer&#8217;s disease found to be a diabetic disorder of the brain"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://scienmag.com/alzheimers-disease-found-to-be-a-diabetic-disorder-of-the-brain/" rel="bookmark" title="Alzheimer&#8217;s disease found to be a diabetic disorder of the brain">Alzheimer&#8217;s disease found to be a diabetic disorder of the brain</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-11-09T14:43:26+00:00" >November 9, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_popular_categories td_uid_11_58b2329c4b30b_rand widget widget_categories td-pb-border-top"  data-td-block-uid="td_uid_11_58b2329c4b30b" ><h4 class="block-title"><span>POPULAR CATEGORY</span></h4><ul class="td-pb-padding-side"><li><a href="https://scienmag.com/category/news/medicine-health/">Medicine &amp; Health<span class="td-cat-no">5098</span></a></li><li><a href="https://scienmag.com/category/news/biology/">Biology<span class="td-cat-no">4287</span></a></li><li><a href="https://scienmag.com/category/news/chemistry-and-physics/">Chemistry AND Physics<span class="td-cat-no">4045</span></a></li><li><a href="https://scienmag.com/category/news/technology-and-engineering/">Technology and Engineering<span class="td-cat-no">3191</span></a></li><li><a href="https://scienmag.com/category/news/cancer/">Cancer<span class="td-cat-no">2084</span></a></li><li><a href="https://scienmag.com/category/news/earth-science/">Earth Science<span class="td-cat-no">2083</span></a></li><li><a href="https://scienmag.com/category/news/business/">Business<span class="td-cat-no">2063</span></a></li><li><a href="https://scienmag.com/category/news/agriculture/">Agriculture<span class="td-cat-no">1847</span></a></li><li><a href="https://scienmag.com/category/news/space-planetary-science/">Space &amp; Planetary Science<span class="td-cat-no">989</span></a></li></ul></div> <!-- ./block -->                            </div>
+        </div>
+    </div>
+    <div class="td-footer-bottom-full">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://scienmag.com/"><img class="td-retina-data" src="https://scienmag.com/wp-content/uploads/2016/03/logo-3.png" data-retina="https://scienmag.com/wp-content/uploads/2016/03/logo-3.png" alt="" title=""/></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>Scienmag is your science news website. We provide you with the latest breaking science news.<div class="footer-email-wrap">Contact us: <a href="/cdn-cgi/l/email-protection#3851565e57784b5b515d5655595f165b5755"><span class="__cf_email__" data-cfemail="5930373f36192a3a303c3734383e773a3634">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/scienmag" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://plus.google.com/108861308596474028527" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/scienmag/" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/scienmag" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></aside></div>            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                                        </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy; Copyright 2016 - Scienmag                </div>
+            </div>
+        </div>
+    </div>
+</div><!--close td-outer-wrap-->
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 7.6 (rara)
+        Deploy mode: deploy
+        
+        uid: 58b2329c4c0a4
+    -->
+
+    <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.6'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://scienmag.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+                jQuery().ready(function jQuery_ready() {
+                    tdAjaxCount.tdGetViewsCountsAjax("post","[1519570]");
+                });
+            
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://scienmag.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://scienmag.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.6',blog:'73899611',post:'1519570',tz:'0',srv:'scienmag.com'} ]);
+	_stq.push([ 'clickTrackerInit', '73899611', '1519570' ]);
+</script>
+
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

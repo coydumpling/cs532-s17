@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+  <html lang="en-AU">
+
+  <head>
+    <title>Mem Fox, Australian author, gets apology after being wrongfully detained at LA airport - Donald Trump&#039;s America - ABC News (Australian Broadcasting Corporation)</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-mobile-web-app-title" content="ABC News"/>
+  <meta name="DCSext.LocalRegion" content="adelaide"/><link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2017-02-25/mem-fox-detained-at-los-angeles-airport-by-us-officials/8303366?pfmredir=sm" />
+
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://mobile.abc.net.au/cm/cb/4355908/News+iOS+76x76/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://mobile.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://mobile.abc.net.au/cm/cb/4355926/News+iOS+152x152/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://mobile.abc.net.au/cm/cb/4355930/News+iOS+180x180/data.png" />
+          <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/bundles/2.0.5/styles/abc.bundle.2.0.5.min.css" media="screen, projection"/>
+  <link rel="stylesheet" type="text/css" href="http://mobile.abc.net.au/res/sites/news/styles/min/abc.news.mobile.css?2016-10-21" media="all"/>
+  </head>
+
+  <body class="platform-mobile">
+
+  <header>
+    <!--noindex-->
+<!-- Start ABC Bundle Header 2.0.5 -->
+<nav id="abcHeader" class="global" role="navigation" aria-label="ABC Network Navigation" data-resourcebase="http://www.abc.net.au/res/bundles/2.0.5/" data-scriptsbase="http://www.abc.net.au/res/bundles/2.0.5/scripts/" data-version="2.0.5">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/logo-abc@2x.png" width="72" height="18" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://mobile.search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!-- End ABC Bundle Header 2.0.5 -->
+<!--endnoindex-->
+<nav class="site">
+    <a href="/news/" class="home">ABC News</a><div class="menu">
+      <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/donald-trumps-america/">Trump&#039;s America</a></li>
+  <li>
+      <a href="/news/australia/">Australia</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/live/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a href="http://www.abc.net.au/news/2017-02-25/mem-fox-detained-at-los-angeles-airport-by-us-officials/8303366?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></div>
+  </nav>
+<div class="section">
+        <p><a href="/news/donald-trumps-america/">Donald Trump&#039;s America</a></p>
+      </div>
+    </header>
+
+  <div class="content">
+    <article>
+    <header>
+      <h1>Mem Fox, Australian author, gets apology after being wrongfully detained at LA airport</h1>
+        <time class="updated" datetime="Sat Feb 25 15:33:41 EST 20:17">
+            <small>Updated</small>
+            Sat Feb 25 15:33:41 EST 2017</time>
+    </header>
+  <figure class="type-photo">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="media present-image">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <a href="http://www.abc.net.au/news/image/8303488-3x2-700x467.jpg"><img src="http://www.abc.net.au/news/image/8303488-3x2-460x307.jpg" alt="Australian author Mem Fox poses for photographs in Sydney." title="Australian author Mem Fox poses for photographs in Sydney" width="460" height="307"/></a>
+</div>
+<figcaption>
+    <strong>Photo</strong>
+  <p class="caption richtext">Author Mem Fox has made many trips to the US but doubts she will ever go there again. </p>
+  <span class="attribution richtext">AAP: Tracey Nearmy</span>
+  </figcaption>
+</figure>
+<div class="story richtext">
+      <p>Australian author Mem Fox has received a written apology from the United States after what she said was a traumatic detention by immigration officials at Los Angeles Airport.</p><aside class="embed-wysiwyg richtext">
+            <h2>Key points:</h2><ul><li>Author says she collapsed and sobbed after her immigration ordeal</li><li>Her complaint to US embassy officials brought a swift written apology</li><li>She expressed fears Australia might also become less welcoming</li></ul></aside><p> </p><p>Fox, who was questioned by Customs and Border Protection officers for two hours earlier this month as she was on her way to Milwaukee to address a conference, said she collapsed and sobbed at her hotel after she was released.</p><p>She said the border agents appeared to have been given "turbocharged power" by an executive order <a href="/news/2017-01-28/donald-trump-signs-orders-limiting-refugee-intake/8219644" target="_self" title="">signed by President Donald Trump</a> to "humiliate and insult" a room full of people they detained to check visas.</p><p>That executive order was eventually <a href="/news/2017-02-04/donald-trumps-travel-ban-temporarily-blocked/8241266" target="_self" title="">halted by Federal Courts</a> and it was expected a new order would be signed this week, designed to avoid the confusion caused by the original.</p><p>"I have never in my life been spoken to with such insolence, treated with such disdain, with so many insults and with so much gratuitous impoliteness," Fox said.</p><blockquote class="quote--pullquote"><p>"The entire interview took place with me standing, with my back to a room full of people in total public hearing and view — it was disgraceful.</p></blockquote><p>"I felt like I had been physically assaulted which is why, when I got to my hotel room, I completely collapsed and sobbed like a baby, and I'm 70 years old."</p><aside class="embed-wysiwyg richtext">
+            <h2><a href="/radionational/programs/showcase/features/swan-songs/swan-songs3a-mem-fox/6546718" target="_self" title="">Mem Fox on Swan Songs</a></h2><a href="/radionational/programs/showcase/features/swan-songs/swan-songs3a-mem-fox/6546718" target="_self" title=""><img alt="" class="float--none" src="/cm/lb/8303606/data/mem-fox-teaser-box-picture-data.jpg"/> </a> <br/><a href="/radionational/programs/showcase/features/swan-songs/swan-songs3a-mem-fox/6546718" target="_self" title="">The author has seen enormous success, but has also had her share of rejections and personal trials. She speaks to the ABC's Julia Baird about resilience and her natural enthusiasm.</a></aside><p> </p><p>Fox, whose books include classics such as Possum Magic and Ten Little Fingers and Ten Little Toes, said she was questioned about her visa status, even though she had travelled to the United States 116 times previously without incident.</p><p>"My heart was pounding so hard as I was waiting to be interviewed, because I was observing what was happening to everybody else in the room," she said.</p><p>"They accused me of coming in on the wrong visa and they were totally wrong about that.</p><blockquote class="quote--pullquote"><p>"The person who interviewed me was heavy with weaponry, was totally dressed in black with the word 'police' in hand-sized letters across his chest."</p></blockquote><h2>Author complained and got 'charming' response</h2><p>The author lodged a complaint with the Australian embassy in Washington, and later one with the United States embassy in Canberra to which she received an emailed letter of apology.</p><p>"I said any decent American would have been shocked to the core by what had happened, it was so dreadful," Fox said.</p><aside class="embed-wysiwyg richtext">
+            <h2>Popular books by Mem Fox:</h2><ul><li>Possum Magic (1983)</li><li>Koala Lou (1988)</li><li>Time for Bed (1993)</li><li>Tough Boris (1994)</li><li>Sleepy Bears (1999)</li><li>Where is the Green Sheep? (2004)</li><li>Ten Little Fingers and Ten Little Toes (2008)</li><li>I'm Australian Too (2017)</li></ul></aside><p> </p><p>"And I had an absolutely charming letter from them within hours of my email hitting their desk."</p><p>The author said she was unlikely to visit the United States again despite the friendliness of ordinary Americans.</p><blockquote class="quote--pullquote"><p>"At the moment I'm in so much shock about it, I can't imagine going back to the states," she said.</p></blockquote><p>"I'd hate not to go back to the states because it's been so good to me and Americans in general are not [like] the border police at LA airport."</p><p>She said the treatment of others in the airport holding room, including Iranians, Taiwanese and a Scandinavian parent with a small child, was just as poor, and all appeared to eventually have been released.</p><p>"I thought: 'How can human beings treat other vulnerable human beings in this fashion, in public, in full view of everybody?'</p><p>Embassy officials have a policy of not discussing individual cases due to privacy requirements.</p><p>The author's treatment by US border officials was condemned by many Australians on social media and her name was trending on Twitter.</p><figure class="embed-content">
+        <article class="type-external image-none">
+    <a href="https://twitter.com/ParrotOfTheDay/status/835334819861016576"><h3>
+        <strong>External Link</strong>
+        Parrot Of The Day: Latest book by Australian Mem Fox - detained and questioned at LAX - is about welcoming #refugees and #immigrants</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</figure><p> </p><h2>Fox worried about Australian attitudes</h2><p>Fox also said she feared Australia was heading down the same unwelcoming pathway as the US appeared to be.</p><blockquote class="quote--pullquote"><p>"I'm very frightened that Australia will go the same way as America, with extremists in power, racist hatred, ghastly speech against decent people," she said.</p></blockquote><p>"I have written a new book which is about, ironically, welcoming strangers to a strange land — Australia — and I wrote it because I perceived that Australia was losing its gorgeous warmth of character in our attitude to newcomers.</p><p>"The irony is that this happened to me at about the same time as I was about to publish this 'welcome to Australia' book."</p><figure class="embed-content">
+        <article class="type-external image-none">
+    <a href="https://storify.com/abcnews/disbelief-over-mem-fox-detainment"><h3>
+        <strong>External Link</strong>
+        Storify: Disbelief over Mem Fox detainment</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</figure><p> </p></div>
+  <footer>
+      <time class="original" datetime="Sat Feb 25 11:11:35 EST 20:17">
+            <small>Posted</small>
+            Sat Feb 25 11:11:35 EST 2017</time>
+    </footer>
+   <div class="share">
+    <h2>Share</h2>
+    <a class="email" href="mailto:?subject=Mem%20Fox%2c%20Australian%20author%2c%20gets%20apology%20after%20being%20wrongfully%20detained%20at%20LA%20airport&body=http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-25%2fmem-fox-detained-at-los-angeles-airport-by-us-officials%2f8303366%3fpfmredir%3dsm">Email</a>
+    <a class="facebook" target="_blank" href="http://www.facebook.com/sharer.php?t=Mem+Fox%2c+Australian+author%2c+gets+apology+after+being+wrongfully+detained+at+LA+airport&u=http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-25%2fmem-fox-detained-at-los-angeles-airport-by-us-officials%2f8303366%3fpfmredir%3dsm">Facebook</a>
+    <a class="twitter" target="_blank" href="http://twitter.com/home?status=Mem+Fox%2c+Australian+author%2c+gets+apology+after+being+wrongfully+detained+at+LA+airport+http%3a%2f%2fwww.abc.net.au%2fnews%2f2017-02-25%2fmem-fox-detained-at-los-angeles-airport-by-us-officials%2f8303366%3fpfmredir%3dsm+%40abcnews">Twitter</a>
+  </div>
+<aside class="related image-omit">
+        <h2>Related</h2>
+        <article >
+    <a href="/news/2016-02-11/mem-fox-encourages-parents-to-read-to-children-from-infancy/7160068"><h3>
+        Mem Fox encourages parents to read to children</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-19/travel-ban-order-to-spare-green-card-holders-donald-trump/8283780"><h3>
+        New Trump travel ban to spare green card holders: Homeland Security chief</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</aside>
+    </article>
+
+  <section class="image-omit">
+      <h2>More Stories</h2>
+      <article >
+    <a href="/news/2017-02-26/donald-trump-post-victory-euphoria-fades-in-russia/8300074"><h3>
+        Has Russia changed its tone toward Donald Trump?</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/muhammad-ali-jr-detained-at-florida-airport/8304346"><h3>
+        Border agents to Muhammad Ali&#039;s son: &#039;Are you Muslim?&#039;</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/james-oconnor-arrested-in-paris-allegedly-buying-cocaine/8304404"><h3>
+        Former Wallabies player James O&#039;Connor arrested in Paris </h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/blue-mountains-pollution-mine-wollangambe-river/8303644"><h3>
+        Mine pollution turning Blue Mountains river into &#039;waste disposal&#039;</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/trump-decides-to-skip-white-house-press-dinner/8304392"><h3>
+        Trump decides to skip White House press dinner</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/childhood-stroke-leaves-lifelong-challenges-for-its-victims/8300290"><h3>
+        Childhood stroke victim fears medication subsidy cuts leave her at risk</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/tennant-creek-locals-health-checks-after-asbestos-revelations/8302406"><h3>
+        Tennant Creek residents want health checks after asbestos revelations</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/steve-smith-looking-to-take-momentum-through-india-series/8303932"><h3>
+        Unscarred Aussie side able to thrive in India, Smith says</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/government-attack-after-speaker-deputy-resign/8304360"><h3>
+        Victoria&#039;s Premier promises changes after &#039;appalling&#039; abuse of entitlements</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/transgender-clinic-medical-services-gap-nt/8293440"><h3>
+        Unique clinic highlights NT&#039;s transgender health care gap</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/iraqi-forces-push-deeper-into-western-mosul-as-civilians-flee/8303998"><h3>
+        Iraqi forces push deeper into Mosul as civilians flee, &#039;most dangerous phase&#039; about to begin</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/razzies-hillarys-america-and-batman-v-superman-top-anti-awards/8304370"><h3>
+        Batman v Superman and Hillary&#039;s America top Razzies</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-25/woman-says-she-was-paid-120-for-kim-jong-nams-alleged-killing/8303848"><h3>
+        Indonesian woman &#039;paid $120&#039; for Kim Jong-nam&#039;s assassination</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2017-02-26/are-selective-schools-the-best-place-for-gifted-students/8296082"><h3>
+        Are selective schools the best place for gifted students?</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</section>
+  </div>
+
+  <footer>
+    <nav class="site">
+    <h2>More from ABC News</h2>
+    <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/donald-trumps-america/">Trump&#039;s America</a></li>
+  <li>
+      <a href="/news/australia/">Australia</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/live/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a class="top" href="#">Top of page</a>
+    <a href="http://www.abc.net.au/news/2017-02-25/mem-fox-detained-at-los-angeles-airport-by-us-officials/8303366?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></nav>
+<nav class="global">
+        <ul>
+          <li><a href="/news/">ABC News</a></li>
+    <li><a href="/news/justin/">Just In</a></li>
+    <li><a href="/news/australia/">Australia</a></li>
+    <li><a href="/news/world/">World</a></li>
+    <li><a href="/news/business/">Business</a></li>
+    <li><a href="/news/entertainment/">Entertainment</a></li>
+    <li><a href="/news/sport/">Sport</a></li>
+    <li><a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+    <li><a href="/news/weather/">Weather</a></li>
+    <li><a href="/news/topics/">Topics</a></li>
+    <li><a href="/news/archive/">Archive</a></li>
+    <li><a href="/news/corrections/">Corrections &amp; Clarifications</a></li>
+    </ul>
+      </nav>
+    </footer>
+
+  <script type="text/javascript" src="http://mobile.abc.net.au/res/libraries/jquery/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile-1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile.media-1.0.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/sites/news/scripts/min/abc.news.mobile.js?2016-10-21"></script>
+    <!--noindex-->
+<!-- Start ABC Bundle Footer 2.0.5 -->
+<nav id="abcFooter" class="global" role="navigation" aria-label="ABC Footer Navigation" data-version="2.0.5">
+ <ul>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm" data-mobile="http://www.abc.net.au/conditions.htm">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/" data-mobile="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/contact/" data-mobile="http://www.abc.net.au/contact/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm#UseOfContent" data-mobile="http://www.abc.net.au/conditions.htm#UseOfContent">&copy; <time>2016</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/abc.bundle.2.0.5.min.js"></script>
+<script type="text/javascript" src="//www.abc.net.au/res/libraries/stats/abc.stats.js"></script>
+<noscript>
+ <img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au">
+</noscript>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+try {
+  var pvar = { cid: "abc-aust", content: "0", server: "secure-au" };
+  var trac = nol_t(pvar);
+  trac.record().post();
+} catch (er) {
+  // do nothing
+}
+</script>
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- End ABC Bundle Footer 2.0.5 -->
+<!--endnoindex-->
+</body>
+
+  </html>

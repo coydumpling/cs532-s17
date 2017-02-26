@@ -1,0 +1,3048 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMEU1BRDhAEUFVRAgkCVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+	<!-- Static common meta tag for all the views -->
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+		<link rel='dns-prefetch' href='//optimized-by.rubiconproject.com'>
+	<link rel='dns-prefetch' href='//fastlane.rubiconproject.com'>
+	<link rel="preload" href="//www.googletagservices.com/tag/js/gpt.js" as="script">
+	<link rel="preload" href="//c.amazon-adsystem.com/aax2/amzn_ads.js" as="script">
+	<link rel="preload" href="https://www.thesun.co.uk/wp-content/themes/thesun/js/head.js" as="script">
+	<link rel="preload" href="//static.criteo.net/js/ld/publishertag.js" as="script">
+<title>Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn's Labour off the map</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="C0q6rLPIDXHU7PcyZ9CmiFRLM46bbWgS4qxZ-woBItM" />
+<meta name="p:domain_verify" content="c061a8052bd9e93315b7f01447fa4124" />
+<link rel='dns-prefetch' href='//cdn.livefyre.com' />
+<link rel='dns-prefetch' href='//c.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//player.ooyala.com' />
+<link rel='dns-prefetch' href='//widgets.outbrain.com' />
+<link rel='dns-prefetch' href='//video.unrulymedia.com' />
+<link rel='dns-prefetch' href='//s.skimresources.com' />
+<link rel='dns-prefetch' href='//prod-sunbets-widgets.s3-eu-west-1.amazonaws.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Feed" href="https://www.thesun.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Comments Feed" href="https://www.thesun.co.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Sun &raquo; Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn&#8217;s Labour off the map Comments Feed" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/feed/" />
+<meta name='description' content='MRS May has told aides she wants to exploit Mr Corbyn&#039;s weakness by &#039;slowly turning the screw&#039; until 2020' />
+<meta name='keywords' content='theresa may, jeremy corbyn, labour, conservatives,' />
+<meta name='news_keywords' content='theresa may, jeremy corbyn, labour, conservatives,' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thesun.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='thesun-ooyala-skin-css'  href='//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.css?ver=v4' type='text/css' media='' />
+<link rel='stylesheet' id='all-css-2' href='https://www.thesun.co.uk/_static/??/wp-content/themes/thesun/css/swiper.css,/wp-content/themes/thesun/css/style.css?m=1487860536' type='text/css' media='all' />
+<link rel='stylesheet' id='thesun-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CRoboto+Slab&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4' href='https://www.thesun.co.uk/_static/??-eJyNjMsKwjAQRX+o6WBpNBvpp5QwCXE0mQlOQvHvfYALN8XduXDOha0aFG6RG5Ruau6JWOEaW/V4gyKh56igF3+PwYfw+CBxGlF1gP16JUZQQfLZZEmiP2MsxP+8vJQvv/WlnA+zO1pnT5N9AjsQRqs=' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/plugins/livefyre-apps/assets/js/lfapps.js?m=1482708365g'></script>
+<script type='text/javascript' src='https://cdn.livefyre.com/Livefyre.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_ad_settings = {"providers":[{"bidder":"rubicon","params":{"accountId":"7753","siteId":"15119","zoneId":"445790"}},{"bidder":"appnexus","params":{"placementId":"6546370"}},{"bidder":"criteo","params":{"accountId":"4713"}},{"bidder":"amazon","params":{"accountId":"3360"}},{"bidder":"pubmatic","params":{"publisherId":"156034","adSlotPrefix":"TheSun"}},{"bidder":"indexExchange","params":{"siteID":"188806"}}],"prebid_timeout":"2000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/themes/thesun/js/generic.js?m=1482708365g'></script>
+<script type='text/javascript' async="async" onload="try { amznads.getAdsAsync(3360); } catch(e) { console.error(e); }" src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript' async="async" onload="try { Criteo.CallRTA({'networkid' : '4713'}); Criteo.SetTargeting({'adserver' : 'DFP'}); } catch(e) { console.error(e); }" src='//static.criteo.net/js/ld/publishertag.js'></script>
+<script type='text/javascript' async="async" src='//www.googletagservices.com/tag/js/gpt.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_googletag = {"networkID":"3048","dfpSiteID":"d.thesun","sectionID":"news\/politics","path":"\/news\/2956495\/theresa-may-labour-off-the-map-jeremy-corbyn\/","sec_id":"318","sec":"art","topics":"jeremy-corbyn,theresa-may,conservative-party,labour,labour-leadership,labour-party","kw":"theresa,may,plans,threeyear,war,to,target,70,seats,and,wipe,jeremy,corbyns,labour,off,the,map,by,david,wooding,sunday,political,editor,campaigners,will,work,relentlessly,in,marginal,labours,goodbye,election,news,politics,jeremycorbyn,theresamay","aid":"2956495","search":"null","article_type":"post","hide_ads":"","article_slug":"Exclusive"};
+var utag_data = {"page_site_name":"the sun","amp_page_site_name":"the sun amp","page_site_region":"uk","page_restrictions":"public","page_name":"article: Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn's Labour off the map","page_section":"News","page_section_id":"316","page_section_2":"News:Politics","page_section_2_id":"318","page_type":"article","article_name":"Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn's Labour off the map","article_publish_timestamp":"2017\/02\/26 00:42 Sunday","article_id":"2956495","article_author":"By DAVID WOODING, Sunday Political Editor","article_id_type":"wordpress","article_tag_name":"Exclusive","page_tags":"Jeremy Corbyn,Theresa May,Conservative Party,Labour,Labour leadership,Labour Party","article_publish_latest":"2017\/02\/26 01:31 Sunday","article_name_latest":"Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn\u2019s Labour off the map","article_kicker_name":"LABOUR'S GOODBYE ELECTION"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+
+		var pbjs = pbjs || {};
+		pbjs.que = pbjs.que || [];
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/themes/thesun/js/head.js?m=1484818953g'></script>
+<script type='text/javascript'>
+		var gs_channels="DEFAULT";
+		(function() {
+			var gsurl=window.location!=window.top.location?document.referrer:window.location;
+			var s=document.createElement('script');
+			s.async=true;
+			s.onload=function(){
+				googletag.cmd.push(function() {
+					googletag.pubads().setTargeting("gs_cat", gs_channels);
+				});
+			}
+			s.src='//newscorp.grapeshot.co.uk/thesun/channels.cgi?url=' +encodeURIComponent(gsurl);
+			document.head.appendChild(s);
+		})();
+</script>
+<script type='text/javascript' async="async" src='https://www.thesun.co.uk/wp-content/themes/thesun/js/vendor/prebid.min.js'></script>
+<script type='text/javascript' src='https://www.thesun.co.uk/wp-content/themes/thesun/js/Imager.js?m=1482708365g'></script>
+<script type='text/javascript' async="async" src='https://widgets.outbrain.com/outbrain.js'></script>
+<script type='text/javascript' async="async" src='https://video.unrulymedia.com/native/native-loader.js'></script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??-eJyFjUEOwiAQRS9UGA3Y6MJ4FkoHhchgGdD09qUJcamrt/jv5cPnJWyiglSgPDAi7+BKEBhcG5yxmCbG/MYsoycZeIBfUcPe8TfqgSf7rHNTmxOWinnt+CuI6O/ZFOz3t3g96vNJj4eLUmEDBn9IDw=='></script>
+<link rel='https://api.w.org/' href='https://www.thesun.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thesun.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thesun.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="canonical" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/" />
+<link rel='shortlink' href='https://wp.me/p7ygYG-cp7p' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thesun.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F2956495%2Ftheresa-may-labour-off-the-map-jeremy-corbyn%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thesun.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F2956495%2Ftheresa-may-labour-off-the-map-jeremy-corbyn%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style>	<script type="text/javascript">
+		/* Tealium */
+		(function(a, b, c, d) {
+			a = "https://tags.tiqcdn.com/utag/newsinternational/thesun.2016.web/prod/utag.js";
+			b = document;
+			c = 'script';
+			d = b.createElement(c);
+			d.src = a;
+			d.type = 'text/java' + c;
+			d.async = true;
+			a = b.getElementsByTagName(c)[0];
+			a.parentNode.insertBefore(d, a);
+		})();
+	</script>
+	<link rel="amphtml" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/amp/" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PM plans three-year war to target 70 seats and wipe Labour off the map" />
+<meta property="og:url" content="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/" />
+<meta property="og:description" content="PM Theresa May plans a three-year &#8220;soft war&#8221; to kill Labour off. She will target more seats after the Tories’ Copeland by-election triumph. She wants to launch a sustained offensive up …" />
+<meta property="article:published_time" content="2017-02-26T00:42:30+00:00" />
+<meta property="article:modified_time" content="2017-02-26T01:31:31+00:00" />
+<meta property="og:site_name" content="The Sun" />
+<meta property="og:image" content="https://www.thesun.co.uk/wp-content/uploads/2017/02/tp-graphic-goodbye-election.jpg?strip=all&#038;w=750&#038;h=500&#038;crop=1" />
+<meta property="og:image:width" content="750" />
+<meta property="og:image:height" content="500" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="161385360554578" />
+<meta property="article:tag" content="Jeremy Corbyn, Theresa May, Conservative Party, Labour, Labour leadership, Labour Party" />
+<meta property="fb:app_id" content="144647118961553" />
+<meta name="twitter:site" content="@thesun" />
+<meta name="robots" content="noarchive,noodp" />
+<meta property="article:author" content="https://www.facebook.com/SunPolitics/" />
+<meta property="fb:pages" content="161385360554578" />
+<link rel="icon" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all&#038;w=32" sizes="32x32" />
+<link rel="icon" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all&#038;w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all&#038;w=180" />
+<meta name="msapplication-TileImage" content="https://www.thesun.co.uk/wp-content/uploads/2016/04/icon-e1459786005667.png?strip=all&#038;w=270" />
+</head>
+
+<body class="post-template-default single single-post postid-2956495 single-format-standard">
+
+<div class="mobile-top-cover"></div>
+
+<div class="sun-container theme-main theme-news">	<div class="sun-newsuk">
+
+		<div class="close open-newsuk for-mobile"></div>
+
+		<div class="sun-row">
+
+			<div class="col sun-col-6">
+
+				<div class="panel panel--slim">
+					<div class="panel--slim-left">
+						<p>News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.</p>
+					</div>
+					<div class="panel--slim-right">
+						<h3 class="panel__title">Follow The Sun</h3>
+
+						<div class="follow-sun">
+							<a href="https://www.facebook.com/thesun/" class="follow-facebook"><span class="icon icon-facebook"></span></a>
+							<a href="https://twitter.com/thesun?lang=en-gb" class="follow-twitter"><span class="icon icon-twitter"></span></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Your Sun</h3>
+					<ul class="no-columns">
+						<li class="sign-in">
+							<a href="https://login.thesun.co.uk">Sign in</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Editions</h3>
+						<ul class='no-columns'>
+					<li>
+				<a href="https://www.thescottishsun.co.uk/">Scottish Sun</a>
+			</li>
+					<li>
+				<a href="http://www.thesun.ie/">Irish Sun</a>
+			</li>
+			</ul>
+					</div>
+
+				<div class="panel">
+					<h3 class="panel__title">The Sun</h3>
+					<ul id="menu-service-menu" class="menu"><li id="menu-item-1196700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196700"><a href="http://www.thescottishsun.co.uk">The Scottish Sun</a></li>
+<li id="menu-item-1196701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196701"><a href="http://www.thesun.ie">The Irish Sun</a></li>
+<li id="menu-item-1196685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196685"><a href="https://www.dreamteamfc.com/">Dream Team</a></li>
+<li id="menu-item-1542915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542915"><a href="https://www.sunbets.co.uk">Sun Bets</a></li>
+<li id="menu-item-1235296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235296"><a href="http://www.thesun.co.uk/fabulous">Fabulous</a></li>
+<li id="menu-item-1542920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542920"><a href="http://favourite.thesun.co.uk">Sun Favourite</a></li>
+<li id="menu-item-1235284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235284"><a href="http://www.sunmotors.co.uk/">Sun Motors</a></li>
+<li id="menu-item-1235283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235283"><a href="http://www.sunbingo.co.uk/">Sun Bingo</a></li>
+<li id="menu-item-1235315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235315"><a href="http://thesun.inthepaper.co.uk/">Sun Gifts</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half">
+					<h3 class="panel__title">News Corp</h3>
+					<ul id="menu-news-corp-service-menu" class="menu"><li id="menu-item-1196677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196677"><a href="http://www.wsj.com/">WSJ.com</a></li>
+<li id="menu-item-1196678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196678"><a href="http://nypost.com/">New York Post</a></li>
+<li id="menu-item-1196679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196679"><a href="http://www.theaustralian.com.au/">The Australian</a></li>
+<li id="menu-item-1196680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196680"><a href="http://www.news.com.au/">News.com.au</a></li>
+<li id="menu-item-1196681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196681"><a href="https://storyful.com/">Storyful</a></li>
+<li id="menu-item-1196682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196682"><a href="https://www.harpercollins.co.uk/">Harper Collins</a></li>
+<li id="menu-item-1196683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196683"><a href="http://www.realtor.com/">Realtor.com</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half panal--services">
+					<h3 class="panel__title">Services</h3>
+		            <ul id="menu-footer" class="menu"><li id="menu-item-1236019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236019"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-1235852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235852"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1235452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235452"><a href="https://www.thesun.co.uk/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-1237807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1237807"><a href="https://www.thesun.co.uk/admin/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-1235451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235451"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-1388523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388523"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-1235453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235453"><a href="https://www.thesun.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-2313093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2313093"><a href="https://www.thesun.co.uk/commissioning-terms/">Commissioning Terms</a></li>
+<li id="menu-item-1235319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235319"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>				</div>
+
+				<span class="sun-newsuk__button open-newsuk">The Sun, A News UK Company <span class="icon icon-arrow-down icon-arrow-down--dark"></span></span>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-header-bg">
+		<span class="sun-header-bg-color"></span>
+		<div class="back-to-top">
+			<span class="icon icon-back-to-top"></span>
+			<span class="text-top">TOP</span>
+		</div>
+	</div>
+
+	<div class="sun-row sun-header--wrap">
+
+		<div class="col sun-col-2 no-gutters logo">
+			<a href="#" class="mobile-search toggle-mobile-search"><span class="icon icon-search"></span></a>
+
+			<div id="logo"><a href="/"></a></div>
+
+			<div class="mobile-toggles open-newsuk">
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+			</div>
+		</div>
+
+		<div class="col sun-col-2 no-gutters weather">
+			<div class="weather-icon"></div>
+
+			<div class="weather-content">
+				<div class="place open-popup-box"><span class="place-inner">London</span> <span class="icon icon-arrow-down"></span></div>
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<h3>Set your weather</h3>
+
+					<form action="">
+						<div class="input-text-wrap">
+							<input type="text" placeholder="Search for town" />
+						</div>
+
+						<div class="suggestions"></div>
+					</form>
+				</div>
+
+				<div class="temps">
+					<div class="temp now">
+						<span class="nowTitle">Now</span>
+						<span class="nowTemp">0&deg;C</span>
+					</div>
+					<div class="temp later">
+						<span class="laterTitle">9pm</span>
+						<span class="laterTemp">0&deg;C</span>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="col sun-col-2 no-gutters follow">
+
+			<div class="sign-in">
+				<a href="https://login.thesun.co.uk">Sign in <span class="icon icon-avatar"></span></a>
+			</div>
+
+			<div class="edition">
+				<a href="#" class="open-popup-box">UK Edition <span class="icon icon-arrow-down"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+						<ul class=''>
+					<li>
+				<a href="https://www.thescottishsun.co.uk/">Scottish Sun</a>
+			</li>
+					<li>
+				<a href="http://www.thesun.ie/">Irish Sun</a>
+			</li>
+			</ul>
+					</div>
+			</div>
+
+			<div class="search-bar">
+				<a href="#" class="open-popup-box">Search <span class="icon icon-search"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<form action="https://www.thesun.co.uk/">
+						<input type="text" placeholder="Search The Sun" name="s" />
+						<input type="submit" value="Search" />
+					</form>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--search">
+
+		<div class="col sun-col-6 no-gutters">
+
+			<a href="#" class="close-search toggle-mobile-search"><span class="icon icon-close"></span></a>
+
+			<form action="https://www.thesun.co.uk/">
+				<input type="text" placeholder="Search The Sun" name="s" />
+			</form>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--nav">
+
+		<div class="sun-nav-heavy-rule"></div>
+
+		<div id="logo-mini"><a href="/"></a></div>
+
+		<div class="col sun-col-6 no-gutters swiper-container sun-header--nav-wrap">
+			<ul id="sun-menu" class="sun-menu swiper-wrapper"><li id="menu-item-1196686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1196686 swiper-slide theme-main"><a href="https://www.thesun.co.uk/">Home</a></li>
+<li id="menu-item-1196675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196675 swiper-slide theme-football"><a href="https://www.thesun.co.uk/sport/football/">Football</a></li>
+<li id="menu-item-1196672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196672 swiper-slide theme-sport"><a href="https://www.thesun.co.uk/sport/">Sport</a></li>
+<li id="menu-item-1196674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196674 swiper-slide theme-showbiz"><a href="https://www.thesun.co.uk/tvandshowbiz/">TV &amp; Showbiz</a></li>
+<li id="menu-item-1196673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1196673 swiper-slide theme-living"><a href="https://www.thesun.co.uk/living/">Living</a></li>
+<li id="menu-item-1196671" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1196671 swiper-slide theme-news active"><a href="https://www.thesun.co.uk/news/">News</a></li>
+<li id="menu-item-1196806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196806 swiper-slide theme-videos"><a href="https://www.thesun.co.uk/videos">Videos</a></li>
+<li id="menu-item-1926192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1926192 swiper-slide theme-sun-bingo"><a href="https://www.sunbingo.co.uk/">Sun Bingo</a></li>
+<li id="menu-item-1926209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1926209 swiper-slide theme-sun-bets"><a href="https://www.sunbets.co.uk/">Sun Bets</a></li>
+</ul>
+			<div class="swiper-button-prev swiper-button-disabled">
+				<span class="icon icon-arrow-left"></span>
+			</div>
+			<div class="swiper-button-next swiper-button-disabled">
+				<span class="icon icon-arrow-right"></span>
+			</div>
+		</div>
+
+	</div>
+
+<div class="sub-nav__mobile-head theme__background-color">
+	<span class="sub-nav__mobile-head-text">All News</span> <span class="icon icon-arrow-circled-down"></span>
+</div>
+
+<section class="sun-container sub-nav__container theme__background-color">
+	<div class="sun-row no-gutters">
+		<div class="col sun-col-6 no-gutters">
+			<div class="sub-nav">
+
+				<div class="swiper-container theme-main-secondary theme-news-secondary">
+
+					<ul class="swiper-wrapper sub-nav__list">
+						<li class="active sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/" class="theme--secondary__border-color">
+								All News							</a>
+						</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/uknews/" class="theme--secondary__border-color">
+								UK News							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/worldnews/" class="theme--secondary__border-color">
+								World News							</a>
+						</li>
+
+						<li class="active sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/politics/" class="theme--secondary__border-color">
+								Politics							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/techandscience/" class="theme--secondary__border-color">
+								Tech and science							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.co.uk/news/opinion/" class="theme--secondary__border-color">
+								Opinion							</a>
+						</li>
+
+											</ul><!-- .swiper-wrapper .sub-nav__list -->
+
+					<div class="swiper-button-prev theme--secondary__background-before-color theme__background-color swiper-button-disabled">
+						<span class="icon icon-arrow-left icon-arrow-left-white theme__background-color"></span>
+					</div>
+
+					<div class="swiper-button-next theme--secondary__background-before-color theme__background-color swiper-button-disabled">
+						<span class="icon icon-arrow-right icon-arrow-right-white theme__background-color"></span>
+					</div>
+
+				</div><!-- .swiper-container .{theme-slug}-secondary -->
+
+			</div><!-- .sub-nav -->
+		</div><!-- .col .sun-col-6 .no-gutters -->
+	</div><!-- sun-row .no-gutters -->
+</section><!-- .sun-container .sub-nav__container .theme__background-color -->
+
+	<div class="main-content-wrap theme-main has-section-nav">
+
+		
+		
+<div class="billboard">
+	<div class="sun-row">
+		<div class="col sun-col-6">
+							<div class="dfp-ad" id="billboard">
+					<script type="text/javascript">
+						document.addEventListener('DOMContentLoaded', function () {
+							googletag.cmd.push( function() {
+								googletag.display( 'billboard' );
+							} );
+						});
+					</script>
+				</div>
+					</div>
+	</div>
+</div>
+
+		<section class="sun-container__article-section theme-news">
+			
+				<div class="sun-row">
+										<div class="col sun-col-4">
+
+														<article class="article">
+
+								
+<header class="article__header">
+	<div class="article__strapline">
+	</div>
+
+	
+<section class="article__headline-section">
+			<span class="article__kicker theme__copy-color">LABOUR&#039;S GOODBYE ELECTION</span>
+		<h1 class="article__headline">Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn&#8217;s Labour off the map</h1></section>
+
+		<div class="article__subdeck theme__border-color">
+		<p>Campaigners will work relentlessly in marginal Labour seats</p>
+	</div>
+	</header><!-- .article__header -->
+
+<div class="article__meta">
+			<div class="article-slug article-slug--article-page theme__background-color">
+			<span class="article-slug__copy">Exclusive</span>
+		</div>
+	
+	<div class="article__name-date">
+					<div class="article__author theme__copy-color">
+				<span class="article__author-name theme__copy-color">
+					By DAVID WOODING, Sunday Political Editor				</span>
+			</div>
+		
+		<div class="article__published">
+							<span>26th February 2017, 12:42 am</span>
+					</div>
+	</div>
+</div><!-- .article__meta -->
+
+<div class="social social--article">
+
+		<div class="article-social__meta article-social__meta--comment-count-mobile">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="886.2 203.6 42.7 40.4" enable-background="new 886.2 203.6 42.7 40.4" xml:space="preserve">
+					<path fill="#EAEEEF" d="M886.2,203.6v40.4h42.7v-40.4H886.2z M926.9,233.7c0,0.9-0.7,1.6-1.6,1.6h-19.5l-5.3,6.4
+					c-0.2,0.3-0.5,0.4-0.9,0.4c-0.3,0-0.7-0.1-0.9-0.4l-5.3-6.4h-3.6c-0.9,0-1.6-0.7-1.6-1.6v-26.4c0-0.9,0.7-1.6,1.6-1.6h35.4
+					c0.9,0,1.6,0.7,1.6,1.6V233.7z"/>
+				</svg>
+
+				<div class="article-social__share-no">
+					<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2956495"></div>
+				</div>
+			</a>
+		</div>
+	</div>
+
+			<div class="social-share-buttons">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2956495" class="share-twitter sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2956495" class="share-facebook sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="whatsapp://send?text=PM%20plans%20three-year%20war%20to%20target%2070%20seats%20and%20wipe%20Labour%20off%20the%20map https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F2956495%2Ftheresa-may-labour-off-the-map-jeremy-corbyn%2F" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+	
+		<div class="article-social__meta article-social__meta--comment-count">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5796.3 2189.3 2024.7 1916.8" enable-background="new 5796.3 2189.3 2024.7 1916.8" xml:space="preserve">
+					<path fill="#E92129" d="M7740.1,2189.3H5877.3c-40.5,0-81,40.5-81,81v1390.3c0,40.5,40.5,81,81,81h189l283.5,337.5
+					c13.5,13.5,27,27,40.5,27c13.5,0,40.5-13.5,40.5-27l283.5-337.5H7740c40.5,0,81-40.5,81-81V2270.3
+					C7821,2229.8,7780.5,2189.3,7740.1,2189.3z M7362.1,3377.1H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3377.1,7362.1,3377.1z M7362.1,3026.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3026.2,7362.1,3026.2z M7362.1,2675.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54S7389.1,2675.2,7362.1,2675.2z" />
+				</svg>
+			</a>
+		</div>
+
+		<div class="article-social__share-no">
+			<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2956495">
+			</div>
+			<div class="share-no-name">Comments</div>
+		</div>
+	</div>
+
+</div><!-- .social social--article -->
+								<div class="article__content">
+									<p class="article__content article__content--intro">PM Theresa May plans a three-year &#8220;soft war&#8221; to kill Labour off. She will target more seats after the Tories’ Copeland by-election triumph.</p>
+<p>She wants to launch a sustained offensive up to 70 of their most vulnerable seats to finish off Jeremy Corbyn’s wounded party.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="0">
+
+		<a href="#"><img class="wp-image-2947734 size-thesun-article-image" alt="Theresa May hailed the victory in Copeland yesterday" src="https://www.thesun.co.uk/wp-content/uploads/2017/02/theresamaycopeland.png?strip=all&amp;w=960" width="960" height="473" /></a>
+
+				<div class="article__credit">
+			Sky News		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Theresa May hailed the victory in Copeland yesterday	</figcaption>
+	</figure>
+
+<p>Some ministers have urged her to call a snap poll in the wake of her <a href="https://www.thesun.co.uk/news/2944135/jeremy-corbyn-denies-that-he-is-to-blame-for-labours-historic-defeat-in-copeland/">historic by-election victory in Labour-held Copeland</a>.</p>
+<p>But the PM has told aides she wants to exploit the party leader’s weakness by “slowly turning the screw” from now to 2020.</p>
+<p>Tory strategists believe she can snatch up to 70 seats from Labour at the next general election – banishing them from power for decades.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="1">
+
+		<a href="#"><img class="wp-image-2946304 size-thesun-article-image" alt="Jeremy Corbyn says he is NOT to blame for disastrous of Copeland loss" src="https://www.thesun.co.uk/wp-content/uploads/2017/02/promo312204543.jpg?strip=all&amp;w=960" width="960" height="540" /></a>
+
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Jeremy Corbyn says he is NOT to blame for disastrous of Copeland loss	</figcaption>
+	</figure>
+
+<p>A senior source said: “Theresa scented blood after Thursday’s stunning success – now she wants to go in for the kill.</p>
+<p>“She’s resisting temptation to call an election now and is going for a slow death.</p>
+<p>&#8220;The idea is to prolong Corbyn’s misery by keeping him in place and slowly digging out the ground from under his feet.”</p>
+<p>Campaign teams will be sent to work relentlessly in a range of marginal seats which Tories now feel are within their grasp.</p>
+<div id="thesun-ooyala-player-1qbXd5OTE6Qv2Rcd5_Oxm-tIkY4JWISp" class="sun-video-player ooyala-player" data-content-id="1qbXd5OTE6Qv2Rcd5_Oxm-tIkY4JWISp" ></div><figcaption class="article__video-caption">Theresa May celebrate s  Copeland win  after yesterday&#039;s by-election </figcaption>
+<p>They include former northern strongholds of Halifax, Dewsbury, Wirral West and City of Chester.</p>
+<p>Party workers will also flood Labour’s flimsy foothold in the south at Enfield North, Ilford North and Hampstead and Kilburn.</p>
+<p>Some of them have not been held by the Tories since the early 1980s.</p>
+<p>A party insider said: “It’s clear that traditional Labour voters are disillusioned with Labour’s lame duck leader.</p>
+<p>“The plan is to devote time and energy in these areas to drive home the point that we are the real party of working people.”</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="2">
+
+		<a href="#"><img class="wp-image-2899777 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000251798539-e1487462824959.jpg?strip=all&amp;w=698" alt="Jeremy Corbyn" width="698" height="960" /></a>
+
+				<div class="article__credit">
+			Getty Images		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Mr Corbyn insists he will lead the party into the 2020 election	</figcaption>
+	</figure>
+
+<p>The “slow death” strategy is being drawn up <a href="https://www.thesun.co.uk/news/2943706/copeland-by-election-result-labour-tories-jeremy-corbyn/">after Tories took Copeland, a safe Labour seat since 1935</a>, reversing Labour’s 2,564 majority at the last election.</p>
+<p>It comes as a poll revealed nearly a third of voters would be more likely to back Labour if <a href="https://www.thesun.co.uk/who/jeremy-corbyn/">Mr Corbyn</a> was replaced.</p>
+<p>A whopping 34 per cent of Labour supporters admit they would be more likely to stick with the party if he went, according to the ComRes survey.</p>
+<p>Six in ten Lib Dem voters and a quarter of Ukip supporters also say they would consider backing Labour with a different boss – but Mr Corbyn insists he will lead the party into the 2020 election.</p>
+<div id="thesun-ooyala-player-pkcXN5OTE6jwbFewLhrPyToc9z-1vvTu" class="sun-video-player ooyala-player" data-content-id="pkcXN5OTE6jwbFewLhrPyToc9z-1vvTu" ></div><figcaption class="article__video-caption">Jeremy Corbyn says he is NOT to blame for disastrous of Copeland loss</figcaption>
+<p>Yesterday deputy leader Tom Watson urged him to take a "long hard look” at himself in the wake of Thursday’s historic defeat.</p>
+<p>He said Labour should be looking to gain 100 seats at the next election rather than struggling to retain ones they hold.</p>
+<p>But he stopped short of calling for Mr Corbyn’s to stand down, saying “this is not the time for a leadership election”.</p>
+<p>The veiled criticism of the party’s direction came as Mr Watson addressed delegates at a Scottish Labour conference.</p>
+	<!--googleoff: all-->
+		<div class="sun-grid-container sun-grid-container--white">
+	
+	<div class="sun-row ">
+		<div class="col sun-col-6">
+
+			<div class="rail rail--classic  rail--trending theme-news" data-slide-count="4" data-slide-count-tablet="4">				<div class="swiper-container">
+
+					<div class="rail__header">
+
+											<h3 class="rail__title theme__after-color">Related stories</h3>
+
+											
+					
+					</div>
+
+					
+					<div class="swiper-pagination theme__swiper-pagination"></div>
+
+					<div class="swiper-wrapper">
+						
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2956499/michael-gove-and-co-helps-us-serve-early-notice-to-brussels-as-we-sail-article-50-to-the-eu/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-brexit-boat.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-brexit-boat.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+							<!-- Add video indicator if article has feature video. -->
+				<div class="rail__item-play theme__background-color-rgba-80">
+					<span></span>
+				</div>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				BREXSHIP			</h3>
+							<span class="rail__item-sub">
+				Michael Gove and Co help us serve early notice to Brussels as we sail Article 50 to the EU and forget Lords			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2956499/michael-gove-and-co-helps-us-serve-early-notice-to-brussels-as-we-sail-article-50-to-the-eu/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2952587/dutch-vote-over-euro-axe/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304396198.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304396198.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				CASHING UP			</h3>
+							<span class="rail__item-sub">
+				Will the Netherlands scrap the Euro? Dutch MPs vote to look into withdrawing from the single currency			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2952587/dutch-vote-over-euro-axe/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2952401/eu-brexit-cut-off-date-migrants-britain/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000256194904.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000256194904.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				wait for a date			</h3>
+							<span class="rail__item-sub">
+				EU wants to push back Brexit cut-off date &#039;to let migrants stay&#039; - opening floodgates to thousands more			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2952401/eu-brexit-cut-off-date-migrants-britain/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2951919/quarter-of-britains-workforce-faces-being-dumped-over-lack-of-digital-skills/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304394096.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304394096.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				Digi skills woe			</h3>
+							<span class="rail__item-sub">
+				Quarter of Britain’s workforce faces being dumped over lack of digital skills, survey reveals			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2951919/quarter-of-britains-workforce-faces-being-dumped-over-lack-of-digital-skills/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2951970/films-made-in-britain-make-more-than-a-quarter-of-worlds-entire-box-office-takings/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0002997603621.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0002997603621.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				UK’s box office hit			</h3>
+							<span class="rail__item-sub">
+				Films made in Britain make more than a quarter of world’s entire box office takings			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2951970/films-made-in-britain-make-more-than-a-quarter-of-worlds-entire-box-office-takings/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2948218/unions-general-secretary-dave-prentis-puts-jeremy-corbyn-on-a-final-warning-after-disastrous-copeland-by-election-result/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000004862156.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000004862156.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				BUCK UP!			</h3>
+							<span class="rail__item-sub">
+				Union boss puts Jeremy Corbyn on a final warning after &#039;disastrous&#039; Copeland by-election result			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2948218/unions-general-secretary-dave-prentis-puts-jeremy-corbyn-on-a-final-warning-after-disastrous-copeland-by-election-result/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2947287/margaret-thatchers-former-home-secretary-lord-waddington-dies-at-the-age-of-87/">
+				<div class="delayed-image-load-landscape" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000000785597.jpg?crop=0px%2C992px%2C1962px%2C1309px&#038;resize=300%2C192&#038;ssl=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000000785597.jpg?crop=0px%2C992px%2C1962px%2C1309px&#038;resize=300%2C192&#038;ssl=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				THATCHER MINISTER DIES			</h3>
+							<span class="rail__item-sub">
+				Margaret Thatcher&#039;s former Home Secretary Lord Waddington dies at the age of 87			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2947287/margaret-thatchers-former-home-secretary-lord-waddington-dies-at-the-age-of-87/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2943706/copeland-by-election-result-labour-tories-jeremy-corbyn/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/km-composite-3-way-copeland.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/km-composite-3-way-copeland.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				HISTORY MAY-KER			</h3>
+							<span class="rail__item-sub">
+				Theresa May hails &#039;astounding victory&#039; as Tories take Copeland off Labour in historic by-election win			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2943706/copeland-by-election-result-labour-tories-jeremy-corbyn/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2945935/house-of-lords-peers-will-it-be-abolished/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0003035377803.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0003035377803.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				SEAT OF POWER			</h3>
+							<span class="rail__item-sub">
+				Find out about the House of Lords: What is a hereditary peer, how are members appointed and will it be abolished?			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2945935/house-of-lords-peers-will-it-be-abolished/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2944370/ukip-leader-paul-nuttall-under-fresh-pressure-after-his-disastrous-campaign-failed-in-stoke-last-night/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304291208.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000304291208.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				UKIPPERED			</h3>
+							<span class="rail__item-sub">
+				Paul Nuttall&#039;s Ukip office vandalised after his disastrous campaign failed in Stoke last night			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2944370/ukip-leader-paul-nuttall-under-fresh-pressure-after-his-disastrous-campaign-failed-in-stoke-last-night/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2944135/jeremy-corbyn-denies-that-he-is-to-blame-for-labours-historic-defeat-in-copeland/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-corbyn-trudy-mcdonnell.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-corbyn-trudy-mcdonnell.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				THE DUST BYN OF HISTORY			</h3>
+							<span class="rail__item-sub">
+				Jeremy Corbyn denies he&#039;s to blame for Labour&#039;s historic by-election defeat in Copeland			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2944135/jeremy-corbyn-denies-that-he-is-to-blame-for-labours-historic-defeat-in-copeland/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.co.uk/news/2946287/mps-pay-set-to-rise-again-from-april-this-time-to-76011-in-the-second-hike-since-the-general-election/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0003026344263.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0003026344263.jpg?strip=all&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				CHEEKY PAY RISE			</h3>
+							<span class="rail__item-sub">
+				MPs&#039; pay set to rise AGAIN from April - this time to £76,011 in the second hike since the General Election			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.co.uk/news/2946287/mps-pay-set-to-rise-again-from-april-this-time-to-76011-in-the-second-hike-since-the-general-election/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+					</div><!-- .swiper-wrapper -->
+
+					<div class="swiper-button-prev theme__background-color-rgba-80"></div>
+					<div class="swiper-button-next theme__background-color-rgba-80"></div>
+
+				</div><!-- .swiper-container -->
+			</div><!-- .rail .{rail} .swiper-video-rail .{theme-slug} -->
+
+		</div><!-- .col .sun-col-6 -->
+	</div><!-- .sun-row .{row} .rail-video-index-->
+	</div> <!-- .sun-grid-container .sun-grid-container--{color} -->
+	<!--googleon: all-->
+	
+<p>Mr Watson said: “I want to be clear about this week’s by-elections. I’m not going to sugar coat the results. You deserve better than that.</p>
+<p>“I’m glad we won in Stoke. Gareth Snell will be a great MP, and sending Paul Nuttall back home with his tail between his legs is exactly what he deserved.</p>
+<p>“But I’m hugely disappointed that Gillian Troughton won’t be joining him in Parliament as the MP for Copeland.</p>
+<p>“That means that all of us with leadership roles in the Labour party need to have a long, hard look at ourselves and what’s not working.</p>
+<p>“Seven years into a Tory government, we shouldn’t be facing questions about whether we can retain the seats we already hold.</p>
+<p>“Our job at the next election is to gain over 100 seats. Keeping what we have is supposed to be the easy bit.”</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="3">
+
+		<a href="#"><img class="wp-image-2602603 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2017/01/nintchdbpict0002930152472.jpg?strip=all&amp;w=960" alt="Tom Watson" width="960" height="723" /></a>
+
+				<div class="article__credit">
+			PA:Press Association		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Deputy leader Tom Watson urged Mr Corbyn to take a &#039;long hard look&#039; at himself	</figcaption>
+	</figure>
+
+<p>Mr Watson – who attempted to negotiate Mr Corbyn’s departure during a summer coup last year – fell short of calling for the Labour leader to go.</p>
+<p>“I’ve said it a lot recently. This is not the time for a leadership election. That issue was settled last year,” he said.</p>
+<p>“But we have to do better. We cannot sustain this level of distance from the electorate, from our natural supporters.”</p>
+<div id="thesun-ooyala-player-dzdXJ5OTE6E6JdidIbD3k33AlqfaGtNz" class="sun-video-player ooyala-player" data-content-id="dzdXJ5OTE6E6JdidIbD3k33AlqfaGtNz" ></div>
+<p>David Miliband said the shift to the Left under Corbyn was “a mistake” that won’t solve Britain’s problems.</p>
+<p>The former Foreign Secretary – pipped in the 2010 Labour leadership battle by his brother Ed – said he would have joined 52 Labour MPs who rebelled against his backing for the Brexit Bill.</p>
+<p>He added: “This isn’t just an electability question. It’s a question of substance.</p>
+<p>“I think one can achieve more radical and substantive change through a different set of positions.”</p>
+<hr />
+<h2 style="text-align: center">To have your say on last week's by-elections...</h2>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="4">
+
+		<a href="#"><p><img class="alignnone wp-image-2956979 size-thesun-article-image" src="https://www.thesun.co.uk/wp-content/uploads/2017/02/unnamed-5.jpg?strip=all&amp;w=960" width="960" height="273" /></p></a>
+
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+	</figure>
+
+<p><strong>Call Jonny Gould from 4pm on 0344 499 1000 </strong></p>
+<p><strong>Listen on DAB, via the talkRADIO app or online at <a href="http://talkradio.co.uk/" target="_blank">talkradio.co.uk</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<div class="fb-page social--fb-page-button" data-href="https://www.facebook.com/SunPolitics/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/SunPolitics/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/SunPolitics/">The Sun</a></blockquote></div>								</div><!-- .article__content -->
+																<div class="tags tags--article">
+										<ul class="tags__list">
+					<li class="tags__item">
+				<span class="theme__copy-color">Topics</span>
+			</li>
+							<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/who/jeremy-corbyn/">
+					Jeremy Corbyn				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/who/theresa-may/">
+					Theresa May				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/conservative-party/">
+					Conservative Party				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/labour/">
+					Labour				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.co.uk/topic/labour-leadership/">
+					Labour leadership				</a>
+			</li>
+			</ul>
+									</div><!-- .tags .tags--article -->
+								
+<div class="social social--article">
+
+		<div class="article-social__meta article-social__meta--comment-count-mobile">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="886.2 203.6 42.7 40.4" enable-background="new 886.2 203.6 42.7 40.4" xml:space="preserve">
+					<path fill="#EAEEEF" d="M886.2,203.6v40.4h42.7v-40.4H886.2z M926.9,233.7c0,0.9-0.7,1.6-1.6,1.6h-19.5l-5.3,6.4
+					c-0.2,0.3-0.5,0.4-0.9,0.4c-0.3,0-0.7-0.1-0.9-0.4l-5.3-6.4h-3.6c-0.9,0-1.6-0.7-1.6-1.6v-26.4c0-0.9,0.7-1.6,1.6-1.6h35.4
+					c0.9,0,1.6,0.7,1.6,1.6V233.7z"/>
+				</svg>
+
+				<div class="article-social__share-no">
+					<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2956495"></div>
+				</div>
+			</a>
+		</div>
+	</div>
+
+			<div class="social-share-buttons">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2956495" class="share-twitter sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2956495" class="share-facebook sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="whatsapp://send?text=PM%20plans%20three-year%20war%20to%20target%2070%20seats%20and%20wipe%20Labour%20off%20the%20map https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F2956495%2Ftheresa-may-labour-off-the-map-jeremy-corbyn%2F" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+	
+		<div class="article-social__meta article-social__meta--comment-count">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5796.3 2189.3 2024.7 1916.8" enable-background="new 5796.3 2189.3 2024.7 1916.8" xml:space="preserve">
+					<path fill="#E92129" d="M7740.1,2189.3H5877.3c-40.5,0-81,40.5-81,81v1390.3c0,40.5,40.5,81,81,81h189l283.5,337.5
+					c13.5,13.5,27,27,40.5,27c13.5,0,40.5-13.5,40.5-27l283.5-337.5H7740c40.5,0,81-40.5,81-81V2270.3
+					C7821,2229.8,7780.5,2189.3,7740.1,2189.3z M7362.1,3377.1H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3377.1,7362.1,3377.1z M7362.1,3026.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3026.2,7362.1,3026.2z M7362.1,2675.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54S7389.1,2675.2,7362.1,2675.2z" />
+				</svg>
+			</a>
+		</div>
+
+		<div class="article-social__share-no">
+			<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2956495">
+			</div>
+			<div class="share-no-name">Comments</div>
+		</div>
+	</div>
+
+</div><!-- .social social--article -->
+
+								<div id="sidebar-mobile"></div>
+
+								<div class="OUTBRAIN" data-src="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/" data-widget-id="AR_3" data-ob-template="TheSun_1"></div>
+<script>
+	(function() {
+		var done = false,
+			ob   = document.createElement("script");ob.type = "text/javascript";ob.async = true;ob.src = "https://widgets.outbrain.com/outbrain.js";
+		//Make sure code is here!!
+		ob.onload = ob.onreadystatechange = function() {
+			if ( !done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {
+				OBR.extern.onOdbReturn("AR_3",function() {
+					// Edit the desktop widget
+					setTimeout(function(){
+						var ob_first       = document.getElementsByClassName('ob-first')[0],
+							rec_containers = ob_first.getElementsByClassName('ob-dynamic-rec-container');
+
+						for (i = 0 ; i < rec_containers.length ; i++) {
+							var text_author = rec_containers[i].getElementsByClassName('ob-rec-author')[0],
+								text_title = rec_containers[i].getElementsByClassName('ob-rec-text')[0],
+								text_full = text_author.textContent + text_title.textContent;
+
+							if(text_full.length >= 100) {
+								text_title.textContent = text_title.textContent.substring(0,60) + '...';
+							}
+						}
+					},300);
+				});
+
+				OBR.extern.onOdbReturn("CRMB_2",function() {
+					//Edit the mobile widget
+					setTimeout(function(){
+						var ob_first = document.getElementsByClassName('ob-first')[0],
+							rec_containers = ob_first.getElementsByClassName('ob-dynamic-rec-container');
+
+						for (i = 0 ; i < rec_containers.length ; i++) {
+							var text_author = rec_containers[i].getElementsByClassName('ob-rec-author')[0],
+								text_title = rec_containers[i].getElementsByClassName('ob-rec-text')[0],
+								text_full = text_author.textContent + text_title.textContent;
+
+							if(text_full.length >= 140) {
+								text_title.textContent = text_title.textContent.substring(0,100) + '...';
+							}
+						}
+					},300);
+				});
+			}
+		};
+
+		//Inject
+		var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ob, s);
+	})();
+</script>
+
+
+																<div class="comments" id="comments">
+									<div class="comments-header-wrap">
+										<h3>Comments</h3>
+									</div>
+
+									<div id="livefyre-comments"></div>								</div>
+								
+							</article><!-- .article -->
+					</div><!-- .col sun-col-4/6 -->
+
+										<div id="sidebar" class="col sun-col-2 article-sidebar">
+						<aside id="thesun_dfp_ad_widget-2" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad-container mpu-container">
+	<div class="dfp-ad teaser-item teasermedium teasermedium--mpu mpu" id="mpu">
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function () {
+				var thesun_ad_cmd = thesun_ad_cmd || [];
+				thesun_ad_cmd.push( function() {
+					googletag.display( 'mpu' );
+				} );
+			});
+		</script>
+	</div>
+</div>
+
+</aside><aside class="widget sidebar sidebar__section teaser theme-news"><h3 class="sidebar__title theme__after-color">Most Read in News</h3><!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/brazillian-police-have-sex-in-a-squad-car-170224-00_02_11_05-still003.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/brazillian-police-have-sex-in-a-squad-car-170224-00_02_11_05-still003.jpg?strip=all&amp;w=620&amp;h=360&amp;crop=1"></div>
+			</a>
+				<!-- Add video indicator if article has feature video. -->
+		<div class="teaser__item-play theme__background-color-rgba-80">
+			<span></span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+					<h2 class="teaser__headline theme__copy-color">COPPING OFF</h2>
+		
+		<p class="teaser__subdeck">
+			Two cops video themselves performing sex act inside patrol car as they ignore calls to attend a robbery		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2944380"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+		<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-weather-v4.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-weather-v4.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+					<h2 class="teaser__headline theme__copy-color">SNOW IS ON THE WAY</h2>
+		
+		<p class="teaser__subdeck">
+			Britain braced for yet another cold snap with &#039;risk&#039; of snow for 12 days as fresh Arctic blast sweeps in		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2953224"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+		<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/es-rio-composite.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/es-rio-composite.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/">
+					<h2 class="teaser__headline theme__copy-color">A TALE OF TWO CITIES</h2>
+		
+		<p class="teaser__subdeck">
+			Millions take to the streets for the world-famous Rio carnival - as cops clash with drug users in&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2946035"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/">
+		<a href="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2946035/rio-carnival-2017-pictures-sao-paulo-police-clashes/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-3-waydressingv1.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-3-waydressingv1.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+				<!-- Add video indicator if article has feature video. -->
+		<div class="teaser__item-play theme__background-color-rgba-80">
+			<span></span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/">
+					<h2 class="teaser__headline theme__copy-color">SAVED FROM DORIS</h2>
+		
+		<p class="teaser__subdeck">
+			Heart-warming moment kind estate agent walks terrified 96-year-old pensioner home in Storm Doris after he&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2952898"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/">
+		<a href="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2952898/storm-doris-estate-agent-pensioner/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/es-hotel-composite-v2.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/es-hotel-composite-v2.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/">
+					<h2 class="teaser__headline theme__copy-color">‘WE COULDN’T WAIT TO GET HOME’</h2>
+		
+		<p class="teaser__subdeck">
+			Couple pay £2k for 5* holiday but find hotel is a ‘construction site’ with &#039;POO in the pool&#039;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2937244"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/">
+		<a href="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2937244/couple-pay-2000-for-5-platinum-thomson-holiday-but-arrive-to-find-hotel-is-a-construction-site-with-poo-in-the-pool-and-they-get-food-poisoning-from-dodgy-buffe/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-white-sea-creature.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-white-sea-creature.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/">
+					<h2 class="teaser__headline theme__copy-color">BLOBBY DAZZLER</h2>
+		
+		<p class="teaser__subdeck">
+			Scientists have solved the mystery of the bizarre white blob monster that washed up on a beach in the&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2944570"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/">
+		<a href="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2944570/scientists-identify-strange-white-blob-monster-that-washed-up-on-a-beach-in-the-philippines/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-twin-up-trampolinev2.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-twin-up-trampolinev2.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/">
+					<h2 class="teaser__headline theme__copy-color">TRAMPOLINE TRAUMA</h2>
+		
+		<p class="teaser__subdeck">
+			Young nurse, 26, suing trampoline park after breaking her BACK when she jumped off 13ft tower into foam pit		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2953791"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/">
+		<a href="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2953791/young-nurse-26-plans-to-sue-flip-out-trampoline-park-after-fracturing-her-back-when-she-jumped-into-foam-pit/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pmcomposite-twin-uptrain.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pmcomposite-twin-uptrain.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+				<!-- Add video indicator if article has feature video. -->
+		<div class="teaser__item-play theme__background-color-rgba-80">
+			<span></span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/">
+					<h2 class="teaser__headline theme__copy-color">&#039;GET OFF ME PLEASE&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Fed-up woman appears to SIT on man who refused to take his feet off seat in bid to &#039;teach him a lesson&#039;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2953175"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/">
+		<a href="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2953175/fed-up-woman-appears-to-sit-on-man-who-refused-to-take-his-feet-off-seat-in-bid-to-teach-him-a-lesson/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-trump-protest.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-trump-protest.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/">
+					<h2 class="teaser__headline theme__copy-color">NAKED FURY</h2>
+		
+		<p class="teaser__subdeck">
+			Student, 19, slams Facebook for removing her naked anti-Trump protest pictures		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2948046"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/">
+		<a href="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2948046/student-naked-pictures-facebook-removed-trump-protest/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-spider.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-spider.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/">
+					<h2 class="teaser__headline theme__copy-color">SNAKING THE RECORD</h2>
+		
+		<p class="teaser__subdeck">
+			Boy, 10, miraculously survives bite from world&#039;s DEADLIEST spider after a record-breaking 12 vials of&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2947152"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/">
+		<a href="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2947152/boy-10-miraculously-survives-bite-from-worlds-deadliest-spider-after-a-record-breaking-12-vials-of-antivenom/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/12/admin-ajax.jpg?crop=0px%2C0px%2C400px%2C267px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2016/12/admin-ajax.jpg?crop=0px%2C0px%2C400px%2C267px&amp;resize=620%2C413&amp;ssl=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/">
+					<h2 class="teaser__headline theme__copy-color">FEELING LUCKY?</h2>
+		
+		<p class="teaser__subdeck">
+			Winning Lotto numbers for Saturday 25 February 2017 £5.6m rollover jackpot		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2955138"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/">
+		<a href="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2955138/national-lottery-results-live-winning-lotto-numbers-for-saturday-25-february-2017-5-6million-jackpot/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/tesco1.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/tesco1.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/">
+					<h2 class="teaser__headline theme__copy-color">&#039;a sickening blow&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Tesco is axing 1,700 deputy managers in its smallest stores as ruthless CEO continues cutbacks		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2952598"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/">
+		<a href="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2952598/tesco-is-axing-1700-deputy-managers-in-its-smallest-stores-as-ruthless-ceo-continues-cutbacks/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-dog-sex.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=150%2C100&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/hd-composite-dog-sex.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=620%2C413&amp;ssl=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/">
+					<h2 class="teaser__headline theme__copy-color">DOG SEX RAP</h2>
+		
+		<p class="teaser__subdeck">
+			Woman, 43, arrested for having sex with a DOG after vile bestiality video was posted online		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2924410"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/">
+		<a href="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2924410/woman-sex-with-dog-video-posted-online-arrested/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/comp-cheesebv2-sm.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/comp-cheesebv2-sm.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/">
+					<h2 class="teaser__headline theme__copy-color">Bit mac</h2>
+		
+		<p class="teaser__subdeck">
+			McDonald&#039;s burger fail as kids&#039; meal arrives with a BITE already taken from the fast food treat		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2950865"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/">
+		<a href="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2950865/mcdonalds-burger-fail-as-kids-meal-arrives-with-a-bite-already-taken-from-the-fast-food-treat/"></a>
+
+</div>
+<!-- SMALL TEASER - 150PX -->
+<div class="teaser-item teaser__small theme-news" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/dd-composite-maddie-tweet.jpg?strip=all&amp;w=150&amp;h=100&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/dd-composite-maddie-tweet.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/">
+					<h2 class="teaser__headline theme__copy-color">JODIE HARSH</h2>
+		
+		<p class="teaser__subdeck">
+			Jodie Marsh slams Maddie McCann&#039;s parents in Twitter rant and claims a magazine pulled her article about them		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2946796"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/">
+		<a href="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2946796/jodie-marsh-madeline-mccann-twitter-parents-kate-gerry-theories/"></a>
+
+</div>
+</aside><aside id="thesun_dfp_ad_widget-7" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad-container mpu2-container">
+	<div class="dfp-ad teaser-item teasermedium teasermedium--mpu mpu2" id="mpu2">
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function () {
+				var thesun_ad_cmd = thesun_ad_cmd || [];
+				thesun_ad_cmd.push( function() {
+					googletag.display( 'mpu2' );
+				} );
+			});
+		</script>
+	</div>
+</div>
+
+</aside><aside id="thesun_outbrain_widget-2" class="widget widget_thesun_outbrain_widget"><div
+	class="OUTBRAIN"
+	data-src="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/"
+	data-widget-id="SB_3"
+	data-ob-template="TheSun_1"
+></div>
+</aside><aside class="widget sidebar sidebar__section teaser theme-main"><h3 class="sidebar__title theme__after-color">Most Popular</h3><!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/">
+					<div class="delayed-image-load-landscape" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-tuckingin.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=300%2C192&amp;ssl=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-tuckingin.jpg?crop=0px%2C0px%2C750px%2C500px&amp;resize=620%2C413&amp;ssl=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/">
+					<h2 class="teaser__headline theme__copy-color">SWEET (SUGAR FREE) REVENGE</h2>
+		
+		<p class="teaser__subdeck">
+			Mama June drops to a UK size eight from 33 stone to ‘get revenge’ on ex-husband and new wife		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2952383"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/2952383/here-comes-honey-boo-boo-star-mama-june-drops-to-a-uk-size-eight-from-33-stone-to-get-revenge-on-ex-husband-sugar-bear-and-his-new-bride/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/germanycomp2.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/germanycomp2.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+				<!-- Add video indicator if article has feature video. -->
+		<div class="teaser__item-play theme__background-color-rgba-80">
+			<span></span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/">
+					<h2 class="teaser__headline theme__copy-color">&#039;PUT THE KNIFE DOWN&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Dramatic moment armed man is shot by cops after &#039;deliberately driving car into pedestrians&#039; in German&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2954895"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/">
+		<a href="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2954895/heidelberg-germany-car-attack-shooting-city-centre-square/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-oscars-spd-2-1.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-oscars-spd-2-1.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/">
+					<h2 class="teaser__headline theme__copy-color">HOORAY FOR HO-LLYWOOD</h2>
+		
+		<p class="teaser__subdeck">
+			As A-list celebrities prepare for The Oscars so do the hookers &mdash; as we reveal sordid side of&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2951044"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/2951044/oscars-2017-hookers-celebrities-movie-business/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/ad-composite-cheryl-new.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/ad-composite-cheryl-new.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/">
+					<h2 class="teaser__headline theme__copy-color">&#039;I&#039;m obsessed with babies&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Here&#039;s what Cheryl has revealed about motherhood so far... and why she won&#039;t spoil her kids		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2948390"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/">
+		<a href="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/2948390/she-wont-spoil-her-kids-and-the-baby-names-she-loves-heres-what-cheryl-has-revealed-about-motherhood-so-far/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/rb-composite-qvcmodelv3.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/rb-composite-qvcmodelv3.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/">
+					<h2 class="teaser__headline theme__copy-color">Oh pants!</h2>
+		
+		<p class="teaser__subdeck">
+			QVC model flashes more than she means to as she poses in lingerie on live TV… but carries on regardless		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2945999"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/">
+		<a href="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/2945999/qvc-model-flashes-unfortunate-camel-toe-as-she-models-lingerie-on-live-tv-but-carries-on-regardless/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/sport-preview-seville.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/sport-preview-seville.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/">
+					<h2 class="teaser__headline theme__copy-color">done four</h2>
+		
+		<p class="teaser__subdeck">
+			Treacherous Leicester players met FOUR times with the owners to get Claudio Ranieri axed		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/sport/football/" class="theme__copy-color">
+				Football				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2951563"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/">
+		<a href="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/sport/2951563/claudio-ranieri-sacked-leicester-city-players-jamie-vardy/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/corrie8.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/27_02_coro_steve_liz_031.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Spoiler</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/">
+					<h2 class="teaser__headline theme__copy-color">&#039;Her world has fallen apart&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Coronation Street&#039;s Michelle demands a divorce from Steve after his bombshell		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2940067"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/2940067/spoiler-alert-coronation-streets-michelle-demands-divorce-from-steve/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pmcomposite-twin-upranieri.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pmcomposite-twin-upranieri.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">revealed</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/">
+					<h2 class="teaser__headline theme__copy-color">A step too var</h2>
+		
+		<p class="teaser__subdeck">
+			Jamie Vardy among Leicester players who met with chairman a day before Claudio Ranieri was sacked		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/sport/football/" class="theme__copy-color">
+				Football				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2952706"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/">
+		<a href="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/sport/football/2952706/jamie-vardy-kasper-schmeichel-wes-morgan-and-marc-albrighton-all-attended-infamous-meeting-with-leicesters-chairman-the-day-before-claudio-ranieri-was-sacked/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-ranieri-wine.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-ranieri-wine.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/">
+					<h2 class="teaser__headline theme__copy-color">you plonk-er</h2>
+		
+		<p class="teaser__subdeck">
+			Leicester owner bragged of axing boss Claudio Ranieri as he blew £500,000 on wine and champagne		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/sport/football/" class="theme__copy-color">
+				Football				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2951458"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/">
+		<a href="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/sport/2951458/claudio-ranieri-leicester-city-chairman-vichai-srivaddhanaprabha-wine-spree/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000273953556.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000273953556.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Revealed</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/">
+					<h2 class="teaser__headline theme__copy-color">cabin fever</h2>
+		
+		<p class="teaser__subdeck">
+			This is what happens when a passenger dies on a plane… it will horrify you		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2948426"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/">
+		<a href="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/2948426/passenger-dies-on-a-plane-horrify/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0002980742731.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict0002980742731.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/">
+					<h2 class="teaser__headline theme__copy-color">DEAR DEIDRE</h2>
+		
+		<p class="teaser__subdeck">
+			My colleague caught me having sex with my lover at work ... and now he wants to join in		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/living/" class="theme__copy-color">
+				Living				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2950011"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/">
+		<a href="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/living/2950011/my-colleague-caught-me-having-sex-with-my-lover-at-work-and-now-he-wants-to-join-in/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/km-composite-twin-up-inset-danny-dyer.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/km-composite-twin-up-inset-danny-dyer.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/">
+					<h2 class="teaser__headline theme__copy-color">&#039;IF I SEE YOU I&#039;LL HURT YA&#039;</h2>
+		
+		<p class="teaser__subdeck">
+			Danny Dyer&#039;s daughter sends vile and threatening messages to woman who claims EastEnders hardman&hellip;		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2951485"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/2951485/danny-dyers-daughter-in-threat-to-woman-who-claims-eastenders-hardman-sent-pictures-of-his-penis/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-twin-up-insetdolce.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/pm-composite-twin-up-insetdolce.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/">
+					<h2 class="teaser__headline theme__copy-color">&#039;QUEEN OF MYSPACE&#039; DIES</h2>
+		
+		<p class="teaser__subdeck">
+			Christine Dolce who posed for Playboy after finding fame on MySpace dies at 35 from liver failure		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2952750"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/">
+		<a href="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/tvandshowbiz/2952750/christine-dolce-dead-35-liver-failure-alcohol-abuse/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/brazillian-police-have-sex-in-a-squad-car-170224-00_02_11_05-still003.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/brazillian-police-have-sex-in-a-squad-car-170224-00_02_11_05-still003.jpg?strip=all&amp;w=620&amp;h=360&amp;crop=1"></div>
+			</a>
+				<!-- Add video indicator if article has feature video. -->
+		<div class="teaser__item-play theme__background-color-rgba-80">
+			<span></span>
+		</div>
+	</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+					<h2 class="teaser__headline theme__copy-color">COPPING OFF</h2>
+		
+		<p class="teaser__subdeck">
+			Two cops video themselves performing sex act inside patrol car as they ignore calls to attend a robbery		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2944380"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+		<a href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2944380/police-sex-act-video-in-car-ignore-radio-alert/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-weather-v4.jpg?strip=all&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.co.uk/wp-content/uploads/2017/02/as-comp-weather-v4.jpg?strip=all&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+					<h2 class="teaser__headline theme__copy-color">SNOW IS ON THE WAY</h2>
+		
+		<p class="teaser__subdeck">
+			Britain braced for yet another cold snap with &#039;risk&#039; of snow for 12 days as fresh Arctic blast sweeps in		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.co.uk/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="289969" data-lf-article-id="2953224"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+		<a href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.co.uk/news/2953224/britain-braced-for-12-days-of-snow-starting-monday-as-fresh-arctic-blast-sweeps-in-just-days-after-deadly-storm-doris/"></a>
+
+</div>
+</aside>					</div><!-- .col sun-col-2 -->
+					
+				</div><!-- .sun-row -->
+			
+			
+		</section><!--. sun-container__article-section theme-sport -->
+
+	</div><!-- .main-content-wrap -->
+
+		<div class="gallery-popup">
+		<a href="#" class="close-gallery"><span class="icon icon-close"></span></a>
+
+		<div class="gallery-image-load-cover"></div>
+		<div class="gallery-container">
+			<div class="swiper-container">
+				<div class="swiper-wrapper"></div>
+
+				<div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div>
+			</div><!-- .swiper-container -->
+		</div><!-- .gallery-container -->
+
+		<div class="swiper-caption">
+			<div class="swiper-caption-toggle"><span class="arrow"></span></div>
+
+			<div class="swiper-pagination"></div>
+
+			<span class="swiper-caption-list"></span>
+
+			<div class="sharingButtons social social--gallery">
+					<div class="social-share-buttons">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2956495" class="share-twitter sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2956495" class="share-facebook sd-button share-icon no-text" href="https://www.thesun.co.uk/news/2956495/theresa-may-labour-off-the-map-jeremy-corbyn/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="whatsapp://send?text=PM%20plans%20three-year%20war%20to%20target%2070%20seats%20and%20wipe%20Labour%20off%20the%20map https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F2956495%2Ftheresa-may-labour-off-the-map-jeremy-corbyn%2F" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+				</div>
+		</div><!-- .swiper-caption -->
+	</div><!-- .gallery-popup -->
+
+<div id="cookie-bar">
+    <div class="sun-row">
+        <div class="col sun-col-6">
+            <p>By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following <a href="http://www.newsprivacy.co.uk/single/">this link</a></p>
+            <a class="accept-cookies">Close</a>
+        </div>
+    </div>
+</div>
+
+</div><!-- .sun-container .theme -->
+
+<div class="dfp-ad" id="pixel">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixel' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelSkin">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixelSkin' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelTeads">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			var thesun_ad_cmd = thesun_ad_cmd || [];
+			thesun_ad_cmd.push( function() {
+				googletag.display( 'pixelTeads' );
+			} );
+		});
+	</script>
+</div>
+
+<footer>
+
+	<div class="sun-row">
+		<div class="col sun-col-2 footer-follow">
+			<h3 class="footer-title-follow">Follow The Sun</h3>
+
+			<div class="follow-sun">
+				<a href="https://www.facebook.com/thesun/" class="follow-facebook"><span class="icon icon-facebook"></span></a>
+				<a href="https://twitter.com/thesun?lang=en-gb" class="follow-twitter"><span class="icon icon-twitter"></span></a>
+			</div>
+		</div>
+
+		<div class="col sun-col-4 footer-nav">
+			<h3 class="footer-title-services">Services</h3>
+			<ul id="menu-footer" class="menu"><li id="menu-item-1236019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236019"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-1235852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235852"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1235452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235452"><a href="https://www.thesun.co.uk/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-1237807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1237807"><a href="https://www.thesun.co.uk/admin/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-1235451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235451"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-1388523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388523"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-1235453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235453"><a href="https://www.thesun.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-2313093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2313093"><a href="https://www.thesun.co.uk/commissioning-terms/">Commissioning Terms</a></li>
+<li id="menu-item-1235319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1235319"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>		</div>
+
+		<div class="col sun-col-2 footer-col-dummy"></div>
+
+		<div class="col sun-col-4">
+			<div class="terms">
+				<p>&copy;News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's <a href="https://www.thesun.co.uk/terms-and-conditions/">Standard Terms and Conditions</a> in accordance with our <a href="http://www.newsprivacy.co.uk/">Privacy &amp; Cookie Policy</a>. To inquire about a licence to reproduce material, visit our <a href="https://www.thesun.co.uk/syndication/">Syndication</a> site. View our online Press Pack. For other inquiries, <a href="https://www.thesun.co.uk/contact-us/">Contact Us</a>. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the <a href="https://www.thesun.co.uk/editorial-complaints/">Independent Press Standards Organisation (IPSO)</a></p>
+<p>Our journalists strive for accuracy but on occasion we make mistakes. For further details of our complaints policy and to make a complaint please click <a href="https://www.thesun.co.uk/editorial-complaints/">here</a>.</p>
+			</div>
+		</div>
+	</div><!-- .sun-row -->
+
+</footer>
+
+	<div style="display:none">
+	</div>
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="thesun.co.uk"></div>
+</div>
+<script data-cfasync="false">
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.setAttribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+		<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.thesun.co.uk\/news\/2956495\/theresa-may-labour-off-the-map-jeremy-corbyn\/"},"headline":"Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn&amp;#8217;s Labour off the map","url":"http:\/\/www.thesun.co.uk\/news\/2956495\/theresa-may-labour-off-the-map-jeremy-corbyn\/","thumbnailUrl":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/tp-graphic-goodbye-election.jpg?strip=all&#038;w=750&#038;h=500&#038;crop=1","image":{"@type":"ImageObject","url":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/tp-graphic-goodbye-election.jpg?strip=all&#038;w=750&#038;h=500&#038;crop=1","width":750,"height":500},"dateCreated":"2017-02-26T00:42:30Z","datePublished":"2017-02-26T00:42:30+00:00","dateModified":"2017-02-26T01:31:31+00:00","articleSection":"News","author":{"@type":"Person","name":"DAVID WOODING, Sunday Political Editor"},"creator":["esanger"],"publisher":{"@type":"Organization","name":"The Sun","url":"https:\/\/www.thesun.co.uk","logo":{"@type":"ImageObject","url":"https:\/\/www.thesun.co.uk\/wp-content\/themes\/thesun\/images\/the-sun-structured-data-logo.jpg","width":139,"height":60}},"keywords":["Section: News:Politics","Jeremy Corbyn","Theresa May","Conservative Party","Labour","Labour leadership","Labour Party"],"description":"Campaigners will work relentlessly in marginal Labour seats","name":"Theresa May plans three-year war to target 70 seats and wipe Jeremy Corbyn&amp;#8217;s Labour off the map"}		</script>
+		<div id="fb-root"></div>	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '752905198150451');
+		fbq('track', "PageView");
+	</script>
+
+	<noscript>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=752905198150451&ev=PageView&noscript=1" />
+	</noscript>
+
+	<script type="text/javascript">
+    var livefyre_auth_loaded = false;
+</script>
+    <script type="text/javascript">
+        var load_livefyre_auth = function() {};
+    </script>
+
+<script type="text/javascript">
+    var networkConfigComments = {
+        network: "thesun.fyre.co"    };
+    var convConfigComments2956495 = {
+        siteId: "289969",
+        articleId: 2956495,
+        el: "livefyre-comments",
+        collectionMeta: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczpcL1wvd3d3LnRoZXN1bi5jby51a1wvbmV3c1wvMjk1NjQ5NVwvdGhlcmVzYS1tYXktbGFib3VyLW9mZi10aGUtbWFwLWplcmVteS1jb3JieW5cLyIsInRpdGxlIjoiVGhlcmVzYSBNYXkgcGxhbnMgdGhyZWUteWVhciB3YXIgdG8gdGFyZ2V0IDcwIHNlYXRzIGFuZCB3aXBlIEplcmVteSBDb3JieW4mIzgyMTc7cyBMYWJvdXIgb2ZmIHRoZSBtYXAiLCJhcnRpY2xlSWQiOjI5NTY0OTUsInRhZ3MiOlsiQ29uc2VydmF0aXZlIFBhcnR5IiwiTGFib3VyIiwiTGFib3VyIGxlYWRlcnNoaXAiLCJMYWJvdXIgUGFydHkiXSwidHlwZSI6ImxpdmVjb21tZW50cyJ9.Er1_fDd7_uH53bawJQCZKYyLrqG8MGMiMBJ8JjQYIv0",
+        checksum: "19b13ac1182679c426e63a95072b5a12"    };
+    if (typeof (liveCommentsConfig) !== 'undefined') {
+        convConfigComments2956495 = Livefyre.LFAPPS.lfExtend(liveCommentsConfig, convConfigComments2956495);
+    }
+
+    Livefyre.require(["fyre.conv#3"], function (ConvComments) {
+        load_livefyre_auth();
+        new ConvComments(networkConfigComments,
+                [convConfigComments2956495],
+                function (commentsWidget) {
+                    var livecommentsListeners = Livefyre.LFAPPS.getAppEventListeners('livecomments');
+                    if (livecommentsListeners.length > 0) {
+                        for (var i = 0; i<livecommentsListeners.length; i++) {
+                            var livecommentsListener = livecommentsListeners[i];
+                            commentsWidget.on(livecommentsListener.eventName, livecommentsListener.callback);
+                        }
+                    }
+                }
+        );
+    });
+</script><script type="text/javascript" data-lf-domain="thesun.fyre.co" id="ncomments_js" src="https://cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js"></script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.thesun.co.uk\/news\/2956495\/theresa-may-labour-off-the-map-jeremy-corbyn\/":2956495};
+	</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/stable/latest/core.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/stable/latest/video-plugin/main_html5.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/stable/latest/ad-plugin/google_ima.min.js?ver=v4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_main_settings = {"wunderground":{"city":"London","countryCode":"GB","defaultCoords":{"lat":"51.505276","long":"0.055277"}}};
+var galleryData = [{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/theresamaycopeland.png?strip=all&w=960","caption":"Theresa May hailed the victory in Copeland yesterday","credit":"Sky News"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/promo312204543.jpg?strip=all&w=960","caption":"Jeremy Corbyn says he is NOT to blame for disastrous of Copeland loss","credit":""},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/nintchdbpict000251798539-e1487462824959.jpg?strip=all&w=698","caption":"Mr Corbyn insists he will lead the party into the 2020 election","credit":"Getty Images"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/01\/nintchdbpict0002930152472.jpg?strip=all&w=960","caption":"Deputy leader Tom Watson urged Mr Corbyn to take a 'long hard look' at himself","credit":"PA:Press Association"},{"img":"https:\/\/www.thesun.co.uk\/wp-content\/uploads\/2017\/02\/unnamed-5.jpg?strip=all&w=960","caption":"","credit":""}];
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesunOoyalaSettings = {"pcode":"5nbWk6UPHAPHIpkunRhFyQE8fR1e","playerBrandingId":"NDcyOWI0M2YyMDdkN2YwODU5Mzc5MDUz","skinUrl":"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/skin-plugin\/skin.json"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUcWlefpZxfq5iZl5elnFOvr4FJVlpqTmE1SVmpuUmlIMVGafa2toYmFuYWpkYWGYBQDgxC3p'></script>
+<script type='text/javascript' async="async" defer src='//s.skimresources.com/js/34784X1028065.skimlinks.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??/wp-content/themes/thesun/js/swiper.min.js,/wp-content/themes/thesun/js/gsa.js?m=1484907981j'></script>
+<script type='text/javascript' async="async" src='https://prod-sunbets-widgets.s3-eu-west-1.amazonaws.com/static/sunbet/betsense.min.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.co.uk/_static/??/wp-includes/js/wp-embed.min.js,/wp-content/mu-plugins/jetpack/modules/sharedaddy/sharing.js?m=1485460933j'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.6',blog:'111602770',post:'2956495',tz:'0',srv:'www.thesun.co.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '111602770', '2956495' ]);
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3aaf38205d","applicationID":"44435850","transactionName":"NlJSYUIEXhdTBkUPXQ8YcVZEDF8KHRZYCFUUW1FH","queueTime":0,"applicationTime":254,"atts":"GhVFFwoeTUgQBBNcSRxK","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

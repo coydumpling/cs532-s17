@@ -1,0 +1,1864 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
+    <title>Two Kashmiri youth handed over to Indian authorities near LoC - World - DAWN.COM</title> 
+     <meta property='fb:app_id' content='1383068068604634' /> 
+     <meta property='fb:pages' content='86398345441' /> 
+     <link rel='canonical' href='http://www.dawn.com/news/1316932' />              
+    <meta name='twitter:card' content='summary' /> 
+    <meta name='twitter:site' content='@dawn_com' /> 
+    <meta name='twitter:url' content='https://www.dawn.com/news/1316932' /> 
+    <meta name='twitter:title' content='Two Kashmiri youth handed over to Indian authorities near LoC' /> 
+    <meta name='twitter:description' content='Two days ago, a Pakistani woman who had inadvertently crossed the Working Boundary was shot dead by Indian forces.' /> 
+    <meta name='twitter:image' content='http://i.dawn.com/medium/2017/02/58b1921e9aeda.jpg' />
+            
+    <meta property='og:site_name' content='DAWN.COM' /> 
+    <meta property='og:url' content='https://www.dawn.com/news/1316932' /> 
+    <meta property='og:type' content='article' /> 
+    <meta property='og:title' content='Two Kashmiri youth handed over to Indian authorities near LoC' /> 
+    <meta property='og:description' content='Two days ago, a Pakistani woman who had inadvertently crossed the Working Boundary was shot dead by Indian forces.' /> 
+    <meta property='og:image' content='http://i.dawn.com/medium/2017/02/58b1921e9aeda.jpg' />
+            
+    <meta property='article:publisher' content='https://www.dawn.com' /> 
+    <meta property='article:published_time' content='2017-02-25 19:20:11' /> 
+    <meta property='article:modified_time' content='2017-02-25 19:20:11' />  
+    <meta property='article:section' itemprop='articleSection' content='world' />
+            
+    <meta property='author' content='Tariq Naqash' />  
+  
+  
+    <link rel='stylesheet' href='/_css/print.20170225151804.css' media='print'>
+    <link rel='stylesheet' href='/_css/all.20170225151804.css' media='all'>
+    
+<!-- - - - - - - adsense:header start - - - - - - -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+googleAdsSlots = [];
+googletag.cmd.push(function() {
+      
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-TOP', [728, 90], 'div-gpt-ad-1455520357400-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728, 90], 'div-gpt-ad-1455520357400-1').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-RM-1x1', [1, 1], 'div-gpt-ad-1455520357400-10').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-MIDDLE', [728, 90], 'div-gpt-ad-1455520357400-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-MOBILE-728x90-BOTTOM', [728, 90], 'div-gpt-ad-1455531878761-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-TOP', [300, 250], 'div-gpt-ad-1455520357400-4').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-2', [300, 250], 'div-gpt-ad-1455520357400-6').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300, 250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-2', [300, 250], 'div-gpt-ad-1455520357400-5').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [300, 600], 'div-gpt-ad-1455520357400-8').addService(googletag.pubads()));
+
+  googletag.pubads().set("document_language", "en");
+  
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting('site', 'www.dawn.com');
+  googletag.pubads().setTargeting('category', ["Single Story","FBInstant","World"]);
+  
+  googletag.pubads().disableInitialLoad();
+  googletag.enableServices();
+});
+</script>
+<!-- - - - - - - adsense:header end - - - - - - -->
+
+<!-- - - - - start:refresh slots - - - - -->
+<script type="text/javascript">
+window.onload = function() {
+  googletag.cmd.push(function() {
+
+    function isEnabled(div) {
+      if (!div) return false;
+
+      var width = parseInt($(div).css('width'));
+      var height = parseInt($(div).css('height'));
+      var margin = parseInt($(div).css('margin'));
+      var display = $(div).css('display');
+      var parent = $(div).parent();
+
+      if (display == 'none') return false;
+
+      if (parent.is('body')) {
+        return true;
+      } else {
+        return isEnabled(parent);
+      }
+    }
+
+    var resetCorrelator = true; // issue #470
+    for (i = 0; i < googleAdsSlots.length; i++) {
+      var slot = googleAdsSlots[i];
+      var id = slot.getSlotElementId();
+      var div = document.getElementById(id);
+
+      if (isEnabled(div)) {
+        googletag.pubads().refresh([slot], {changeCorrelator: resetCorrelator});
+        resetCorrelator = false;
+      }
+    }
+
+    // http://stackoverflow.com/a/30935893
+    // https://developers.google.com/doubleclick-gpt/reference#googletag.events.SlotRenderEndedEvent
+    // it is required as sometimes rendered ad is empty but rad adds width and height on the div
+    // which doesn't allow the ad to collapse in this case
+    googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+      if(e.isEmpty) {
+        $('#' + e.slot.getSlotElementId()).parents('.ad').attr("style", "display: none !important");
+      }
+    });
+  });
+}
+</script>
+<!-- - - - - end:refresh slots - - - - -->
+              <!-- - - - - start:google - - - - -->
+            <script type="text/javascript">
+            (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40396753-1', 'auto');
+            
+    ga('set', 'dimension6', 'news/1316932');
+    ga('set', 'dimension1', 'World');
+    ga('set', 'dimension2', 'South Asia');
+    ga('set', 'dimension3', 'Tariq Naqash-934');
+    ga('set', 'dimension5', '2017-02-25 19:20:11');  
+    ga('set', 'contentGroup1', 'World');
+    ga('set', 'contentGroup2', 'Tariq Naqash');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+            </script>
+            <!-- - - - - end:google - - - - -->
+
+    <!-- - - - - start:chartbeat - - - - -->
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <!-- - - - - end:chartbeat - - - - -->
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body class="article  world  south-asia  world-south-asia  adsonly">
+
+<header class="pb-2">
+  
+<div class="container  ltr">
+  <div class="px-2  mb-2  d-none  d-sm-block">
+    <ul class='nav  nav--network  text--center  size-two'>
+                <li class='nav__item  nav__item--epaper  text--400      '><a  class='' href='http://epaper.dawn.com'>EPAPER</a></li>
+                <li class='nav__item  nav__item--live-tv  text--400      '><a  class='' href='http://www.dawnnews.tv/watch-live'>LIVE TV</a></li>
+                <li class='nav__item  nav__item--dawnnews-urdu  text--400      '><a  class='' href='http://www.dawnnews.tv'>DAWNNEWS URDU</a></li>
+                <li class='nav__item  nav__item--images  text--400      '><a  class='' href='http://images.dawn.com'>Images</a></li>
+                <li class='nav__item  nav__item--herald  text--400      '><a  class='' href='http://herald.dawn.com'>Herald</a></li>
+                <li class='nav__item  nav__item--aurora  text--400      '><a  class='' href='http://aurora.dawn.com'>Aurora</a></li>
+                <li class='nav__item  nav__item--cityfm89  text--400      '><a target='_blank' class='' href='http://cityfm89.com'>CityFM89</a></li>
+                <li class='nav__item  nav__item--events  text--400      '><a target='_blank' class='' href='http://educationexpo.dawn.com'>Events</a></li>
+                <li class='nav__item  nav__item--supplements  text--400      '><a  class='' href='http://www.dawn.com/events/supplements'>Supplements</a></li>
+                <li class='nav__item  nav__item--classifieds  text--400      '><a target='_blank' class='' href='http://classifieds.dawn.com/'>Classifieds</a></li>
+                <li class='nav__item  nav__item--obituaries  text--400      '><a target='_blank' class='' href='http://obituary.dawn.com'>Obituaries</a></li>
+          </ul>
+  </div>
+</div> <!-- .container -->
+<div class="mx-2">
+  <div class="container">
+
+    <div class='grid  grid--full'>
+      <div class='grid__item  one-quarter'>
+      </div>
+
+      <div class='grid__item  one-half  palm--one-whole'>
+        <div class="mast  text--center  mx-2">
+                      <a href='/' class=''>
+                <h1 class='hide-text  logo  my-4'>
+                    DAWN.COM
+                </h1>      
+            </a>        </div>
+      </div>
+
+      <div class='grid__item  one-quarter'>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class='adblocker-overlay' style='display: none;'></div>
+<div class='adblocker-modal' style="display: none;">
+  <h1 class='adblocker-modal__heading'><img src='/_img/logo--white.png' width='150' alt="Dawn Logo" /></h1>
+  <div class='adblocker-modal__content'>
+    <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+    <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+  </div>
+  <button class='adblocker-modal__button'></button>
+</div>
+<div class='one-whole  text--center  adblock-alert'>
+  <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+  <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+</div>
+<style>
+.adblock-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 202;
+  display: none;
+}
+.adblocker-overlay {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.5;
+  z-index: 999;
+}
+.adblocker-modal {
+  position: fixed;
+  background: #FFF;
+  border: 2px solid #2F2F2F;
+  left: 50%;
+  top: 50%;
+  width: 600px;
+  height: 200px;
+  margin-left: -300px;
+  margin-top: -100px;
+  overflow: hidden;
+  z-index: 99999999;
+}
+.adblocker-modal__heading {
+  background: #000;
+  text-align: center;
+}
+.adblocker-modal__content {
+  text-align: center;
+  padding: 9px;
+  margin: 9px;
+}
+.adblocker-modal__button {
+  text-align: center;
+  width: 100px;
+  margin: 10px auto;
+  background: #D2D2D2;
+  cursor: pointer;
+  padding: 5px;
+  color: #F00;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: block;
+}
+</style><div class='one-whole  text--center  ie-alert'>
+  <p><img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, please upgrade to the latest version of IE to have a better reading experience</p>.
+</div>
+<style>
+.ie-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 3001;
+  display: none;
+  position: fixed;
+}
+.ie8 .ie-alert,
+.lte8 .ie-alert {
+	display: block;
+}
+</style><div class='container  headroom'>
+  <div class="px-2  border--ends  one-whole  float--left">
+    
+<div class='menu'>
+  <img class='menu__logo  menu__logo--white' src='/_img/logo--white.png' alt="Dawn Logo" />
+  <img class='menu__logo  menu__logo--black' src='/_img/logo.png' alt="Dawn Logo" />
+  <ul class='nav  nav--primary  nav--responsive  '>
+                <li class='nav__item  nav__item--home  theme        '><a  class='' href='/'>Home</a></li>
+                <li class='nav__item  nav__item--latest-news  theme        '><a  class='' href='/latest-news'>Latest</a></li>
+                <li class='nav__item  nav__item--psl  theme        '><a  class='' href='//www.dawn.com/trends/psl2017'>PSL</a></li>
+                <li class='nav__item  nav__item--popular  theme        '><a  class='' href='/popular'>Popular</a></li>
+                <li class='nav__item  nav__item--pakistan  theme        '><a  class='' href='/pakistan'>Pakistan</a></li>
+                <li class='nav__item  nav__item--today-s-paper  theme        '><a  class='' href='http://epaper.dawn.com'>Today's Paper</a></li>
+                <li class='nav__item  nav__item--opinion  theme        '><a  class='' href='/opinion'>Opinion</a></li>
+                <li class='nav__item  nav__item--world  theme      active  '><a  class='' href='/world'>World</a></li>
+                <li class='nav__item  nav__item--sport  theme        '><a  class='' href='/sport'>Sport</a></li>
+                <li class='nav__item  nav__item--business  theme        '><a  class='' href='/business'>Business</a></li>
+                <li class='nav__item  nav__item--magazines  theme        '><a  class='' href='/magazines'>Magazines</a></li>
+                <li class='nav__item  nav__item--entertainment  theme        '><a  class='' href='/entertainment'>Culture</a></li>
+                <li class='nav__item  nav__item--blogs  theme        '><a  class='' href='/blogs'>Blogs</a></li>
+                <li class='nav__item  nav__item--tech  theme        '><a  class='' href='/tech'>Tech</a></li>
+                <li class='nav__item  nav__item--multimedia  theme        '><a  class='' href='/multimedia'>Multimedia</a></li>
+                <li class='nav__item  nav__item--newspaper  theme        '><a  class='' href='/newspaper'>Archive</a></li>
+                <li class='nav__item  nav__item--in-depth  theme        '><a  class='' href='/in-depth'>In Depth</a></li>
+          </ul>
+</div>
+<ul class="nav  nav--aside  d-none  d-sm-block">
+  <li class='nav__item  one-whole  text--right'>
+    <button class='js-search  search'>
+      <img src='/_img/search.png' alt="Search Icon" width='15' title='Dawn Search' /><span>SEARCH</span>
+    </button>
+  </li>
+</ul>
+
+
+<div class='search-box'>
+  <form action="/search">
+    <input type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="search  theme  " value="" placeholder="Search" name="q" />
+  </form>
+</div>  </div>
+</div></header>
+<div class="container">
+
+<!-- - - adsense: start - - -->
+<div class='ad  pb-2  border--bottom  mb-4' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='width:728px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style='z-index: 5000 !important;'>
+      <div id='div-gpt-ad-1455520357400-0' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div><!--partial:news/default-story start-->
+<div class="container">
+  <div class="content">
+    <main>
+
+      <!-- hed -->
+      <div class="grid">
+        <div class="grid__item  one-whole">
+          <div class="grid  grid--center">
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              <div class="mx-2  mt-4">
+                                                                                                
+    <!-- box/title title-italic -->
+    <h2 data-layout='story'  data-id='1316932'  class='story__title      text--italic  mt-2  size-eleven  '><a href='https://www.dawn.com/news/1316932/two-kashmiri-youth-handed-over-to-indian-authorities-near-loc' class='story__link'>Two Kashmiri youth handed over to Indian authorities near LoC</a></h2>
+                <div class="story__meta  size-four"><a href='https://www.dawn.com/authors/934/tariq-naqash'>Tariq Naqash</a>                  &mdash;&nbsp;<span class='story__time'><span class='timestamp--label'>Published</span> <span class='timestamp--time  timeago' title='2017-02-25T19:20:11+05:00'><span class='timestamp__calendar'>Feb 25, 2017</span> <span class='timestamp__time'>07:20pm</span></span></span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- article -->
+          <div class="grid  grid--center">
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              <article class="story  story--single  px-2  px-sm-0">
+                <div class="my-2  cf">
+                  
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;width=87&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:87px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;layout=button&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:58px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="https://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;text=Two%20Kashmiri%20youth%20handed%20over%20to%20Indian%20authorities%20near%20LoC&amp;size=m" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:60px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--label  social--whatsapp  d-block  d-sm-none  float--left  pr-2  " aria-hidden="true">
+      <a href="WhatsApp://send?text=Two%20Kashmiri%20youth%20handed%20over%20to%20Indian%20authorities%20near%20LoC%20-%20http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932">WHATSAPP</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--comment      social--label  float--left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="#comments">&nbsp; 30 Comments</a>
+    </div>
+    <!-- box/social -->
+    <div class="social    social--email    social--label  float--left  pr-2  " aria-hidden="true">
+      <a onclick="$('.mailer [name^=id]').val(1316932);$('.mailer').modal().open()" href="javascript:void(0)"> &nbsp;Email</a>
+    </div>                            <div class="mailer  themodal  themodal--centered" style="width:400px;height:260px;background:#fff">
+                              <h3>Email</h3>
+                              <br />
+                              <form class="emailer" method="post" action="/news/email/1316932"
+                                onsubmit="javascript:$.post(this.action, $(this).serialize());$(this).html('Mail sent, thank you!');return false;">
+                                <input type="hidden" name="jscheck" value="" />
+
+                                Your Name:<br />
+                                <input type="text" name="sender" /><br />
+                                <br />
+                                Recipient Email:<br />
+                                <input type="text" name="to" /> <br />
+                                <br />
+                                <input type="submit" value="Email" />
+
+                                <input type="hidden" name="id" value="" />
+                                </form>
+                            </div>
+    <!-- box/social -->
+    <div class="social  social--print    social--label  float--left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="https://www.dawn.com/news/print/1316932"> &nbsp;Print</a>
+    </div>                </div>
+                
+                
+
+    <!-- box/content -->
+    <div class='story__content      pt-4  '><p class=''>Pakistan on Saturday repatriated two Kashmiri youth who had separately strayed into the territory of Azad Jammu and Kashmir (AJK) from the Line of Control (LoC) more than two years ago, officials said.</p><p class=''>The goodwill gesture on the part of Pakistan was in sharp contrast to the <a href='https://www.dawn.com/news/1316914' ><em>Thursday’s incident</em></a> when a Pakistani woman who had inadvertently crossed the Working Boundary was shot dead by Indian Border Security Force (BSF) personnel near Sialkot.</p><p class=''>Repatriation of 23-year old Bilal Ahmed and 24-year old Arfaz Yousuf was held at Kaman Bridge at the Chakothi-Uri crossing point, some 60 kilometres South of Muzaffarabad, in the presence of civilian and military officials from both sides.</p><p class=''>Ahmed, a resident of Gurez village, and Yousuf, a resident of Kupwara in India-held Kashmir had crossed the LoC “by mistake” in July 2015 and January 2014 from Nikru and Chilyana sectors, respectively, according to officials.</p><p class=''>They were stuck up in AJK and their return became possible after completion of necessary procedural requirements in this regard, the officials said.</p><p class=''>The officials assembled in the middle of Kaman Bridge to carry out repatriation process, including their medical examination by doctors from both sides. The whole process took more than an hour.</p><p class=''>Pakistani officials had also brought gifts, such as clothes, sweaters, bags and shoes, apart from two baskets of sweets, which were given to them on the occasion.</p><p class=''>Ahmed’s brother Mohammad Javed and Yousuf’s father Mohammad Yousuf, who were accompanying Indian officials, hugged and kissed them, amid tearful eyes and visible feelings of gratitude.</p><p class=''> “The moment they saw each other on the bridge they broke down,” said Basharat Gardezi, additional SHO in Chinari police station. “It was a moving scene.”
+Such gestures are not uncommon on the Pakistani side, he added.</p><p class=''>In April last year, Pakistani authorities had repatriated a woman namely Shakeela Bano from Chakothi-Uri crossing point, two years after she had strayed into the AJK territory allegedly in a fit of rage.</p><p class=''>Prior to that in July 2015, two teenaged Kashmiri boys - 18-year-old Imtiaz and 17-year-old Saleem - were repatriated from Chilyana-Titwal crossing point, a week after they had inadvertently strayed into the AJK territory.</p><p class=''>In December 2014, Nasreen Bibi, 12, was repatriated from Chakothi-Uri crossing point, three days after she had strayed into the AJK territory.</p><p class=''>However, only two days ago (February 23), when mentally ill Rasheeda Bibi, 53, hailing from Sialkot district&#39;s Diawara village, crossed the Working Boundary after losing her way, she was shot dead by the India’s Border Security Force soldiers.</p><p class=''>Her body was later handed over by the Indian border authorities to her family in the presence of Pakistan Rangers officials.</p>
+    </div>
+
+                <div class="my-2  cf">
+                  
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;width=87&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:87px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;layout=button&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:58px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float--left  pr-2  " aria-hidden="true">
+        <iframe src="https://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932&amp;text=Two%20Kashmiri%20youth%20handed%20over%20to%20Indian%20authorities%20near%20LoC&amp;size=m" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:60px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--label  social--whatsapp  d-block  d-sm-none  float--left  pr-2  " aria-hidden="true">
+      <a href="WhatsApp://send?text=Two%20Kashmiri%20youth%20handed%20over%20to%20Indian%20authorities%20near%20LoC%20-%20http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316932">WHATSAPP</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--comment      social--label  float--left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="#comments">&nbsp; 30 Comments</a>
+    </div>
+    <!-- box/social -->
+    <div class="social    social--email    social--label  float--left  pr-2  " aria-hidden="true">
+      <a onclick="$('.mailer [name^=id]').val(1316932);$('.mailer').modal().open()" href="javascript:void(0)"> &nbsp;Email</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--print    social--label  float--left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="https://www.dawn.com/news/print/1316932"> &nbsp;Print</a>
+    </div>                </div>
+              </article>
+            </div><!-- .grid__item --><!-- .eight~~tenths -->
+
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              
+              <div class='my-4'>
+              
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='width:300px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-6' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-6'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+              </div>
+
+              <!-- related stories -->
+              <div class="px-2  px-sm-0"><div class='related-stories   my-4  py-2  '>
+  <div class="size-seven  caps  pb-2  text--700"><span>Read This Next</span></div>
+  
+
+<div class=' slideshow--list      portable--one-whole'>
+ <div style='clear:both'>  <div class='float--left   active ' style='width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-4  pr-0  pr-sm-2  palm-border--bottom' data-id='1188070' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1188070/ajk-policeman-who-crossed-loc-returns-home'><img src='//i.dawn.com/primary/2015/06/557cfde62be0a.jpg'  alt='AJK policeman who crossed LoC returns home' /></a></div>        
+    </figure>
+
+    <!-- box/title small -->
+    <h2 data-layout='story'  data-id='1188070'  class='story__title    size-five  py-2    '><a href='https://www.dawn.com/news/1188070/ajk-policeman-who-crossed-loc-returns-home' class='story__link'>AJK policeman who crossed LoC returns home</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='float--left  ' style='width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-4  pr-0  pr-sm-2  palm-border--bottom' data-id='1316914' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1316914/mentally-ill-woman-shot-dead-by-indian-bsf-near-sialkot'><img src='//i.dawn.com/primary/2017/02/58b117df80c41.jpg'  alt='Mentally ill woman shot dead by Indian BSF near Sialkot' /></a></div>        
+    </figure>
+
+    <!-- box/title small -->
+    <h2 data-layout='story'  data-id='1316914'  class='story__title    size-five  py-2    '><a href='https://www.dawn.com/news/1316914/mentally-ill-woman-shot-dead-by-indian-bsf-near-sialkot' class='story__link'>Mentally ill woman shot dead by Indian BSF near Sialkot</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='float--left  ' style='width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-4  pr-0  pr-sm-2  palm-border--bottom' data-id='1190588' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1190588/india-hands-over-body-of-pakistani-who-crossed-border-by-mistake'><img src='//i.dawn.com/primary/2015/06/558d5eee8d550.jpg'  alt='India hands over body of Pakistani &amp;#039;who crossed border by mistake&amp;#039;' /></a></div>        
+    </figure>
+
+    <!-- box/title small -->
+    <h2 data-layout='story'  data-id='1190588'  class='story__title    size-five  py-2    '><a href='https://www.dawn.com/news/1190588/india-hands-over-body-of-pakistani-who-crossed-border-by-mistake' class='story__link'>India hands over body of Pakistani 'who crossed border by mistake'</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div style='clear:both'> </div></div>
+</div>
+<hr class="clear--both"></div><!-- related stories -->
+
+              <div>
+              
+<!-- - - adsense: start - - -->
+<div class='ad  py-2  ad--adjustable  my-4  border--ends  d-none  d-sm-block' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='width:728px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-2' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+              </div>
+
+
+              <div class="m-2">
+                <div class="grid  grid--narrow">
+                  <div class="grid__item  one-half  palm--one-whole">
+                    <section class="widget  widget-sectionauthor  widget--article">
+                      <div class="grid">
+  <div class="grid__item  one-whole">
+    <h2 class="widget__container__title  size-six">
+      <a href="/world/south-asia">World</a>
+    </h2>
+    <div class="widget__container__body">
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-4' data-id='1316933' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316933/is-militants-kill-11-in-afghan-mosque-ambush-official'><img src='//i.dawn.com/medium/2017/02/58b1945a186fa.jpg'  alt='IS militants kill 11 in Afghan mosque ambush: official' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic -->
+    <h2 data-layout='story'  data-id='1316933'  class='story__title    size-five  text--italic    '><a href='https://www.dawn.com/news/1316933/is-militants-kill-11-in-afghan-mosque-ambush-official' class='story__link'>IS militants kill 11 in Afghan mosque ambush: official</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class='box  story    mb-4' data-id='1316914' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316914/mentally-ill-woman-shot-dead-by-indian-bsf-near-sialkot'><img src='//i.dawn.com/medium/2017/02/58b117df80c41.jpg'  alt='Mentally ill woman shot dead by Indian BSF near Sialkot' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic -->
+    <h2 data-layout='story'  data-id='1316914'  class='story__title    size-five  text--italic    '><a href='https://www.dawn.com/news/1316914/mentally-ill-woman-shot-dead-by-indian-bsf-near-sialkot' class='story__link'>Mentally ill woman shot dead by Indian BSF near Sialkot</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+</div>
+                    </section>
+                  </div>
+
+                  <div class="grid__item  one-half  palm--one-whole">
+                    <div>
+                    
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='width:300px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-4' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-4'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+                    </div>
+                    <section class="widget  widget-popular  widget--article">
+                      <div class='widget__container'>
+                        <h2 class='widget__container__title  caps  size-six'><span>Most Popular</span></h2>
+                        <div class='widget__container__body'>
+                        <div class="tabs">
+    <ul class="nav  nav--tabs">
+      <li class='active' ><a href='#mostPopular48'>24 Hours</a></li><li class='' ><a href='#mostPopular72'>3 Days</a></li><li class='' ><a href='#mostCommented'>Commented</a></li>    </ul>
+    <div class="tabs__content">
+      <div class='tabs__pane  active' id='mostPopular48'><ol class='popular-list'>
+                    <li><a href='/news/1316527'>10 killed in explosion in Lahore's Defence area</a></li><li><a href='/news/1316682'>PIA probing safety breach after seven passengers forced to stand during flight</a></li><li><a href='/news/1316659/china-finds-india-talks-of-positive-significance'>China finds India talks of positive significance</a></li><li><a href='/news/1316332/pakistan-army-launches-operation-radd-ul-fasaad-across-the-country'>Pakistan Army launches 'Operation Radd-ul-Fasaad' across the country</a></li><li><a href='/news/1316454/pakistan-recalibrating-capabilities-to-fight-terrorists'>Pakistan recalibrating capabilities to fight terrorists</a></li><li><a href='/news/1316220/securing-pakistan'>Securing Pakistan?</a></li><li><a href='/news/1316524/panamagate-arguments-end-sc-reserves-judgement'>Panamagate arguments end, SC reserves judgement</a></li><li><a href='/news/1316684/situationer-when-fear-takes-over'>Situationer: when fear takes over</a></li>
+                  </ol></div><div class='tabs__pane  ' id='mostPopular72'><ol class='popular-list'>
+                    <li><a href='/news/1316527/8-killed-in-bomb-blast-in-lahores-defence-area'>8 killed in bomb blast in Lahore's Defence area</a></li><li><a href='/news/1316332/pakistan-army-launches-operation-radd-ul-fasaad-across-the-country'>Pakistan Army launches 'Operation Radd-ul-Fasaad' across the country</a></li><li><a href='/news/1316220/securing-pakistan'>Securing Pakistan?</a></li><li><a href='/news/1316659/china-finds-india-talks-of-positive-significance'>China finds India talks of positive significance</a></li><li><a href='/news/1316682/pia-probing-safety-breach-after-seven-passengers-forced-to-stand-during-flight'>PIA probing safety breach after seven passengers forced to stand during flight</a></li><li><a href='/news/1316320/drama-outside-supreme-court-as-journalists-pml-n-ministers-engage-in-shouting-match'>Drama outside Supreme Court as journalists, PML-N ministers engage in shouting match</a></li><li><a href='/news/1316454/pakistan-recalibrating-capabilities-to-fight-terrorists'>Pakistan recalibrating capabilities to fight terrorists</a></li><li><a href='/news/1316524/panamagate-arguments-end-sc-reserves-judgement'>Panamagate arguments end, SC reserves judgement</a></li>
+                  </ol></div><div class='tabs__pane  ' id='mostCommented'>
+            <ol class='popular-list'>
+                <li><a href='/news/1316914/mentally-ill-woman-shot-dead-by-indian-bsf-near-sialkot'>Mentally ill woman shot dead by Indian BSF near Sialkot </a></li><li><a href='/news/1316759/lessons-for-pakistan-from-trumps-america'>Lessons for Pakistan from Trump’s America</a></li><li><a href='/news/1316840/interpol-refuses-to-issue-red-warrant-against-altaf-hussain'>Interpol refuses to issue red warrant against Altaf Hussain</a></li><li><a href='/news/1316925/i-will-lead-mandatory-prayers-in-court-says-new-ajk-chief-justice'>I will lead mandatory prayers in court, says new AJK chief justice</a></li><li><a href='/news/1316837/pm-allows-gas-connections-to-areas-of-influential-politicians'>PM allows gas connections to areas of influential politicians</a></li><li><a href='/news/1316919/nisar-deflects-blame-for-sehwan-bombing-places-it-on-sindh-govt'>Nisar deflects blame for Sehwan bombing, places it on Sindh govt</a></li><li><a href='/news/1316932/two-kashmiri-youth-handed-over-to-indian-authorities-near-loc'>Two Kashmiri youth handed over to Indian authorities near LoC</a></li><li><a href='/news/1316803/indian-man-killed-another-wounded-in-suspected-kansas-hate-crime'>Indian man killed, another wounded in suspected Kansas hate crime</a></li>
+            </ol></div>    </div>
+</div>                        </div>
+                      </div>
+                    </section>
+                  </div>
+                  <div class="grid__item  one-whole">
+                    <div class="mb-4  today-images">
+                      <h3 class='size-six'>TODAY ON IMAGES</h3>
+                      
+
+<div class='slideshow  slideshow--single  portable--one-whole  slideshow--main  ' data-slick='{
+                                        "dots": true,
+                                        "dotsClass": "slideshow__pager",
+                                        "asNavFor": null,
+                                        "cssEase": "ease",
+                                        "speed": 200,
+                                        "autoplaySpeed": 4000,
+                                        "slidesToScroll": 2,
+                                        "slidesToShow": 2,
+                                        "responsive": [{"breakpoint": 480, "settings":{"slidesToShow":2, "slidesToScroll":1}},{"breakpoint": 720, "settings":{"slidesToShow":2, "slidesToScroll":1}}],
+                                        "fade": false
+                                    }'>
+<div class='slideshow__slide  slideshow__slide--first  pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316921' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316921/oscars-so-divided-hollywood-still-struggles-with-race'><img src='//i.dawn.com/thumbnail/2017/02/58b156eb0ebf6.jpg'  alt='Oscars so divided: Hollywood still struggles with race' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316921'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316921/oscars-so-divided-hollywood-still-struggles-with-race' class='story__link'>Oscars so divided: Hollywood still struggles with race</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316921&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Oscars%20so%20divided%3A%20Hollywood%20still%20struggles%20with%20race&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316921&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316921" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide  slideshow__slide--first  pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316915' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316915/were-live-at-the-lahore-literary-festival-heres-what-you-need-to-know'><img src='//i.dawn.com/thumbnail/2017/02/58b127a5a7f36.jpg'  alt='We&amp;#39;re live at the Lahore Literary Festival. Here&amp;#39;s what you need to know' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316915'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316915/were-live-at-the-lahore-literary-festival-heres-what-you-need-to-know' class='story__link'>We&#39;re live at the Lahore Literary Festival. Here&#39;s what you need to know</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316915&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=We%27re%20live%20at%20the%20Lahore%20Literary%20Festival.%20Here%27s%20what%20you%20need%20to%20know&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316915&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316915" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316913' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316913/shaz-khan-will-play-a-pilot-in-parwaaz-hai-junoon'><img src='//i.dawn.com/thumbnail/2017/02/58b119daaf401.jpg'  alt='Shaz Khan will play a pilot in Parwaaz Hai Junoon' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316913'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316913/shaz-khan-will-play-a-pilot-in-parwaaz-hai-junoon' class='story__link'>Shaz Khan will play a pilot in Parwaaz Hai Junoon</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316913&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Shaz%20Khan%20will%20play%20a%20pilot%20in%20Parwaaz%20Hai%20Junoon&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316913&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316913" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316730' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316730/lahore-literary-festival-reworks-itinerary-amid-tensions-in-the-city'><img src='//i.dawn.com/thumbnail/2017/02/58b057c6afa47.jpg'  alt='Lahore Literary Festival reworks itinerary amid tensions in the city' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316730'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316730/lahore-literary-festival-reworks-itinerary-amid-tensions-in-the-city' class='story__link'>Lahore Literary Festival reworks itinerary amid tensions in the city</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316730&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Lahore%20Literary%20Festival%20reworks%20itinerary%20amid%20tensions%20in%20the%20city&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316730&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316730" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316724' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316724/fpw-day-2-traditional-craftsmanship-takes-centre-stage-on-the-final-day'><img src='//i.dawn.com/thumbnail/2017/02/58b03723b477e.jpg'  alt='FPW Day 2: Traditional craftsmanship takes centre stage on the final day' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316724'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316724/fpw-day-2-traditional-craftsmanship-takes-centre-stage-on-the-final-day' class='story__link'>FPW Day 2: Traditional craftsmanship takes centre stage on the final day</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316724&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=FPW%20Day%202%3A%20Traditional%20craftsmanship%20takes%20centre%20stage%20on%20the%20final%20day&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316724&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316724" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316718' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316718/pfdc-sunsilk-fashion-week-postponed-due-to-blast-in-lahore'><img src='//i.dawn.com/thumbnail/2017/02/58b0043650259.jpg'  alt='PFDC Sunsilk Fashion Week postponed due to blast in Lahore' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316718'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316718/pfdc-sunsilk-fashion-week-postponed-due-to-blast-in-lahore' class='story__link'>PFDC Sunsilk Fashion Week postponed due to blast in Lahore</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316718&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=PFDC%20Sunsilk%20Fashion%20Week%20postponed%20due%20to%20blast%20in%20Lahore&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316718&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316718" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316712' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316712/heres-who-will-be-performing-at-the-lahore-music-meet-2017'><img src='//i.dawn.com/thumbnail/2017/02/58afe3849b72c.jpg'  alt='Here&amp;#39;s who will be performing at the Lahore Music Meet 2017' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316712'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316712/heres-who-will-be-performing-at-the-lahore-music-meet-2017' class='story__link'>Here&#39;s who will be performing at the Lahore Music Meet 2017</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316712&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Here%27s%20who%20will%20be%20performing%20at%20the%20Lahore%20Music%20Meet%202017&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316712&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316712" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1316709' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316709/veteran-actor-farooq-zameer-passes-away'><img src='//i.dawn.com/thumbnail/2017/02/58afd4491fbf3.jpg'  alt='Veteran actor Farooq Zameer passes away' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1316709'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1316709/veteran-actor-farooq-zameer-passes-away' class='story__link'>Veteran actor Farooq Zameer passes away</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316709&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float--left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Veteran%20actor%20Farooq%20Zameer%20passes%20away&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316709&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316709" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float--left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="grid__item  three-quarters  palm--one-whole">
+            <hr class="my-4  clear--both" />
+<section id="comments" class="comments  px-4">
+    <h1 class='comments__label  caps  size-eight  '>Comments (30) </h1>
+    <form role="form" id="comments-form" method="post" action="/comments" class="comments-form  jsform  mb-4">
+  <input type="hidden" class="jscheck" name="jscheck" value="" />
+  <input type="hidden" value="1316932" name="story_id" />
+
+  <div class="info"></div>
+
+    <div class="grid">
+      <div class="grid__item  one-half">
+    <div class="pt-2">
+      <input type="text" name="name" class="text-input  one-whole  caps" id="name" required="required" placeholder="Your Name" />
+    </div>
+  </div>
+  <div class="grid__item  one-half">
+    <div class="pt-2">
+      <input type="text" name="email" class="text-input  one-whole" id="email" required="required" placeholder="email@example.com" />
+    </div>
+  </div>  </div>
+  
+  <div class="grid  d-none">
+    <div class="grid__item  one-half">
+      <div class="mr-4  mb-4">
+        <input type="text" name="location" class="text-input  one-whole" id="location" placeholder="Your Location" />
+      </div>
+    </div>
+    <div class="grid__item  one-half">
+      <div class="mr-4  mb-4">
+        <input type="text" name="url" class="text-input  one-whole" id="url" placeholder="http://" />
+      </div>
+    </div>
+  </div>
+  <div class="comment__limit  size-one  float--right">1000 characters</div>
+  <div class="grid">
+    <div class="grid__item  one-whole">
+      <div class="mb-2">
+        <textarea class="text-input  one-whole" rows="7" id="content" name="content" placeholder="Your Comment" required="required"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="grid__item  one-half">
+      <input type="submit" name="comment" value="Comment" class="button  comments__button  caps  text--gray" />
+    </div>
+        <div class="grid__item  one-half">
+      <p class="float--right  comments__policy"><a href="/comments-policy" class='size-three  text--gray'>COMMENTS POLICY</a></p>
+    </div>
+      </div>
+
+</form>    <div class="votes-button-container">
+      <button type="button" class="button js-comments-sort-votes  float--right  text--gray  caps">BEST</button>
+      <button type="button" class="button js-comments-sort-date--new  float--right  text--gray  caps">NEWEST</button>
+      <button type="button" disabled="disabled" class="button js-comments-sort-date  float--right  text--gray  caps">OLDEST</button>
+    </div>
+    <br /><br />
+    
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564903">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Nasir</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:36:12+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:36:12+05:00'>Feb 25, 2017 07:36pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>A great gesture from Pakistan, never get low to the level of your neighbours!</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Nasir' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564903"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564903">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564907">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">IztraaB</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:38:12+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:38:12+05:00'>Feb 25, 2017 07:38pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>This is the difference being Pakistani and indian.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='IztraaB' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564907"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564907">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564914">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Kashmiri</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:41:54+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:41:54+05:00'>Feb 25, 2017 07:41pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Pakistan did this bcz it thinks the other part of Kashmir is it's own. </p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Kashmiri' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564914"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564914">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564928">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Kamal Khan</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:52:19+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:52:19+05:00'>Feb 25, 2017 07:52pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>How many innocents will India kill? We won't be silenced on the atrocities of the Indian army.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Kamal Khan' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564928"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564928">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564933">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Osman</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:53:45+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:53:45+05:00'>Feb 25, 2017 07:53pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Hope the Indian authorities won't torture them.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Osman' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564933"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564933">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564944">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Balaji</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:57:10+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:57:10+05:00'>Feb 25, 2017 07:57pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Must admit this, Such a mature response from Pakistan!</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Balaji' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564944"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564944">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564947">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Subhan </span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:57:23+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:57:23+05:00'>Feb 25, 2017 07:57pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>"When they go low, we go high"  Well done Pakistan !</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Subhan ' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564947"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564947">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564949">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">point of view</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T19:56:18+05:00"><span class='timestamp--time  timeago' title='2017-02-25T19:56:18+05:00'>Feb 25, 2017 07:56pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Such gesture from Pakistan is because they see Kashmir as part of Pakistan.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='point of view' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564949"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564949">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564969">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Roman</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:02:35+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:02:35+05:00'>Feb 25, 2017 08:02pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>India always acts statesman like and ensures response in kind.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Roman' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564969"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564969">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564981">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">BF1983</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:06:21+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:06:21+05:00'>Feb 25, 2017 08:06pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Hopefully the entire border can be fortified and fenced off completely to avoid such incidents in future</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='BF1983' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564981"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564981">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564984">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Harmony-1&#169;</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:06:44+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:06:44+05:00'>Feb 25, 2017 08:06pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>@Balaji - Yes, "a mature response from Pakistan" and also worth noticing what the article says:</p>
+
+<p>"The goodwill gesture on the part of Pakistan was in sharp contrast to the Thursday’s incident when a Pakistani woman who had inadvertently crossed the Working Boundary was shot dead by BSF"!!!</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Harmony-1&#169;' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564984"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564984">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564986">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">B</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:07:33+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:07:33+05:00'>Feb 25, 2017 08:07pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Releasing them after 2 years raises suspicion.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='B' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564986"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564986">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4564988">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Shary</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:06:37+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:06:37+05:00'>Feb 25, 2017 08:06pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Kashmiri pepole are pakistanis too, thats y pakistan always consider them as brothers... India on the other hand condider them as enimies...</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Shary' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4564988"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4564988">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565004">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Dr</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:12:41+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:12:41+05:00'>Feb 25, 2017 08:12pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Thats the Diff between India and Pakistan....</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Dr' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565004"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565004">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565005">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Kiran</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:09:20+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:09:20+05:00'>Feb 25, 2017 08:09pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Pakistan won on this occasion. (From an Indian).</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Kiran' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565005"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565005">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565014">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Puthomadre, karachi</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:11:46+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:11:46+05:00'>Feb 25, 2017 08:11pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>How can they cross the border by mistake when there is two layers of fence?</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Puthomadre, karachi' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565014"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565014">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565022">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">JAy shah</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:14:22+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:14:22+05:00'>Feb 25, 2017 08:14pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>When they go low we go high.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='JAy shah' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565022"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565022">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565029">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Junaid</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:20:05+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:20:05+05:00'>Feb 25, 2017 08:20pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>But when our people cross the LOC we receive their dead bodies that's show who has extremist mentality</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Junaid' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565029"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565029">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565031">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">kiiji</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:17:02+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:17:02+05:00'>Feb 25, 2017 08:17pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Why Pakistan and India have not sealed the border 100%? How can a woman just walk to other side? </p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='kiiji' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565031"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565031">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565043">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Haafiz</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:23:04+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:23:04+05:00'>Feb 25, 2017 08:23pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Pakistan is great</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Haafiz' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565043"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565043">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565057">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Junaid</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:26:45+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:26:45+05:00'>Feb 25, 2017 08:26pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>India being such a big country but their behavior is like a old kid</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Junaid' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565057"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565057">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565058">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Aditya Sharma</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:24:54+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:24:54+05:00'>Feb 25, 2017 08:24pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Great goodwill gesture</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Aditya Sharma' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565058"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565058">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565059">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Bipul</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:25:06+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:25:06+05:00'>Feb 25, 2017 08:25pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>One way to look at it is, Pakistan clearly doesn't have any perceived threat from India </p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Bipul' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565059"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565059">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565070">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">kashmiri</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:31:23+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:31:23+05:00'>Feb 25, 2017 08:31pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>love u Pak, Believe me their is nothing new in for we KASHMIR.  because we always expect these things from Pak. love u Pakistan. keep it up</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='kashmiri' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565070"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565070">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565110">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Azad</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:47:45+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:47:45+05:00'>Feb 25, 2017 08:47pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Why two years? Can anyone say about their story during those two years??</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Azad' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565110"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565110">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565144">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Khanm</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:54:44+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:54:44+05:00'>Feb 25, 2017 08:54pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Interesting comments ...I thought for a moment Kashmir belongs to kashmirs ..Either here or there ...I guess the line of control is now a permanent border..Peace, plenty, and contentment reign throughout our borders, and our beloved country presents a sublime moral spectacle to the world.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Khanm' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565144"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565144">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565150">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">Joel</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:56:15+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:56:15+05:00'>Feb 25, 2017 08:56pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>2years were spent doing what? And what about the many fishermen languishing in your jails??</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Joel' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565150"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565150">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565154">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">A. Khan</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T20:58:40+05:00"><span class='timestamp--time  timeago' title='2017-02-25T20:58:40+05:00'>Feb 25, 2017 08:58pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>Isn't the border fenced by the Indians ? If so, how can people just walk across it ?</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='A. Khan' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565154"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565154">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565171">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">JOE</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T21:06:50+05:00"><span class='timestamp--time  timeago' title='2017-02-25T21:06:50+05:00'>Feb 25, 2017 09:06pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>A goodwill gesture! </p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='JOE' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565171"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565171">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4565173">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float--left  text--gray">nitin-patel</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-25T21:07:20+05:00"><span class='timestamp--time  timeago' title='2017-02-25T21:07:20+05:00'>Feb 25, 2017 09:07pm</span></span>
+          </div>
+          <div class="comment__body    cf"><p>BTW, I appreciate the good  gesture from Pakistan and thanks for arrange return of  Bilal Ahmed and Arfaz Yousuf.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='nitin-patel' class='button  button--short  mr-2  comment__reply  caps   text--gray' />                        <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316932/up-4565173"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316932/up-4565173">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  </section>
+            </div>
+          </div>
+          <div class='px-2'>
+          
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='width:728px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455531878761-2' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455531878761-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+          </div>
+        </div>
+      </div> <!-- .grid -->
+    </main>
+
+
+    <aside class="pb-4">
+
+<!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title: DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1220'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='width:300px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-3' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1347 -  type: sponsoredcontent -  object_id:  -  title: Sponsored - - - - - - -->
+<section class='widget  theme  widget-sponsoredcontent  '  data-type='sponsoredcontent' data-id='1347'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>Sponsored</span></h2>
+<div class='widget__container__body  '>
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1221 -  type: adsense -  object_id:  -  title: DAWN-MREC-DESKTOP-300x250-2 - /1029551/DAWN-MREC-DESKTOP-300x250-2 - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1221'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN-MREC-DESKTOP-300x250-2 - /1029551/DAWN-MREC-DESKTOP-300x250-2</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='width:300px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-5' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-5'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600 - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1219'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='width:300px;text-align:center;margin:0 auto'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-8' class='ad__wrapper__slot' style='width:300px;height:600px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-8'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+</aside>
+  </div> <!-- .content -->
+</div> <!-- .container -->
+
+  <div class='navstory  navstory--prev' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--prev" href="https://www.dawn.com/news/1316572/faith-rationality">&lsaquo;</a>
+    <div class='navstory__article  navstory__article--prev'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1316572' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1316572'  class='story__title        '><a href='https://www.dawn.com/news/1316572/faith-rationality' class='story__link'>Faith &amp; rationality</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316572/faith-rationality'><img src='//i.dawn.com/thumbnail/2017/02/58af365ce6c5a.jpg'  alt='Faith &amp;amp; rationality' /></a></div>        
+    </figure>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+    <div class='navstory  navstory--next' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--next" href="https://www.dawn.com/news/1316684/situationer-when-fear-takes-over">&rsaquo;</a>
+    <div class='navstory__article  navstory__article--next'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1316684' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1316684'  class='story__title        '><a href='https://www.dawn.com/news/1316684/situationer-when-fear-takes-over' class='story__link'>Situationer: when fear takes over</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316684/situationer-when-fear-takes-over'><img src='//i.dawn.com/thumbnail/2017/02/58b1581fe0983.jpg'  alt='Situationer: when fear takes over' /></a></div>        
+    </figure>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+  <!--partial:news/default-story end-->
+<footer>
+	<div class='pt-2  px-2  mb-2  cf'>
+			</div>
+
+	    <script src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+    <script src='//platform.twitter.com/widgets.js'></script>
+    <script src='/_js/all.20170221134105.js'></script>
+
+    <script>dailymotionSyndicationId(202395)</script><div class="p-2  mx-2">
+  <div class="container  container--footer">
+    <div class='mt-2'>
+      <div class="pt-4">
+        <div class="grid  grid--full">
+          <div class="grid__item  two-tenths  portable--one-whole">
+            <ul class="nav">
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--black' src="/_img/logo.20170226063826.png"></li>
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--white' src="/_img/logo--white.20170226063826.png"></li>
+              <li class="nav__item  one-whole  mt-2"><p>Copyright &copy; 2017</p></li>
+              <li class="nav__item  one-whole"><p class="d-none"> Compunode.com Pvt. Ltd. (<a href="http://www.compunode.com/">www.compunode.com</a>).Designed for <a href="http://www.dawn.com">Dawn</a>.</p></li>
+                  <li class="nav__item  one-whole"><p>Scribe Publishing Platform</p></li>
+            </ul>
+          </div>
+
+          <div class="grid__item  eight-tenths  portable--one-whole">
+            <div class="grid  grid--full">
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap">
+                  <li class="nav__item  one-whole"><a href="/contact">Contact Us</a></li>
+                  <li class="nav__item  one-whole"><a href="https://www.facebook.com/dawndotcom">Facebook</a></li>
+                  <li class="nav__item  one-whole"><a href="https://twitter.com/dawn_com">Twitter</a></li>
+                  <li class="nav__item  one-whole"><a href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
+                  <li class="nav__item  one-whole"><a href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap">
+                  <li class="nav__item  one-whole"><a href="/newsletters">Newsletters</a></li>
+                  <li class="nav__item  one-whole"><a href="/prayers-timings">Prayer Timings</a></li>
+                  <li class="nav__item  one-whole"><a href="/stocks">Stock Forex and Gold</a></li>
+                  <li class="nav__item  one-whole"><a href="/weather">Weather</a></li>
+                  <li class="nav__item  one-whole"><a href="/social-media-guidelines">Social Media Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap">
+                  <li class="nav__item  one-whole"><a href="/code-of-ethics">Code of Ethics</a></li>
+                  <li class="nav__item  one-whole"><a href="/terms">Terms of Use</a></li>
+                  <li class="nav__item  one-whole"><a href="/privacy">Privacy</a></li>
+                  <li class="nav__item  one-whole"><a href="/reproduction-copyrights">Reproduction Copyrights</a></li>
+                  <li class="nav__item  one-whole"><a href="/contribution-guidelines">Contribution Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap">
+                  <li class="nav__item  one-whole"><a href="/advertise-dawn">Advertise in Dawn</a></li>
+                  <li class="nav__item  one-whole"><a href="http://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
+                  <li class="nav__item  one-whole"><a href="http://obituary.dawn.com">Obituaries</a></li>
+                  <li class="nav__item  one-whole" style="visibility:hidden"><a href="/news/793000/full-width-template">Place Classifieds Ad</a></li>
+                  <!-- <li class="nav__item  one-whole"><a href="http://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap">
+                  <li class="nav__item  one-whole"><a href="http://www.dawn.com">Dawn.com</a></li>
+                  <li class="nav__item  one-whole"><a href="http://dawnnews.tv/">Dawnnews.tv</a></li>
+                  <li class="nav__item  one-whole"><a href="http://cityfm89.com">Cityfm 89</a></li>
+                  <li class="nav__item  one-whole"><a href="http://herald.dawn.com">HERALD</a></li>
+                  <li class="nav__item  one-whole"><a href="http://aurora.dawn.com">Aurora</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>            <!-- - - - - start:alexa - - - - -->
+            <script type="text/javascript">
+              _atrk_opts = { atrk_acct:"1DJ3k1acFH00UN", domain:"dawn.com",dynamic: true};
+              (function() {
+                var as = document.createElement('script');
+                as.type = 'text/javascript';
+                as.async = true;
+                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+                var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+            </script>
+            <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1DJ3k1acFH00UN" style="display:none" height="1" width="1" alt="" /></noscript>
+            <!-- - - - - end:alexa - - - - -->
+    <!-- - - - - start:chartbeat publishing - - - - -->
+    <script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 62163;
+    _sf_async_config.domain = "dawn.com";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "World,South Asia";
+    _sf_async_config.authors = "Tariq Naqash-934";
+    /** CONFIGURATION END **/
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
+    <!-- - - - - end:chartbeat - - - - -->
+            <!-- - - - - start:ga-events - - - - -->
+            <script type="text/javascript">
+            
+    if (typeof $ !== 'undefined') $('.story__content a').click(function(){ga('send','event','story','click','links');});
+    if (typeof $ !== 'undefined') $('.social--whatsapp a').click(function(){ga('send','event','story','click','whatsapp');});
+    if (typeof $ !== 'undefined') $('.social--print a').click(function(){ga('send','event','story','click','print');});
+    if (typeof $ !== 'undefined') $('.social--email a').click(function(){ga('send','event','story','click','email');});
+    if (typeof $ !== 'undefined') $('.story__meta a').click(function(){ga('send','event','story','click','author');});
+    if (typeof $ !== 'undefined') $('.navstory--prev a').click(function(){ga('send','event','prevnext','click','prev');});
+    if (typeof $ !== 'undefined') $('.navstory--next a').click(function(){ga('send','event','prevnext','click','next');});
+            </script>
+            <!-- - - - - end:ga-events - - - - -->
+</footer>
+<!--2017-02-26 06:38:26-->
+</body>
+</html>

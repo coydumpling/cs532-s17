@@ -1,0 +1,2775 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html class="lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html>
+  <!--<![endif]-->
+  <head>
+    <title>The Independent | News | UK and Worldwide News | Newspaper</title>
+    <link rel="manifest" href="/sites/all/themes/ines_themes/independent_theme/manifest.json">
+    <link rel="preload" href="https://static.independent.co.uk/s3fs-public/font/Fira-Sans-Extrabold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://static.independent.co.uk/s3fs-public/font/Fira-Sans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+    <!-- HEAD -->
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="apple-itunes-app" content="app-id=499587380, affiliate-data=1l3v95Z" />
+<link rel="dns-prefetch" href="//static.independent.co.uk" />
+<link href="http://www.independent.co.uk/" rel="alternate" hreflang="en-gb" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="alternate" type="application/rss+xml" title="RSS - US" href="http://www.independent.co.uk/us/rss" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.independent.co.uk/us" />
+<meta property="fb:admins" content="729735830" />
+<meta property="fb:app_id" content="235586169789578" />
+<meta property="og:site_name" content="The Independent" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.independent.co.uk/us" />
+<meta property="og:title" content="US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@independent" />
+<meta name="twitter:url" content="http://www.independent.co.uk/us" />
+<meta name="twitter:title" content="US" />
+<meta property="og:locale" content="en_GB" />
+<link rel="shortcut icon" href="/sites/all/themes/ines_themes/independent_theme/favicon.ico" type="image/ico" />
+<meta name="msvalidate.01" content="58C7FB6B9237322BB527AA3C68656AE3" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-180x180.png" sizes="180x180" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-36x36.png" sizes="36x36" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-48x48.png" sizes="48x48" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-72x72.png" sizes="72x72" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-96x96.png" sizes="96x96" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-114x114.png" sizes="114x114" />
+<link rel="android-icon" href="/sites/all/themes/ines_themes/independent_theme/img/android-icon-192x192.png" sizes="192x192" />
+<link rel="ms-icon" href="/sites/all/themes/ines_themes/independent_theme/img/ms-icon-70x70.png" sizes="70x70" />
+<link rel="ms-icon" href="/sites/all/themes/ines_themes/independent_theme/img/ms-icon-144x144.png" sizes="144x144" />
+<link rel="ms-icon" href="/sites/all/themes/ines_themes/independent_theme/img/ms-icon-150x150.png" sizes="150x150" />
+<link rel="ms-icon" href="/sites/all/themes/ines_themes/independent_theme/img/ms-icon-310x310.png" sizes="310x310" />
+
+    <!-- PRE HEAD INLINE -->
+    <script>var _sf_startpt=(new Date()).getTime();
+
+
+;
+
+  var _sf_async_config = _sf_async_config || {};
+     /** CONFIGURATION START **/
+     _sf_async_config.uid = 62356;
+     _sf_async_config.domain = 'independent.co.uk';
+     _sf_async_config.useCanonical = true;
+     _sf_async_config.flickerControl = false;
+     _sf_async_config.sections = 'us';
+     _sf_async_config.title = 'US';
+     /** CONFIGURATION END **/
+     var _sf_startpt = (new Date()).getTime();
+
+
+
+;
+var gptPath = "-in_us-in_us_hp";
+
+
+;
+var s_account = "indepdev";
+
+
+;
+</script>    <!-- SCRIPTS -->
+
+    <!-- STYLES -->
+    <link type="text/css" rel="stylesheet" href="https://static.independent.co.uk/s3fs-public/advagg_css/css__V9ZCMbicyvh_EKIZoGuI1g5QiFatu56q6IMViquEWtE__nEXW50YRlnWSYTZYdJFwbtAOWcJkBP76uBVuL9s_uXo__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.css" media="all" />
+    
+        <!-- HARDCODED -->
+    <script type="text/javascript">
+      var articleId = 'index';
+      var pageType = 'index';
+    </script>
+    <script type="text/javascript" src="//www.independent.co.uk/sites/all/libraries/modernizr/modernizr-custom.js?olwlkd"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="https://static.independent.co.uk/s3fs-public/advagg_js/js__H5AFmq1RrXKsrazzPq_xPQPy4K0wUKqecPjczzRiTgQ__p930YZ_ODW6ZjDLOJmxJnRL7juGStYuszD6uNS8_FFo__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.js"></script>
+<script type="text/javascript" src="https://static.independent.co.uk/s3fs-public/advagg_js/js__HtxFT83R1UUVYe_-Mp7n9esVnhjh45YItD5R_qypsm8__T1MHxx_0vF4NOqr1jZ0qiJp3R4YUNfFHfRygSgHA5bY__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.js" defer="defer"></script>
+<script type="text/javascript" src="https://static.independent.co.uk/s3fs-public/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__qAl84FcCv2jyN22yFGS5Oc85cjd9zKX6p_cFNLGhe-M__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.js" defer="defer" async="async"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_js/js/ines_helper.min.js?olwlkd"></script>
+<script type="text/javascript" src="https://static.independent.co.uk/s3fs-public/advagg_js/js__12ka-7VVKLLsnpn89DAEyT6Ny99XhemGe4MO3RK2ldI__RtegqCzo4aO2JDLDYFXX4-jJ0jyE2pzFJTOtXbSbkfA__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.js"></script>
+<script type="text/javascript" src="https://static.independent.co.uk/s3fs-public/advagg_js/js__7eUA97xvWSkWgsP51VXrWM8alxum-YCZ52CDbmU3Zpo__Z4pOzlsyXL1zTAxTTK0UKUgWgM5tWI_rYsVaLSbzXCs__Z-ZWuecwSPlfWS9WLnFn-LXrBbJUrdyyPmNBk7Q3yQc.js" defer="defer"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"independent_theme","theme_token":"wbDK0HYNY4xqq2mvHryM2pLs4wawHMsK5hAia2PboG8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/ines_themes\/ines_theme\/css\/style.css":1,"sites\/all\/themes\/ines_themes\/independent_theme\/css\/style.css":1},"js":{"sites\/all\/libraries\/modernizr\/modernizr-custom.js":1,"\/\/code.jquery.com\/jquery-2.1.4.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/main.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/section-pages.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/ines\/modules\/ines_js\/js\/ines_helper.min.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/adunit_define.js":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.js":1,"sites\/all\/modules\/contrib\/scald\/modules\/providers\/scald_image\/scald_image.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/ines\/modules\/ines_scald_videos_external\/ines_scald_videos_external.js":1,"profiles\/ines\/modules\/ines_sharethrough\/js\/sharethrough.js":1,"profiles\/ines\/modules\/ines_taboola\/js\/taboola.js":1,"profiles\/ines\/modules\/ines_layout_config\/js\/layout_grid.feeds.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/gigya.session.js":1,"profiles\/ines\/modules\/ines_js\/js\/ines_js.defer.js":1,"profiles\/ines\/modules\/ines_page_refresh\/js\/refresh.js":1,"profiles\/ines\/modules\/ines_commercial\/ines_commercial_ads\/js\/commercial.lazy_ads.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/html.tpl.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.lazyload.min.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.timeago.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-lazy-load.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-share-init.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/sitecatalyst.masthead_tracking.js":1}},"layoutgridfeeds":[{"url":"http:\/\/www.independent.co.uk\/layout_component\/api-mmm","root":"articles","title":"title","image":"image","link":"link"},{"url":"\/layout_component\/api-i100","root":"articles","title":"shortHeadline","image":"thumbnailImage:url","link":"displayURL"}],"scaldFile":{"path":"sites\/all\/modules\/contrib\/scald_file\/scald_file.css"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/us":true},"ines_page_refresh":{"seconds":"240"},"ines_sharethrough":{"placements":[{"id":"mpu0","key":"SKufkFbSNeSt7vFoL6wmw4R1"},{"id":"mpu1","key":"SKufkFbSNeSt7vFoL6wmw4R1"},{"id":"mpu2","key":"SKufkFbSNeSt7vFoL6wmw4R1"}]},"ines_taboola":{"placements":[{"id":"mpu0","container":"taboola-mid-main-column-thumbnails","placement":"Mid Main Column Thumbnails"},{"id":"mpu1","container":"taboola-mid-main-column-thumbnails-2nd","placement":"Mid Main Column Thumbnails 2nd"},{"id":"mpu2","container":"taboola-mid-main-column-thumbnails-3rd","placement":"Mid Main Column Thumbnails 3rd"}]},"commercial_ads":{"gptSlots":["leaderboard","mpu0","mpu3","teadsib","znaptag","thirdparty01","outofpageslot","takeover1","takeover2"],"lazy_gptSlots":["partner1","partner2","partner3","partner4","partner5","partner6","partner7","partner8","partner9","partner10","mpu1","mpu2","mpu4","mpu5","mpu6","mpu7","mpu8","mpu9","perform"],"breakpoints":{"750":[{"slot":"leaderboard","slotWidth":"320"}],"1050":[{"slot":"leaderboard","slotWidth":"728"}]}},"gigya_ui":{"shareButtons":[{"provider":"facebook","tooltip":"Share on Facebook","enableCount":"false","iconImgUp":"\/sites\/all\/themes\/ines_themes\/independent_theme\/img\/facebook.png"},{"provider":"Twitter","tooltip":"Share on Twitter","enableCount":"false","related":"independent,thei100,indyusa","via":"independent","iconImgUp":"\/sites\/all\/themes\/ines_themes\/independent_theme\/img\/twitter.png"},{"provider":"WhatsApp","tooltip":"WhatsApp","enableCount":"false","iconImgUp":"\/sites\/all\/themes\/ines_themes\/independent_theme\/img\/whatsapp.png"},{"provider":"email","tooltip":"email","enableCount":"false","iconImgUp":"\/sites\/all\/themes\/ines_themes\/independent_theme\/img\/email.png"},{"provider":"share","tooltip":"Share","enableCount":true,"iconImgUp":"\/sites\/all\/themes\/ines_themes\/ines_theme\/img\/blank.gif"}]},"ines_share":{"fbAppId":"235586169789578"},"js_defer":{"onLoad":[],"onReady":[{"src":"\/\/s.ntv.io\/serve\/load.js"},{"src":"\/\/native.sharethrough.com\/assets\/sfp.js"},{"src":"\/\/esi.gscontxt.net\/independent\/channels.cgi?url=http%3A%2F%2Fwww.independent.co.uk%2Fus"},{"src":"\/\/www.googletagservices.com\/tag\/js\/gpt.js"},{"src":"https:\/\/hammerjs.github.io\/dist\/hammer.min.js","id":"hammerjs","modernizr":"touchevents"},{"src":"https:\/\/cdns.gigya.com\/JS\/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4","id":"gigya"}],"dependant":{"hammerjs":[{"src":"http:\/\/www.independent.co.uk\/profiles\/ines\/modules\/ines_device\/js\/ines_device.js"}],"gigya":[{"src":"http:\/\/webservices.sub2tech.com\/CodeBase\/LIVE\/Min\/sub2.js?LICENSEKEY=a62ebd59-8802-4b7d-88d8-a93988f7e9ab\u0026trackPage=Y","id":"sub2tech"}],"sub2tech":[{"src":"http:\/\/www.independent.co.uk\/profiles\/ines\/modules\/ines_gigya\/js\/gigya.ui.js"}]}}});
+//--><!]]>
+</script>
+    <!-- POST HEAD INLINE -->
+      </head>
+  <body class="not-front section section-us">
+    <!-- PAGE TOP -->
+        <!-- PAGE -->
+    <header id="masthead">
+  <a href="http://www.independent.co.uk/" title="Home">
+    <span class="logo"></span>
+  </a>
+  <ul id="dynamic-header">
+    <a href="http://www.independent.co.uk/" title="Home">
+      <li class="logotype active">
+        <span class="logo-full"></span>
+      </li>
+    </a>
+          <li class="push">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href="https://www.facebook.com/TheIndependentOnline?fref=ts" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+        <a class="twitter-follow-button" href="https://twitter.com/Independent" data-show-screen-name="false" data-show-count="false"></a>
+      </li>
+      </ul>
+  <nav>
+    <ol><li><a href="/us" title="" class="active-trail active">News</a><ul><li><a href="/topic/us-election-2016" title="">Election 2016</a></li>
+<li><a href="/news/world/americas" title="">Americas</a></li>
+<li><a href="/news/uk" title="">UK</a></li>
+<li><a href="/news/world" title="">World</a></li>
+<li><a href="/news/world/europe" title="">Europe</a></li>
+<li><a href="/news/business" title="">Business</a></li>
+</ul></li>
+<li><a href="/voices" title="">Voices</a><ul><li><a href="/voices/comment" title="">Comment</a></li>
+<li><a href="/author/robert-fisk" title="">Robert Fisk</a></li>
+<li><a href="/author/robert-fisk" title="">Mark Steel</a></li>
+<li><a href="/author/grace-dent" title="">Grace Dent</a></li>
+<li><a href="/author/holly-baxter" title="">Holly Baxter</a></li>
+<li><a href="/voices/campaigns" title="">Campaigns</a></li>
+<li><a href="/voices/editorials" title="">Editorials</a></li>
+<li><a href="/voices/letters" title="">Letters</a></li>
+</ul></li>
+<li><a href="/sport/us-sport" title="">Sports</a><ul><li><a href="/sport/us-sport" title="">US sports</a></li>
+<li><a href="/sport/football" title="">Soccer</a></li>
+<li><a href="/sport/tennis" title="">Tennis</a></li>
+<li><a href="/sport/general/boxing" title="">Boxing</a></li>
+<li><a href="/sport/motor-racing" title="">Formula 1</a></li>
+<li><a href="/sport/general/wwe-mma-wrestling" title="">WWE</a></li>
+</ul></li>
+<li><a href="/arts-entertainment" title="">Culture</a><ul><li><a href="/arts-entertainment/films" title="">Film</a></li>
+<li><a href="/arts-entertainment/tv" title="">TV</a></li>
+<li><a href="/arts-entertainment/music" title="">Music</a></li>
+<li><a href="/arts-entertainment/books" title="">Books</a></li>
+</ul></li>
+<li><a href="/life-style" title="">Lifestyle</a><ul><li><a href="/life-style/fashion" title="">Fashion</a></li>
+<li><a href="/life-style/food-and-drink" title="">Food + drink</a></li>
+<li><a href="/travel" title="">Travel</a></li>
+<li><a href="/life-style/health-and-families" title="">Health + families</a></li>
+<li><a href="/life-style/love-sex" title="">Love + sex</a></li>
+</ul></li>
+<li><a href="/life-style/gadgets-and-tech" title="">Tech</a><ul><li><a href="/life-style/gadgets-and-tech/gaming" title="">Gaming</a></li>
+<li><a href="/life-style/gadgets-and-tech/features" title="">Tech culture</a></li>
+<li><a href="/life-style/gadgets-and-tech/news" title="">Tech news</a></li>
+</ul></li>
+<li><a href="/news/world/americas/us-politics" title="">US election</a></li>
+<li><a href="/marketing/apps" title="">Daily Edition</a><ul><li><a href="http://www.independentsubscriptions.co.uk/" title="">Subscribe for a free trial</a></li>
+<li><a href="http://edition.independent.co.uk" title="">Read Now</a></li>
+</ul></li>
+</ol>  </nav>
+  <ol id="meta-nav">
+    <li class="search">
+      <a href="#" class="icon-search dropdown-toggle" title="Search"></a>
+      <form class="search-form search search" action="/us" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
+</div><input type="hidden" name="form_build_id" value="form-t4XiHM7wgHCw2VU-t6qqTcxPlEPzhZTAB2ou2ixct_Q" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>    </li>
+    <li class="edition">
+      <a href="javascript:void(0)" class="icon-us dropdown-toggle" title="Edition"></a>
+      <ul class="dropdown-menu">
+        <li>
+          <a href="javascript:void(0)" data-edition="UK">UK Edition </a>
+        </li>
+        <li>
+          <a href="javascript:void(0)" data-edition="US">US Edition <span class="icon-check"></span></a>
+        </li>
+      </ul>
+    </li>
+    <li class="account">
+      <a href="#" class="icon-user dropdown-toggle" title="Account"></a>
+      <ul class="dropdown-menu"><li><a href="/login">Sign in</a></li>
+<li><a href="/register">Register</a></li>
+<li><a href="https://subscriptions.independent.co.uk/" title="">Subscriptions</a></li>
+</ul>    </li>
+    <li class="toggle-menu">
+      <a href="#" class="icon-menu" title="Toggle menu"></a>
+    </li>
+  </ol>
+
+  <div id="menu">
+    <form class="search-form search search" action="/us" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
+</div><input type="hidden" name="form_build_id" value="form-t4XiHM7wgHCw2VU-t6qqTcxPlEPzhZTAB2ou2ixct_Q" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>    <ul class="topics"><li><a href="/us" title="" class="active-trail active">News</a><ul><li><a href="/topic/us-election-2016" title="">Election 2016</a></li>
+<li><a href="/news/world" title="">World</a></li>
+<li><a href="/news/world/americas" title="">US</a></li>
+<li><a href="/news/uk" title="">UK</a></li>
+<li><a href="/news/world/europe" title="">Europe</a></li>
+<li><a href="/news/people" title="">People</a></li>
+<li><a href="/news/science" title="">Science</a></li>
+<li><a href="/life-style/health-and-families/health-news" title="">Health</a></li>
+<li><a href="/news/business" title="">Business</a></li>
+</ul></li>
+<li><a href="/voices" title="">Voices</a><ul><li><a href="/voices/comment" title="">Comment</a></li>
+<li><a href="/author/robert-fisk" title="">Robert Fisk</a></li>
+<li><a href="/author/mark-steel" title="">Mark Steel</a></li>
+<li><a href="/author/grace-dent" title="">Grace Dent</a></li>
+<li><a href="/author/holly-baxter" title="">Holly Baxter</a></li>
+<li><a href="/voices/campaigns" title="">Campaigns</a></li>
+<li><a href="/voices/editorials" title="">Editorials</a></li>
+<li><a href="/voices/letters/letters-9626866.html" title="">Letters</a></li>
+</ul></li>
+<li><a href="/sport" title="">Sports</a><ul><li><a href="/sport/us-sport" title="">US sports</a></li>
+<li><a href="/sport/football" title="">Soccer</a></li>
+<li><a href="/sport/cricket" title="">Cricket</a></li>
+<li><a href="/sport/tennis" title="">Tennis</a></li>
+<li><a href="/sport/general/boxing" title="">Boxing</a></li>
+<li><a href="/sport/motor-racing" title="">Formula 1</a></li>
+</ul></li>
+<li><a href="/arts-entertainment" title="">Culture</a><ul><li><a href="/arts-entertainment/books" title="">Books</a></li>
+<li><a href="/arts-entertainment/films" title="">Film</a></li>
+<li><a href="/arts-entertainment/tv" title="">TV</a></li>
+<li><a href="/arts-entertainment/music" title="">Music</a></li>
+<li><a href="/arts-entertainment/art" title="">Art</a></li>
+<li><a href="/arts-entertainment/theatre-dance" title="">Theatre &amp; Dance</a></li>
+<li><a href="/arts-entertainment/comedy" title="">Comedy</a></li>
+</ul></li>
+<li><a href="/life-style" title="">Lifestyle</a><ul><li><a href="/life-style/food-and-drink" title="">Food &amp; drink</a></li>
+<li><a href="/life-style/health-and-families" title="">Health &amp; families</a></li>
+<li><a href="/life-style/love-sex" title="">Love &amp; sex</a></li>
+<li><a href="/life-style/motoring" title="">Motoring</a></li>
+<li><a href="/student" title="">Student</a></li>
+<li><a href="/travel" title="">Travel</a></li>
+<li><a href="/life-style/fashion" title="">Fashion</a></li>
+</ul></li>
+<li><a href="/life-style/gadgets-and-tech" title="">Tech</a><ul><li><a href="/life-style/gadgets-and-tech/gaming" title="">Gaming</a></li>
+<li><a href="/life-style/gadgets-and-tech/features" title="">Tech culture</a></li>
+<li><a href="/life-style/gadgets-and-tech/news" title="">Tech news</a></li>
+</ul></li>
+<li><a href="/video" title="">Video</a><ul><li><a href="/video/Explainers" title="">Explainer videos</a></li>
+<li><a href="/video/News" title="">News videos</a></li>
+<li><a href="/video/People-and-culture" title="">People &amp; culture videos</a></li>
+<li><a href="/video/Sport" title="">Sport videos</a></li>
+</ul></li>
+<li><a href="/extras/indybest" title="">IndyBest</a><ul><li><a href="/extras/indybest/fashion-beauty" title="">Fashion &amp; Beauty</a></li>
+<li><a href="/extras/indybest/house-garden" title="">Homes &amp; Design</a></li>
+<li><a href="/extras/indybest/food-drink" title="">Food &amp; Drink</a></li>
+<li><a href="/extras/indybest/gadgets-tech" title="">Gadgets &amp; Tech</a></li>
+<li><a href="/extras/indybest/outdoor-activity" title="">Outdoor &amp; Activity</a></li>
+<li><a href="/extras/indybest/arts-books" title="">Arts &amp; Books</a></li>
+<li><a href="/extras/indybest/travel" title="">Travel</a></li>
+</ul></li>
+<li><a href="/money" title="">Money</a><ul><li><a href="http://www.independent.co.uk/money/health-insurance?icn=axa_nav" title="">Health insurance</a></li>
+<li><a href="http://www.independent.co.uk/money/investments/" title="">Investments</a></li>
+</ul></li>
+<li><a href="/extras" title="">Extras</a><ul><li><a href="/independentbooks" title="">The Independent Books</a></li>
+<li><a href="http://puzzles.independent.co.uk/" title="">Puzzles</a></li>
+<li><a href="https://www.indy100.com" title="">indy100</a></li>
+<li><a href="/marketing/apps" title="">Apps</a></li>
+<li><a href="/ebooks" title="">Ebooks</a></li>
+<li><a href="http://ijobs.independent.co.uk" title="">iJobs</a></li>
+<li><a href="http://dating.independent.co.uk" title="">Dating</a></li>
+</ul></li>
+</ul>    <ul class="follow">
+      <li>Follow us:</li>
+      <li>
+        <a href="https://www.facebook.com/TheIndependentOnline" target="_blank" title="Facebook" class="icon-facebook"></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/independent" target="_blank" title="Twitter" class="icon-twitter"></a>
+      </li>
+    </ul>
+  </div>
+</header>
+<div id="content">
+  <div class="region region-header">
+    <div class='ad-leaderboard'>
+      <div id='leaderboard' style="margin: 0 auto 40px;"></div>
+    </div>
+  </div>
+  <div id="cookie-warning">
+    <a href="#" class="close icon-close" title="OK"></a>
+    <p>We use cookies to enhance your visit to our site and to bring you advertisements that might interest you. Read our <a href=" http://www.independent.co.uk/service/privacy-policy-a6184181.html">Privacy</a> and <a href="http://www.independent.co.uk/service/cookie-policy-a6184186.html">Cookie</a> Policies to find out more.</p>
+  </div>
+  <div class="tabs"></div>          <div class="region region-content">
+    <div class="term-listing-heading">  <header class="section-title ">
+        <h1 class="box-title">
+      <span class="title">Top stories</span>
+      <span class="slogan"></span>
+    </h1>
+      </header>
+  <div class="content">
+          <div class="row" data-tb-region="row-1"><article data-weight=3 class="weight-3" ><div class="container grid-mod-story bottom-text full-photo    " data-url="/news/world/americas/white-house-blocks-news-outlets-from-media-briefing-a7598641.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc" style="background-image: url('https://static.independent.co.uk/s3fs-public/styles/size3/public/thumbnails/image/2017/02/25/00/gettyimages-645016982.jpg');">
+                      <a href="/news/world/americas/white-house-blocks-news-outlets-from-media-briefing-a7598641.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/news/world/americas/white-house-blocks-news-outlets-from-media-briefing-a7598641.html"><span class="media-prefix "></span>White House blocks news outlets from press briefing</a></h1>
+                  <ul class="related">
+                <li>
+          <a href="/news/world/americas/us-politics/donald-trump-fake-news-enemies-of-the-people-media-attack-cpac-speech-latest-a7598156.html">Donald Trump doubles down on 'enemies of the people' attack on media</a>
+        </li>
+                <li>
+          <a href="/news/world/americas/barack-obama-lawyers-donald-trump-united-to-protect-democracy-policies-healthcare-immigration-ban-a7597691.html">Obama's lawyers have joined forces to take on Donald Trump</a>
+        </li>
+              </ul>
+      </div>
+</div>
+</article><article data-weight=1 class="weight-1" data-locked="true">  <div id='mpu0' class="grid-mod-single-mpu">    </div>
+</article></div><div class="row" data-tb-region="row-2"><article data-weight=2 class="weight-2" ><div class="container grid-mod-story bottom-text full-photo dark   " data-url="/news/kansas-shooting-fund-for-indian-men-and-bystander-shot-in-racist-attack-raises-882000-a7599201.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-cc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size2/public/thumbnails/image/2017/02/25/12/srinivas-kuchibhotla2.jpg">
+                      <a href="/news/kansas-shooting-fund-for-indian-men-and-bystander-shot-in-racist-attack-raises-882000-a7599201.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/news/kansas-shooting-fund-for-indian-men-and-bystander-shot-in-racist-attack-raises-882000-a7599201.html"><span class="media-prefix "></span>Fund for Indian men shot in 'racist' Kansas attack raises thousands</a></h1>
+                  <ul class="related">
+                <li>
+          <a href="/news/world/americas/kansas-shooting-olathe-bar-indian-engineers-hate-crime-srinivas-kuchibhotla-adam-purinton-racial-a7599051.html">Wife of killed Indian engineer calls on Trump to fight hate crime</a>
+        </li>
+                <li>
+          <a href="/news/world/americas/kansas-bar-shooting-racist-killing-indian-victim-man-save-ian-grillot-srinivas-kuchibhotla-were-all-a7597271.html">'We're all humans', says man who tried stop 'racist' Kansas killing</a>
+        </li>
+              </ul>
+      </div>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story     "
+  data-tb-region-item="2-1">
+        <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/02/25/03/gettyimages-632599492.jpg">
+                      <a href="/news/world/americas/sean-spicer-once-said-only-dictatorships-would-ban-media-access-a7598831.html"></a>
+      </div>
+    </div>
+    <div class="content">
+              <h1><a href="/news/world/americas/sean-spicer-once-said-only-dictatorships-would-ban-media-access-a7598831.html"><span class="media-prefix "></span>Sean Spicer once said only dictatorships would ban media access</a></h1>
+      </div>
+</div>
+
+<div class="grid-mod-card-list">
+  <ul>
+                    <li class="story" data-tb-region-item="2-2">
+        <a href="/news/business/news/steve-bannon-economic-nationalism-what-is-it-explained-donald-trump-cpac-2017-a7598181.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/22/steve-bannon.jpg"></span>
+                                  
+                    
+                      <h2>This is what Steve Bannon’s ‘economic nationalism’ means</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-3">
+        <a href="/life-style/love-sex/cindy-gallop-make-love-not-porn-social-sexual-revolution-sex-toys-watch-ted-talk-gender-equality-a7598046.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/15/cindy-gallop.jpg"></span>
+                                  
+                    
+                      <h2>Meet the woman who wants you to buy into the social sexual revolution</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-4">
+        <a href="/news/world/americas/bill-cosby-sexual-assault-judge-montgomery-county-pennsylvania-court-steven-t-o-neill-court-of-a7598031.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/05/24/16/pp-bill-cosby-front-1-ap.jpg"></span>
+                                  
+                    
+                      <h2>Judge in Cosby case allows testimony from another assault accuser</h2>
+                  </a>
+      </li>
+          </ul>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container grid-mod-story bottom-text grow-photo    " data-url="/news/world/asia/kim-jong-nam-assassination-latest-vx-nerve-agent-weapon-mass-destruction-kill-north-korean-kuala-a7596746.html" data-tb-region-item="3-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/02/24/01/malaysia-polic.jpg">
+              <span class="icon-play large"></span>        <a href="/news/world/asia/kim-jong-nam-assassination-latest-vx-nerve-agent-weapon-mass-destruction-kill-north-korean-kuala-a7596746.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/news/world/asia/kim-jong-nam-assassination-latest-vx-nerve-agent-weapon-mass-destruction-kill-north-korean-kuala-a7596746.html">Kim Jong-nam killed by weapon of mass destruction</a></h1>
+              </div>
+</div>
+</article></div><div class="row" data-tb-region="row-3"><article data-weight=1 class="weight-1" ><div class="container grid-mod-story bottom-text full-photo    " data-url="/news/business/news/workers-japan-leave-work-3pm-last-friday-month-employees-workaholics-a7596976.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/18/09/japan-work.jpg">
+                      <a href="/news/business/news/workers-japan-leave-work-3pm-last-friday-month-employees-workaholics-a7596976.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/news/business/news/workers-japan-leave-work-3pm-last-friday-month-employees-workaholics-a7596976.html"><span class="media-prefix "></span>Japan encourages workers to leave work early </a></h1>
+              </div>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-story bottom-text grow-photo    " data-url="/environment/us-megadrought-colorado-river-shrinks-low-south-west-a7597381.html" data-tb-region-item="2-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size2/public/thumbnails/image/2016/07/03/08/grand-canyon.jpg">
+                      <a href="/environment/us-megadrought-colorado-river-shrinks-low-south-west-a7597381.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/environment/us-megadrought-colorado-river-shrinks-low-south-west-a7597381.html"><span class="media-prefix "></span>Millions of Americans facing 'megadrought' as Colorado river shrinks</a></h1>
+              </div>
+</div>
+</article><article data-weight=1 class="weight-1" data-locked="true"><div class="container grid-mod-collection grid-mod-collection-feed" data-feed="http://www.independent.co.uk/layout_component/api-mmm">
+      <h1 class="box-title">
+    	    	Most popular    	    </h1>
+    <ul class="simple-news-list">
+  </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-4"><article data-weight=1 class="weight-1" ><div class="container grid-mod-story left-text full-photo    " data-url="/life-style/gadgets-and-tech/news/facebook-down-app-website-site-broken-not-working-is-it-me-outage-problems-bugs-server-issues-a7598571.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/19/03/gettyimages-144134368.jpg">
+                      <a href="/life-style/gadgets-and-tech/news/facebook-down-app-website-site-broken-not-working-is-it-me-outage-problems-bugs-server-issues-a7598571.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/life-style/gadgets-and-tech/news/facebook-down-app-website-site-broken-not-working-is-it-me-outage-problems-bugs-server-issues-a7598571.html"><span class="media-prefix "></span>Facebook kicks users out of their accounts and doesn't let them back</a></h1>
+              </div>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story     "
+  data-tb-region-item="2-1">
+        <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/02/24/18/cpac.jpg">
+                      <a href="/voices/donald-trump-cpac-2017-speech-biggest-lie-unify-america-a7598566.html"></a>
+      </div>
+    </div>
+    <div class="content">
+              <h1><a href="/voices/donald-trump-cpac-2017-speech-biggest-lie-unify-america-a7598566.html"><span class="media-prefix "></span><span class="media-prefix voices">David Usborne</span> Donald Trump's biggest lie: His promise to unify America</a></h1>
+      </div>
+</div>
+
+<div class="grid-mod-card-list">
+  <ul>
+                    <li class="story" data-tb-region-item="2-2">
+        <a href="/travel/viagra-hotel-opens-blackpool-local-outrage-a7598201.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/15/viagra-hotel.png"></span>
+                                  
+                    
+                      <h2>A 'viagra hotel' has opened in the UK and people are outraged</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-3">
+        <a href="/news/business/news/peanut-bumble-badoo-dating-app-co-founder-michelle-kennedy-connect-lonely-mothers-isolated-a7597301.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/michelle-kennedy-edit.jpg"></span>
+                                  
+                    
+                      <h2>The woman who helped create Bumble launches app to connect lonely mums</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-4">
+        <a href="/news/world/americas/kansas-bar-shooting-racist-killing-indian-victim-man-save-ian-grillot-srinivas-kuchibhotla-were-all-a7597271.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/11/shooting-victim-video.jpg"></span>
+                        <span class="icon-play vsmall"></span>          
+                    
+                      <h2>'We're all humans', says man who tried stop 'racist' Kansas killing</h2>
+                  </a>
+      </li>
+          </ul>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story     "
+  data-tb-region-item="3-1">
+        <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/31/15/bernie-sanders.jpg">
+                      <a href="/news/world/americas/bernie-sanders-republicans-guts-constituents-face-constituents-senators-congress-tom-cotton-mitch-a7597766.html"></a>
+      </div>
+    </div>
+    <div class="content">
+              <h1><a href="/news/world/americas/bernie-sanders-republicans-guts-constituents-face-constituents-senators-congress-tom-cotton-mitch-a7597766.html"><span class="media-prefix "></span>Bernie Sanders tells Republicans to have the guts to attend town halls</a></h1>
+      </div>
+</div>
+
+<div class="grid-mod-card-list">
+  <ul>
+                    <li class="story" data-tb-region-item="3-2">
+        <a href="/news/business/news/uber-investor-news-harassment-bullying-culture-susan-fowler-blog-a7597466.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/12/16/14/uber.gif"></span>
+                                  
+                    
+                      <h2>Uber investors attack company over ‘bullying and lack of diversity’</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="3-3">
+        <a href="/news/world/americas/republicans-thwart-donald-trump-investigation-russia-ties-conflicts-interests-congress-senate-a7595981.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/12/donald-trump.jpg"></span>
+                                  
+                    
+                      <h2>Republicans to thwart investigation of President's Russia ties</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="3-4">
+        <a href="/life-style/health-and-families/personal-trainers-12-gym-mistakes-fitness-wrong-health-lifetstyle-weights-cardio-a7596126.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/16/personaltrainer.jpg"></span>
+                                  
+                    
+                      <h2>The most common mistakes people make at the gym</h2>
+                  </a>
+      </li>
+          </ul>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container grid-mod-story bottom-text full-photo    " data-url="/life-style/love-sex/stripper-photographs-woman-rachel-lena-esterline-san-francisco-images-false-nails-dollar-bills-how-a7596081.html" data-tb-region-item="4-1">
+        <div class="image_wrapper">
+              <div class="image image-align-cc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/02/23/16/rachel11-0.jpg">
+                      <a href="/life-style/love-sex/stripper-photographs-woman-rachel-lena-esterline-san-francisco-images-false-nails-dollar-bills-how-a7596081.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/life-style/love-sex/stripper-photographs-woman-rachel-lena-esterline-san-francisco-images-false-nails-dollar-bills-how-a7596081.html"><span class="media-prefix "></span>The woman photographing strippers how they want to be seen</a></h1>
+              </div>
+</div>
+</article></div><div class="row" data-tb-region="row-5"><article data-weight=1 class="weight-1" data-locked="true">  <div id='ayl' class="grid-mod-single-mpu">    </div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story grid-mod-half-height   "
+  data-url="/voices/mea-culpa-when-shouty-capital-letters-might-be-permissible-a7597186.html"
+  data-tb-region-item="1-1">
+      <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="http://www.independent.co.uk/s3/files/styles/size1_half/public/thumbnails/image/2017/02/24/10/m.png">
+                      <a href="/voices/mea-culpa-when-shouty-capital-letters-might-be-permissible-a7597186.html"></a>
+      </div>
+
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/voices/mea-culpa-when-shouty-capital-letters-might-be-permissible-a7597186.html"><span class="media-prefix "></span><span class="media-prefix voices">John Rentoul</span> Mea Culpa: when shouty capital letters might be permissible</a></h1>
+              <div class="lead">
+        <p>Over-emphasis, value-laden language and principal spelling confusions in this week’s Independent</p>
+      </div>
+      </div>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story grid-mod-half-height   "
+  data-url="/life-style/fashion/kanye-west-make-up-bauty-line-donda-perfume-lotions-cosmetics-fashion-label-yeezy-nyfw-a7597276.html"
+  data-tb-region-item="2-1">
+      <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1_half/public/thumbnails/image/2016/10/03/14/yeezy.jpg">
+                      <a href="/life-style/fashion/kanye-west-make-up-bauty-line-donda-perfume-lotions-cosmetics-fashion-label-yeezy-nyfw-a7597276.html"></a>
+      </div>
+
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/life-style/fashion/kanye-west-make-up-bauty-line-donda-perfume-lotions-cosmetics-fashion-label-yeezy-nyfw-a7597276.html"><span class="media-prefix "></span>Kanye West is launching his own makeup line called Donda</a></h1>
+              <div class="lead">
+        <p>But how will it compare to&nbsp;sister-in-law Kylie Jenner's beauty brand?</p>
+      </div>
+      </div>
+</div>
+</article><article data-weight=1 class="weight-1" data-locked="true">  <div id='mpu3' class="grid-mod-single-mpu">    </div>
+</article></div><div class="row" data-tb-region="row-6"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              Talking points          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-7"><article data-weight=2 class="weight-2" ><div class="container grid-mod-story bottom-text full-photo    " data-url="/voices/anjem-choudhary-finsbury-park-abu-rumaysah-isis-followers-a7597131.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size2/public/thumbnails/image/2016/08/16/17/anjem-choudary.jpg">
+                      <a href="/voices/anjem-choudhary-finsbury-park-abu-rumaysah-isis-followers-a7597131.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/voices/anjem-choudhary-finsbury-park-abu-rumaysah-isis-followers-a7597131.html"><span class="media-prefix "></span><span class="media-prefix voices">Jake Warren</span> I shared garlic naan with people who would later become Isis fighters</a></h1>
+              </div>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story     "
+  data-tb-region-item="2-1">
+        <div class="image_wrapper">
+            <div class="image image-align-cc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/02/24/10/phone-call.jpg">
+                      <a href="/life-style/can-you-hear-me-phone-scam-fraud-us-britain-police-pennsylvania-florida-uk-a7597106.html"></a>
+      </div>
+    </div>
+    <div class="content">
+              <h1><a href="/life-style/can-you-hear-me-phone-scam-fraud-us-britain-police-pennsylvania-florida-uk-a7597106.html"><span class="media-prefix "></span>If someone phones and asks 'can you hear me' hang up immediately</a></h1>
+      </div>
+</div>
+
+<div class="grid-mod-card-list">
+  <ul>
+                    <li class="story" data-tb-region-item="2-2">
+        <a href="/life-style/tiny-house-movement-expedition-couple-live-in-home-size-shed-300-square-foot-alexis-stephens-a7596261.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/17/tinyhouse2-0.jpg"></span>
+                                  
+                    
+                      <h2>The couple that lives in a home the size of a shed</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-3">
+        <a href="/life-style/mental-health-illustrations-sow-ay-anxiety-attacks-struggle-cope-a7593051.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/11/main.jpg"></span>
+                                  
+                    
+                      <h2>18 brutally honest illustrations about struggling with mental illness </h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-4">
+        <a href="/news/business/news/brexit-uncertainty-uk-entrepreneurs-start-up-eu-departure-economy-business-brain-a7593136.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2015/12/02/12/startup.jpg"></span>
+                                  
+                    
+                      <h2>Brexit uncertainty fails to dampen UK start-up ambitions</h2>
+                  </a>
+      </li>
+          </ul>
+</div>
+</article><article data-weight=1 class="weight-1" data-locked="true"><div class="container grid-mod-collection grid-mod-collection-feed" data-feed="/layout_component/api-i100">
+      <h1 >
+    	<a href="https://www.indy100.com/?utm_source=indy&utm_medium=top5header&utm_campaign=i100" target="_blank">    	<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/18/15/i100.png">    	</a>    </h1>
+    <ul class="simple-news-list">
+  </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-8"><article data-weight=1 class="weight-1" data-locked="true">  <div id='mpu1' class="grid-mod-single-mpu">    </div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-story bottom-text bottom-text-columns full-photo highlight   " data-url="/news/world/americas/kellyanne-conway-banned-tv-white-house-contradict-donald-trump-line-michael-flynn-national-security-a7596931.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size2/public/thumbnails/image/2017/02/24/09/kellyanne-conway-tv-intvw-getty.jpg">
+                      <a href="/news/world/americas/kellyanne-conway-banned-tv-white-house-contradict-donald-trump-line-michael-flynn-national-security-a7596931.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/news/world/americas/kellyanne-conway-banned-tv-white-house-contradict-donald-trump-line-michael-flynn-national-security-a7596931.html"><span class="media-prefix "></span>Kellyanne Conway 'banned from TV' for veering off official line</a></h1>
+              </div>
+</div>
+</article><article data-weight=1 class="weight-1" ><div class="container-half grid-mod-half-story     "
+  data-tb-region-item="2-1">
+        <div class="image_wrapper">
+            <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2016/08/16/17/web-brain-getty-c-dontuseagain.jpg">
+                      <a href="/news/science/racism-sexism-prejudice-implicit-bias-universities-students-graduation-aaas-a7587716.html"></a>
+      </div>
+    </div>
+    <div class="content">
+              <h1><a href="/news/science/racism-sexism-prejudice-implicit-bias-universities-students-graduation-aaas-a7587716.html"><span class="media-prefix "></span>Racism stems from 'optical illusion' in the brain, academic says</a></h1>
+      </div>
+</div>
+
+<div class="grid-mod-card-list">
+  <ul>
+                    <li class="story" data-tb-region-item="2-2">
+        <a href="/news/people/lindsay-lohan-donald-trump-support-quote-cant-beat-him-a7584906.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/11/lohan.jpg"></span>
+                                  
+                    
+                      <h2>Lindsay Lohan calls on Americans to support Donald Trump</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-3">
+        <a href="/news/world/americas/us-politics/donald-trump-costs-trips-security-taxpayer-barack-obama-month-year-a7586261.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/17/trump-team.jpg"></span>
+                                  
+                    
+                      <h2>Trump family’s trips dwarf Obama's annual travel costs</h2>
+                  </a>
+      </li>
+                    <li class="story" data-tb-region-item="2-4">
+        <a href="/voices/donald-trump-business-government-travel-ban-court-appeals-a7574681.html">
+                                  <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/11/08/gettyimages-634593688.jpg"></span>
+                                  
+                    
+                      <h2><span class="media-prefix voices">Rupert Cornwell</span> Trump knows he can't run America like he runs a business</h2>
+                  </a>
+      </li>
+          </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-9"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              Finance          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-10"><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="1-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/6c8df624-f2c9-11e6-b524-8b9418f06ece.png">
+                            <a href="/news/world/americas/10-lowest-grossing-movies-to-win-an-oscar-for-best-picture-a7597631.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET</span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/10-lowest-grossing-movies-to-win-an-oscar-for-best-picture-a7597631.html"><span class="media-prefix "></span>10 lowest-grossing movies to win an Oscar for Best Picture</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="1-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/45c36559-f2be-11e6-b46d-8d4ded0323e1.png">
+                            <a href="/news/world/americas/10-movie-musicals-that-won-best-picture-at-the-oscars-a7597626.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET</span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/10-movie-musicals-that-won-best-picture-at-the-oscars-a7597626.html"><span class="media-prefix "></span>10 movie musicals that won Best Picture at the Oscars</a></h1>
+            </div>
+  </div>
+</article><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="2-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/fae8cc74-fa10-11e6-b004-7ff529b4b7ac.png">
+                            <a href="/news/world/americas/more-brands-are-getting-into-the-lingerie-and-loungewear-business-a7597076.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/more-brands-are-getting-into-the-lingerie-and-loungewear-business-a7597076.html"><span class="media-prefix "></span>More Brands Are Getting Into the Lingerie And Loungewear Business</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="2-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/218cb30f-f3c3-11e6-834b-0bb0c71dd497.png">
+                            <a href="/news/world/americas/gold-tests-november-election-levels-as-investors-seek-currency-risk-safety-a7597071.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/gold-tests-november-election-levels-as-investors-seek-currency-risk-safety-a7597071.html"><span class="media-prefix "></span>Gold Tests November Election Levels as Investors Seek Currency Risk Safety</a></h1>
+            </div>
+  </div>
+</article><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="3-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/f2545a6f-d679-11e6-a6c9-43bfbcc65135.jpg">
+                            <a href="/news/world/americas/heres-why-us-spending-in-apples-app-store-jumped-15-in-2016-a7597066.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/heres-why-us-spending-in-apples-app-store-jumped-15-in-2016-a7597066.html"><span class="media-prefix "></span>Here's Why U.S. Spending in Apple's App Store Jumped 15% in 2016</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="3-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/700d6d60-a835-11e6-80d8-6f2a1399c9ca.jpg">
+                            <a href="/news/world/americas/unicredit-shares-gain-after-137-billion-rights-issue-nears-full-subscription-a7597061.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/unicredit-shares-gain-after-137-billion-rights-issue-nears-full-subscription-a7597061.html"><span class="media-prefix "></span>UniCredit Shares Gain After $13.7 billion Rights Issue Nears Full Subscription</a></h1>
+            </div>
+  </div>
+</article><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="4-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/articice-large.jpg">
+                            <a href="/news/world/americas/climate-change-doubters-hope-trump-administration-will-unleash-us-energy-industry-a7597056.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/climate-change-doubters-hope-trump-administration-will-unleash-us-energy-industry-a7597056.html"><span class="media-prefix "></span>Climate Change Doubters Hope Trump Administration Will Unleash U.S. Energy Industry</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="4-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/3bb2db96-c30c-11e6-880c-b514afcbfed2.png">
+                            <a href="/news/world/americas/coca-cola-may-offer-a-sweet-dividend-but-the-time-isnt-right-to-drink-up-the-stock-a7597026.html"></a>
+        </div>
+      </div>
+        <div class="content">
+              <div class="capsules">
+          <ul>
+                                          <li class="breaking">
+                                      <span class="label">THE STREET </span>
+                                  </li>
+                          </ul>
+          </div>
+        
+                  <h1><a href="/news/world/americas/coca-cola-may-offer-a-sweet-dividend-but-the-time-isnt-right-to-drink-up-the-stock-a7597026.html"><span class="media-prefix "></span>Coca-Cola May Offer a Sweet Dividend But the Time Isn't Right to Drink Up the Stock</a></h1>
+            </div>
+  </div>
+</article></div><div class="row" data-tb-region="row-11"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="http://www.independent.co.uk/voices/">Voices</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-12"><article data-weight=1 class="weight-1" ><div class="container grid-mod-story bottom-text full-photo    " data-url="/voices/editorials/trump-has-the-upper-hand-over-theresa-may-in-trade-negotiations-a7540306.html" data-tb-region-item="1-1">
+        <div class="image_wrapper">
+              <div class="image image-align-cr lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/22/14/theresa-may-marr-2.jpg">
+                      <a href="/voices/editorials/trump-has-the-upper-hand-over-theresa-may-in-trade-negotiations-a7540306.html"></a>
+      </div>
+    </div>
+    <div class="content">
+        <div class="capsules" data-capsule-count="0">
+      <ul>
+                        <li class="shares">
+          <span class="icon-trending"></span>
+          <span class="label"></span>
+        </li>
+      </ul>
+    </div>
+          <h1><a href="/voices/editorials/trump-has-the-upper-hand-over-theresa-may-in-trade-negotiations-a7540306.html"><span class="media-prefix "></span><span class="media-prefix voices">Editorial</span> Trump has the upper hand over Theresa May in trade negotiations</a></h1>
+              </div>
+</div>
+</article><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="2-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/20/19/ny-stock-exchange.jpg">
+                            <a href="/voices/donald-trump-inauguration-first-thing-to-do-gift-to-world-republican-financial-crisis-recession-a7536706.html"></a>
+        </div>
+      </div>
+        <div class="content">
+      
+                  <h1><a href="/voices/donald-trump-inauguration-first-thing-to-do-gift-to-world-republican-financial-crisis-recession-a7536706.html"><span class="media-prefix "></span><span class="media-prefix voices">Ben Chu</span> Donald Trump's first gift to the world will be a financial crisis</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="2-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/19/19/donald-trump-front.jpg">
+                            <a href="/voices/donald-trump-washington-inauguration-performances-fright-america-a7531776.html"></a>
+        </div>
+      </div>
+        <div class="content">
+      
+                  <h1><a href="/voices/donald-trump-washington-inauguration-performances-fright-america-a7531776.html"><span class="media-prefix "></span><span class="media-prefix voices">Rupert Cornwell</span> I've lived through six inaugurations. This is the scariest</a></h1>
+            </div>
+  </div>
+</article><article data-weight=1 class="weight-1" >  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="3-1">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/19/07/trump-donald.jpg">
+                            <a href="/voices/donald-trump-us-president-inauguration-power-a7534886.html"></a>
+        </div>
+      </div>
+        <div class="content">
+      
+                  <h1><a href="/voices/donald-trump-us-president-inauguration-power-a7534886.html"><span class="media-prefix "></span><span class="media-prefix voices">Jacob Parakilas</span> How much power will Donald Trump really have?</a></h1>
+            </div>
+  </div>
+  <div class="container-half grid-mod-half-story
+            "
+    data-tb-region-item="3-2">
+          <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/size1/public/thumbnails/image/2017/01/20/11/davos.gif">
+                            <a href="/voices/davos-wef-world-economic-forum-inequality-global-elite-not-ending-a7536941.html"></a>
+        </div>
+      </div>
+        <div class="content">
+      
+                  <h1><a href="/voices/davos-wef-world-economic-forum-inequality-global-elite-not-ending-a7536941.html"><span class="media-prefix "></span><span class="media-prefix voices">Adebisi Ademola Alimi</span> I saw enough at Davos to know that the elite isn't ending inequality </a></h1>
+            </div>
+  </div>
+</article><article data-weight=1 class="weight-1" data-locked="true">  <div id='mpu2' class="grid-mod-single-mpu">    </div>
+</article></div><div class="row" data-tb-region="row-13"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="life-style/gadgets-and-tech/">Tech</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-14"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/24/15/rocket.jpg">
+                          <a href="/news/science/spacex-dragon-international-space-station-delivery-elon-musk-rocket-a7598086.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Tech news</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/news/science/spacex-dragon-international-space-station-delivery-elon-musk-rocket-a7598086.html">Capsule finally arrives at ISS after error and delays</a></h1>
+              <div class="lead">
+        <p>The mission had been subject to a range of complications</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/news/science/ghosts-brian-cox-large-hadron-collider-cern-real-truth-standard-model-physics-a7598026.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/14/briancox.jpg" />
+                        <span class="icon-play vsmall"></span>          
+          
+                      <h2>Large Hadron Collider has proven truth about ghosts, says Brian Cox</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/life-style/gadgets-and-tech/news/iphone-7-plus-apple-video-exploding-pictures-images-fire-damage-safety-a7597516.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/23/15/iphone.jpg" />
+                                  
+          
+                      <h2>Exploding iPhone 7 Plus being 'looked into' by Apple</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/life-style/gadgets-and-tech/news/facebook-profile-pictures-flags-photos-mark-zuckerberg-how-to-why-mission-statement-a7597331.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/15/facebook-flags.jpg" />
+                                  
+                    
+                      <h2>Facebook adds 'flags' for profile pictures, in significant move</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/life-style/gadgets-and-tech/news/nokia-3310-latest-mwc-2017-re-launch-new-version-classic-phone-snake-a7597041.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/nokia-3310-mwc.jpg" />
+                                  
+                    
+                      <h2>The Nokia 3310 has finally returned. Here's what it looks like</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/life-style/gadgets-and-tech/news/self-driving-cars-insurance-rules-uk-government-autonomous-mode-vehicle-aviation-bill-a7595581.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/14/self-driving-car-google.jpg" />
+                                  
+                    
+                      <h2>UK self-driving car insurance rules outlined by government</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/life-style/gadgets-and-tech/news/amazon-ai-alexa-assistant-free-speech-rights-murder-trial-james-andrew-bates-arkansas-google-a7595376.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/03/25/19/echo.jpg" />
+                                  
+                    
+                      <h2>Amazon argues AI assistant Alexa has free speech rights in murder case</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/life-style/gadgets-and-tech/news/samsung-galaxy-s8-specs-list-62-inch-screen-eye-scanning-tech-launch-date-a7595191.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/02/03/13/samsungs.jpg" />
+                                  
+                    
+                      <h2>Samsung Galaxy S8+ specs leak confirms monstrous 6.2-inch screen</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/21/13/girls-who-code.jpg">
+                          <a href="/life-style/gadgets-and-tech/features/how-we-could-close-techs-gender-gap-in-a-decade-a7590986.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Tech culture</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/life-style/gadgets-and-tech/features/how-we-could-close-techs-gender-gap-in-a-decade-a7590986.html">How we could close tech's gender gap in a decade</a></h1>
+              <div class="lead">
+        <p>We all know that the technology industry has a gender problem. But how do you move the needle from awareness to action?</p>      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/life-style/gadgets-and-tech/features/nintendo-switch-interview-review-release-date-shinya-takahashi-yoshiaki-koizumi-features-a7582186.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/15/16/switch1.jpg" />
+                                  
+          
+                      <h2>How the most important and riskiest console ever made actually arrived</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/life-style/gadgets-and-tech/features/lsd-microdosing-is-trending-in-silicon-valley-but-can-it-actually-make-you-more-creative-a7580881.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/15/14/lsd.jpg" />
+                                  
+          
+                      <h2>Can LSD ‘microdosing’ actually make you more creative?</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/life-style/gadgets-and-tech/features/nioh-interview-review-samurai-playstation-4-ps-sony-yosuke-hayashi-a7579416.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/14/12/nioh.jpg" />
+                                  
+                    
+                      <h2>How Samurai finally arrived on the PlayStation 4</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/life-style/gadgets-and-tech/features/apple-tim-cook-boss-brexit-uk-theresa-may-number-10-interview-ustwo-a7574086.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/10/17/image1.jpeg" />
+                                  
+                    
+                      <h2>Apple CEO Tim Cook on Brexit, App Store and the iPad</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/life-style/gadgets-and-tech/features/the-technology-fixing-britain-s-parking-problem-a7565356.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/06/17/parking.jpg" />
+                                  
+                    
+                      <h2>The technology fixing Britain’s parking problem</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/life-style/gadgets-and-tech/features/mwc-2017-nokia-samsung-sony-when-is-it-times-dates-what-will-happen-latest-a7570266.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/08/18/mwc-2017.jpg" />
+                                  
+                    
+                      <h2>MWC 2017: What to expect and when everything will happen</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/news/science/how-we-created-the-first-ever-blueprint-for-a-real-quantum-computer-a7560971.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/01/18/quantumcomputer.jpg" />
+                                  
+                    
+                      <h2>How we created the first ever blueprint for a real quantum computer</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-15"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/23/16/call-of-duty-infinite-warfare.jpg">
+                          <a href="/life-style/gadgets-and-tech/gaming/call-of-duty-infinite-warfare-designer-joe-cecot-infinity-ward-a7596006.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Gaming</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/life-style/gadgets-and-tech/gaming/call-of-duty-infinite-warfare-designer-joe-cecot-infinity-ward-a7596006.html">Infinite Warfare designer shares 10 tips for mastering multiplayer</a></h1>
+              <div class="lead">
+        <p>From pacing yourself to choosing the right load outs</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/life-style/gadgets-and-tech/gaming/nintendo-switch-unboxing-first-look-hands-on-new-games-console-a7595896.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/16/18/nintendo-switch.jpg" />
+                        <span class="icon-play vsmall"></span>          
+          
+                      <h2>Nintendo Switch unboxing: Hands on with the new games console</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/life-style/gadgets-and-tech/gaming/exoplanet-discovery-nasa-gamers-eve-online-project-latest-solar-system-trappist-1-a7595391.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/13/eve.jpg" />
+                                  
+          
+                      <h2>Next exoplanet could be found accidentally by gamers</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/life-style/gadgets-and-tech/gaming/for-honor-review-ps4-xbox-one-pc-a7590006.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/14/for-honor.jpg" />
+                                  
+                    
+                      <h2>For Honor review: Challenging combat system, unpolished finish</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/life-style/gadgets-and-tech/gaming/horizon-zero-dawn-review-ps4-a7589131.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/08/howrizon-zero-dawn.jpg" />
+                                  
+                    
+                      <h2>Horizon: Zero Dawn review: An essential for PS4 owners</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/life-style/gadgets-and-tech/gaming/sniper-elite-4-review-ps4-xbox-one-pc-a7585006.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/09/sniper-elite-4.jpg" />
+                                  
+                    
+                      <h2>Sniper Elite 4 review: 'The most rewarding game in the series so far'</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/life-style/gadgets-and-tech/gaming/yakuza-0-review-ps4-a7556636.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/01/10/yakuza-0.jpg" />
+                                  
+                    
+                      <h2>Yakuza 0 review: A worthy addition to the series</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/life-style/gadgets-and-tech/gaming/kingdom-hearts-28-review-ps4-birth-by-sleep-a7554766.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/31/10/kingdom-hearts-28.jpg" />
+                                  
+                    
+                      <h2>Kingdom Hearts 2.8 review: A sliver of what you’ve been waiting for</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/17/12/headphones-lifestyle.jpg">
+                          <a href="/extras/indybest/gadgets-tech/headphones-earphones/best-headphones-buy-guide-cheap-expensive-over-ear-in-ear-a7585351.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Tech reviews</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/extras/indybest/gadgets-tech/headphones-earphones/best-headphones-buy-guide-cheap-expensive-over-ear-in-ear-a7585351.html">Which headphones should I buy?</a></h1>
+              <div class="lead">
+        <p>From over-ear noise-cancellers to in-ear waterproofs, we explain everything you need to know before investing</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/extras/indybest/gadgets-tech/cameras-accessories/what-camera-to-buy-which-type-instant-compact-dslr-waterproof-features-sensor-zoom-megapixels-photos-a7562051.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/09/13/camera-buying-guide1.jpg" />
+                                  
+          
+                      <h2>What camera should I buy?</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/extras/indybest/gadgets-tech/laptops-tablets/best-laptops-under-250-budget-windows-for-students-under-500-a7552781.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/30/10/laptops-under-250.jpg" />
+                                  
+          
+                      <h2>8 best laptops under £250</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/extras/indybest/gadgets-tech/cameras-accessories/best-vlogging-camera-cheap-with-flipscreen-youtube-for-beginners-a7529386.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/16/12/lifestyle.jpg" />
+                                  
+                    
+                      <h2>6 best vlogging cameras</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/extras/indybest/gadgets-tech/laptops-tablets/best-tablet-under-200-stand-2017-ipad-sony-apple-windows-android-a7508821.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/04/12/lifestyle.jpg" />
+                                  
+                    
+                      <h2>10 best tablets</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/extras/indybest/gadgets-tech/tv-entertainment/best-4k-tv-under-1000-hdr-uhd-samsung-sony-panasonic-a7459021.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/12/06/14/lifestyle.jpg" />
+                                  
+                    
+                      <h2>10 best 4K TVs</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/extras/indybest/gadgets-tech/best-smartwatches-for-android-ios-coming-soon-under-100-a7450216.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/12/01/15/lifestyle.jpg" />
+                                  
+                    
+                      <h2>10 best smartwatches</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/extras/indybest/gadgets-tech/january-sales-best-laptop-deals-amazon-john-lewis-currys-pc-world-a7374076.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/12/23/15/laptops-boxing-day.jpg" />
+                                  
+                    
+                      <h2>January sales: The best laptop deals</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-16"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="/video">Latest video</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-17"><article data-weight=4 class="weight-4" ><div class="grid-mod-four-videos">
+          <div class="section container-half" data-tb-region-item="1-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/18/double-trump.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/americas/us-politics/donald-trump-media-press-briefing-dangerous-country-enemies-of-the-people-fake-news-cnn-new-york-a7598911.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/americas/us-politics/donald-trump-media-press-briefing-dangerous-country-enemies-of-the-people-fake-news-cnn-new-york-a7598911.html">Trump calls media a 'great danger to our country'</a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="2-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/15/nils-fox-sweden.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/americas/sweden-fox-news-immigrant-convict-assault-donald-trump-fake-advisor-usa-a7599506.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/americas/sweden-fox-news-immigrant-convict-assault-donald-trump-fake-advisor-usa-a7599506.html">Fox News' Swedish adviser on violent immigrants is one himself</a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="3-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/13/gettyimages-644982068-0.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/europe/paris-mayor-donald-trump-scared-visit-france-friend-capital-terror-attack-a7598891.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/europe/paris-mayor-donald-trump-scared-visit-france-friend-capital-terror-attack-a7598891.html">Parisian mayor fires back at Trump </a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="4-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="http://www.independent.co.uk/s3/files/styles/storylist/public/thumbnails/image/2017/02/25/11/untitled.png">
+                        <span class="icon-play small"></span>              <a href="/news/world/americas/us-politics/barack-obama-spotted-on-broadway-watching-arthur-millers-the-price-with-daughter-malia-a7598961.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/americas/us-politics/barack-obama-spotted-on-broadway-watching-arthur-millers-the-price-with-daughter-malia-a7598961.html">Barack Obama spotted on Broadway</a>
+      </h1>
+          </div>
+  </div>
+  </div>
+</article></div><div class="row" data-tb-region="row-18"><article data-weight=4 class="weight-4" ><div class="grid-mod-four-videos">
+          <div class="section container-half" data-tb-region-item="1-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/15/nils-fox-sweden.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/americas/sweden-fox-news-immigrant-convict-assault-donald-trump-fake-advisor-usa-a7599506.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/americas/sweden-fox-news-immigrant-convict-assault-donald-trump-fake-advisor-usa-a7599506.html">Fox News' Swedish adviser on violent immigrants is one himself</a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="2-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/13/gettyimages-644982068-0.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/europe/paris-mayor-donald-trump-scared-visit-france-friend-capital-terror-attack-a7598891.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/europe/paris-mayor-donald-trump-scared-visit-france-friend-capital-terror-attack-a7598891.html">Parisian mayor fires back at Trump </a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="3-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/12/23/18/october-in-review-5.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/europe/child-refugees-theresa-may-plea-dubs-scheme-uk-immigration-let-me-see-brother-a7596056.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/europe/child-refugees-theresa-may-plea-dubs-scheme-uk-immigration-let-me-see-brother-a7596056.html">Child refugees in France record desparate plea to Theresa May</a>
+      </h1>
+          </div>
+  </div>
+          <div class="section container-half" data-tb-region-item="4-1">
+              <div class="image_wrapper">
+                      <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/21/17/barcelona-lorry.jpg">
+                        <span class="icon-play small"></span>              <a href="/news/world/europe/truck-barcelona-spain-butane-gas-latest-police-shoot-high-speed-traffic-detain-a7591231.html"></a>
+            </div>
+        </div>
+            <div class="content">
+                  <h1>
+        <span className="media-prefix icon-video"></span>
+        <a href="/news/world/europe/truck-barcelona-spain-butane-gas-latest-police-shoot-high-speed-traffic-detain-a7591231.html">Police shoot at man driving lorry loaded with gas tanks in Barcelona</a>
+      </h1>
+          </div>
+  </div>
+  </div>
+</article></div><div class="row" data-tb-region="row-19"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="/arts-entertainment">culture</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-20"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/25/16/batman-v-superman-r-rated-ultimate-cut-trailer.jpg">
+                <span class="icon-play small"></span>          <a href="/arts-entertainment/films/news/razzies-2017-batman-vs-superman-anti-hillary-clinton-documentary-win-worst-film-awards-a7599601.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Film</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/arts-entertainment/films/news/razzies-2017-batman-vs-superman-anti-hillary-clinton-documentary-win-worst-film-awards-a7599601.html">Razzies 2017: The winners list in full</a></h1>
+              <div class="lead">
+        <p>The tongue-in-cheek ceremony went political this year</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/arts-entertainment/films/news/hugh-jackman-logan-wolverine-3-x-men-the-avengers-marvel-interview-a7598996.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/11/logan-hugh-jackman-wolverine-0.jpg" />
+                                  
+          
+                      <h2>The one way Hugh Jackman would have kept playing Wolverine</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/arts-entertainment/films/news/oscars-2017-hollywood-talent-agency-cancels-party-will-host-pro-refugee-rally-instead-a7570771.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/10/uta-rally-michael-j-fox.jpg" />
+                                  
+          
+                      <h2>Hollywood agency hosted pro-refugee rally instead of Oscars party</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/arts-entertainment/films/news/donald-trump-jodie-foster-speech-rally-oscars-2017-united-talent-agency-a7598936.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/10/jodie-foster-trump-rally.jpg" />
+                                  
+                    
+                      <h2>Jodie Foster warns of an 'attack on democracy' in anti-Trump speech</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/arts-entertainment/films/news/oscars-2017-syrian-cinematographer-blocked-from-entering-us-for-oscars-the-white-helmets-the-a7598881.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/09/the-white-helmets.jpg" />
+                                  
+                    
+                      <h2>Syrian cinematographer blocked from entering US for Oscars</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/arts-entertainment/films/news/oscars-2017-how-to-watch-online-live-stream-tv-abc-date-time-nominees-nominations-awards-performers-a7585921.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/14/oscars.jpg" />
+                                  
+                    
+                      <h2>All the key info you need for the Oscars 2017</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/arts-entertainment/films/news/logan-patrick-stewart-last-x-men-film-wolverine-hugh-jackman-interview-a7597261.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/11/logan-patrick-stewart-charles-xavier-0.jpg" />
+                                  
+                    
+                      <h2>Patrick Stewart says Logan will be his last X-Men film</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/arts-entertainment/films/features/kernels-podcast-episode-2-listen-logan-sir-patrick-stewart-professor-x-xavier-interview-a7597081.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/fghsghdfgh-pat.jpg" />
+                                  
+                    
+                      <h2>Kernels podcast: Sir Patrick Stewart talks playing a role for 17 years</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-cc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/25/02/biffy-clyro-roger-goodgroves-rex.jpg">
+                          <a href="/arts-entertainment/music/reviews/biffy-clyro-shepherd-s-bush-empire-gig-review-scottish-arena-fillers-achieve-a-vertigo-of-bliss-in-a7598826.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                      <li class="review">
+            <span class="stars stars-4">
+            <span class="icon-star"></span>
+            <span class="icon-star"></span>
+            <span class="icon-star"></span>
+            <span class="icon-star"></span>
+            <span class="icon-star"></span>
+            </span>
+              <span class="label">Review</span>
+            </li>
+                                <li class="breaking">
+                              <span class="label">Music</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/arts-entertainment/music/reviews/biffy-clyro-shepherd-s-bush-empire-gig-review-scottish-arena-fillers-achieve-a-vertigo-of-bliss-in-a7598826.html">Biffy Clyro play two blinding sets at intimate show in Shepherd's Bush</a></h1>
+              <div class="lead">
+        <p>Purveyors of quirky anthemic arena rock go back to their roots in more ways than one with an intimate performance in aid of War Child</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/arts-entertainment/music/glastonbury-2017-headliners-foo-fighters-saturday-night-festival-music-news-a7598726.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/09/21/14/foo-fighters-rf-getty.jpg" />
+                                  
+          
+                      <h2>Foo Fighters announced as Glastonbury headliner</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/arts-entertainment/music/features/haarm-talk-touring-with-bloc-party-and-being-ones-to-watch-for-2017-a7598186.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/15/press1-hires.jpg" />
+                                  
+          
+                      <h2>HAARM talk touring with Bloc Party and being 'ones to watch' for 2017</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/arts-entertainment/music/features/flyte-reveal-new-track-victoria-falls-premiere-a7597551.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/12/image006.jpg" />
+                                  
+                    
+                      <h2>Flyte reveal new track 'Victoria Falls' - premiere</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/arts-entertainment/music/features/the-away-days-dreamed-at-dawn-album-stream-premiere-turkey-istanbul-uk-tour-a7597471.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/12/image1-10-0.jpg" />
+                                  
+                    
+                      <h2>The Away Days reveal new album Dreamed At Dawn - premiere</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/arts-entertainment/music/features/cosmo-pyke-interview-music-ep-just-cosmo-frank-ocean-chronic-sunshine-a7597391.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/12/2.2-copy.jpeg" />
+                                  
+                    
+                      <h2>Cosmo Pyke releases debut EP Just Cosmo - premiere</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/arts-entertainment/music/features/the-gift-interview-altar-album-release-date-tour-tickets-uk-brian-eno-flood-a7573786.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/17/the-gift-portugese.jpg" />
+                                  
+                    
+                      <h2>The Gift talk new album Altar and collaborating with Brian Eno</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/arts-entertainment/music/news/beyonce-coachella-donald-trump-transgender-order-lgbt-bathrooms-human-rights-a7597151.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/07/08/09/screen_shot_2016-07-08_at_4.47.44_am.png" />
+                                  
+                    
+                      <h2>Beyonce speaks out over Trump's transgender order</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-21"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/25/08/22-whitehats.jpg">
+                          <a href="/arts-entertainment/art/khaled-khatib-oscars-white-helmet-muslim-ban-syria-a7598836.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">art</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/arts-entertainment/art/khaled-khatib-oscars-white-helmet-muslim-ban-syria-a7598836.html">American bans Syrian behind nominated film from attending Oscars </a></h1>
+              <div class="lead">
+        <p>U.S. immigration authorities have decided to bar entry to a 21-year-old Syrian cinematographer whose harrowing film about his nation's civil war, "The White Helmets," has been nominated for an Academy Award.&nbsp;</p>      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/arts-entertainment/art/at-87-artist-and-global-phenomenon-kusama-shows-no-sign-of-retiring-a7593166.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/13/art-yayoi-kusama.jpg" />
+                                  
+          
+                      <h2>At 87, artist and global phenomenon Kusama shows no sign of retiring</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/arts-entertainment/art/features/andy-warhol-pop-art-30-year-anniversary-time-capsules-the-factory-a7592816.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/13/andy-warhol-monroe.jpg" />
+                                  
+          
+                      <h2>Why Andy Warhol still surprises, 30 years after his death</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/arts-entertainment/art/reviews/america-after-the-fall-painting-in-the-1930s-royal-academy-of-arts-review-a7592876.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/10/america-3.jpg" />
+                                  
+                    
+                      <h2>America after the Fall review: A show of highly significant paintings</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/arts-entertainment/art/news/rembrandt-herzog-anton-ulrich-museum-braunschweig-terrier-painting-a7589236.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/08/rembrandt-terrier.jpg" />
+                                  
+                    
+                      <h2>Rembrandt dog sketch identified after being 'hidden' for 250 years</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/arts-entertainment/art/news/wellesley-college-davis-museum-immigrant-art-donald-trump-muslim-ban-immigration-a7587156.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/18/13/wellesley-college-museum.jpg" />
+                                  
+                    
+                      <h2>Museum removes artwork created by immigrants in powerful statement</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/arts-entertainment/art/reviews/wolfgang-tillmans-tate-modern-review-photography-a7582201.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/15/16/tillmans-2.jpg" />
+                                  
+                    
+                      <h2>Wolfgang Tillmans review: Does he deserve to be taken so seriously?</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/arts-entertainment/art/reviews/photographs-vanessa-bell-patti-smith-dulwich-picture-gallery-bloomsbury-group-charleston-sussex-a7577391.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/13/14/vanessa-bell.jpg" />
+                                  
+                    
+                      <h2>Photographs by Vanessa Bell and Patti Smith, review</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/24/11/shnykina-mansfield-park-pic-2.jpg">
+                          <a href="/arts-entertainment/books/book-illustration-competition-winner-darya-shnykina-shortlist-jane-austen-mansfield-park-a7596551.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">books</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/arts-entertainment/books/book-illustration-competition-winner-darya-shnykina-shortlist-jane-austen-mansfield-park-a7596551.html">Book Illustration Competition 2017 winner announced as Darya Shnykina</a></h1>
+              <div class="lead">
+        <p>Exclusive: See&nbsp;illustrations by the winner and shortlisted entrants for Jane Austen's Mansfield Park</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/arts-entertainment/books/chinese-massacre-mao-cultural-revolution-killing-wind-a7596146.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/17/mao-revolution.jpg" />
+                                  
+          
+                      <h2>The book that uncovers a horrific Chinese massacre</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/arts-entertainment/books/reviews/dear-friend-from-my-life-i-write-to-you-in-your-life-yiyun-li-a7593306.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/12/book-cover-1.jpg" />
+                                  
+          
+                      <h2>Dear Friend, from My Life I Write to You in Your Life, book review </h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/arts-entertainment/books/news/tom-hanks-has-written-his-first-book-a-collection-of-short-stories-a7592716.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/09/tomhankswithtypewriters.jpeg" />
+                                  
+                    
+                      <h2>Tom Hanks has written his first book, a collection of short stories</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/arts-entertainment/books/news/roxane-gay-milo-yiannopoulos-book-simon-schuster-publisher-a7592041.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/26/13/roxane-gay.jpg" />
+                                  
+                    
+                      <h2>Roxane Gay slams Simon & Schuster after dropping Milo Yiannopoulos</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/arts-entertainment/books/news/milo-yiannopoulos-publishers-twitter-simon-and-schuster-dangerous-deal-a7591646.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/21/14/milo2.jpg" />
+                                  
+                    
+                      <h2>Publishers are having a field day over Milo right now</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/arts-entertainment/books/news/milo-yiannopoulos-book-deal-canceled-simon-schuster-paedophilia-podcast-dangerous-a7590706.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/17/milo.jpg" />
+                        <span class="icon-play vsmall"></span>          
+                    
+                      <h2>Yiannopolous book cancelled by publishers after 'paedophilia' remarks</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/arts-entertainment/books/features/marvel-superhero-kamala-khan-america-muslim-terrorism-islam-donald-trump-prejudice-a7590336.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/17/kamala-khan.jpg" />
+                                  
+                    
+                      <h2>Why Trump's America needs Marvel superhero Kamala Khan more than ever </h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-22"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="http://www.independent.co.uk/sport/">sports</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-23"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/06/15/brady-2.jpg">
+                          <a href="/sport/us-sport/nfl-draft-2017-undrafted-european-athletes-a7596096.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <a class="label" href="sport/US-sport" >US sports</a>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/sport/us-sport/nfl-draft-2017-undrafted-european-athletes-a7596096.html">NFL wants young European athletes for the draft - here's how to apply</a></h1>
+              <div class="lead">
+        <p>Anthony Dablé and Moritz Böhringer have blazed a trail for athletic young men with no high-level experience of American football</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/sport/us-sport/major-league-soccer/david-villa-sent-off-video-technology-new-york-city-mls-a7588261.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/19/13/david-villa-city.jpg" />
+                                  
+          
+                      <h2>Villa sent off after referee uses video technology</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/sport/us-sport/national-football-league/jermaine-eluemunor-nfl-draft-2017-london-texas-am-a7586251.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/16/jermaine3.jpg" />
+                                  
+          
+                      <h2>Meet the Londoner heading for the NFL draft this spring</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/sport/us-sport/antoine-vermette-anaheim-ducks-ice-hockey-slash-video-a7582396.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/15/17/antoine-vermette.jpg" />
+                        <span class="icon-play vsmall"></span>          
+                    
+                      <h2>Ice hockey player sent off for 'slashing' referee with his stick</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/sport/us-sport/golden-state-warriors-basketball-nba-star-steph-curry-president-donald-trump-an-ass-a7571216.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/09/12/steph-curry-2.jpg" />
+                                  
+                    
+                      <h2>Basketball star labels Donald Trump an 'ass'</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/sport/us-sport/national-football-league/new-england-patriots-tight-end-martellus-bennett-super-bowl-skip-white-house-visit-in-protest-at-a7565536.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/06/16/trump.jpg" />
+                                  
+                    
+                      <h2>New England Patriots player to skip White House visit in Trump protest</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/sport/us-sport/national-football-league/the-greatest-ever-tom-brady-bill-belichick-new-england-patriots-super-bowl-51-secured-places-history-a7565496.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/06/15/brady.jpg" />
+                                  
+                    
+                      <h2>Brady, Belichick, Patriots all secure places in Super Bowl history</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/sport/us-sport/national-football-league/super-bowl-51-new-england-patriots-tom-brady-atlanta-falcons-comeback-score-result-a7564491.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/06/07/tom-brady1.jpg" />
+                        <span class="icon-play vsmall"></span>          
+                    
+                      <h2>Brady says he didn't think Patriots could complete Super Bowl comeback</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/25/10/neymar.jpg">
+                          <a href="/sport/football/transfers/manchester-united-transfer-news-neymar-contacted-phone-calls-barcelona-move-a7598951.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <a class="label" href="sport/football" >Soccer</a>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/sport/football/transfers/manchester-united-transfer-news-neymar-contacted-phone-calls-barcelona-move-a7598951.html">Neymar contacted by Mourinho as United attempt to sign Barca striker</a></h1>
+              <div class="lead">
+        <p>The United manager is reported to have personally called the Brazilian after the Premier League side reignited their long-standing interest</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/sport/football/premier-league/everton-sunderland-romelu-lukaku-gueye-goals-watch-david-moyes-relegation-a7599646.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/17/everton.jpg" />
+                                  
+          
+                      <h2>Everton's impressive run of form continues against Sunderland</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/sport/football/premier-league/crystal-palace-middlesbrough-relegation-fight-patrick-van-aanholt-goal-relegation-a7599616.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/16/patrick-van-aanholtg.jpg" />
+                                  
+          
+                      <h2>Van Aanholt's winner Allardyce's Palace in the right direction</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/sport/football/premier-league/chelsea-vs-swansea-fabregas-pedro-costa-goals-watch-epl-a7599606.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/16/chelsea.jpg" />
+                                  
+                    
+                      <h2>Pedro and Costa settle Chelsea's nerves against plucky Swansea</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/sport/football/premier-league/chelsea-vs-swansea-live-updates-goals-stream-everton-sunderland-hull-burnley-west-ham-a7599041.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/17/watford.jpg" />
+                                  
+                    
+                      <h2>Premier League live! - Follow live updates and goals</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/sport/football/football-league/sutton-united-goalkeeper-wayne-shaw-pie-eating-piegate-stunt-sacked-a7599511.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/15/wayne-shaw.jpg" />
+                                  
+                    
+                      <h2>Sutton forced to play outfield player in goal following Shaw's sack</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/sport/football/fa-league-cups/manchester-united-southampton-efl-cup-final-zlatan-ibrahimovic-wembley-a7599546.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/16/puel.jpg" />
+                                  
+                    
+                      <h2>Puel: the man with the means to stop Ibrahimovic in his tracks</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/sport/football/premier-league/manchester-united-news-zlatan-ibrahimovic-contract-talks-sign-new-champions-league-a7599216.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/25/13/zlatan-ibrahimovic.jpg" />
+                                  
+                    
+                      <h2>Ibrahimovic's United contract talks 'stall'</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-24"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              <a href="life-style">lifestyle</a>
+          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-25"><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/01/31/12/istock-493442976.jpg">
+                          <a href="/life-style/fashion/5-best-online-jewellery-shops-astley-clarke-daisy-london-browns-fashion-net-a-porter-9062473.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Fashion</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="1-1"> <a href="/life-style/fashion/5-best-online-jewellery-shops-astley-clarke-daisy-london-browns-fashion-net-a-porter-9062473.html">5 best online jewellery shops</a></h1>
+              <div class="lead">
+        <p>Whether you're after a pretty piece from an of-the-moment designer or a statement necklace no one else will have, the web is the place to go. We round-up the best e-boutiques for those special finds</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="1-2">
+        <a href="/life-style/fashion/50-best-fashion-beauty-websites-topshop-zara-asos-missguided-look-fantastic-cult-beauty-8609717.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/31/12/cultbeautymakeup.jpg" />
+                                  
+          
+                      <h2>The 50 Best fashion & beauty websites</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="1-3">
+        <a href="/life-style/fashion/10-best-online-beauty-retailers-beauty-pie-cult-beauty-space-nk-birchbox-9158731.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/31/12/cultbeautymakeup.jpg" />
+                                  
+          
+                      <h2>10 best online beauty retailers</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="1-4">
+        <a href="/life-style/fashion/beard-hair-length-ratio-london-stylists-a7596341.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/justintimberlake.jpg" />
+                                  
+                    
+                      <h2>What is the ideal hair to beard (length) ratio</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-5">
+        <a href="/life-style/fashion/how-to-wear-stripes-black-and-white-monochrome-beetlejuice-gareth-pugh-ss17-nina-ricci-a7594621.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/00/gareth-pugh-ss17-stripes-lead.jpg" />
+                                  
+                    
+                      <h2>How to wear Beetlejuice stripes this Spring</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-6">
+        <a href="/life-style/fashion/nubian-skin-dbleubedazzled-lingerie-underwear-women-all-colours-nude-skin-tones-diversity-london-a7596211.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/17/img-9198.jpg" />
+                                  
+                    
+                      <h2>Designers team up to make lingerie for women of every colour</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-7">
+        <a href="/life-style/fashion/loreal-princes-trust-body-confidence-campaign-all-worth-it-cheryl-cole-pregant-helen-mirren-amena-a7595886.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/16/lorealprincestrust.jpg" />
+                                  
+                    
+                      <h2>L’Oreal and The Prince’s Trust launch new confidence campaign</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="1-8">
+        <a href="/life-style/fashion/how-to-grow-your-eyebrows-tweeze-plucking-rapidbrow-revitabrow-serum-a7594571.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/23/woman-eyebrow-grooming.jpg" />
+                                  
+                    
+                      <h2>How to grow your eyebrows</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article><article data-weight=2 class="weight-2" ><div class="container grid-mod-collection grid-mod-collection-sub-section  ">
+  <div class="big">
+         <div class="image_wrapper">
+                <div class="image image-align-tc lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2017/02/23/15/chai-cafe.jpg">
+                          <a href="/life-style/food-and-drink/recipes/brunch-on-saturday-where-to-eat-vegan-fluffy-pancakes-and-how-to-make-avocado-on-toast-a7585201.html"></a>
+        </div>
+      </div>
+              <div class="capsules">
+        <ul>
+                                <li class="breaking">
+                              <span class="label">Food + drink</span>
+                          </li>
+                  </ul>
+      </div>
+              <h1 data-tb-region-item="2-1"> <a href="/life-style/food-and-drink/recipes/brunch-on-saturday-where-to-eat-vegan-fluffy-pancakes-and-how-to-make-avocado-on-toast-a7585201.html">Brunch on Saturday: 25th Feb</a></h1>
+              <div class="lead">
+        <p>This week in Brunch on Saturday, Rachel Hosie hunts out fluffy vegan pancakes and we make smashed avocado and fried mushroom on toast at home</p>
+      </div>
+        <ul class="related-static-thumbs">
+          <li class="story" data-tb-region-item="2-2">
+        <a href="/life-style/food-and-drink/recipes/citrus-recipes-a7593596.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/14/chicken-salad.jpg" />
+                                  
+          
+                      <h2>Citrus Recipes</h2>
+                  </a>
+      </li>
+          <li class="story" data-tb-region-item="2-3">
+        <a href="/life-style/food-and-drink/recipes/pancake-day-2017-recipes-gluten-free-shrove-tuesday-banana-a7597426.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/12/pancake-sugar.jpg" />
+                        <span class="icon-play vsmall"></span>          
+          
+                      <h2>Three delicious recipes for Shrove Tuesday</h2>
+                  </a>
+      </li>
+        </ul>
+  </div>
+  <ul class="simple-news-list">
+                <li class="story" data-tb-region-item="2-4">
+        <a href="/life-style/food-and-drink/the-10-best-places-to-eat-pancakes-a7593996.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/16/pancakes.jpg" />
+                                  
+                    
+                      <h2>The 10 best places to eat pancakes</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-5">
+        <a href="/life-style/food-and-drink/recipes/dorie-greenspan-cheese-bacon-apero-quick-bread-french-cooking-sandwich-a7591451.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/21/13/food-bread-france-0.jpg" />
+                                  
+                    
+                      <h2>How to make Dorie Greenspan’s cheese and bacon apéro quick bread</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-6">
+        <a href="/life-style/food-and-drink/recipes/baked-aubergine-recipe-how-to-make-lemon-thyme-feta-olives-cooking-times-ingredients-a7593726.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/15/aubergine-2.jpg" />
+                                  
+                    
+                      <h2>Baked aubergine with lemon, thyme, feta and olives, recipe</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-7">
+        <a href="/life-style/food-and-drink/keeping-the-familiar-new-a7596031.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/14/wine-week.jpg" />
+                                  
+                    
+                      <h2>Keeping the familiar new</h2>
+                  </a>
+      </li>
+                <li class="story" data-tb-region-item="2-8">
+        <a href="/life-style/food-and-drink/fairtrade-fortnight-how-good-is-our-morning-brew-really-a7584996.html">
+                                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/17/10/fairtrade-malawi-1.jpg" />
+                        <span class="icon-play vsmall"></span>          
+                    
+                      <h2>How good is our morning brew, really?</h2>
+                  </a>
+      </li>
+      </ul>
+</div>
+</article></div><div class="row" data-tb-region="row-26"><article data-weight=4 class="weight-4" ><div class="grid-mod-four-sub-sections">
+          <div class="section" data-tb-region-item="1-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/23/18/hiv-virus.jpg"><a href="/life-style/health-and-families/health-news/hiv-aids-vaccine-therapy-trials-no-daily-drugs-art-irsicaixa-barcelona-beatriz-mothe-a7596521.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="1-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">Health</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/life-style/health-and-families/health-news/hiv-aids-vaccine-therapy-trials-no-daily-drugs-art-irsicaixa-barcelona-beatriz-mothe-a7596521.html">Five HIV patients 'virus-free' without need for drugs in vaccine trial</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="1-2">
+            <a href="/life-style/health-and-families/autism-teenager-support-dog-video-adam-grant-black-labrador-diagnosis-mental-condition-a7594556.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/22/22/adam-and-grant-adam-loves-trains.jpg"></span>
+                                <span class="icon-play vvsmall"></span>              
+                            
+              How an autistic teenager's life has been changed by his support dog            </a>
+          </li>
+                            <li class="story" data-tb-region-item="1-3">
+            <a href="/life-style/health-and-families/womens-body-childbirth-impact-changes-obstetrician-reveals-pelvic-floor-bruising-bleeding-a7595031.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/23/10/childbirth.jpg"></span>
+                                              
+                            
+              What happens to women's bodies after childbirth?            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="2-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/15/17/asexual.jpg"><a href="/news/world/europe/spain-sex-tsar-population-crisis-baby-parents-demographic-government-a7599091.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="2-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">love + sex</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/news/world/europe/spain-sex-tsar-population-crisis-baby-parents-demographic-government-a7599091.html">Spanish government appoints sex tsar </a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="2-2">
+            <a href="/life-style/love-sex/libido-men-strenous-exercise-sex-drive-gym-lifestyle-healthy-women-a7598061.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/24/14/working-out-man.jpg"></span>
+                                              
+                            
+              Strenuous exercise linked to lower libido in men            </a>
+          </li>
+                            <li class="story" data-tb-region-item="2-3">
+            <a href="/life-style/love-sex/couple-break-up-photoshoot-photos-a7597461.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/24/12/breakup-photos.png"></span>
+                                              
+                            
+              Ex-couple's photoshoot to commemorate their break-up goes viral            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="3-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2016/11/21/10/stockholm-sweeden.jpg"><a href="/travel/how-to-move-to-sweden-and-become-a-swedish-citizen-a7598136.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="3-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">travel</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/travel/how-to-move-to-sweden-and-become-a-swedish-citizen-a7598136.html">How to move to Sweden and become a Swedish citizen</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="3-2">
+            <a href="/travel/news-and-advice/best-new-theme-park-rides-2017-avatar-ferrari-a7595666.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/23/15/the-joker-on-ride-3.jpg"></span>
+                                              
+                            
+              A rollercoaster expert rates the best theme park rides of 2017            </a>
+          </li>
+                            <li class="story" data-tb-region-item="3-3">
+            <a href="/travel/americas/oscars-los-angeles-holiday-trip-star-spotting-california-chateau-marmont-beverly-hills-malibu-beach-a7597311.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/24/12/labevhiltoncamera.jpg"></span>
+                                              
+                            
+              How to travel to LA and see as many celebs as possible            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="4-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/20/19/shutterstock-582864727.jpg"><a href="/property/handy-flowchart-tell-better-to-rent-or-buy-a-home-a7590586.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="4-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">homes</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/property/handy-flowchart-tell-better-to-rent-or-buy-a-home-a7590586.html">Here's how to tell if you should rent or buy a home</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="4-2">
+            <a href="/money/making-sense-of-first-time-buyer-deals-a7508056.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2015/08/17/20/50-Bovis-Rex.jpg"></span>
+                                              
+                            
+              Making sense of first time buyer deals            </a>
+          </li>
+                            <li class="story" data-tb-region-item="4-3">
+            <a href="/property/house-and-home/uk-property-prices-latest-2016-luton-bedfordshire-a7501381.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2016/09/27/17/luton-2.jpg"></span>
+                                              
+                            
+              This is the town where property prices have risen the most in 2016            </a>
+          </li>
+              </ul>
+    </div>
+  </div>
+</article></div><div class="row" data-tb-region="row-27"><article data-weight=4 class="weight-4" >  <div class="grid-mod-titled-separator margin">
+    <h1 class="box-title">
+              IndyBest          </h1>
+  </div>
+</article></div><div class="row" data-tb-region="row-28"><article data-weight=4 class="weight-4" ><div class="grid-mod-four-sub-sections">
+          <div class="section" data-tb-region-item="1-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/lifestyle.jpg"><a href="/extras/indybest/fashion-beauty/womens-accessories/best-fair-trade-jewellery-ethical-fairtrade-gold-silver-a7597166.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="1-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">Fashion + beauty</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/extras/indybest/fashion-beauty/womens-accessories/best-fair-trade-jewellery-ethical-fairtrade-gold-silver-a7597166.html">14 best fair trade jewellery</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="1-2">
+            <a href="/extras/indybest/fashion-beauty/hair/best-texture-hair-sprays-for-straight-thick-wavy-curly-fine-hair-reviews-a7593121.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/22/11/hair-texture-lifestyle-2.jpg"></span>
+                                              
+                            
+              7 best texture hair sprays            </a>
+          </li>
+                            <li class="story" data-tb-region-item="1-3">
+            <a href="/extras/indybest/fashion-beauty/womens-clothing/best-spring-jackets-women-hm-trench-biker-a7583796.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/16/15/lifestyle.jpg"></span>
+                                              
+                            
+              10 best spring jackets for women            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="2-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/22/15/ahle-wurst.jpg"><a href="/news/world/europe/kassel-vegetarian-festival-germany-city-councillors-serve-meat-pressure-sausages-umwelthaus-cdu-a7593841.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="2-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">food + drink</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/news/world/europe/kassel-vegetarian-festival-germany-city-councillors-serve-meat-pressure-sausages-umwelthaus-cdu-a7593841.html">Council pressures vegetarian street festival to serve meat</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="2-2">
+            <a href="/extras/indybest/food-drink/beer-cider-perry/best-sour-beer-belgian-duchess-american-a7581136.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/15/11/lifestyle.jpg"></span>
+                                              
+                            
+              10 best sour beers            </a>
+          </li>
+                            <li class="story" data-tb-region-item="2-3">
+            <a href="/extras/indybest/food-drink/champagne-prosecco-sparkling-wine/best-lambrusco-wine-producers-rated-food-sparkling-a7578001.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/13/15/lifestyle.jpg"></span>
+                                              
+                            
+              14 best lambruscos            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="3-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/02/24/10/spring-candles-lifestyle.jpg"><a href="/extras/indybest/house-garden/lighting/best-scented-candles-for-spring-amazon-john-lewis-a7597231.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="3-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">home + garden</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/extras/indybest/house-garden/lighting/best-scented-candles-for-spring-amazon-john-lewis-a7597231.html">16 best scented candles for spring</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="3-2">
+            <a href="/extras/indybest/house-garden/bedroom/best-bunk-beds-uk-reviews-for-small-rooms-a7590081.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/20/15/bunk-beds-lifestyle.jpg"></span>
+                                              
+                            
+              10 best bunk beds            </a>
+          </li>
+                            <li class="story" data-tb-region-item="3-3">
+            <a href="/extras/indybest/house-garden/bedroom/mattress-guide-how-to-choose-best-types-open-spring-pocket-memory-foam-latex-size-firmness-care-a7584356.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/02/16/15/mattresses.jpg"></span>
+                                              
+                            
+              Mattress buying guide: how to choose a mattress            </a>
+          </li>
+              </ul>
+    </div>
+          <div class="section" data-tb-region-item="4-1">
+                    <div class="image_wrapper">
+                    <div class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2017/01/20/12/lifestyle.jpg"><a href="/extras/indybest/travel/flying/best-backpacking-essentials-sleeping-bags-knife-portable-phone-charger-a7537026.html"></a></div>
+                  </div>
+                  <div class="content" data-tb-region-item="4-1">
+                  <div class="capsules">
+            <ul>
+                          <li class="topic">
+                                  <span class="label">Travel</span>
+                              </li>
+                        </ul>
+          </div>
+                <h1>
+          <a href="/extras/indybest/travel/flying/best-backpacking-essentials-sleeping-bags-knife-portable-phone-charger-a7537026.html">10 best backpacking essentials</a>
+        </h1>
+      </div>
+      <ul class="more">
+                            <li class="story" data-tb-region-item="4-2">
+            <a href="/extras/indybest/arts-books/travel/best-books-southeast-asia-history-travel-novels-a7531301.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2017/01/17/12/lifestyle2.jpg"></span>
+                                              
+                            
+              8 best books on South-east Asia            </a>
+          </li>
+                            <li class="story" data-tb-region-item="4-3">
+            <a href="/extras/indybest/arts-books/travel/best-burma-travel-books-guide-a7488661.html">
+                                                <span class="image lazy" data-original="https://static.independent.co.uk/s3fs-public/styles/storylist_small/public/thumbnails/image/2016/12/21/14/burma-lifestyle.jpg"></span>
+                                              
+                            
+              8 best Burma books            </a>
+          </li>
+              </ul>
+    </div>
+  </div>
+</article></div>
+
+      </div>
+</div>
+</div>  </div>
+
+  <footer id="mastfooter" tynt-data="no-content">
+
+
+    <div class="stamp"></div>
+    <ul class="follow">
+      <li>Follow us:</li>
+      <li>
+        <a href="https://www.facebook.com/TheIndependentOnline" target="_blank" title="Facebook" class="icon-facebook"></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/independent" target="_blank" title="Twitter" class="icon-twitter"></a>
+      </li>
+    </ul>
+    <ul class="links"><li><a href="/service/user-policies-a6184151.html" title="">User Policies</a></li>
+<li><a href="/service/privacy-policy-a6184181.html" title="">Privacy Policy</a></li>
+<li><a href="/service/cookie-policy-a6184186.html" title="">Cookie Policy</a></li>
+<li><a href="/service/code-of-conduct-a6184241.html" title="">Code of Conduct</a></li>
+<li><a href="https://independentnews.zendesk.com/hc/en-us/requests/new" title="">Complaint Form</a></li>
+<li><a href="/service/contact-us-759589.html" title="">Contact Us</a></li>
+<li><a href="http://www.independent.co.uk/service/external-contributors-policy-7905982.html" title="">Contributors</a></li>
+<li><a href="/topics-list" title="">All Topics</a></li>
+<li><a href="http://www.independent.co.uk/archive" title="">Archive</a></li>
+<li><a href="http://www.independent.co.uk/register" title="">Newsletters</a></li>
+<li><a href="http://independentjobs.independent.co.uk/" title="">Jobs</a></li>
+<li><a href="https://subscriptions.independent.co.uk" title="">Subscriptions</a></li>
+<li><a href="http://esimedia.co.uk/" title="">Advertising Guide</a></li>
+<li><a href="http://syndication.independent.co.uk" title="">Syndication</a></li>
+<li><a href="http://www.standard.co.uk/" title="">Evening Standard</a></li>
+<li><a href="http://en.novayagazeta.ru/" title="">Novaya Gazeta</a></li>
+<li><a href="http://www.independent.co.uk/marketing/apps/" title="">Install our Apps</a></li>
+</ul>  </footer>
+  
+    <div id='outofpageslot'>  </div>
+
+    <div id="teadsib">  </div>
+    <div id="znaptag" tynt-data="no-content">  </div>
+    <div id="thirdparty01">  </div>
+
+  </div>
+
+    <!-- PRE FOOTER INLINE -->
+    <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-27212627-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+
+
+;
+</script>    <!-- PAGE BOTTOM -->
+      <div class="region region-page-bottom">
+    <!-- SiteCatalyst code version: h.27.5.
+Copyright 1996-2017 Adobe, Inc. -->
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/libraries/sitecatalyst/ind_am_code.js?olwlkd"></script>
+<script type="text/javascript"><!--
+
+s.hier1="us";
+s.channel="us";
+s.prop1="";
+s.prop2="";
+s.prop8="US Frontpage";
+s.pageName="us\/home";
+s.prop18="New Site";
+s.prop6="";
+s.prop7="";
+s.server="www.independent.co.uk";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><img src="http://independent.122.2o7.net/b/ss/indepdev/1/H.27.5--NS/0?[AQB]&amp;cdp=3&amp;[AQE]/6823403" height="1" width="1" alt=""></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: h.27.5. -->
+<div class="adblock-modal adblock" style="display: none;">
+  <aside class="adblock-notice">
+    <div class="ctrl"><button class="close" data-action="close">Close</button></div>
+    <h2><span class="logo"></span></h2>
+    <div class="adblock-container main">
+      <div class="content">
+        <p><strong>We've noticed that you are using an ad blocker.</strong></p>
+<p>Advertising helps fund our journalism and keep it truly independent. It helps to build our international editorial team, from war correspondents to investigative reporters, commentators to critics.</p>
+<div class="content-section">
+  <p><a data-toggle="instructions" href="javascript:void(0);">Click here to view instructions</a> on how to disable your ad blocker, and help us to keep providing you with free-thinking journalism - for free.</p>
+  <p>Thank you for your support.</p>
+</div>      </div>
+    </div>
+    <div class="adblock-container instructions">
+      <p><strong>How to disable your ad blocker for <span class="site-url">independent.co.uk</span></strong></p>
+<h3 class="ad-block-icon"> Adblock / Adblock Plus</h3>
+<ul>
+  <li>Click the Adblock/Adblock Plus icon, which is to the right of your address bar.</li>
+  <li>On Adblock click "Don't run on pages on this domain".</li>
+  <li>On Adblock Plus click "Enabled on this site" to disable ad blocking for the current website you are on. If you are in Firefox click "disable on <span class="site-url">independent.co.uk</span>".</li>
+</ul>
+<h3 class="firefox-icon">Firefox Tracking Protection</h3>
+<ul>
+  <li>If you are Private Browsing in Firefox, "Tracking Protection" may cause the adblock notice to show. It can be temporarily disabled by clicking the "shield" icon in the address bar.</li>
+</ul>
+<h3 class="ghostery-icon">Ghostery</h3>
+<ul>
+  <li>Click the Ghostery icon.</li>
+  <li>In versions before 6.0 click "whitelist site".</li>
+  <li>In version 6.0 click "trust site" or add <span class="site-url">independent.co.uk</span> to your Trusted Site list.</li>
+  <li>In versions before 6.0 you will see the message "Site is whitelisted".</li>
+  <li>Click "reload the page to see your changes".</li>
+</ul>
+<h3 class="ublock-icon">uBlock</h3>
+<ul>
+  <li>Click the uBlock icon.</li>
+  <li>Then click the big power button to whitelist the current web site, and its state will be remembered next time you visit the web site.</li>
+  <li>Then reload the page.</li>
+</ul>    </div>
+  </aside>
+</div>
+<div class="adblock-modal adblock-confirm" style="display: none;">
+  <aside class="adblock-notice">
+    <div class="ctrl"><button class="close" data-action="close">Close</button></div>
+    <h2><span class="logo"></span></h2>
+    <div class="adblock-container main">
+      <div class="content">
+        <p>Thank you for supporting <span class="site-url">independent.co.uk</span></p>      </div>
+      <button data-action="close">Continue to our site</button>
+    </div>
+  </aside>
+</div>
+  </div>
+    <!-- POST FOOTER INLINE -->
+    <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/2.1/jquery.min.js'>\x3C/script>")
+
+
+;
+document.createElement( "picture" );
+
+
+;
+//Add js: Temp inskin grid recalculate patch 
+jQuery(function(){
+   function show_inskin(){
+       Drupal.behaviors.grid.recalculate();
+       window.setTimeout( show_inskin, 1000 );
+   };
+   window.setTimeout( show_inskin, 1000 );
+});
+
+
+
+;
+//Add js: jQuery Alias 
+var $ = jQuery;
+
+
+;
+//Add js: Check for Iframed pages 
+(function () {
+	var topParent = window.top.location.href,
+	parent = window.parent.location.href,
+	combi = topParent + " - " + parent;
+
+	if (topParent != parent) {
+		console.log(combi);
+		ga('send', 'event', 'iFramer', combi);
+	}
+})();
+
+
+;
+//Add js: PageFair AdBlock Detection 
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '50DD925A1FA64A66';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+
+
+;
+jQuery.extend(Drupal.settings, { "themeName": "independent_theme" });
+
+
+;
+jQuery.extend(Drupal.settings, { "s_account": "indepdev" });
+
+
+;
+    (function() {
+      function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_mab.js');
+        document.body.appendChild(e);
+
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() {
+        oldonload();
+        loadChartbeat();
+      };
+    })();
+
+
+;
+(function($) {
+  var test = document.createElement('div');
+  test.innerHTML = '&nbsp;';
+  test.className = 'adsbox';
+  
+  function detectOnload(){
+    document.body.appendChild(test);
+    if (test.offsetHeight === 0) {
+      document.body.classList.add('adblock');
+      $('body').trigger('AdblockDetected');
+      // add GA Events if defined
+      if(typeof ga !== 'undefined'){
+        ga('send', 'event', 'Adblock', 'Blocked', location.href);
+      }
+    } else {
+      $('body').trigger('AdblockNotDetected');
+      // add GA Events if defined
+      if(typeof ga !== 'undefined'){
+        ga('send', 'event', 'Adblock', 'Unblocked', location.href);
+      }
+      // Old var should be depricat4d but used elsewhere
+      window.runAds = true;
+    }
+    test.remove();
+  }
+  
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ? detectOnload : function() {
+    oldonload();
+    detectOnload();
+  };
+     
+}) (jQuery);
+
+
+;
+(function($) {
+  $('body').on('AdblockDetected', function() {
+    // check for mobile with helper
+if (typeof window.helper.isMobile !== 'undefined' && !window.helper.isMobile.any()){
+  var adblock_cookie = window.helper.getCookie('adblock_detected');
+  if (adblock_cookie !== 'ignored'){
+    $('.adblock.adblock-modal').css('display', 'block').appendTo('body');
+    window.helper.createCookie('adblock_detected', 'detected', 1);
+    $('.adblock-modal [data-action="close"]').click(function(e){ 
+      window.helper.createCookie('adblock_detected', 'ignored', 30);
+      $('.adblock-modal').remove(); 
+    });
+    $( window ).resize(function() {
+      var height = $(window).height();
+      var container = $('.adblock-modal .adblock-container').filter(':visible');
+      container.height('auto'); 
+      container.css('overflow-y', '');
+      if (container.height() > $(window).height() - 190){
+        container.height($(window).height() - 190);
+        container.css('overflow-y', 'scroll');
+      }
+    });
+    $(window).trigger('resize');
+  }
+}
+  });
+}) (jQuery);
+
+
+;
+(function($) {
+  $('body').on('AdblockNotDetected', function() {
+    var adblock_cookie = window.helper.getCookie('adblock_detected');
+if (adblock_cookie) {
+  $('.adblock-confirm.adblock-modal').css('display', 'block').appendTo('body');
+  window.helper.deleteCookie('adblock_detected');
+  if(typeof ga !== 'undefined'){
+    ga('send', 'event', 'AdblockDisabled', 'Disabled', location.href);
+  }
+  $('.adblock-modal [data-action="close"]').click(function(e){ 
+    $('.adblock-modal').remove(); 
+  });
+};
+  });
+}) (jQuery);
+
+
+;
+if (typeof inesDefineAdSlots !== "undefined") { inesDefineAdSlots(); }
+
+
+;
+window.__gigyaConf = {sessionExpiration: -2,}
+
+
+;
+window._taboola = window._taboola || [];
+  _taboola.push({category:"auto"});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement("script"),
+  document.getElementsByTagName("script")[0],
+  "//cdn.taboola.com/libtrc/eslmedia-theindependent/loader.js");
+
+
+;
+window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+
+
+;
+ga('send', 'event', 'Replatform', 'pageview', location.href);
+
+
+;
+ga('send', 'event', 'Page Type', pageType, location.href);
+
+
+;
+(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="https://z.moatads.com/eveningstandard858kBFE49/moatcontent.js";a.parentNode.insertBefore(b,a)})();
+
+
+;
+
+
+  jQuery(function() {
+  ga('create', 'UA-69936242-1', 'auto', 'combined');
+  ga('combined.send', 'pageview');
+  });
+
+</script>    <!-- COMSCORE -->
+    <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "10476312" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=10476312&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+    <!-- QUBIT -->
+    
+    <div id='overlay'></div>
+    <!-- BEGIN Krux Control Tag for "Independent" -->
+    <!-- Source: /snippet/controltag?confid=I8gY_o93&site=Independent&edit=1 -->
+    <script class="kxct" data-id="I8gY_o93" data-timing="async" data-version="1.9" type="text/javascript" >
+            window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+            }).q = []);
+            (function() {
+            var k = document.createElement('script');
+            k.type = 'text/javascript';
+            k.async = true;
+            var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+            (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=I8gY_o93";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(k, s);
+    }()); </script>
+    <!-- END Krux Controltag -->
+
+    <!-- Sherlock Tag -->
+    <script>var js_loaded=false;</script>
+    <script type="text/javascript" src="https://stag.mdotlabs.com/ads.js"></script>
+    <script src="https://stag.mdotlabs.com/sherlock.php?clientID=6035250"></script>
+    <!-- End Sherlock Tag -->
+
+    <!-- Sailthru Horizon -->
+    <script src="//ak.sail-horizon.com/onsite/personalize.v0.0.4.min.js" type="text/javascript"></script>
+    <!-- End Sailthru Horizon -->
+
+    <!-- Affiliate Network JS -->
+    
+    
+        <!-- Begin BlueKai Tag -->
+    <iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe>
+    <script type="text/javascript" src="http://tags.bkrtx.com/js/bk-coretag.js"></script>
+    <script type="text/javascript">
+      bk_addPageCtx('us', 'us');
+      bk_doJSTag(37716, 5);
+    </script>
+    <!-- End BlueKai Tag -->
+    
+  </body>
+</html>

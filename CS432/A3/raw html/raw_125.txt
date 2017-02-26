@@ -1,0 +1,1329 @@
+
+
+<!doctype html>
+<html id="ctl00_html" lang="en" class=" sport harry">
+<head><link type="image/png" rel="apple-touch-icon" href="/images/logos/site/site.png" /><link type="text/css" rel="Stylesheet" title="Core_CSS" href="//s3.amazonaws.com/assets.sidearmsports.com/common/css/default/5/core_compressed.css" /><link type="application/rss+xml" rel="alternate" title="RSS Feed" href="/rss.aspx?path=harry" /><link type="text/css" rel="stylesheet" href="/less/story-templates.less" /><link rel="image_src" href="http://floridagators.com/images/2017/2/25/MonkMalikLeonJustin_170225_0647_TimCasey.jpg" /><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="/site/site.less?0.6725408" /><link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" /><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.aspx" /><link rel="stylesheet" type="text/css" href="//cloud.typography.com/6266892/803888/css/fonts.css" />
+<script type ="text/javascript" src ="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+<meta property="twitter:card" content="summary_large_image" /><meta property="twitter:creator" content="@GatorsChris" /><meta property="twitter:description" content="Florida's defense, so good during its nine-game winning streak was smoked by Kentucky guard Malik Monk and a Wildcats team that shot 64 percent in the second half. " /><meta property="twitter:image" content="http://floridagators.com/images/2017/2/25/MonkMalikLeonJustin_170225_0647_TimCasey.jpg" /><meta property="og:image" content="http://floridagators.com/images/2017/2/25/MonkMalikLeonJustin_170225_0647_TimCasey.jpg" /><meta property="og:image:width" content="1600" /><meta property="og:image:height" content="900" /><meta property="og:description" content="Florida's defense, so good during its nine-game winning streak was smoked by Kentucky guard Malik Monk and a Wildcats team that shot 64 percent in the second half. " /><style type='text/css'>@import url("http://files.floridagators.com/css/custom.css");
+
+#ctl00_cplhMainContent_sportfile_date {display:none;}
+
+#ctl00_cplhMainContent_sportfile_sport {display:none;}
+
+.four-oh-four .right-rail { display:none; }</style><meta property="og:title" content="Monk, Wildcats Too Much for Gators in Second Half"></meta><meta property="og:type" content="sports_team"></meta><meta property="og:url" content="http://floridagators.com/news/2017/2/25/chris-harry-monk-wildcats-too-much-for-gators-in-second-half.aspx"></meta><meta name="twitter:card" content="summary_large_image"></meta><meta name="twitter:title" content="Monk, Wildcats Too Much for Gators in Second Half"></meta><meta name="twitter:description" content="Florida's defense, so good during its nine-game winning streak was smoked by Kentucky guard Malik Monk and a Wildcats team that shot 64 percent in the second half."></meta><meta property="og:site_name" content="Florida Gators"></meta><script>window.client_hostname = "floridagators.com";window.server_name = "795997-LB-12";window.client_division = "DI";window.targetting_criteria = {"page_template":"story","sport_name":"","sport_name_custom":"harry","site":"ufl","content_id":"story-35089","sect":"ot"};window.client_shortname = "ufl";window.dfp_network_code = "4177";window.img_dfp_unit_name = "/UF";</script><script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "19291688" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=19291688&cv=2.0&cj=1" />
+</noscript><meta property="fb:pages" content="99423386070" /><meta name="p:domain_verify" content="15f1677422b90c0c46201226299800a4"/><script>(function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>'); })(); googletag = {}; googletag.cmd = googletag.cmd || []; googletag.cmd.push(function() {var criteria = window.targetting_criteria || {}; for (var key in criteria){if (!criteria.hasOwnProperty(key)) continue; googletag.pubads().setTargeting(key, criteria[key]); googletag.pubads().enableSyncRendering(); } });googletag.cmd.push(function() { var has_email_in_url_exp = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi; if (has_email_in_url_exp.test(location.href)) return; googletag.defineSlot('/4177/UF', [[970,90],[970,66]], 'ctl00_topleaderboardad_dfpDiv').setTargeting('pos', 'top').setTargeting('location', 'Top Leaderboard - 970 x 90').addService(googletag.pubads()); });googletag.cmd.push(function() { var has_email_in_url_exp = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi; if (has_email_in_url_exp.test(location.href)) return; googletag.defineSlot('/4177/UF', [728, 90], 'ctl00_storyleaderboardad2_dfpDiv').setTargeting('pos', 'top').setTargeting('location', 'Story Leaderboard - 728 x 90').addService(googletag.pubads()); });googletag.cmd.push(function() { var has_email_in_url_exp = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi; if (has_email_in_url_exp.test(location.href)) return; googletag.defineSlot('/4177/UF', [300, 250], 'ctl00_ctl13_dfpDiv').setTargeting('pos', 'top').setTargeting('location', 'Story Ad').addService(googletag.pubads()); });googletag.cmd.push(function() { var has_email_in_url_exp = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi; if (has_email_in_url_exp.test(location.href)) return; googletag.defineSlot('/4177/UF', [970, 66], 'ctl00_ctl23_dfpDiv').setTargeting('pos', 'top').setTargeting('location', 'Sticky Super Leaderboard 970 x 66').addService(googletag.pubads()); });googletag.cmd.push(function() { googletag.companionAds().setRefreshUnfilledSlots(true); googletag.pubads().enableVideoAds(); googletag.enableServices(); });</script><title>
+	Monk, Wildcats Too Much for Gators in Second Half - Florida Gators
+</title></head>
+<!--[if IE 8 ]><body class="ie8"> <![endif]--><body>
+
+    <div class="skip"><a href="#content">Skip Navigation Links</a></div>
+    
+    <form name="aspnetForm" method="post" action="/news/2017/2/25/chris-harry-monk-wildcats-too-much-for-gators-in-second-half.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM4MjcwMDA0MWQYCQUnY3RsMDAkY3RsMjAkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFGmN0bDAwJGN0bDA3JG1lZGlhQWQkbW9WaWV3Dw9kZmQFIGN0bDAwJGhlcm9ncmFwaGljJG1lZGlhQWQkbW9WaWV3Dw9kZmQFLmN0bDAwJGNwbGhNYWluQ29udGVudCRjdGwwMCRzdG9yeV9tZWRpYSRtb1ZpZXcPD2QCAWQFGmN0bDAwJGN0bDA4JG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDEyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBRpjdGwwMCRjdGwwNiRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxNCRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUaY3RsMDAkY3RsMDUkbWVkaWFBZCRtb1ZpZXcPD2RmZELGltpvP3NyGsWcowzTpCNnJYKC" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=PwFHPh021QQ6y8Q4ZEh5Xod4jsG0Hg1OYsr8Ou60reuoeex1Mj8aGI72J1f9fxErey6AM2DGx1mOd_CvCh2gY1P9gGc1&amp;t=635589219467565191" type="text/javascript"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+<script src="//s3.amazonaws.com/assets.sidearmsports.com/common/js/default/14/master_compressed_v5.js" type="text/javascript"></script>
+<script src="http://assets.sidearmsports.com/common/js/msajax.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B37EEB7D" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+        <div class="row">
+            <div class="twelve full columns">
+                <div id="hero_graphic">
+                    <a href="/index.aspx"><div class="home_header_logo"></div></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div style="display: none">
+            <div class="ad_drop" id="promodropdownad1">
+                
+	<a id="ctl00_ctl05_hlAdSpot" class="dropdownsponsor" rev="dropdownsponsor1" href="/common/controls/adhandler.aspx?ad_id=60&amp;target=http://onegatornation.com">
+        <img id="ctl00_ctl05_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2016/1/21/onegatornation_350x225.jpg" alt="We are One Nation. One Gator Nation" style="border-width:0px;z-index:1;display:block;" />
+    </a>
+
+            </div>  
+            <div class="ad_drop" id="promodropdownad2">
+                
+	<a id="ctl00_ctl06_hlAdSpot" class="dropdownsponsor2" rev="dropdownsponsor2" href="/common/controls/adhandler.aspx?ad_id=200&amp;target=/sports/2015/12/10/_tickets_basketball_men_.aspx?id=5647">
+        <img id="ctl00_ctl06_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2017/2/10/16MBB_single_FG_2_350x225.jpg" alt="2016-17 Men's Basketball - Tickets - Arkansas" style="border-width:0px;z-index:1;display:block;" />
+    </a>
+
+            </div>
+            <div class="ad_drop" id="promodropdownad3">
+                
+	<a id="ctl00_ctl07_hlAdSpot" class="dropdownsponsor2" rev="dropdownsponsor3" href="/common/controls/adhandler.aspx?ad_id=59&amp;target=http://shop.floridagators.com/?utm_source=www.floridagators.com$$utm_medium=bm_referral$$utm_term=kw--COLD_WEATHTER_GEAR|cpn--no_coupon|offer--no_offer">
+        <img id="ctl00_ctl07_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2016/11/7/sportshop_cold_weather_2016_350x225.jpg" alt="Sportshop - 2016 Cold Weather Gear" style="border-width:0px;z-index:1;display:block;" />
+    </a>
+
+            </div>                  
+            <div class="ad_drop" id="promodropdownad4">
+                
+	<a id="ctl00_ctl08_hlAdSpot" class="dropdownsponsor2" rev="dropdownsponsor4" href="/common/controls/adhandler.aspx?ad_id=137&amp;target=/sports/2015/12/10/_gatortales_.aspx?id=5804">
+        <img id="ctl00_ctl08_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2016/9/1/gator_tales_new_2016_350x225.png" alt="Gator Tales - The Official Podcast of the Florida Gators - New Episode Every Thursday" style="border-width:0px;z-index:1;display:block;" />
+    </a>
+
+            </div>  
+        </div>
+
+        <main id="ctl00_contentDiv_container" class="contentDiv_container" role="main">
+            <div id="navigation">
+                <h1 class="hide">Florida University Athletics</h1>
+                <div class="row">   
+                    <div class="twelve columns">
+                        <div class="social_icons">
+                            
+    
+    
+    
+            <a href="https://www.facebook.com/FloridaGators" id="ctl00_ctl09_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=5&amp;target=https://www.facebook.com/FloridaGators', '_blank'); return false;" rel="nofollow" class=" social" rev="social1"><i class='sidearm-ad-icon icon-facebook'><span class ='icon_title'>Social #1</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                            
+    
+    
+    
+            <a href="https://twitter.com/FloridaGators" id="ctl00_ctl10_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=6&amp;target=https://twitter.com/FloridaGators', '_blank'); return false;" rel="nofollow" class=" social" rev="social2"><i class='sidearm-ad-icon icon-twitter'><span class ='icon_title'>Social #2</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                            
+    
+    
+    
+            <a href="https://instagram.com/FloridaGators/" id="ctl00_ctl11_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=7&amp;target=https://instagram.com/FloridaGators/', '_blank'); return false;" rel="nofollow" class=" social" rev="social3"><i class='sidearm-ad-icon icon-instagram'><span class ='icon_title'>Social #3</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                        </div>
+                        <i class="icon-search search-icon"></i>
+                        <div id="search">
+                                <div class="left search-box">
+                                    <label for="ctl00_txtSearch">Search Text</label>
+                                    <input name="ctl00$txtSearch" type="text" value="Search" id="ctl00_txtSearch" onfocus="this.value=''" style="border-style:None;" />
+                                </div>
+                                <div id="search-button" class="left">
+
+                                    <label for="txtSearchGo">Search Button</label>
+                                    <input type="submit" name="txtSearchGo" class="searchGo" value="" />
+                                </div>
+                        </div>
+                        <a href="/index.aspx"> <div class="header_logo"></div></a>
+                        
+
+<ul class='accessible_nav' role='menubar'><li class=sports role='menuitem'><a href='#'>Sports</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Men's</span></li><li ><a class='baseball' href='/index.aspx?path=baseball&' >Baseball</a><a aria-label='Baseball Schedule' href="/schedule.aspx?path=baseball" class="srn srn-schedule" >Schedule</a><a aria-label='Baseball Roster' href="/roster.aspx?path=baseball" class="srn srn-roster" >Roster</a><a aria-label='Baseball News' href="/archives.aspx?path=baseball" class="srn srn-news" >News</a><a target='_blank' aria-label='Baseball Facebook' href="https://www.facebook.com/GatorsBB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Baseball Twitter' href="//twitter.com/GatorsBB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Baseball Instagram' href="//instagram.com/GatorsBB" class="social instagram" >Instagram</a></li><li ><a class='basketball' href='/index.aspx?path=basketball-men' >Basketball</a><a aria-label='Mens Basketball Schedule' href="/schedule.aspx?path=basketball-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Basketball Roster' href="/roster.aspx?path=basketball-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Basketball News' href="/archives.aspx?path=basketball-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Basketball Facebook' href="https://www.facebook.com/GatorsMBK" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Basketball Twitter' href="//twitter.com/GatorsMBK" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Basketball Instagram' href="//instagram.com/GatorsMBK" class="social instagram" >Instagram</a></li><li ><a class='cross' href='/index.aspx?path=crosscountry' >Cross Country</a><a aria-label='Cross Country Schedule' href="/schedule.aspx?path=crosscountry" class="srn srn-schedule" >Schedule</a><a aria-label='Cross Country Roster' href="/roster.aspx?path=crosscountry" class="srn srn-roster" >Roster</a><a aria-label='Cross Country News' href="/archives.aspx?path=crosscountry" class="srn srn-news" >News</a><a target='_blank' aria-label='Cross Country Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Cross Country Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a class='football' href='/index.aspx?path=football' >Football</a><a aria-label='Football Schedule' href="/schedule.aspx?path=football" class="srn srn-schedule" >Schedule</a><a aria-label='Football Roster' href="/roster.aspx?path=football" class="srn srn-roster" >Roster</a><a aria-label='Football News' href="/archives.aspx?path=football" class="srn srn-news" >News</a><a target='_blank' aria-label='Football Facebook' href="https://www.facebook.com/GatorsFB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Football Twitter' href="//twitter.com/GatorsFB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Football Instagram' href="//instagram.com/GatorsFB" class="social instagram" >Instagram</a></li><li ><a class='golf' href='/index.aspx?path=golf-men' >Golf</a><a aria-label='Mens Golf Schedule' href="/schedule.aspx?path=golf-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Golf Roster' href="/roster.aspx?path=golf-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Golf News' href="/archives.aspx?path=golf-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Golf Facebook' href="https://www.facebook.com/GatorsMGolf" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Golf Twitter' href="//twitter.com/GatorsGolf" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Golf Instagram' href="//instagram.com/GatorsMGolf" class="social instagram" >Instagram</a></li><li ><a class='swim' href='/index.aspx?path=swimmingdiving-men' >Swimming & Diving</a><a aria-label='Mens Swimming & Diving Schedule' href="/schedule.aspx?path=swimmingdiving-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Swimming & Diving Roster' href="/roster.aspx?path=swimmingdiving-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Swimming & Diving News' href="/archives.aspx?path=swimmingdiving-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Swimming & Diving Facebook' href="https://www.facebook.com/GatorsSwimDv" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Swimming & Diving Twitter' href="//twitter.com/GatorsSwimDv" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Swimming & Diving Instagram' href="//instagram.com/GatorsSwimDv" class="social instagram" >Instagram</a></li><li ><a class='tennis' href='/index.aspx?path=tennis-men' >Tennis</a><a aria-label='Mens Tennis Schedule' href="/schedule.aspx?path=tennis-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Tennis Roster' href="/roster.aspx?path=tennis-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Tennis News' href="/archives.aspx?path=tennis-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Tennis Facebook' href="https://www.facebook.com/GatorsTN" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Tennis Twitter' href="//twitter.com/GatorsMTN" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Tennis Instagram' href="//instagram.com/GatorsMTN" class="social instagram" >Instagram</a></li><li ><a class='track' href='/index.aspx?path=trackfield' >Track & Field</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=trackfield" class="srn srn-schedule" >Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=trackfield" class="srn srn-roster" >Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=trackfield" class="srn srn-news" >News</a><a target='_blank' aria-label='Track and Field Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track and Field Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a target='_blank' aria-label='Track and Field Instagram' href="//instagram.com/GatorsTF" class="social instagram" >Instagram</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_tickets_baseball_.aspx?path=baseball' >Tickets</a><a aria-label='Baseball Schedule' href="/schedule.aspx?path=baseball" class="srn srn-schedule" >Schedule</a><a aria-label='Baseball Roster' href="/roster.aspx?path=baseball" class="srn srn-roster" >Roster</a><a aria-label='Baseball News' href="/archives.aspx?path=baseball" class="srn srn-news" >News</a><a target='_blank' aria-label='Baseball Facebook' href="https://www.facebook.com/GatorsBB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Baseball Twitter' href="//twitter.com/GatorsBB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Baseball Instagram' href="//instagram.com/GatorsBB" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_basketball_men_.aspx?path=basketball-men' >Tickets</a><a aria-label='Mens Basketball Schedule' href="/schedule.aspx?path=basketball-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Basketball Roster' href="/roster.aspx?path=basketball-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Basketball News' href="/archives.aspx?path=basketball-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Basketball Facebook' href="https://www.facebook.com/GatorsMBK" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Basketball Twitter' href="//twitter.com/GatorsMBK" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Basketball Instagram' href="//instagram.com/GatorsMBK" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=crosscountry' >Tickets</a><a aria-label='Cross Country Schedule' href="/schedule.aspx?path=crosscountry" class="srn srn-schedule" >Schedule</a><a aria-label='Cross Country Roster' href="/roster.aspx?path=crosscountry" class="srn srn-roster" >Roster</a><a aria-label='Cross Country News' href="/archives.aspx?path=crosscountry" class="srn srn-news" >News</a><a target='_blank' aria-label='Cross Country Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Cross Country Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a  href='/sports/2015/12/10/_tickets_football_.aspx?path=football' >Tickets</a><a aria-label='Football Schedule' href="/schedule.aspx?path=football" class="srn srn-schedule" >Schedule</a><a aria-label='Football Roster' href="/roster.aspx?path=football" class="srn srn-roster" >Roster</a><a aria-label='Football News' href="/archives.aspx?path=football" class="srn srn-news" >News</a><a target='_blank' aria-label='Football Facebook' href="https://www.facebook.com/GatorsFB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Football Twitter' href="//twitter.com/GatorsFB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Football Instagram' href="//instagram.com/GatorsFB" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=golf-men' >Tickets</a><a aria-label='Mens Golf Schedule' href="/schedule.aspx?path=golf-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Golf Roster' href="/roster.aspx?path=golf-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Golf News' href="/archives.aspx?path=golf-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Golf Facebook' href="https://www.facebook.com/GatorsMGolf" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Golf Twitter' href="//twitter.com/GatorsGolf" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Golf Instagram' href="//instagram.com/GatorsMGolf" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=swimmingdiving-men' >Tickets</a><a aria-label='Mens Swimming & Diving Schedule' href="/schedule.aspx?path=swimmingdiving-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Swimming & Diving Roster' href="/roster.aspx?path=swimmingdiving-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Swimming & Diving News' href="/archives.aspx?path=swimmingdiving-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Swimming & Diving Facebook' href="https://www.facebook.com/GatorsSwimDv" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Swimming & Diving Twitter' href="//twitter.com/GatorsSwimDv" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Swimming & Diving Instagram' href="//instagram.com/GatorsSwimDv" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=tennis-men' >Tickets</a><a aria-label='Mens Tennis Schedule' href="/schedule.aspx?path=tennis-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Tennis Roster' href="/roster.aspx?path=tennis-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Tennis News' href="/archives.aspx?path=tennis-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Tennis Facebook' href="https://www.facebook.com/GatorsTN" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Tennis Twitter' href="//twitter.com/GatorsMTN" class="social twitter" >Twitter</a><a target='_blank' aria-label='Mens Tennis Instagram' href="//instagram.com/GatorsMTN" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=trackfield' >Tickets</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=trackfield" class="srn srn-schedule" >Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=trackfield" class="srn srn-roster" >Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=trackfield" class="srn srn-news" >News</a><a target='_blank' aria-label='Track and Field Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track and Field Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a target='_blank' aria-label='Track and Field Instagram' href="//instagram.com/GatorsTF" class="social instagram" >Instagram</a></li></ul><ul><li class='separator'><span>Women's</span></li><li ><a class='basketball' href='/index.aspx?path=basketball-women' >Basketball</a><a aria-label='Womens Basketball Schedule' href="/schedule.aspx?path=basketball-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Basketball Roster' href="/roster.aspx?path=basketball-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Basketball News' href="/archives.aspx?path=basketball-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Basketball Facebook' href="https://www.facebook.com/GatorsWBK" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Basketball Twitter' href="//twitter.com/GatorsWBK" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Basketball Instagram' href="//instagram.com/GatorsWBK" class="social instagram" >Instagram</a></li><li ><a class='cross' href='/index.aspx?path=crosscountry' >Cross Country</a><a aria-label='Cross Country Schedule' href="/schedule.aspx?path=crosscountry" class="srn srn-schedule" >Schedule</a><a aria-label='Cross Country Roster' href="/roster.aspx?path=crosscountry" class="srn srn-roster" >Roster</a><a aria-label='Cross Country News' href="/archives.aspx?path=crosscountry" class="srn srn-news" >News</a><a target='_blank' aria-label='Cross Country Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Cross Country Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a class='golf' href='/index.aspx?path=golf-women' >Golf</a><a aria-label='Womens Golf Schedule' href="/schedule.aspx?path=golf-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Golf Roster' href="/roster.aspx?path=golf-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Golf News' href="/archives.aspx?path=golf-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Golf Facebook' href="https://www.facebook.com/GatorsWGolf" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Golf Twitter' href="//twitter.com/GatorsGolf" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Golf Instagram' href="//instagram.com/GatorsWGolf" class="social instagram" >Instagram</a></li><li ><a class='gymnastics' href='/index.aspx?path=gymnastics' >Gymnastics</a><a aria-label='Gymnastics Schedule' href="/schedule.aspx?path=gymnastics" class="srn srn-schedule" >Schedule</a><a aria-label='Gymnastics Roster' href="/roster.aspx?path=gymnastics" class="srn srn-roster" >Roster</a><a aria-label='Gymnastics News' href="/archives.aspx?path=gymnastics" class="srn srn-news" >News</a><a target='_blank' aria-label='Gymnastics Facebook' href="https://www.facebook.com/GatorsGYM" class="social facebook" >Facebook</a><a target='_blank' aria-label='Gymnastics Twitter' href="//twitter.com/GatorsGYM" class="social twitter" >Twitter</a><a target='_blank' aria-label='Gymnastics Instagram' href="//instagram.com/GatorsGYM" class="social instagram" >Instagram</a></li><li ><a class='lacrosse' href='/index.aspx?path=lacrosse' >Lacrosse</a><a aria-label='Lacrosse Schedule' href="/schedule.aspx?path=lacrosse" class="srn srn-schedule" >Schedule</a><a aria-label='Lacrosse Roster' href="/roster.aspx?path=lacrosse" class="srn srn-roster" >Roster</a><a aria-label='Lacrosse News' href="/archives.aspx?path=lacrosse" class="srn srn-news" >News</a><a target='_blank' aria-label='Lacrosse Facebook' href="https://www.facebook.com/GatorsLAX" class="social facebook" >Facebook</a><a target='_blank' aria-label='Lacrosse Twitter' href="//twitter.com/GatorsLAX" class="social twitter" >Twitter</a><a target='_blank' aria-label='Lacrosse Instagram' href="//instagram.com/GatorsLAX" class="social instagram" >Instagram</a></li><li ><a class='soccer' href='/index.aspx?path=soccer' >Soccer</a><a aria-label='Soccer Schedule' href="/schedule.aspx?path=soccer" class="srn srn-schedule" >Schedule</a><a aria-label='Soccer Roster' href="/roster.aspx?path=soccer" class="srn srn-roster" >Roster</a><a aria-label='Soccer News' href="/archives.aspx?path=soccer" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Soccer Twitter' href="//twitter.com/GatorsSoccer" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a class='softball' href='/index.aspx?path=softball' >Softball</a><a aria-label='Softball Schedule' href="/schedule.aspx?path=softball" class="srn srn-schedule" >Schedule</a><a aria-label='Softball Roster' href="/roster.aspx?path=softball" class="srn srn-roster" >Roster</a><a aria-label='Softball News' href="/archives.aspx?path=softball" class="srn srn-news" >News</a><a target='_blank' aria-label='Softball Facebook' href="https://www.facebook.com/pages/University-of-Florida-Softball/158934457539504" class="social facebook" >Facebook</a><a target='_blank' aria-label='Softball Twitter' href="//twitter.com/GatorsSB" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a class='swim' href='/index.aspx?path=swimmingdiving-women' >Swimming & Diving</a><a aria-label='Womens Swimming & Diving Schedule' href="/schedule.aspx?path=swimmingdiving-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Swimming & Diving Roster' href="/roster.aspx?path=swimmingdiving-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Swimming & Diving News' href="/archives.aspx?path=swimmingdiving-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Swimming & Diving Facebook' href="https://www.facebook.com/GatorsSwimDv" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Swimming & Diving Twitter' href="//twitter.com/GatorsSwimDv" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Swimming & Diving Instagram' href="//instagram.com/GatorsSwimDv" class="social instagram" >Instagram</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_tickets_basketball_women_.aspx?path=basketball-women' >Tickets</a><a aria-label='Womens Basketball Schedule' href="/schedule.aspx?path=basketball-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Basketball Roster' href="/roster.aspx?path=basketball-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Basketball News' href="/archives.aspx?path=basketball-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Basketball Facebook' href="https://www.facebook.com/GatorsWBK" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Basketball Twitter' href="//twitter.com/GatorsWBK" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Basketball Instagram' href="//instagram.com/GatorsWBK" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=crosscountry-men' >Tickets</a><a aria-label='Mens Cross Country Schedule' href="/schedule.aspx?path=crosscountry-men" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Cross Country Roster' href="/roster.aspx?path=crosscountry-men" class="srn srn-roster" >Roster</a><a aria-label='Mens Cross Country News' href="/archives.aspx?path=crosscountry-men" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Cross Country Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Cross Country Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=golf-women' >Tickets</a><a aria-label='Womens Golf Schedule' href="/schedule.aspx?path=golf-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Golf Roster' href="/roster.aspx?path=golf-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Golf News' href="/archives.aspx?path=golf-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Golf Facebook' href="https://www.facebook.com/GatorsWGolf" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Golf Twitter' href="//twitter.com/GatorsGolf" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Golf Instagram' href="//instagram.com/GatorsWGolf" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=gymnastics' >Tickets</a><a aria-label='Gymnastics Schedule' href="/schedule.aspx?path=gymnastics" class="srn srn-schedule" >Schedule</a><a aria-label='Gymnastics Roster' href="/roster.aspx?path=gymnastics" class="srn srn-roster" >Roster</a><a aria-label='Gymnastics News' href="/archives.aspx?path=gymnastics" class="srn srn-news" >News</a><a target='_blank' aria-label='Gymnastics Facebook' href="https://www.facebook.com/GatorsGYM" class="social facebook" >Facebook</a><a target='_blank' aria-label='Gymnastics Twitter' href="//twitter.com/GatorsGYM" class="social twitter" >Twitter</a><a target='_blank' aria-label='Gymnastics Instagram' href="//instagram.com/GatorsGYM" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=lacrosse' >Tickets</a><a aria-label='Lacrosse Schedule' href="/schedule.aspx?path=lacrosse" class="srn srn-schedule" >Schedule</a><a aria-label='Lacrosse Roster' href="/roster.aspx?path=lacrosse" class="srn srn-roster" >Roster</a><a aria-label='Lacrosse News' href="/archives.aspx?path=lacrosse" class="srn srn-news" >News</a><a target='_blank' aria-label='Lacrosse Facebook' href="https://www.facebook.com/GatorsLAX" class="social facebook" >Facebook</a><a target='_blank' aria-label='Lacrosse Twitter' href="//twitter.com/GatorsLAX" class="social twitter" >Twitter</a><a target='_blank' aria-label='Lacrosse Instagram' href="//instagram.com/GatorsLAX" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=soccer' >Tickets</a><a aria-label='Soccer Schedule' href="/schedule.aspx?path=soccer" class="srn srn-schedule" >Schedule</a><a aria-label='Soccer Roster' href="/roster.aspx?path=soccer" class="srn srn-roster" >Roster</a><a aria-label='Soccer News' href="/archives.aspx?path=soccer" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Soccer Twitter' href="//twitter.com/GatorsSoccer" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a  href='/news/2016/11/4/2017-florida-softball-ticket-schedule-information.aspx?path=softball' >Tickets</a><a aria-label='Softball Schedule' href="/schedule.aspx?path=softball" class="srn srn-schedule" >Schedule</a><a aria-label='Softball Roster' href="/roster.aspx?path=softball" class="srn srn-roster" >Roster</a><a aria-label='Softball News' href="/archives.aspx?path=softball" class="srn srn-news" >News</a><a target='_blank' aria-label='Softball Facebook' href="https://www.facebook.com/pages/University-of-Florida-Softball/158934457539504" class="social facebook" >Facebook</a><a target='_blank' aria-label='Softball Twitter' href="//twitter.com/GatorsSB" class="social twitter" >Twitter</a><a class="social instagram"></a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=swimmingdiving-women' >Tickets</a><a aria-label='Womens Swimming & Diving Schedule' href="/schedule.aspx?path=swimmingdiving-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Swimming & Diving Roster' href="/roster.aspx?path=swimmingdiving-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Swimming & Diving News' href="/archives.aspx?path=swimmingdiving-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Swimming & Diving Facebook' href="https://www.facebook.com/GatorsSwimDv" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Swimming & Diving Twitter' href="//twitter.com/GatorsSwimDv" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Swimming & Diving Instagram' href="//instagram.com/GatorsSwimDv" class="social instagram" >Instagram</a></li></ul><ul><li ><a class='tennis' href='/index.aspx?path=tennis-women' >Tennis</a><a aria-label='Womens Tennis Schedule' href="/schedule.aspx?path=tennis-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Tennis Roster' href="/roster.aspx?path=tennis-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Tennis News' href="/archives.aspx?path=tennis-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Tennis Facebook' href="https://www.facebook.com/GatorsTN" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Tennis Twitter' href="//twitter.com/GatorsWTN" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Tennis Instagram' href="//instagram.com/GatorsWTN" class="social instagram" >Instagram</a></li><li ><a class='track' href='/index.aspx?path=trackfield' >Track & Field</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=trackfield" class="srn srn-schedule" >Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=trackfield" class="srn srn-roster" >Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=trackfield" class="srn srn-news" >News</a><a target='_blank' aria-label='Track and Field Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track and Field Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a target='_blank' aria-label='Track and Field Instagram' href="//instagram.com/GatorsTF" class="social instagram" >Instagram</a></li><li ><a class='volleyball' href='/index.aspx?path=volleyball' >Volleyball</a><a aria-label='Volleyball Schedule' href="/schedule.aspx?path=volleyball" class="srn srn-schedule" >Schedule</a><a aria-label='Volleyball Roster' href="/roster.aspx?path=volleyball" class="srn srn-roster" >Roster</a><a aria-label='Volleyball News' href="/archives.aspx?path=volleyball" class="srn srn-news" >News</a><a target='_blank' aria-label='Volleyball Facebook' href="https://www.facebook.com/GatorsVB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Volleyball Twitter' href="//twitter.com/GatorsVB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Volleyball Instagram' href="//instagram.com/GatorsVB" class="social instagram" >Instagram</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=tennis-women' >Tickets</a><a aria-label='Womens Tennis Schedule' href="/schedule.aspx?path=tennis-women" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Tennis Roster' href="/roster.aspx?path=tennis-women" class="srn srn-roster" >Roster</a><a aria-label='Womens Tennis News' href="/archives.aspx?path=tennis-women" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Tennis Facebook' href="https://www.facebook.com/GatorsTN" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Tennis Twitter' href="//twitter.com/GatorsWTN" class="social twitter" >Twitter</a><a target='_blank' aria-label='Womens Tennis Instagram' href="//instagram.com/GatorsWTN" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx?path=trackfield' >Tickets</a><a aria-label='Track and Field Schedule' href="/schedule.aspx?path=trackfield" class="srn srn-schedule" >Schedule</a><a aria-label='Track and Field Roster' href="/roster.aspx?path=trackfield" class="srn srn-roster" >Roster</a><a aria-label='Track and Field News' href="/archives.aspx?path=trackfield" class="srn srn-news" >News</a><a target='_blank' aria-label='Track and Field Facebook' href="https://www.facebook.com/GatorsTF" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track and Field Twitter' href="//twitter.com/GatorsTF" class="social twitter" >Twitter</a><a target='_blank' aria-label='Track and Field Instagram' href="//instagram.com/GatorsTF" class="social instagram" >Instagram</a></li><li ><a  href='/sports/2015/12/10/_tickets_volleyball_.aspx?path=volleyball' >Tickets</a><a aria-label='Volleyball Schedule' href="/schedule.aspx?path=volleyball" class="srn srn-schedule" >Schedule</a><a aria-label='Volleyball Roster' href="/roster.aspx?path=volleyball" class="srn srn-roster" >Roster</a><a aria-label='Volleyball News' href="/archives.aspx?path=volleyball" class="srn srn-news" >News</a><a target='_blank' aria-label='Volleyball Facebook' href="https://www.facebook.com/GatorsVB" class="social facebook" >Facebook</a><a target='_blank' aria-label='Volleyball Twitter' href="//twitter.com/GatorsVB" class="social twitter" >Twitter</a><a target='_blank' aria-label='Volleyball Instagram' href="//instagram.com/GatorsVB" class="social instagram" >Instagram</a></li><li ><a class='nav-calendar' href='/calendar.aspx' >Composite Calendar</a></li><li ><a class='nav-standings' href='/sports/2016/8/2/standings-rankings-2016-17.aspx' >Standings & Rankings</a></li></ul></div></li><li class=tickets role='menuitem'><a href='#'>Tickets</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/sports/2015/12/10/_tickets_.aspx' >Gator Ticket Office</a></li><li ><a  href='https://oss.ticketmaster.com/html/home.htmI?l=EN&team=gators' >Manage My Account (Boosters)</a></li><li ><a  href='https://oss.ticketmaster.com/html/home.htmI?l=EN&out=1&team=gators1' >Manage My Account (Students)</a></li><li ><a  href='/sports/2015/12/10/_students_.aspx' >Student Tickets</a></li><li ><a  href='/sports/2015/12/10/_tickets_recent_grad_.aspx' >Recent Grads</a></li><li ><a  href='http://www.gatorboosters.org/' >Gator Boosters</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_tickets_football_premium_seats_.aspx' >Premium Seating</a></li><li ><a  href='/sports/2015/12/10/_tickets_military_first_responders_.aspx' >Military & First Responder Tickets</a></li><li ><a  href='http://www.ticketsnow.com/florida-gators-tickets/florida_gators_splash?extcmp=gw002236&wt.mc_id=PARTNER_UNIVFLO_GATORS_NAV_DROP_DWN' >Ticket Exchange</a></li><li ><a  href='/sports/2015/12/10/_tickets_faq_.aspx' >Questions?</a></li></ul></div></li><li class=watch role='menuitem'><a href='#'>Watch</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/watch/' >GatorVision</a></li><li ><a  href='http://www.secsports.com/watch' >SEC Network</a></li><li ><a  href='https://www.youtube.com/user/FLGatorsAthletics' >YouTube Channel</a></li><li ><a  href='/sports/2015/12/11/_gatorzone_tv_.aspx' >GatorZone TV Show</a></li><li ><a  href='http://floridavault.com/' >Florida Vault App</a></li><li ><a  href='/sports/2017/2/8/lacrosse-live-video-stats.aspx' >Lacrosse Live Video & Stats</a></li><li ><a  href='/sports/2017/1/20/tennis-live-video-stats.aspx' >Tennis Live Video & Stats</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_gatortales_.aspx' >Gator Tales Podcast</a></li><li ><a  href='/sports/2016/1/8/_gator_talk_.aspx' >Gator Talk</a></li><li ><a  href='/sports/2015/12/11/_radio_affiliates_.aspx' >Radio Affiliates</a></li><li ><a  href='http://tunein.com/radio/Gator-IMG-Sports-Network-s230232/' >Gators on TuneIn</a></li><li ><a  href='/sports/2016/1/14/_audionow_.aspx' >AudioNow</a></li></ul></div></li><li role='menuitem'><a href='#'>Fan Info</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/sports/2015/12/10/_travel_.aspx' >Accommodations</a></li><li ><a  href='/sports/2015/12/10/_spirit_appearance_.aspx' >Appearance Requests</a></li><li ><a  href='/sports/2015/12/10/_misc_php_p_requests.aspx' >Autograph &amp; Charitable Requests</a></li><li ><a  href='/sports/2015/12/10/_camps_.aspx' >Camps & Clinics</a></li><li ><a  href='/calendar.aspx' >Composite Schedule</a></li><li ><a  href='/sports/2015/12/10/_contests_.aspx' >Contests</a></li><li ><a  href='/sports/2015/12/10/_facilities_parking_.aspx' >Directions & Parking</a></li><li ><a  href='/sports/2015/12/10/_updates_.aspx' >Email Updates</a></li><li ><a  href='/facilities/' >Facilities</a></li><li ><a  href='/sports/2015/12/10/_facilities_rent_.aspx' >Facility Rentals</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_fancouncil_.aspx' >Fan Advisory Council</a></li><li ><a  href='/sports/2015/12/10/_gameday_policies_.aspx' >Fan Code of Conduct</a></li><li ><a  href='/sb_output.aspx?form=24' >Game Day Feedback</a></li><li ><a  href='/sports/2015/12/10/_gameday_baseball_.aspx' >Game Day: Baseball</a></li><li ><a  href='/sports/2015/12/10/_gameday_basketball_.aspx' >Game Day: Basketball</a></li><li ><a  href='/sports/2015/12/10/_gameday_football_.aspx' >Game Day: Football</a></li><li ><a  href='/sports/2015/12/10/_kidsclub_.aspx' >Gator Kids Club</a></li><li ><a  href='https://www.seatbacks.com/main.aspx?school=ufgatorseats' target='_blank'>Gator Seatback</a></li><li ><a  href='/sports/2015/12/10/_textalerts_.aspx' >Gator Text Alerts</a></li><li ><a  href='/sports/2015/12/10/_gameday_gymnastics_.aspx' >Meet Guide: Gymnastics</a></li><li ><a  href='/sports/2015/12/10/gatorzone-email.aspx' >Personalized Email</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_facilities_parking_.aspx' >Parking</a></li><li ><a  href='/galleries' >Photo Galleries</a></li><li ><a  href='/sports/2015/12/10/_posters_.aspx' >Posters</a></li><li ><a  href='/sports/2015/12/10/_gameday_prohibited_items_.aspx' >Prohibited Items</a></li><li ><a  href='/sports/2015/12/10/_promotions_.aspx' >Promotions</a></li><li ><a  href='/sports/2015/12/10/_rowdyreptiles_.aspx' >Rowdy Reptiles</a></li><li ><a  href='/sports/2015/12/10/_social_.aspx' >Social Media</a></li><li ><a  href='/sports/2015/12/10/_spirit_.aspx' >Spirit Teams</a></li><li ><a  href='/sports/2015/12/10/_traditions_.aspx' >Traditions, Songs, Cheers</a></li><li ><a  href='http://connect.ufalumni.ufl.edu/home' target='_blank'>UF Alumni Association</a></li><li ><a  href='https://gators.expapp.com/upgrade/desktop' target='_blank'>Video Board Messages</a></li></ul></div></li><li role='menuitem'><a href='/archives.aspx' >News</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/index.aspx?path=carter' >Scott Carter</a></li><li ><a  href='/index.aspx?path=harry' >Chris Harry</a></li><li ><a  href='/archives.aspx' >Story Archives</a></li></ul></div></li><li role='menuitem'><a href='#'>Inside Athletics</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/staff.aspx?staff=487' >Athletic Director</a></li><li ><a  href='http://www.gatorboosters.org/support.html' target='_blank'>Become a Gamechanger</a></li><li ><a  href='/sports/2015/12/10/_compliance_.aspx' >Compliance</a></li><li ><a  href='/sports/2015/12/10/_contact_.aspx' >Contact Us</a></li><li ><a  href='/sports/2015/12/10/_employment_.aspx' >Employment</a></li><li ><a  href='/sports/2015/12/10/_equipment_.aspx' >Equipment Room</a></li><li ><a  href='/sports/2015/12/10/_misc_php_p_faq.aspx' >FAQs</a></li><li ><a  href='/sports/2015/12/10/_hawkins_center_athlete_network_.aspx' >Gator Athlete Network</a></li><li ><a  href='/index.aspx?path=olympics' >Gators in the Olympics</a></li><li ><a  href='http://onegatornation.com/' >One Gator Nation</a></li></ul><ul><li ><a  href='/sports/2015/12/10/_hawkins_center_.aspx' >Otis Hawkins Center</a></li><li ><a  href='/sports/2015/12/10/_overview_.aspx' >Overview & History</a></li><li ><a  href='/sports/2016/8/15/procurement-services.aspx' >Procurement Services</a></li><li ><a  href='/sports/2015/12/10/_health_.aspx' >Sports Health</a></li><li ><a  href='/staff.aspx' >Staff Directory</a></li><li ><a  href='/sports/2016/8/2/standings-rankings-2016-17.aspx' >Standings & Rankings</a></li><li ><a  href='/sports/2015/12/10/_speedstrength_.aspx' >Strength & Conditioning</a></li><li ><a  href='/sports/2015/12/10/_sustainability_.aspx' >Sustainability</a></li><li ><a  href='/sports/2015/12/10/_licensing_.aspx' >Trademarks & Licensing</a></li><li ><a  href='/sports/2015/12/10/_vision_.aspx' >Vision Statement</a></li></ul></div></li><li class=shop role='menuitem'><a href='#'>Shop</a><div role='menu' aria-hidden='true'><ul><li ><a  href='http://shop.floridagators.com/' >Gator Sportshop: Online</a></li><li ><a  href='https://www.seatbacks.com/main.aspx?school=ufgatorseats' >Gator Seatbacks</a></li><li ><a  href='http://www.brickorders.com/' >Gator Walk Bricks</a></li><li ><a  href='http://gatorsdvd.net/' >Gators DVD</a></li><li ><a  href='/sports/2015/12/10/_tickets_.aspx' >Gator Tickets</a></li></ul><ul><li ><a  href='http://shop.floridagators.com/COLLEGE_Florida_Gators_Mens?utm_source=floridagators.com&utm_medium=bm_referral&utm_term=kw--MENS|cpn--no_coupon|offer--no_offer' >Men's Gear</a></li><li ><a  href='http://shop.floridagators.com/COLLEGE_Florida_Gators_Ladies?utm_source=floridagators.com&utm_medium=bm_referral&utm_term=kw--LADIES|cpn--no_coupon|offer--no_offer' >Ladies' Gear</a></li><li ><a  href='http://shop.floridagators.com/COLLEGE_Florida_Gators_Everything_Nike?utm_source=floridagators.com&utm_medium=bm_referral&utm_term=kw--NIKE|cpn--no_coupon|offer--no_offer' >Nike Gear</a></li><li ><a  href='http://shop.floridagators.com/COLLEGE_Florida_Gators_T-Shirts?utm_source=floridagators.com&utm_medium=bm_referral&utm_term=kw--TSHIRTS|cpn--no_coupon|offer--no_offer' >T-Shirts</a></li><li ><a  href='http://shop.floridagators.com/COLLEGE_Florida_Gators_Sweatshirts_And_Fleece?utm_source=floridagators.com&utm_medium=bm_referral&utm_term=kw--SWEATSHIRTS|cpn--no_coupon|offer--no_offer' >Sweatshirts</a></li></ul></div></li></ul>
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+            
+    
+    
+    
+
+
+
+<div id="ctl00_topleaderboardad_dfpDiv" class="topleaderboardad" style="width:970px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_topleaderboardad_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+  
+            <div class="clear"></div>
+            <div id="ctl00_contentDiv" class="contentDiv">
+                <div id="ctl00_innerPage" class="sidebars">
+                    
+
+<ul class="sidebar-links"><li class='sport-home'><a href='/index.aspx?path=harry'>Chris Harry</a></li><li class=''><a href="/archives.aspx?path=harry&amp;" >Stories</a></li><li class=''><a href="https://twitter.com/GatorsChris" >Twitter</a></li></ul>
+
+
+
+
+
+
+
+
+                    
+    
+    
+    
+            <a id="ctl00_ctl12_rptAds_ctl00_hlAdSpot" target="_blank" onclick="return true;" rel="nofollow" class=" sofi_ad" rev="ticket_office_ad_promo">
+                
+        <img id="ctl00_ctl12_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2017/2/3/sofi_logo_text.png" alt="sofi" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                </div>
+        
+                <div class="contentDiv_inside">
+                    <a name="content"></a>
+                    
+                    
+    
+
+	<article class="article-wrapper news">
+        <div class="article-headline">Monk, Wildcats Too Much for Gators in Second Half</div>
+        <div class="article-subheadline">Freshman guard Malik Monk scored 30 of his game-high 33 points after halftime to send No. 11 Kentucky past No. 12 Florida 76-66. </div>
+        <div class="article-byline">By Chris Harry, Senior Writer |    Saturday, February 25, 2017</div>
+			
+		<div class="article-image">
+        <div id="ctl00_cplhMainContent_ctl00_story_media_divImage" class="media_object_image" style="width:730px;;">
+        
+            
+                <img id="ctl00_cplhMainContent_ctl00_story_media_imgPrimary" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2017/2/25/MonkMalikLeonJustin_170225_0647_TimCasey.jpg" alt="Malik Monk, Justin Leon" style="border-width:0px;z-index:1" />
+            
+            
+            <div id="ctl00_cplhMainContent_ctl00_story_media_divCaption" class="media_object_caption" style="width:730px;;"><div class="media_object_inner_caption">UF forward Justin Leon uses his lower body Saturday to try and derail Kentucky guard Malik Monk. Didn't work.  </div></div>
+            <div style="clear:both"></div>
+            
+        </div>
+         
+    </div>
+		<div class="article-content">
+			<div class="article-links">
+				
+			</div>
+			<a href="/boxscore.aspx?id=12981&path=basketball-men" style="">Box Score</a> <br>
+<br>
+LEXINGTON, Ky — When the two teams went to halftime Saturday, Kentucky had shot 28 percent through the game's first 20 minutes, and Florida's defense, despite across-the-lineup foul trouble, had held guard Malik Monk, the Southeastern Conference's scoring leader, to just three points and forced him into five of the Wildcats' 12 turnovers. <br>
+<br>
+Yet the score was tied. <br>
+<br>
+Barely five minutes into the second half, the Gators had an eight-point lead when, apparently, Monk just said, &quot;Enough already.&quot; UK coach John Calipari had told his freshman scoring phenom to get more aggressive. To drive the ball, get some shots and get his offensive rhythm going.<br>
+<br>
+And did ever. <br>
+<br>
+Monk erupted for 30 second-half points and the No. 11 Wildcats took his cue by shooting a deadly 64 percent in the period to seize control and surge past the 13th-ranked Gators for a 76-66 victory before an ear-splitting Rupp Arena crowd of 24,431. Monk, who came in averaging 21.1 per game, hit eight of his 13 shots after the break, including four of five from the 3-point arc, went 10-for-11 at the free-throw line and offset the absence of starting point guard and SEC assist leader De'Aaron Fox, the Cats' second-leading scorer, who missed the game with a bruised knee. <br>
+<br>
+&quot;He had 30 in the half?&quot; Calipari said after the game, unaware of just how dominant Monk was in those final 20 minutes. &quot;No wonder when I got on him about a couple bad shots he looked at me like I was crazy.&quot; <br>
+<br>
+The 33-point performance marked the fourth time Monk had scored at least 30 points in a game, a record for a freshman in Kentucky's storied basketball history. Monk had a career-high 47 earlier in the year in a win over North Carolina, but was held to just 11 three weeks ago in Florida's 88-66 blowout win in Gainesville. <br>
+<br>
+Made up for it this time, though. <br>
+<br>
+&quot;He took the game over,&quot; UF coach <dfn><a href="/coaches.aspx?rc=557" rel="smarttag" rev="557">Mike White</a></dfn> said. &quot;He was amazing.&quot; <br>
+<br>
+UK power forward Eldrice &quot;Bam&quot; Adebayo was pretty good too. He scored 18 points, converted seven of his 11 shots, grabbed 15 rebounds and served as a force inside against the interior-undermanned Gators, who are still adjusting to the season-ending knee injury to starting center <dfn><a href="/roster.aspx?rp_id=9814" rel="smarttag" rev="9814">John Egbunu</a></dfn>. UF struggled to make just 36.6 percent on the afternoon and shot just six free throws to UK's 27. <br>
+<br>
+In halting Florida's season-best nine-game winning streak, Kentucky (24-5, 14-2) moved into sole possession of first place in the SEC standings with just two games remaining. UF (23-6, 13-3) will be a game out heading into the final week of the regular season, with a home date at Arkansas and road trip to Vanderbilt to wrap up, while UK finishes with Vandy at home and Texas A&M on the road. <br>
+<br>
+&quot;Obviously, we wish we could have got this game, but right now we just have to keep playing and focus on the next ones,&quot; senior forward <dfn><a href="/roster.aspx?rp_id=9817" rel="smarttag" rev="9817">Justin Leon</a></dfn> said. &quot;We can't worry about what's going on. We just have to kind of let things happen.&quot; <br>
+<br>
+They were happening in Florida's favor early, as the Gators scored the game's first eight points, thanks to the hot hand of sophomore guard <dfn><a href="/roster.aspx?rp_id=9812" rel="smarttag" rev="9812">KeVaughn Allen</a></dfn>, a former high-school rival of Monk's in Arkansas, who was on his way to a 24-point night. UF had an 18-6 advantage seven minutes in when UK started cutting into the lead and the Gators started to pile up the fouls, especially in their backcourt. The Wildcats had a 10-0 run to take their first lead and, after the Gators went back ahead 28-23, scored the half's last five points, all at the free-throw line, to make it 28-all heading to break. <br>
+<br>
+UK was just 8-for-28 from the floor, but UF wasn't much better at 11-for-37 (29.7 percent). The Cats, though, shot 13 free throws (made 10) to the Gators' two. Four of UF's top six rotations players had two fouls. <br>
+<br>
+&quot;We shot 28 percent and at halftime it's a tie game,&quot; Calpari said. &quot;It means you're fighting and giving yourself a chance.&quot; <br>
+ 
+<div class="sidearm-story-image-align-center" style="text-align:center">
+<figure class="caption figure_object_image" style="margin:8px; padding:8px"><img alt="" height="394" src="http://admin.floridagators.com/images/2017/2/25/AllenKeVaughn_170225_0604_TimCasey.jpg" style="display: inline-block;" width="700">
+<figcaption>UF guard KeVaughn Allen came up on the short end against his former high school rival, Malik Monk (left), but led the Gators with 24 points, giving him 50 the last two games. </figcaption>
+</figure>
+</div>
+<br>
+Florida led 38-34 when Monk dropped a 3-pointer to close the margin to one, but the Gators answered with run of a seven straight points, all from junior forward <dfn><a href="/roster.aspx?rp_id=9819" rel="smarttag" rev="9819">Devin Robinson</a></dfn> (9 points, 11 rebounds), to jump ahead 45-37. <br>
+<br>
+That's when Monk got serious. He scored 14 of his team's next 18 points, some on drives, some on 3s, some on free throws and the last two on a baseline slam dunk to tie the game at 55 with just under 10 minutes to go. By that time, both of UF's best backcourt defenders, <dfn><a href="/roster.aspx?rp_id=9816" rel="smarttag" rev="9816">Kasey Hill</a></dfn> and <dfn><a href="/roster.aspx?rp_id=9813" rel="smarttag" rev="9813">Chris Chiozza</a></dfn>, had four fouls. Allen had three. <br>
+<br>
+As if guarding Monk wasn't tough enough. <br>
+<br>
+&quot;With so many guys in foul trouble, I think that kind of lowered our intensity on defense,&quot; Leon said. &quot;They were able to take advantage of it.&quot; <br>
+<br>
+Two Monk free throws and a Monk-to-Adebayo alley-oop slam pushed Kentucky in front by four. Allen answered with a 3-pointer, but the Cats took off on an 11-2, with Monk scoring seven of them to take a 10-point lead with four minutes left and cruise home from there. <br>
+<br>
+&quot;I didn't know,&quot; Monk said when asked if he was aware of how many points he'd scored. &quot;I was just out there playing, but it was crazy.&quot; <br>
+<br>
+When it was over, the Cats had hit 13 of their last 18 field-goal attempts, three of their last four 3-pointers and 10 of their last 11 free throws against one of the best defenses in the country. And without Fox, their pending one-and-done, NBA-bound point guard. <br>
+<br>
+It was Florida's 51st loss at Lexington in 60 trips. <br>
+<br>
+&quot;I told the guys, we've got to move on to the next one,&quot; White said. &quot;It was fun while it lasted. We lost at Kentucky. It's OK. It happens. A lot of teams lose here. There are a lot of things we can learn from [the game], but right around the corner is Arkansas, who is playing terrific and is very difficult to defend as well.&quot; <br>
+<br>
+But they don't have a guy like Monk. Thankfully. <div class='print-friendly-story-button'><a onclick='window.open(this.href,"_blank");return false;' href='/news/2017/2/25/chris-harry-monk-wildcats-too-much-for-gators-in-second-half.aspx?print=true'>Print Friendly Version</a></div>
+		</div>
+		
+    </article>
+    <div id="ctl00_cplhMainContent_fan_interaction_controls">
+
+</div>
+    
+
+					
+						<div class="article-wrapper">
+							<div class="noprint story_email">
+								<a href="http://www.addthis.com/bookmark.php?v=250&pub=xa-4a7320e7645958d0" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a7320e7645958d0"></script>
+							</div>		
+							<div class="related_headlines_container">
+								<h1>Related Articles</h1>
+								<div class="related_headlines">
+									  
+    <ul>
+            
+        <li>
+            <article>
+				<div class="related-thumb">
+					<a href="/news/2017/2/25/chris-harry-at-the-buzzer-no-11-kentucky-no-13-florida.aspx">
+            <img src="/images/2016/10/25/AtTheBuzzer_1.jpg?width=160&height=90&mode=crop&ancrhor=topcenter" alt="At the Buzzer" />
+            </a>
+				</div>
+				<div class="related-text">
+					<h3>
+					  <a href="/news/2017/2/25/chris-harry-at-the-buzzer-no-11-kentucky-no-13-florida.aspx">
+              At the Buzzer: No. 11 Kentucky 76, No. 13 Florida 66 (Instant Breakdown)
+					  </a>
+					</h3>
+          <div>February 25, 2017</div>
+				</div>
+            </article>
+        </li>
+            
+        <li>
+            <article>
+				<div class="related-thumb">
+					<a href="/news/2017/2/24/chris-harry-a-year-later-gators-are-a-year-older.aspx">
+            <img src="/images/2017/2/24/075_ChiozzaChrisFrancisRamirezBrandone_160206_3459_TimCasey.jpg?width=160&height=90&mode=crop&ancrhor=topcenter" alt="Gators at Kentucky 2016" />
+            </a>
+				</div>
+				<div class="related-text">
+					<h3>
+					  <a href="/news/2017/2/24/chris-harry-a-year-later-gators-are-a-year-older.aspx">
+              Harry Fodder: A Year Later, Gators are a Year Older
+					  </a>
+					</h3>
+          <div>February 24, 2017</div>
+				</div>
+            </article>
+        </li>
+            
+        <li>
+            <article>
+				<div class="related-thumb">
+					<a href="/news/2017/2/22/chris-harry-pregame-stuff-no-13-florida-at-no-12-kentucky.aspx">
+            <img src="/images/2016/10/25/Pregame_Stuff_1.jpg?width=160&height=90&mode=crop&ancrhor=topcenter" alt="Pregame Stuff " />
+            </a>
+				</div>
+				<div class="related-text">
+					<h3>
+					  <a href="/news/2017/2/22/chris-harry-pregame-stuff-no-13-florida-at-no-12-kentucky.aspx">
+              Pregame Stuff: No. 13 Florida at No. 11 Kentucky 
+					  </a>
+					</h3>
+          <div>February 24, 2017</div>
+				</div>
+            </article>
+        </li>
+            
+        <li>
+            <article>
+				<div class="related-thumb">
+					<a href="/news/2017/2/21/chris-harry-allen-gators-solve-gamecocks-defense.aspx">
+            <img src="/images/2017/2/21/AllenKeVaughn_170221_8662_TimCasey.jpg?width=160&height=90&mode=crop&ancrhor=topcenter" alt="KeVaughn Allen" />
+            </a>
+				</div>
+				<div class="related-text">
+					<h3>
+					  <a href="/news/2017/2/21/chris-harry-allen-gators-solve-gamecocks-defense.aspx">
+              Allen, Gators Solve Gamecocks Defense  
+					  </a>
+					</h3>
+          <div>February 21, 2017</div>
+				</div>
+            </article>
+        </li>
+            
+    </ul>
+
+
+								</div>
+							</div>		
+							
+    
+    
+    
+
+
+
+<div id="ctl00_storyleaderboardad2_dfpDiv" class="storyleaderboardad2" style="width:728px;height: 90px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_storyleaderboardad2_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+                                                                                
+						</div>
+										
+                </div>
+            </div>
+            <div id="ctl00_gatorzone" class="gatorzone">
+                <div class="inside top">
+                    
+    
+    
+    
+
+
+
+<div id="ctl00_ctl13_dfpDiv" class="storyad" style="width:300px;height: 250px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_ctl13_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+  
+                </div>
+                <div class="mygatorzonebottom">
+                    <div class="mygatorzonebutton bottom">
+                        <div>My <span>GATOR</span> Zone</div>
+                        <div class="custom_button"><i class="icon-settings"></i> Customize <i class=" icon-down-open"></i></div>
+                        
+    
+    
+    
+            <a href="http://www.verizonwireless.com/" id="ctl00_ctl14_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=30&amp;target=http://www.verizonwireless.com/', '_blank'); return false;" rel="nofollow" class=" csgatorzne" rev="csgatorzne">
+                
+        <img id="ctl00_ctl14_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2015/10/15/verizon_65x25.png" alt="Verizon" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                    </div>
+                    <div class="gatorzone_modal">
+                        <!-- ko ifnot: selectedElementType -->
+                            <h2>
+                                <div>What you want, when you want it.</div>
+                                <div>Customize Your Experience.</div>
+                            </h2>
+                        <div class="widget-container" data-bind="foreach: elementTypes">
+                            <div class="element_icons" data-bind="css: (name  + ' ' + ($root.elements()[type] ? 'active' : 'inactive')), text: name, click: function(){ 
+                                    $parent.selectedElementType($data);  }"></div>
+                        </div>
+                        <!-- /ko -->
+                        <!-- ko if: selectedElementType -->
+                        <h1 data-bind="text: selectedElementType().name"></h1>
+                        <div class="element_icons" data-bind="css: selectedElementType().name, text: selectedElementType().name"></div>
+                        <div class="right_drops">
+                            <!-- ko if: selectedElementType().name == "Headlines" || selectedElementType().name === "Social" -->
+                                <select data-bind="options: allSportsAndNonSports, value: selectedSport, optionsText: 'shortname', optionsCaption: 'Select Sport' "></select>
+                            <!-- /ko -->
+                            <!-- ko if: (!(selectedElementType().name == "Headlines" || selectedElementType().name === "Social")) -->
+                                <select data-bind="options: allSports, value: selectedSport, optionsText: 'shortname', optionsCaption: 'Select Sport' "></select>
+                            <!-- /ko -->
+                            <!-- ko if: selectedElementType() && selectedElementType().variations.length > 0 -->
+                            <select data-bind="options: selectedElementType().variations, value: selectedElementVariation, optionsCaption: 'Select Platform'"></select>
+                            <!-- /ko -->
+                        </div>
+                        <div class="clear"></div>
+                            <div data-bind="foreach: Object.keys(elements())">
+                                <!-- ko if: $data === $parent.selectedElementType().type -->
+                                <div class="sport-names"  data-bind="foreach: $parent.elements()[$data]">
+                                    <div>
+                                        <span data-bind="text: shortname"></span>
+                                        <span data-bind="text:variation"></span>
+                                        <a href="#" data-bind="click: $root.removeElement"><i class="icon-cancel-circled2"></i></a>
+                                    </div>
+                                </div>
+                                <!-- /ko -->
+                            </div>
+                        <button class="backmenu button" data-bind=" click: resetModal">Back to Main Menu</button>
+                        <!-- /ko -->
+
+                        <!-- ko ifnot: selectedElementType -->
+                        <div class="buttons">
+                            <div class="take-with"><strong>Take MY GATOR ZONE with you!</strong><br> Sign in with Twitter or Facebook to keep your favorites synced everywhere. (optional) <i class="icon-down-open"></i></div>
+                            <button class="twitter-button button" data-bind="click: function(){ loginWithService('Twitter'); }"><i class="icon-twitter"></i></button>
+                            <button class="facebook-button button" data-bind="click: function(){ loginWithService('Facebook'); }"><i class="icon-facebook"></i></button>
+                            <button class="button" data-bind="click: function() { closeModal(true); }">Save and Close</button>
+                            <button class="close-button button" data-bind="click: function() { closeModal(false); }">Close Without Saving</button>
+                        </div> 
+                        <!-- /ko -->
+                       
+                        
+                    </div>
+                    <div class="inside bottom nano" data-bind="mcustom" >
+                    <div style="padding:50px 20px 30px 30px;" class="nano-content">
+                        <div class="ticket_container gator-item">
+                            <h3><div>Tickets</div></h3>
+                            <select data-bind="options: tickets.sports, value: tickets.selectedSport,optionsCaption: 'Sport'"></select>
+                            <select data-bind="options: tickets.sportTicketTypes, value: tickets.selectedSportTicketType,optionsCaption: 'Ticket Type'"></select>
+                            <div>
+                              <select data-bind="options: tickets.sportTypeTicketOptions, value: tickets.selectedSportTypeTicketLink, optionsText: 'options', optionsValue: 'link',optionsCaption: 'Ticket Options'"></select>
+                              <a href="#" data-bind="attr:{href:tickets.selectedSportTypeTicketLink}">Go<i class=" icon-angle-double-right"></i></a>
+                            </div>
+                        </div>
+
+                       <div class="content-stream" data-bind="foreach: ['results', 'upcoming', 'story', 'twitter', 'instagram']
+                                                .map(function(type) { return { type: type, items: itemsByType()[type] || [] }; })">            
+
+                        <!-- ko if: type === "results"  && "results" in $root.elements() -->
+                            <div class="recent_container gator-item">
+                                <h3><div>Scoreboard</div></h3>
+                                <!-- ko if: items.length > 0 -->
+                                <div class="event_header">Recent Results</div>
+                                <div class="recent_overflow noselect">
+                                    <div class="belt" data-bind="foreach: $root.paginateArray(items, 3), slick: {adaptiveHeight:true, accessibility: false,  focusOnSelect: false}" >
+                                        <div class="panel" data-bind="foreach: $data">
+                                             <div class="upcoming-item recent" data-bind="css: value.sport.shortname">
+                                                <div class="logo_container">
+                                                    <div class="home-logo"></div>
+                                                    <!-- ko if: value.results && value.results[0] -->
+                                                    <div class="vsat">
+                                                        <span data-bind="text: value.results[0].team_score + '-' + value.results[0].opponent_score, visible: value.results[0].team_score != ''"></span>
+                                                    </div>
+                                                    <!-- /ko -->
+                                                    <div class="opponent-logo"><img data-bind="attr: {src: value.opponent.logo != null ? value.opponent.logo : '/images/scoreboard_logo_default.png' }"/></div>
+                                                </div>
+                                                <div class="sportdate">
+                                                    <div data-bind="text: value.sport.sport_short_display"></div>
+                                                    <!-- ko if: value.results && value.results[0] -->
+                                                    <div class="upcoming-date" data-bind="date: value.date, dateFormat: 'MMM Do', visible: !(value.results[0].hasOwnProperty('postscore_info') && value.results[0].postscore_info != null  && value.results[0].postscore_info != '')"></div>
+                                                    <div class="specialsportresult" data-bind="text: value.results[0].team_score + '-' + value.results[0].opponent_score, visible: value.results[0].team_score != ''"></div>
+                                                    <div data-bind="text: value.results[0].postscore_info"></div>
+                                                    <!-- /ko -->
+                                                </div>
+                                                <div class="upcoming-media">
+                                                    <!-- ko if: value.links.hasOwnProperty('postgame') --> 
+                                                        <span class="recap"><a data-bind="attr: {href: value.links.hasOwnProperty('postgame') ? value.links.postgame.url : '' }">Recap</a></span>
+                                                    <!-- /ko -->    
+                                                </div>
+                                             </div>
+                                       </div>
+                                    </div>
+                                </div>
+                                <!-- /ko -->    
+                                <!-- ko if: items.length === 0 -->
+                                     <h5>No Results for sport(s) selected available.</h5>
+                                <!-- /ko -->    
+                            </div>
+                        <!-- /ko -->    
+
+                        <!-- ko if: type === "upcoming" && "upcoming" in $root.elements() -->
+                            <div class="upcoming_container gator-item">
+                                <h3><div>Schedule</div></h3>
+                                <!-- ko if: items.length > 0 -->
+                                <div class="event_header">Upcoming Events</div>
+                                <div class="upcoming_overflow noselect">
+                                    <div class="belt" data-bind="foreach: $root.paginateArray(items, 3), slick: {adaptiveHeight:true, accessibility: false,  focusOnSelect: false}">
+                                        <div class="panel" data-bind="foreach: $data">
+                                            <div class="upcoming-item">
+                                                 <div class="upcoming-text">
+                                                    <div data-bind="text: value.sport.sport_short_display "></div>
+                                                    <div><span data-bind="text: value.location.HAN === 'A' ? 'AT' : 'VS' "></span> <span data-bind="text: value.opponent.name"></span></div>
+                                                    <div><span data-bind="date: value.date, dateFormat: 'MMM Do'"></span> | <span data-bind="text: value.location.location"></span></div>
+                                                    <div data-bind=""> <span data-bind="text: value.time"></span>  <span data-bind="text: value.tv"></span> </div>
+                                                </div>
+                                                <div class="upcoming-mediaz">   
+                                                    <div class="event-link"><a class="live-stats" data-bind="attr: {href: value.links.livestats != null ? value.links.livestats : '' }"><i class='icon-stats'></i></a></div>
+                                                    <div class="event-link"><a class="video" data-bind="attr: {href: value.links.video != null ? value.links.video : '' }"><i class='icon-video'></i></a></div>
+                                                    <div class="event-link"><a class="audio" data-bind="attr: {href: value.links.audio != null ? value.links.audio : '' }"><i class='icon-radio'></i></a></div>
+                                                    <div class="event-link"><a class="tickets" data-bind="attr: {href: value.links.tickets != null ? value.links.tickets : '' }"><i class='icon-tickets'></i></a></div>             
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /ko -->    
+                                <!-- ko if: items.length === 0 -->
+                                     <h5>No Events for sport(s) selected available.</h5>
+                                <!-- /ko -->    
+                            </div>
+                        <!-- /ko -->    
+
+                        <!-- ko if: type === "story" && "headlines1" in $root.elements() -->
+                            <div class="headline_container gator-item">
+                                <h3><div>Newsfeed</div></h3>
+                                <!-- ko if: items.length > 0 -->
+                                <div class="more_headlines">
+                                    <span data-bind="click: function(){ $root.headlinesView('trending'); }, css: {active:$root.headlinesView() === 'trending'}">Trending</span>
+                                    <span data-bind="click: function(){ $root.headlinesView('latest'); }, css: {active:$root.headlinesView() === 'latest'}">Latest</span>
+                                    <div class="highlight_overflow" data-bind="foreach: items, visible: $root.headlinesView() === 'latest'">
+                                        <div class="highlight">
+                                           <a data-bind="attr:{href : value.link}, text: value.title"></a>
+                                           <div data-bind="date: value.pubDateUTC, dateFormat: 'dddd MMMM Do, YYYY | h:mm a'"></div>
+                                        </div>
+                                    </div>
+                                    <div class="highlight_overflow" data-bind="foreach: $root.trending, visible: $root.headlinesView() === 'trending'">
+                                        <div class="trending">
+                                           <a data-bind="attr:{href : url}, text: title"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /ko -->    
+                                <!-- ko if: items.length === 0 -->
+                                     <h5>No Headlines for sport(s) selected available.</h5>
+                                <!-- /ko -->    
+                            </div>
+                        <!-- /ko -->     
+
+                        <!-- ko if: type === "twitter" && "social" in $root.elements() -->
+                             <div class="social_container gator-item">
+                                <h3><div>Social</div></h3>
+                                <div class="twitter_overflow">
+                                    <!-- ko if: items.length > 0 -->
+                                    <div class="jta-tweet-list" data-bind="foreach: items, slick: { adaptiveHeight:true, draggable: false }">
+                                        <div class="jta-tweet-list-item">
+                                            <div class="jta-tweet-body ">
+                                                <div class="jta-tweet-user-name">
+                                                    <span class="jta-tweet-user-screen-name">
+                                                        <a target="_blank" class="jta-tweet-user-screen-name-link" data-bind="text: value.user.screen_name"></a>
+                                                    </span>
+                                                </div>
+                                                <div class="jta-tweet-text" data-bind="html: $root.linkify(value.text)"></div>
+                                            </div>
+                                            <div class="jta-tweet-actions">
+                                                <span class="jta-tweet-action-reply"><a data-bind="attr: {href: 'https://twitter.com/intent/reply?tweet_id=' + value.id_str }">Reply</a></span>
+                                                <span class="jta-tweet-action-retweet"><a data-bind="attr: {href: 'https://twitter.com/intent/retweet?tweet_id=' + value.id_str }">Retweet</a></span>
+                                                <span class="jta-tweet-action-favorite"><a data-bind="attr: {href: 'https://twitter.com/intent/favorite?tweet_id=' + value.id_str }">Favorite</a></span>
+                                            </div>
+                                            <!-- ko if: value.entities.media[0] != null -->
+                                                <a data-bind="attr: {href: 'https://twitter.com/' + value.user.screen_name + '/status/' + value.id_str}">
+                                                    <div class="jta-tweet-image" data-bind="style: { backgroundImage: 'url(\'' + value.entities.media[0].media_url + '\')' }" >  
+                                                  </div>
+                                                </a>
+                                            <!-- /ko -->    
+                                        </div>
+                                    </div>
+                                    <!-- /ko -->    
+                                    <!-- ko if: items.length === 0 -->
+                                         <h5>No Tweets for sport(s) selected available.</h5>
+                                    <!-- /ko -->    
+                                </div>
+                            </div>
+                        <!-- /ko -->    
+                       <!-- ko if: type === "instagram"  && "social" in $root.elements()  -->
+                           <div class="social_container gator-item">
+                                  <div class="instagram_overflow ">
+                                        <!-- ko if: items.length > 0 -->
+                                        <div class="instagram_feed">
+                                            <div class="belt" data-bind="foreach: items,slick: {adaptiveHeight:true, draggable: false}">
+                                                <div class="instagram-item">
+                                                 <div class="instagram-name" data-bind="text: value.user.username"></div>
+                                                   <a data-bind="attr:{href : value.link}">
+                                                        <img data-bind="attr:{src:value.images.standard_resolution.url , alt:  value.caption.text }">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /ko -->
+                                        <!-- ko if: items.length === 0 -->
+                                        <h5>No instagram for sport(s) selected available.</h5>
+                                        <!-- /ko -->
+                                    </div>
+                                </div>
+                        <!-- /ko -->    
+                        </div>
+                        <div class="shop_container gator-item">
+                            <h3><div>Shop</div></h3>
+                            <div class="shop_feed">
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+               </div>
+            </div>
+            <div class="clear"></div>
+              
+        </main>
+            
+        <div id="footer">
+                    <div class="florida_footer">
+                        <div class="row">
+                            <div class="twelve full columns">
+                                <div class="florida_logo"></div>
+                                <span>A championship experience with integrity</span>
+                            </div>
+                        </div>
+                    </div>
+           <div class="row">
+                <div class="twelve full columns">
+                    <div class="footer_text">
+                        <div>&copy; 1998 - 2017 University Athletic Assoc., Inc., FOX Sports Sun & IMG College. All Rights Reserved.</div>
+                       <div><a href='//www.sidearmsports.com/privacypolicy/' target='_blank'>Privacy</a> <span> | </span> <a href='//www.sidearmsports.com/terms-of-service/' target='_blank'>Terms of Service</a> <span> | </span> <a href="/sports/2015/12/10/_sponsors_.aspx">Sponsorships</a>  <span> | </span> <a href="http://shop.floridagators.com/">Gator Shop</a></div>
+                    </div>
+                    <div class="footer_logos">
+                         
+    
+    
+    
+            <a href="http://www.ufl.edu/" id="ctl00_ctl15_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-215px 0px '" rel="nofollow" class="sprite-ad footerlogos" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=15&amp;target=http://www.ufl.edu/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-215px 0px '" style="width:35px;height:50px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/2015/10/5/footer_sprite.png) no-repeat -215px 0px " rev="footerlogos3">Footer Logos #3</a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+            <a href="http://www.secsports.com/" id="ctl00_ctl16_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-250px 0px '" rel="nofollow" class="sprite-ad footerlogos" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=16&amp;target=http://www.secsports.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-250px 0px '" style="width:45px;height:50px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/2015/10/5/footer_sprite.png) no-repeat -250px 0px " rev="footerlogos4">Footer Logos #4</a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+            <a href="http://www.imgcollege.com/" id="ctl00_ctl19_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-420px 0px '" rel="nofollow" class="sprite-ad footerlogos" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=19&amp;target=http://www.imgcollege.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-420px 0px '" style="width:60px;height:50px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/2017/2/1/footer_sprite_02.png) no-repeat -420px 0px " rev="footerlogos7">Footer Logos #7</a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+            <a href="http://www.foxsports.com/florida" id="ctl00_ctl20_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=18&amp;target=http://www.foxsports.com/florida', '_blank'); return false;" rel="nofollow" class=" footerlogos" rev="footerlogos6">
+                
+        <img id="ctl00_ctl20_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//wac.b63f.edgecastcdn.net/80B63F/floridagators-com/images/2015/10/14/fox_logo_new.png" alt="fox sun" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+            <a href="http://sidearmsports.com" id="ctl00_ctl21_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px 0px '" rel="nofollow" class="sprite-ad footerlogos" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=13&amp;target=http://sidearmsports.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:120px;height:50px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/2015/10/5/footer_sprite.png) no-repeat 0px 0px " rev="footerlogos1">Footer Logos #1</a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                         
+    
+    
+    
+            <a href="http://frankelmedia.com/" id="ctl00_ctl22_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-120px 0px '" rel="nofollow" class="sprite-ad footerlogos" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=14&amp;target=http://frankelmedia.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-120px 0px '" style="width:95px;height:50px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/2015/10/5/footer_sprite.png) no-repeat -120px 0px " rev="footerlogos2">Footer Logo #2</a>
+        
+
+
+
+
+  
+
+
+
+    
+  
+                    </div>
+               </div>
+            </div>
+        </div>
+
+        <div id="slide">
+            
+    
+    
+    
+
+
+
+<div id="ctl00_ctl23_dfpDiv" class="stickysuper" style="width:970px;height: 66px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_ctl23_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+
+        </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+<script src="http://assets.sidearmsports.com.s3.amazonaws.com/plugins/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="http://assets.sidearmsports.com.s3.amazonaws.com/plugins/jquery.jtweetsanywhere-1.3.1.min.js"></script>
+<script src="http://assets.sidearmsports.com.s3.amazonaws.com/plugins/jquery.overflow-2.0.js"></script>
+<script src="/site/knockout-date-bindings.js"></script>
+<script src="/site/jquery.nanoscroller.min.js"></script>
+<script src="/site/fan-experience.js?_=123"></script>
+<script>
+    var vm = new ViewModel();
+    ko.applyBindings(vm);
+</script>
+<script> 
+
+    // Ticket Office Ad
+    if (window.location.href == "http://admin.floridagators.com/sports/2015/12/10/_tickets_.aspx" || window.location.href == "http://floridagators.com/sports/2015/12/10/_tickets_.aspx") {
+        console.log("Is this page");
+        $(".sidebars").css("position", "relative");
+        $(".sofi_ad").css("position", "absolute");
+        $(".sofi_ad").css("right", "150px");
+        $(".sofi_ad").css("top", "-10px");
+        $(".sofi_ad").css("display", "block");
+    } else {
+        console.log("Not Page");
+        setTimeout(function(e) {
+            $(".sofi_ad").css("display", "none");
+        }, 500);
+    }
+
+
+    function sendGAEvent(category, action, label, value) {
+        for(var i = 0; i < 3; i++) {
+            ga('tracker' + i + '.send', 'event', category, action, label, value);
+        }
+    }
+
+    $(document).ready(function () {
+
+        $('.tickets .sidebars .sidebar-links li.sport-home > a').attr("href", "/tickets");
+        $('.hawkins-center .sidebars .sidebar-links li.sport-home > a').attr("href", "/hawkins-center");
+
+        $('.mygatorzonebutton.bottom').click(function() {
+            if ($('.gatorzone_modal').is(':visible')){
+                $('.gatorzone_modal').slideUp();
+            } else {
+                sendGAEvent("My Gator Zone", "expand customize");
+                $('.gatorzone_modal').slideDown();
+            }
+            $(this).toggleClass("active");
+        });      
+        $('.search-icon').click(function() {
+            $(this).toggleClass("selected");
+            $('#search').slideToggle();
+            $(".search-box input").focus();
+        });
+
+        $('#search .search-box input[id*="txtSearch"]').on("keypress", function(e) {
+            if (e.keyCode == 13) {
+                e.preventDefault();
+                window.location='/searchresults.aspx?cx=016306950182310286156%3A-g50kdfl5d8&q=' + $("#search .search-box input[id*=txtSearch]").val()+  '&sa=Search&cof=FORID%3A11#1141';   
+                return false;
+            }
+        }); 
+
+        $('#search #search-button input[type="submit"]').on("click", function(e){
+            e.preventDefault();
+            window.location='/searchresults.aspx?cx=016306950182310286156%3A-g50kdfl5d8&q=' + $("#search .search-box input[id*=txtSearch]").val()+  '&sa=Search&cof=FORID%3A11#1141';   
+                return false;
+        });
+
+
+        $("#sportdropdownlinks").appendTo("#navigation ul.accessible_nav > li.sports > div");
+        $("#promodropdownad1").appendTo("#navigation ul.accessible_nav > li.sports > div");
+        $("#promodropdownad2").appendTo("#navigation ul.accessible_nav > li.tickets > div");
+        $("#promodropdownad3").appendTo("#navigation ul.accessible_nav > li.shop > div");
+        $("#promodropdownad4").appendTo("#navigation ul.accessible_nav > li.watch > div");
+
+        function hide_ad() {
+            $('#slide').slideUp();
+        }
+        // call hide_ad after 10 seconds
+        $(function() {
+            setTimeout(
+                function(){
+                    hide_ad()
+                }, 10000);
+        });
+        // wait 5 seconds
+        setTimeout(
+            function(){
+                // hide if scroll more than 35 pixels
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                    if (scroll >= 35) {
+                       hide_ad();
+                    }
+                });
+            }, 5000);
+        });
+
+</script> 
+<script>
+   $(".sidebars ul.sidebar-links > li.additional-links > a ").text("More +");  
+   $(".sidebars ul.sidebar-links > li.additional-links ").show();  
+   if (!$('html').hasClass('index')) {
+     $("#navigation").addClass("stuck");   
+   }
+    var nav = $("#navigation").height(),
+    fromTop = $("#navigation").offset().top,
+    promoimage = $("#hero_graphic").height();
+    $.ajax({
+        type: "GET",
+        dataType: "json",
+        cache: true,
+        url: "/services/shopfeed.ashx",
+        success: function(result) {
+           $.each(result.products, function(index,products) {  
+                var str = result.products[index].image ;
+                var image = str.replace("w=70", "w=170");
+                $(".shop_feed ").append("<div class='shop-item'><div class='item-image' style='background-image:url(" + image + ")'></div><div class='item-info'><a href='" + result.products[index].link + "' class='item-description'>" + result.products[index].title + "</a><div class='item-price'>$" + result.products[index].price + "</div><a class='visit' href='" + result.products[index].link + "'>Visit The Shop</a></div></div>");
+           });
+        }
+    }).done(function() {
+        $(".shop_feed").slick({
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          adaptiveHeight: true
+        });  
+    });
+    $(window).resize(function(){
+        $(".mygatorzonebottom .inside").css({
+            overflow:"auto",
+            height: $(window).height() - 90 - 60
+        });
+    }).resize();
+$(window).load(function() {
+    $("#navigation .accessible_nav > li > div").each(function() {
+        $(this).parent().addClass("drop");
+    });
+    var initial = $(".contentDiv ").offset().top;
+    var offset = $(".mygatorzonebottom ").offset().top;
+    var offsetfixed = $(".mygatorzonebottom ").offset().top - 90 ;
+     $(window).scroll(function(){  
+        if($(window).scrollTop() >= offsetfixed){
+            $("body").addClass("gatorzonefixed");
+        }
+        else {
+            $("body").removeClass("gatorzonefixed");
+        }
+        if ($(window).scrollTop() >= $("#footer").offset().top - $(window).height()) {
+            $(".mygatorzonebottom").css({
+                position:"absolute"
+            });
+            $(".mygatorzonebottom").css({
+                top:$("#footer").offset().top - $(window).height() + 90 - $(".mygatorzonebottom").offsetParent().offset().top
+            });
+        }
+        else {
+             $(".mygatorzonebottom").css({
+                top:"",
+                position:""
+            });
+        }
+    });
+    if ($("#hero_graphic").children().hasClass("herographic")) {
+        $("#hero_graphic").addClass("active");
+        fromTop = $("#navigation").offset().top;
+        promoimage = $("#hero_graphic").height();
+        $(window).resize(function() {
+
+        });
+        $(window).scroll(function(){     
+            if($(window).scrollTop()>= promoimage - 40){
+                $("#navigation").addClass("stuck")
+            }else{
+                $("#navigation").removeClass("stuck")
+            }
+        }).trigger('scroll');
+    }   
+    else {
+        $("#hero_graphic").css("display", "none");
+        $("#navigation").addClass("stuck");
+        $("html").addClass("no_hero");
+    }
+    setTimeout(
+        function(){
+         $(".nano").nanoScroller();
+		 $(".nano").bind("scrollend", function(e){
+			$('.mygatorzonebottom').addClass('end-reached');
+		});
+    }, 2000);
+    $(window).scroll();
+});
+$(window).scroll();
+
+$(".contentDiv_inside").on("click", "#showMoreStream", function() {
+    $(this).trigger("scroll");
+    $(this).trigger("resize");
+});
+
+$(window).load(function() {
+
+    
+    try {
+        $('.jta-tweet-list').slick({
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          adaptiveHeight: true
+        });
+    } catch (err) {
+        console.error(err);
+    }
+    $(".video_youtube_play_button").attr("src", "http://wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/video_play.png");
+    $(".video_youtube_play_button").on("mouseover", function() {
+        $(".video_youtube_play_button").attr("src", "http://wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/video_play.png");
+        $(".video_youtube_play_button").css("opacity", ".8"); 
+    });
+    $(".video_youtube_play_button").on("mouseout", function() {
+        $(".video_youtube_play_button").attr("src", "http://wac.b63f.edgecastcdn.net/80B63F/images/sidearm.sites/gatorzone.com/images/video_play.png");
+        $(".video_youtube_play_button").css("opacity", "1"); 
+    });
+
+});  
+</script> 
+        
+
+
+<script type='text/javascript'>
+    (function(i,s,o,g,r,a,m){
+        i['GoogleAnalyticsObject']=r;
+        i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+        a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+        a.async=1;
+        a.src=g;
+        m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-56421067-2', 'auto', 'tracker0');ga('create', 'UA-68331658-8', 'auto', 'tracker1');
+    
+    ga('tracker0.send', 'pageview');ga('tracker1.send', 'pageview');
+</script>
+
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2698V"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K2698V');</script>
+    <!-- End Google Tag Manager -->
+
+
+<script>
+    window.sEvent = window.sEvent || [];
+    try {
+        // comparing locations should throw a security exception, we're totally fine with that
+        if (window.parent !== window && window.parent.location.hostname === location.hostname) {
+            window.sEvent.dontSendPageView = true;
+        }
+    } catch(err) {
+    }
+</script>
+
+        <script>
+            (function() {
+                setTimeout(function() {
+                    var script = document.createElement("script");
+                    script.src = "//s3.amazonaws.com/assets.sidearmsports.com/statcollector/statcollector.js?_=" + (new Date).getTime();
+                    script.async = true;
+                    document.getElementsByTagName("head")[0].appendChild(script);
+                }, 0);
+            })();
+        </script>
+    
+<script type="text/javascript">addLoadEvent(count_ad_master);</script><script type="text/javascript">checkVersion;</script><script type="text/javascript">fkey = '4fcb8bce38c1aa0afd4'</script><script type="text/javascript">count_ad(60);</script><script type="text/javascript">launch_ads ('dropdownsponsor1',true,10000)</script><script type="text/javascript">count_ad(200);</script><script type="text/javascript">launch_ads ('dropdownsponsor2',true,10000)</script><script type="text/javascript">count_ad(59);</script><script type="text/javascript">launch_ads ('dropdownsponsor3',true,10000)</script><script type="text/javascript">count_ad(137);</script><script type="text/javascript">launch_ads ('dropdownsponsor4',true,10000)</script><script type="text/javascript">count_ad(5);</script><script type="text/javascript">launch_ads ('social1',true,10000)</script><script type="text/javascript">count_ad(6);</script><script type="text/javascript">launch_ads ('social2',true,10000)</script><script type="text/javascript">count_ad(7);</script><script type="text/javascript">launch_ads ('social3',true,10000)</script><script type="text/javascript">count_ad(198);</script><script type="text/javascript">launch_ads ('ticket_office_ad_promo',true,10000)</script><script type="text/javascript">count_ad(30);</script><script type="text/javascript">launch_ads ('csgatorzne',true,10000)</script><script type="text/javascript">count_ad(15);</script><script type="text/javascript">launch_ads ('footerlogos3',true,10000)</script><script type="text/javascript">count_ad(16);</script><script type="text/javascript">launch_ads ('footerlogos4',true,10000)</script><script type="text/javascript">count_ad(19);</script><script type="text/javascript">launch_ads ('footerlogos7',true,10000)</script><script type="text/javascript">count_ad(18);</script><script type="text/javascript">launch_ads ('footerlogos6',true,10000)</script><script type="text/javascript">count_ad(13);</script><script type="text/javascript">launch_ads ('footerlogos1',true,10000)</script><script type="text/javascript">count_ad(14);</script><script type="text/javascript">launch_ads ('footerlogos2',true,10000)</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>  
+</body>
+</html>
