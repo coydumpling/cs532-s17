@@ -1,0 +1,5 @@
+The $74 Trillion Global Economy In One ChartThe latest GDP numbers from the World Bank were released earlier this month, and today’s visualization from HowMuch.net breaks them down to show the relative share of the global economy for each country.
+
+As Visual Capitalist's Jeff Desjardins explains, the full circle, known as a Voronoi Diagram, represents the entirety of the $74 trillion global economy in nominal terms. Meanwhile, each country’s segment is sized accordingly to their percentage of global GDP output. Continents are also grouped together and sorted by color.
+
+Here is the data for the Top 20 Countries in table form:
