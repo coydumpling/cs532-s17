@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<!--viewport-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--charset-->
+<!--rss-comments-->
+<link rel="alternate" type="application/rss+xml" href="http://newyorknews.press/comments/feed/"/>
+<!--rss-->
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://newyorknews.press/feed/" />
+<!--atom-->
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://newyorknews.press/feed/atom/" />
+<!--pingback-->
+<link rel="pingback" href="http://newyorknews.press/xmlrpc.php" />
+
+<!--Facebook Open Graph-->
+<!--FB page title-->
+<meta property="og:title" content="Newsday receives record 25 New York Emmy nominations &#8211; New York News" />
+<!--FB description-->
+<meta property="og:description" content="
+        
+                                          	    	    	    		    		    		    	        	    	    	    	            	Long Island    
+			                      
+			      
+				    	    	   Updated ..."/>
+<!--FB url-->
+<meta property="og:url" content="http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/"/>
+<!--FB image-->
+<meta property="og:image" content="http://cdn.newsday.com/polopoly_fs/1.13137242.1487291493!/httpImage/image._gen/derivatives/landscape_1280/image." />
+<!--FB type-->
+<meta property="og:type" content="article"/>
+<!--FB site name-->
+<meta property="og:site_name" content="New York News &#8211; Check out the latest news in New York State, USA"/>
+<title>Newsday receives record 25 New York Emmy nominations &#8211; New York News</title>
+
+<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Design[1631,1791] -->
+<link rel="canonical" href="http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="New York News - Check out the latest news in New York State, USA &raquo; Feed" href="http://newyorknews.press/feed/" />
+<link rel="alternate" type="application/rss+xml" title="New York News - Check out the latest news in New York State, USA &raquo; Comments Feed" href="http://newyorknews.press/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="New York News - Check out the latest news in New York State, USA &raquo; Newsday receives record 25 New York Emmy nominations &#8211; New York News Comments Feed" href="http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/newyorknews.press\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp_automatic_gallery_style-css'  href='http://newyorknews.press/wp-content/plugins/wp-automatic/css/wp-automatic.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Montserrat%3A400%2C600%2C700%2C800%7CMontserrat+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-menu-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Montserrat%3A400%2C600%2C700%2C800%7CMontserrat+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-widget-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Open+Sans%3A400%7COpen+Sans+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://newyorknews.press/wp-content/themes/layout/style.css?ver=4.6.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://newyorknews.press/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/plugins/wp-automatic/js/main-front.js?ver=4.6.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var stepfoxcomplete = {"stepfoxcompleteurl":"http:\/\/newyorknews.press\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/sf-autocomplete.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/exm1-scripts.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/respond.min.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/smoothscroll.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/jquery.validate.min.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/comment_validate.js?ver=4.6.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exm1_live_video_ajax = {"exm1_live_video_ajaxurl":"http:\/\/newyorknews.press\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/themes/layout/js/ajax-video-widget.js?ver=4.6.4'></script>
+<link rel='https://api.w.org/' href='http://newyorknews.press/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://newyorknews.press/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://newyorknews.press/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Now they&#039;re cooking: People make dinner for residents at Albany Ronald McDonald House &#8211; New York News' href='http://newyorknews.press/2017/02/23/now-theyre-cooking-people-make-dinner-for-residents-at-albany-ronald-mcdonald-house-new-york-news/' />
+<link rel='next' title='DA: Baby beaten, killed; mother&#039;s boyfriend charged &#8211; New York News' href='http://newyorknews.press/2017/02/23/da-baby-beaten-killed-mothers-boyfriend-charged-new-york-news/' />
+<meta name="generator" content="WordPress 4.6.4" />
+<link rel='shortlink' href='http://newyorknews.press/?p=44629' />
+<link rel="alternate" type="application/json+oembed" href="http://newyorknews.press/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewyorknews.press%2F2017%2F02%2F23%2Fnewsday-receives-record-25-new-york-emmy-nominations-new-york-news%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://newyorknews.press/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewyorknews.press%2F2017%2F02%2F23%2Fnewsday-receives-record-25-new-york-emmy-nominations-new-york-news%2F&#038;format=xml" />
+<link rel='canonical' href='http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/' />
+
+
+<style type='text/css'>
+.fullwidth-image:before{ box-shadow: inset 0 -327px 200px -200px #eeeeee;}
+.top-menu{background-color:#ffffff;}
+.top-menu-posts li .category-icon a{color:#a3a3a3;}
+.top-menu-posts .featured-posts-title a{color:#101010;}
+body, .small-title, .widget-title, .tv-featured-title{font-family:Montserrat;}
+.popular-part:before{background:#101010;box-shadow: 0 -999px 0 999px #101010;}
+.popular-slider-container .slides:before{background: radial-gradient(ellipse at center, rgba(0,0,0,0) 0%,#101010 64%,#101010 100%);}
+.popular-part a, .popular-part .widget-title{color:#FFFFFF;}
+.read-more a{color:#e5192c;}
+.blog-post-content, .img-featured-text, .about-text, .exm1-blog-posts-subtitle, .flex-active-slide .slide-excerpt, .jumping-posts-excerpt, .combination-title-subtitle, .tv-widget-content, #post-content, #post-page-subtitle, .newsroll-posts-title a{font-family:Open Sans;}
+#footer{background:#101010; }
+#footer a, .copyright-text{color:#FFFFFF;}
+#footer a:hover{color:#232323;}
+.footer-wrap{border-color:#232323;}
+#main-nav ul li a, #mob-menu{font-family: Montserrat;}
+#wrapper, .footer-wrap{max-width:1290px;}
+#navigation .content-social, .top-menu, .big-logo, #navigation #searchform input, .sub-menu-wrapper, .ticker-box, #navigation{border-color:#eaeaea;}
+#site-logo, .about-logo, #mob-menu{background:#0a5796;}
+#navigation, .ticker-box, .page-numbers.current, .about-social{background:#ffffff;}
+.menu-item .menu-link, #ticker a, .page-numbers.current, #navigation .submit-button, #navigation .content-social li a, .about-social a, .ticker-heading{color:#101010;}
+#main .widget-title, #main .widget-title a{color:#0a5796;}
+#main-nav ul li:hover > .menu-link, #ticker a:hover, #navigation .content-social li a:hover, .about-social a:hover, .sub-menu-wrapper .small-category li:hover > .small-text a{color:#0a5796;}
+#main-nav ul li > .menu-link{font-weight:800;}
+.menu-link {font-size:15px;}
+.featured-category, .trending-title, .trending-posts, .page-numbers, input#wp-submit{background: #0a5796;}
+.newsroll-title, .exm1-blog-posts-thumb, .post-page-gallery-thumbnails .flex-active-slide:after, .flex-active .wide-slider-thumb:after{border-color:#0a5796;}
+.blog-post-author a, .exm1-blog-posts-author a, #recentcomments li, .widget_categories select, .widget_archive select, .sticky a{color:#0a5796;}
+
+#searchform .submit-button{background:#0a5796 url(http://newyorknews.press/wp-content/themes/layout/images/search-icon-black.png) no-repeat center;}
+#navigation #searchform input{background-image:url(http://newyorknews.press/wp-content/themes/layout/images/search-icon-black.png);}
+#navigation #mob-menu #searchform input{background-image:url(http://newyorknews.press/wp-content/themes/layout/images/search-icon.png);}
+.mob-menu-button{background: url(http://newyorknews.press/wp-content/themes/layout/images/menu_icon.png) no-repeat 50% 50%; } 
+
+ul.tabs li.active{background:#ffffff;}
+ul.tabs li.active, ul.tabs li {border-color:#ffffff;}
+.tabs li.active h4 a{color:#101010;}
+
+.img-featured-review-score, .blog-post-categories, .jumping-posts li:hover .jumping-posts-text, .woocommerce input#searchsubmit, .super-slider-category, .floating-share-icons li, .pagination.pagination-load-more a{background:#0a5796;}
+.sub-meni .menu-links.inside-menu li{background: #ffffff;}
+.sub-meni .menu-links.inside-menu li a{color: #101010;}
+.sub-menu{border-color:#0a5796;}
+
+#post-content{font-size:16px;line-height:25.6px;}
+::selection{background:#0a5796;}
+::-moz-selection{background:#0a5796;}
+.load-circle{border-bottom:5px solid #0a5796;border-right:5px solid #0a5796;box-shadow: 0 0 35px #0a5796;}
+#wp-calendar #today{background:#0a5796 !important;text-shadow:none;}
+.total-score, .score-width, li:hover .play-icon{background: #0a5796;}
+.jumping-posts li:hover .jumping-posts-text:before{border-bottom: 14px solid #0a5796;}
+.single-post #post-content.first-letter > p:first-of-type:first-letter{font-size:67px; color:#0a5796;float: left;line-height: 60px;margin-right: 15px;font-weight:800;}
+#post-page-title h1{text-transform:uppercase;}
+blockquote, q.left, q{border-left: 2px solid #0a5796;color:#0a5796;}
+.img-featured-review-score:before{border-top: 9px solid #0a5796;}
+.sub-meni .menu-links.inside-menu li:hover{background:#ffffff;}
+#main-nav .sub-meni .menu-links.inside-menu li:hover > .menu-link{color:#0a5796;}
+.ticker-arrows{background:#ffffff;box-shadow:-21px 0 30px #ffffff;}
+.widget-title {font-style: normal;font-weight:700;}
+
+.huge .img-featured-posts-image:after, .super-image:after, .super-slider li .super-slider-post:after, .super-slider li .super-slider-post:after, .img-featured-posts-image:before, .small-image:before, .wide-slider .slides li:after{ background: linear-gradient(45deg, #2a7ab7, #0a5796);opacity:0.5;}
+
+
+.post-author a, .post-author a:visited, .good-title, .bad-title, #post-content a, .trending-posts-category a, .category-tv-icon a, .ticker-sign, .category-icon a, .jumping-posts-category a, a:hover, .category-icon a:hover, .trending-posts-category a:hover, .featured-posts-title a:hover, #post-content a:hover, .blog-post-title h2 a:hover, .bypostauthor a:hover, .post-author a:hover, .most-commented-cateogory a, .most-commented-count a {color:#0a5796;}
+
+
+.content q.right{border-left:0;border-right: 2px solid #0a5796;color:#0a5796;}
+
+
+
+.widget.buddypress div.item-options a, .widget_display_stats dd{color:#0a5796;}
+#buddypress div.item-list-tabs ul li a span, #buddypress div.item-list-tabs ul li.current a span, #buddypress div.item-list-tabs ul li.selected a span, .widget.buddypress #bp-login-widget-form #bp-login-widget-submit, span.bp-login-widget-register-link a, button#user-submit, .bbp-login-form .bbp-login-links a, tt button.button.submit.user-submit, input#bbp_search_submit {background:#0a5796;}
+
+.image_fx1:hover:after{background: #0a5796;}
+
+.cart-top{background:url(http://newyorknews.press/wp-content/themes/layout/images/shopping-cart-icon-black.png) no-repeat 36px 0;}
+@media screen and (max-width: 600px) {#main-nav ul li {background:#ffffff;}#main-nav ul li:hover a{color:#0a5796;}}
+
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce .widget_layered_nav_filters ul li a, .woocommerce-page .widget_layered_nav_filters ul li a, .woocommerce .widget_layered_nav ul li.chosen a, .woocommerce-page .widget_layered_nav ul li.chosen a, .woocommerce span.onsale, .woocommerce-page span.onsale, .woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before, .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-info:before, .woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li{background:#0a5796;}
+
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce div.product span.price, .woocommerce div.product p.price, .woocommerce #content div.product span.price, .woocommerce #content div.product p.price, .woocommerce-page div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page #content div.product p.price, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover, .woocommerce-page #main a.button:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce div.product .woocommerce-tabs ul.tabs .active a:hover, span.posted_in a, span.tagged_as a, .woocommerce h1.page-title, .woocommerce .jumping-posts .star-rating, .woocommerce-page .jumping-posts .star-rating, .amount, #header .cart-contents:hover, #header .cart-contents{color:#0a5796;}
+
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message, .woocommerce .woocommerce-info, .woocommerce-page .woocommerce-info{border-top:3px solid #0a5796; }
+
+.product_meta, .woocommerce div.product div.summary, .woocommerce #content div.product div.summary, .woocommerce-page div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce #reviews #comments ol.commentlist li .comment-text p, .woocommerce-page #reviews #comments ol.commentlist li .comment-text p, .woocommerce #review_form #respond p, .woocommerce-page #review_form #respond p, .woocommerce div.product .woocommerce-tabs .panel, .woocommerce #content div.product .woocommerce-tabs .panel, .woocommerce-page div.product .woocommerce-tabs .panel, .woocommerce-page #content div.product .woocommerce-tabs .panel, .woocommerce #reviews h3, .woocommerce-page #reviews h3{font-size:16px;line-height:25.6px;}
+
+</style><script type='text/javascript'>
+			var slide_picker = 'slide';
+			var widget_fx = 'widgetfx-1';
+			var image_effect = 'image_fx5';
+	</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://newyorknews.press/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89606577-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body class="single single-post postid-44629 single-format-standard custom-background wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+<header id="header">
+		<div id="nav-wrapper">
+		<div id="navigation" class="show-menu">
+			<div id="site-logo">
+				<div class="big-logo">
+					<a href="http://newyorknews.press/">
+					<img src="http://newyorknews.press/wp-content/uploads/2016/12/ny-logo.png" height="140" width="308" alt="New York News &#8211; Check out the latest news in New York State, USA"/>
+					</a>
+				</div>
+				<!--big-logo-->
+			</div>
+			<!--site-logo-->
+			<div class="top-menu">
+				<div class="top-menu-posts">
+	<ul>
+			<li>				
+			<div class="featured-posts-image">
+								<a href="http://newyorknews.press/2017/03/11/geno-smith-former-jets-qb-visits-giants-source-says-new-york-news/" title="Geno Smith, former Jets QB, visits Giants, source says &#8211; New York News">
+				<img width="83" height="83" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13244554.1489273021!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png" class="attachment-small-thumb size-small-thumb wp-post-image" alt="Placeholder by Nelio Content" srcset="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png 83w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-150x150.png 150w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-111x111.png 111w" sizes="(max-width: 83px) 100vw, 83px" />				</a>
+							</div>
+			<!---featured-posts-image-->
+			<div class="featured-posts-text">
+				<span class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>				</span>
+				<div class="featured-posts-title">
+					<a href="http://newyorknews.press/2017/03/11/geno-smith-former-jets-qb-visits-giants-source-says-new-york-news/" title="Geno Smith, former Jets QB, visits Giants, source says &#8211; New York News">
+					Geno Smith, former Jets QB, visits Giants, source says &#8211;&hellip;					</a>
+				</div>
+				<!--featured-posts-title-->	
+			</div>
+			<!--featured-posts-text-->
+		</li>
+				<li>				
+			<div class="featured-posts-image">
+								<a href="http://newyorknews.press/2017/03/11/national-meetamuslim-day-comes-to-long-island-new-york-city-new-york-news/" title="National #MeetaMuslim Day comes to Long Island, New York City &#8211; New York News">
+				<img width="83" height="83" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13245337.1489273419!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png" class="attachment-small-thumb size-small-thumb wp-post-image" alt="Placeholder by Nelio Content" srcset="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png 83w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-150x150.png 150w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-111x111.png 111w" sizes="(max-width: 83px) 100vw, 83px" />				</a>
+							</div>
+			<!---featured-posts-image-->
+			<div class="featured-posts-text">
+				<span class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>				</span>
+				<div class="featured-posts-title">
+					<a href="http://newyorknews.press/2017/03/11/national-meetamuslim-day-comes-to-long-island-new-york-city-new-york-news/" title="National #MeetaMuslim Day comes to Long Island, New York City &#8211; New York News">
+					National #MeetaMuslim Day comes to Long Island, New York City&hellip;					</a>
+				</div>
+				<!--featured-posts-title-->	
+			</div>
+			<!--featured-posts-text-->
+		</li>
+				<li>				
+			<div class="featured-posts-image">
+								<a href="http://newyorknews.press/2017/03/11/anti-trump-protests-town-halls-mirror-nationwide-movement-new-york-news/" title="Anti-Trump protests, town halls mirror nationwide movement &#8211; New York News">
+				<img width="83" height="83" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13243200.1489272920!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png" class="attachment-small-thumb size-small-thumb wp-post-image" alt="Placeholder by Nelio Content" srcset="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-83x83.png 83w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-150x150.png 150w, http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-111x111.png 111w" sizes="(max-width: 83px) 100vw, 83px" />				</a>
+							</div>
+			<!---featured-posts-image-->
+			<div class="featured-posts-text">
+				<span class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>				</span>
+				<div class="featured-posts-title">
+					<a href="http://newyorknews.press/2017/03/11/anti-trump-protests-town-halls-mirror-nationwide-movement-new-york-news/" title="Anti-Trump protests, town halls mirror nationwide movement &#8211; New York News">
+					Anti-Trump protests, town halls mirror nationwide movement &#8211; New York&hellip;					</a>
+				</div>
+				<!--featured-posts-title-->	
+			</div>
+			<!--featured-posts-text-->
+		</li>
+			</ul>
+</div>
+<!-- top-menu-events -->
+ 				<div class="search-box">
+					<form method="get" id="searchform" action="http://newyorknews.press//">
+	<input type="text" name="s" id="s" value="" autocomplete="off"/>
+	<button type="submit" class="submit-button">
+	</button>
+	<ul class="featured-thumbnails"></ul>
+</form>				</div>
+				<!--search-box-->
+			</div>
+			<!-- top-menu -->
+			<nav id="main-nav">
+				<div id="mob-menu">
+					<div class="mob-menu-button">
+					</div>
+					<!-- mob-menu-button -->
+					<a href="http://newyorknews.press/">
+						<img src="http://newyorknews.press/wp-content/uploads/2016/12/ny-logo.png" height="140" width="308" alt="New York News &#8211; Check out the latest news in New York State, USA"/>
+					</a>
+					<div class="search-box">
+						<form method="get" id="searchform" action="http://newyorknews.press//">
+	<input type="text" name="s" id="s" value="" autocomplete="off"/>
+	<button type="submit" class="submit-button">
+	</button>
+	<ul class="featured-thumbnails"></ul>
+</form>					</div>
+					<!--search-box-->
+
+				</div>
+				<!--mob-menu-->
+				<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-exm143600" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/" title="Home" class="menu-link">Home</a></li>
+<li id="menu-item-exm143601" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.estuff.press" title="Just Stuff" class="menu-link" target="_blank">Just Stuff</a></li>
+</ul></div>						
+			</nav>
+			<!--main-nav-->
+		</div>
+		<!--navigation-->
+	</div>
+	<!--nav-wrapper-->
+</header>
+<!--header-->
+<section class="header-advert ad-widget-sizes">
+	<div class="ad-widget-box">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- res -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3668387707312445"
+     data-ad-slot="7635484005"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>	</div>	
+	<!-- ad-widget-box -->
+</section>
+<!-- header-advert -->
+<section id="wrapper" class="hfeed">
+<div id="main"  >
+
+<div id="post-44629" class="post-44629 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+	 	
+	<div id="post-page-title">
+		<h1>
+			Newsday receives record 25 New York Emmy nominations &#8211; New York News		</h1>
+	
+
+	</div>
+	<!--post-page-title-->
+	
+	<!--post-subtitle-->
+			<div id="primary">
+		
+					<div class="post-page-content-wrapper">
+								<div class="post-info">
+					<span class="post-author">
+					by					<a href="http://newyorknews.press/author/newyorknews/" title="Posts by newyorknews" rel="author">newyorknews</a>					</span>	
+					<span class="post-page-date">
+					February 23, 2017					</span>
+						
+				</div>
+				<!--post-info-->
+								<div class="floating-share-icons">
+	<ul>
+		<li>
+			<a href="http://www.facebook.com/sharer.php?u=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="blank" class="fb-social-float-icon" title="Share this post on Facebook" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+			</a>
+		</li>
+		<li>
+			<a href="https://twitter.com/intent/tweet?original_referer=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;text=Newsday receives record 25 New York Emmy nominations &#8211; New York News&amp;tw_p=tweetbutton&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="_blank"  class="twitter-social-float-icon" title="Share this post on Twitter" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+			</a>
+		</li>
+		<li>
+			<a href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="_blank" class="google-social-float-icon" title="Share this post on Google Plus" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+			</a>
+		</li>
+		<li>
+			<a href="http://pinterest.com/pin/create/button/?media=http://cdn.newsday.com/polopoly_fs/1.13137242.1487291493!/httpImage/image._gen/derivatives/landscape_1280/image.&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;is_video=false&amp;description=Newsday+receives+record+25+New+York+Emmy+nominations+%26%238211%3B+New+York+News" target="_blank" class="pinterest-social-float-icon" title="Share this post on Pinterest" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+			</a>
+		</li>
+		<li>
+			<a href="http://www.reddit.com/submit?url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;title=Newsday+receives+record+25+New+York+Emmy+nominations+%26%238211%3B+New+York+News" target="_blank" class="reddit-social-float-icon" title="Share this post on Reddit" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+			</a>
+		</li>
+	</ul>
+</div>
+<!-- floating-share-icons -->
+				<div id="post-content" class="content  ">
+					<p>
+<div>
+<div class="headlineTop">
+<p class="breadcrumb">    	<i class="long-island" /><a href="http://www.newsday.com/long-island" target="_blank" rel="nofollow">Long Island</a>    </p><!-- START OF AD CODE -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3668387707312445"
+     data-ad-slot="4961329603"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br />
+<!-- END OF AD CODE -->
+
+<p class="byline">
+				    	    	   Updated February 23, 2017 5:48 PM<br />By <span>Newsday Staff</span>                        						</p>
+</p></div>
+<div id="primary">
+<div class="gatedView" id="quickRead">
+<div class="photoContainer topImg"></div>
+<p class="caption">Newsday is located at 235 Pinelawn Road in Melville.         <span>(Credit: Newsday )         </span></p>
+<p>Newsday received a record 25 nominations Thursday in the 60th annual New York Emmy Awards competition, the most for any newspaper in the region.</p>
+<p>Staff members were nominated for video/multimedia packages in the categories of: Investigative Report; Feature News; Education/Schools; Crime; Historical/Cultural; Human Interest; Religion; Societal Concerns; Sports; Interview/Discussion; Interactivity;&#8230;</p>
+</div>
+<div id="gateOpt">
+<div class="lock">
+<p> Optimum Online customers get <strong>unlimited digital access</strong> </p>
+</p></div>
+<p>	<span class="optimum"><br />
+		<a class="btn loginFullSubmit" href="http://www.newsday.com/login" target="_blank" rel="nofollow">Log in</a><br />
+	</span></p>
+<div class="inner">
+<p>There&#8217;s more to the story! Subscribe now. </p>
+<h4>Get unlimited digital access <strong>$14.99 A MONTH</strong></h4>
+<p>		<a class="btn" href="http://www.newsday.com/joinnow" target="_blank" rel="nofollow">Join Now</a>	</div>
+<p> <!-- inner --></p>
+<p class="loggedin">To continue reading, Newsday subscribers <a href="http://www.newsday.com/login" title="log in" target="_blank" rel="nofollow">log in</a></p>
+<p class="not-loggedin">To continue reading, Newsday subscribers <a href="http://www.newsday.com/login" title="log in" target="_blank" rel="nofollow">log in</a> or <a href="http://www.newsday.com/register" title="register" target="_blank" rel="nofollow">register</a></p>
+</div>
+<p> <!-- gateOpt --></p>
+<div class="newsletterSignup     hide">
+	<a href="#" class="close" / target="_blank" rel="nofollow"></p>
+<div class="container">
+<div class="leftBox">
+<h3>Get the Newsday Now newsletter!</h3>
+<p>The best of Newsday every day in your inbox. </p>
+</p></div></div></div></div>
+<p><!-- end: primary-->
+    </div>
+<p>click <a href="http://www.newsday.com/long-island/newsday-receives-record-25-new-york-emmy-nominations-1.13168465" target="_blank" rel="nofollow"> here</a> to read more.</p>
+</p>
+
+				</div>
+				<!--post-content-->
+																<div class="post-categories-wrapper"><div class="post-categories-title">Categories</div><span class="blog-post-categories"><a href="http://newyorknews.press/category/ny-news/">New York News</a></span></div><!--post-categories-wrapper-->								<div class="share-post">
+					<div class="share-title">
+						SHARE THIS ARTICLE					</div>
+					<ul>
+						<li>
+							<a href="http://www.facebook.com/sharer.php?u=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="blank" class="fb-share-icon" title="Share this post on Facebook" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+							</a>
+						</li>
+						<li>
+							<a href="https://twitter.com/intent/tweet?original_referer=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;text=Newsday receives record 25 New York Emmy nominations &#8211; New York News&amp;tw_p=tweetbutton&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="_blank"  class="twitter-share-icon" title="Share this post on Twitter" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+							</a>
+						</li>
+						<li>
+							<a href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/" target="_blank" class="google-share-icon" title="Share this post on Google Plus" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+							</a>
+						</li>
+						<li>
+							<a href="http://pinterest.com/pin/create/button/?media=http://cdn.newsday.com/polopoly_fs/1.13137242.1487291493!/httpImage/image._gen/derivatives/landscape_1280/image.&amp;url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;is_video=false&amp;description=Newsday+receives+record+25+New+York+Emmy+nominations+%26%238211%3B+New+York+News" target="_blank" class="pinterest-share-icon" title="Share this post on Pinterest" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+							</a>
+						</li>
+						<li>
+							<a href="http://www.reddit.com/submit?url=http://newyorknews.press/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/&amp;title=Newsday+receives+record+25+New+York+Emmy+nominations+%26%238211%3B+New+York+News" target="_blank" class="reddit-share-icon" title="Share this post on Reddit" onclick="window.open(this.href,'window','width=640,height=480,resizable,scrollbars,toolbar,menubar') ;return false;" >
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!--share-post-->
+																<div class="nav-next-prev">
+										<div class="nav-previous">
+						<div class="previous-article">
+														<a href="http://newyorknews.press/2017/02/23/now-theyre-cooking-people-make-dinner-for-residents-at-albany-ronald-mcdonald-house-new-york-news/" rel="prev">OLDER ARTICLE</a>						</div>
+						<!--previous-article-->
+						<div class="previous-title">
+							<h2>
+								<a href="http://newyorknews.press/2017/02/23/now-theyre-cooking-people-make-dinner-for-residents-at-albany-ronald-mcdonald-house-new-york-news/" rel="prev">Now they&#039;re cooking: People make dinner for residents at Albany Ronald McDonald House &#8211; New York News</a>							</h2>
+							<div class="post-date">
+								<span class="bypostauthor">
+								by								<a href="http://newyorknews.press/author/newyorknews/">
+								newyorknews								</a>
+								-
+								</span>
+								<span class="date-prev">
+								Feb 23, 2017								</span>
+							</div>
+							<!--post-date-->
+						</div>
+						<!--previous-title-->
+					</div>
+					<!--nav-previous-->
+										<div class="splitter">
+					</div>
+					<!--splitter-->
+										<div class="nav-next">
+						<div class="next-article">
+														<a href="http://newyorknews.press/2017/02/23/da-baby-beaten-killed-mothers-boyfriend-charged-new-york-news/" rel="next">NEXT ARTICLE</a>						</div>
+						<!--next-article-->
+						<div class="next-title">
+							<h2>
+								<a href="http://newyorknews.press/2017/02/23/da-baby-beaten-killed-mothers-boyfriend-charged-new-york-news/" rel="next">DA: Baby beaten, killed; mother&#039;s boyfriend charged &#8211; New York News</a>							</h2>
+							<div class="post-date">
+								<span class="bypostauthor">
+								by								<a href="http://newyorknews.press/author/newyorknews/">
+								newyorknews								</a>
+								-
+								</span>
+								<span class="date-next">
+								Feb 23, 2017								</span>
+							</div>
+							<!--post-date-->
+						</div>
+						<!--next-title-->
+					</div>
+					<!--nav-next-->
+									</div>
+				<!--nav-next-prev-->
+								
+												<div class="comments">
+					<div class="comment-count">
+	No Comment</div>
+<!--comment-count-->
+
+<div class="discussion">
+		<div class="comment-pagination">
+			</div>
+	<!--comment-pagination-->
+</div>
+<!--discussion-->
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/23/newsday-receives-record-25-new-york-emmy-nominations-new-york-news/?utm_source=ReviveOldPost&amp;utm_medium=social&amp;utm_campaign=ReviveOldPost%0A#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://newyorknews.press/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-form-comment"><textarea id="comment" name="comment" aria-required="true"></textarea></p><p class="comment-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required=&#039;true&#039; /></p>
+<p class="comment-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value=""  size="30" aria-required=&#039;true&#039; /></p>
+<p class="comment-url"><label for="url">Website</label><input id="url" name="url" type="text" value=""/></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post comment" /> <input type='hidden' name='comment_post_ID' value='44629' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="6c46640dcf" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="101"/></p>				</form>
+					</div><!-- #respond -->
+						</div>
+				<!--comments-->
+							</div>
+			<!--post-page-contentn-wrapper-->
+		</div>
+		<!--primary-->
+		
+		<div id="secondary" class="widget-area stickylastwidget">
+			<div class="home-widget one-part"><div id="ad_widget_sizes_exm1-2" class="widget widget_ad_widget_sizes_exm1">
+<div class="ad-widget-sizes">
+			<div class="ad-widget-box">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- dmsoft_300 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3668387707312445"
+     data-ad-slot="4911318403"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>	
+		
+</div>
+<!--ad-widget-sizes-->
+
+</div></div><div class="home-widget one-part"><div id="trending_widget_exm1-2" class="widget widget_trending_widget_exm1">
+<div class="trending-posts">
+	<div class="trending-title">What people are reading now</div>	<ul>
+
+
+
+		<li class="post-45213 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+		
+			<div class="trending-posts-title">
+			<div class="trending-posts-category">
+			<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+				<a href="http://newyorknews.press/2017/02/26/manhasset-man-identified-as-victim-of-fatal-lie-crash-cops-say-new-york-news/" title="Manhasset man identified as victim of fatal LIE crash, cops say &#8211; New York News">
+				Manhasset man identified as victim of fatal LIE crash, cops say &#8211; New York News				</a>
+			</div>
+			<!--trending-posts-title-->
+		</li>
+		
+
+
+		<li class="post-21290 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+		
+			<div class="trending-posts-title">
+			<div class="trending-posts-category">
+			<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+				<a href="http://newyorknews.press/2017/01/07/woman-killed-in-one-car-crash-on-meadowbrook-state-police-say/" title="Woman killed in one-car crash on Meadowbrook, State Police say">
+				Woman killed in one-car crash on Meadowbrook, State Police say				</a>
+			</div>
+			<!--trending-posts-title-->
+		</li>
+		
+
+
+		<li class="post-30481 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+		
+			<div class="trending-posts-title">
+			<div class="trending-posts-category">
+			<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+				<a href="http://newyorknews.press/2017/01/18/police-man-hospitalized-after-2-vehicle-crash-in-hauppauge/" title="Police: Man hospitalized after 2-vehicle crash in Hauppauge">
+				Police: Man hospitalized after 2-vehicle crash in Hauppauge				</a>
+			</div>
+			<!--trending-posts-title-->
+		</li>
+		
+
+
+		<li class="post-26462 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+		
+			<div class="trending-posts-title">
+			<div class="trending-posts-category">
+			<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+				<a href="http://newyorknews.press/2017/01/13/massapequa-teen-arrested-in-brady-park-swastika-graffiti-cops-say/" title="Massapequa teen arrested in Brady Park swastika graffiti, cops say">
+				Massapequa teen arrested in Brady Park swastika graffiti, cops say				</a>
+			</div>
+			<!--trending-posts-title-->
+		</li>
+		
+
+
+		<li class="post-21492 post type-post status-publish format-standard has-post-thumbnail hentry category-ny-news">
+		
+			<div class="trending-posts-title">
+			<div class="trending-posts-category">
+			<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+				<a href="http://newyorknews.press/2017/01/07/farmingdale-girl-sells-her-art-to-buy-a-diabetes-alert-dog/" title="Farmingdale girl sells her art to buy a diabetes alert dog">
+				Farmingdale girl sells her art to buy a diabetes alert dog				</a>
+			</div>
+			<!--trending-posts-title-->
+		</li>
+			</ul>
+</div>
+<!--most-commented-->
+
+</div></div>		</div>
+		<!--secondary-->
+	</div>
+	<!--post-->
+		<div class="fullwidth">
+		<div class="home-widget four-parts">
+						<h3>
+				<span class="widget-title">
+				RELATED BY				</span>
+			</h3>
+			<div class="blog-category">
+	<ul>			 				 
+											
+		<li>		
+			<div class="blog-post-image">
+								<a href="http://newyorknews.press/2017/03/11/geno-smith-former-jets-qb-visits-giants-source-says-new-york-news/" title="Geno Smith, former Jets QB, visits Giants, source says &#8211; New York News">
+				<img width="298" height="186" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13244554.1489273021!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-298x186.png" class="attachment-small-blog size-small-blog wp-post-image" alt="Placeholder by Nelio Content" />				</a>
+							</div>
+			<!--blog-post-image-->
+			<div class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+			<!--featured-category-->
+			<div class="blog-post-title-box">
+				<div class="blog-post-title">
+					<h2>
+						<a href="http://newyorknews.press/2017/03/11/geno-smith-former-jets-qb-visits-giants-source-says-new-york-news/">
+						Geno Smith, former Jets QB, visits Giants, source says &#8211; New York News						</a>
+					</h2>
+				</div>
+				<!--blog-post-title-->
+			</div>
+			<!--blog-post-title-box-->
+			<div class="blog-post-content">
+				One of the players with the potential to be the Jets’ starting quarterback in 2017 visited the Giants on Saturday to talk about becoming their backup. Geno Smith, the...			</div>
+			<!--blog-post-content-->
+		</li>											
+		<li>		
+			<div class="blog-post-image">
+								<a href="http://newyorknews.press/2017/03/11/national-meetamuslim-day-comes-to-long-island-new-york-city-new-york-news/" title="National #MeetaMuslim Day comes to Long Island, New York City &#8211; New York News">
+				<img width="298" height="186" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13245337.1489273419!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-298x186.png" class="attachment-small-blog size-small-blog wp-post-image" alt="Placeholder by Nelio Content" />				</a>
+							</div>
+			<!--blog-post-image-->
+			<div class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+			<!--featured-category-->
+			<div class="blog-post-title-box">
+				<div class="blog-post-title">
+					<h2>
+						<a href="http://newyorknews.press/2017/03/11/national-meetamuslim-day-comes-to-long-island-new-york-city-new-york-news/">
+						National #MeetaMuslim Day comes to Long Island, New York City &#8211; New York News						</a>
+					</h2>
+				</div>
+				<!--blog-post-title-->
+			</div>
+			<!--blog-post-title-box-->
+			<div class="blog-post-content">
+				Tourist Grayson Davidson had never met a Muslim before, and the 18-year-old nursing student was wondering about Islam’s stance on jihad and terrorism. She got answers about the religion...			</div>
+			<!--blog-post-content-->
+		</li>											
+		<li>		
+			<div class="blog-post-image">
+								<a href="http://newyorknews.press/2017/03/11/anti-trump-protests-town-halls-mirror-nationwide-movement-new-york-news/" title="Anti-Trump protests, town halls mirror nationwide movement &#8211; New York News">
+				<img width="298" height="186" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13243200.1489272920!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-298x186.png" class="attachment-small-blog size-small-blog wp-post-image" alt="Placeholder by Nelio Content" />				</a>
+							</div>
+			<!--blog-post-image-->
+			<div class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+			<!--featured-category-->
+			<div class="blog-post-title-box">
+				<div class="blog-post-title">
+					<h2>
+						<a href="http://newyorknews.press/2017/03/11/anti-trump-protests-town-halls-mirror-nationwide-movement-new-york-news/">
+						Anti-Trump protests, town halls mirror nationwide movement &#8211; New York News						</a>
+					</h2>
+				</div>
+				<!--blog-post-title-->
+			</div>
+			<!--blog-post-title-box-->
+			<div class="blog-post-content">
+				Nearly 200 constituents of Rep. Lee Zeldin (R-Shirley), some wearing pink hats symbolizing women&#8217;s resistance to President Donald Trump and a few in T-shirts reading #WhereIsZeldin, packed an East...			</div>
+			<!--blog-post-content-->
+		</li>											
+		<li>		
+			<div class="blog-post-image">
+								<a href="http://newyorknews.press/2017/03/11/long-island-red-cross-honors-longtime-volunteers-for-service-new-york-news/" title="Long Island Red Cross honors longtime volunteers for service &#8211; New York News">
+				<img width="298" height="186" style="background:url( http://cdn.newsday.com/polopoly_fs/1.13245311.1489272909!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg ) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size: cover;" src="http://newyorknews.press/wp-content/uploads/nc-efi-placeholder-298x186.png" class="attachment-small-blog size-small-blog wp-post-image" alt="Placeholder by Nelio Content" />				</a>
+							</div>
+			<!--blog-post-image-->
+			<div class="category-icon">
+				<a href="http://newyorknews.press/category/ny-news/" title="New York News">New York News</a>			</div>
+			<!--featured-category-->
+			<div class="blog-post-title-box">
+				<div class="blog-post-title">
+					<h2>
+						<a href="http://newyorknews.press/2017/03/11/long-island-red-cross-honors-longtime-volunteers-for-service-new-york-news/">
+						Long Island Red Cross honors longtime volunteers for service &#8211; New York News						</a>
+					</h2>
+				</div>
+				<!--blog-post-title-->
+			</div>
+			<!--blog-post-title-box-->
+			<div class="blog-post-content">
+				Manhasset H.S. students (L-R) Jarred Gudino, Jai Nanda and Michaela Ryan represented their school while accepting the Outstanding Red Cross High School Club award. Presenting the award is Neela...			</div>
+			<!--blog-post-content-->
+		</li></ul>
+</div>
+		</div>
+		<!--home-widget-->
+	</div>
+	<!--fullwidth-->
+		</div>
+<!--main-->
+
+</section>
+<!--wrapper-->
+<footer id="footer">
+	<div class="footer-wrap">
+		<div class="footer-logo">
+			<a href="http://newyorknews.press/">
+				<img src="http://newyorknews.press/wp-content/uploads/2016/12/ny-footer.png" alt="New York News &#8211; Check out the latest news in New York State, USA"/>
+			</a>
+		</div>
+		<!--footer-logo-->
+		<nav id="bottom-menu">
+			<div class="menu-menu-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-43600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43600"><a href="/">Home</a></li>
+<li id="menu-item-43601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43601"><a href="http://www.estuff.press" target="_blank">Just Stuff</a></li>
+</ul></div>		</nav>
+		<!--bottom-menu-->
+		
+				
+	</div>
+	<!--footer-wrap-->
+	<div class="copyright">
+		<div class="copyright-text">
+			Copyright New York News dot Press &amp; Content Partners		</div>
+		<!--copyright-text-->
+	</div>
+	<!--copyright-->
+</footer>
+<!--footer-->
+<script type='text/javascript' src='http://newyorknews.press/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-includes/js/comment-reply.min.js?ver=4.6.4'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://newyorknews.press/wp-includes/js/wp-embed.min.js?ver=4.6.4'></script>
+</body></html>

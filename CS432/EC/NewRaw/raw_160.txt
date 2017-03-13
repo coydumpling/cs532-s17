@@ -1,0 +1,2300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="google-site-verification" content="VaT09od_m69q77tbFHjXppJTV8j93dzeiYX7O02gdoQ" />
+  <meta name="msvalidate.01" content="8429C9952F37B2B65CC96117F6603B67" />
+  <meta name="MobileOptimized" content="width" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="theme-color" content="#333333" />
+  <link rel="apple-touch-icon" href="/sites/all/themes/zero_hedge/images/favicon.png" />
+  <title>The $74 Trillion Global Economy In One Chart | Zero Hedge</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@zerohedge">
+<meta name="twitter:title" content="The $74 Trillion Global Economy In One Chart">
+<meta name="twitter:description" content="Still #1...
+
+">
+<meta name="twitter:image:src" content="http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/20170223_gdp1.jpg">
+<meta name="description" content="Still #1..." />
+<meta name="dcterms.description" content="Still #1..." />
+<meta name="keywords" content="Zero Hedge,Zerohedge,Finance,Economics,Markets,Politics,Analysis,Global Economy,World Bank" />
+<meta name="dcterms.date" content="2013-01-07T00:00:00Z" />
+<link rel="canonical" href="http://www.zerohedge.com/news/2017-02-23/74-trillion-global-economy-one-chart" />
+<meta name="revisit-after" content="1 day" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+          <link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/arrowchat/external.php?type=css" charset="utf-8" />
+      <script type="text/javascript" src="/arrowchat/includes/js/jquery.js"></script>
+      <script type="text/javascript" src="/arrowchat/includes/js/jquery-ui.js"></script>
+              <script aynsc type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.5/socket.io.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/1.4.0/postscribe.min.js"></script>
+
+    <script type="text/javascript">
+     var $jq = jQuery.noConflict(true);
+    </script>
+  <script type="text/javascript" src="http://www.zerohedge.com/sites/default/files/js/js_28242e83e87057ea7135884da8e2e728.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","bu":{"firefox":27,"ie":9,"opera":11,"safari":6,"text":"","reminder":0,"debug":false,"blank":false},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"user_relationships_ui":{"loadingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/loadingAnimation.gif","savingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/savingimage.gif","position":{"position":"absolute","left":"0","top":"0"}},"OpenCalaisTopics":["Business"],"adTest":null,"adSwitch":0,"isProduction":true});
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.zerohedge.com/sites/default/files/css/css_feca45d80be49968ed4d82692e3d0280.css" />
+</head>
+<body class="sidebar-left sidebar-right not-front">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T6SHNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T6SHNP');</script>
+<!-- End Google Tag Manager -->
+
+  <div id="mobile-menu-container">
+    <section id="mobile-search-container">
+      <div class="block block-zh_glue" id="block-zh_glue-mobile_search">
+    <div class="content"><form accept-charset="UTF-8"
+      action="/search/apachesolr_search/"
+      class="mobile-search-form"
+      id="mobile-search-form"
+      method="post"
+      size="28">
+  <div class="input-wrapper">
+    <input
+      class="form-text"
+      id="mobile-search-input"
+      maxlength="255"
+      name="keys"
+      size="28"
+      type="text"
+      value=""
+      placeholder="search zerohedge"
+    />
+  </div>
+  <input
+    class="form-submit"
+    id="mobile-search-submit"
+    size="32"
+    type="submit"
+  />
+</form></div></div>
+    </section>
+    <nav id="mobile-menu">
+      <ul class="links primary-links"><li class="menu-10984 first"><a href="/user/login" title="">login</a></li>
+<li class="menu-186"><a href="/" title="ZeroHedge">home</a></li>
+<li class="menu-6483"><a href="http://www.cafepress.com/zerohedge" title="">store</a></li>
+<li class="menu-10167"><a href="/article/zero-hedge-logo-tee" title="">zh-tshirt</a></li>
+<li class="menu-7335"><a href="/taxonomy_vtn/voc/3" title="">glossary</a></li>
+<li class="menu-5895"><a href="/archive" title="">archive</a></li>
+<li class="menu-10168"><a href="/content/zero-hedge-manifesto" title="">manifesto</a></li>
+<li class="menu-6484"><a href="http://feeds.feedburner.com/zerohedge/feed" title="">rss</a></li>
+<li class="menu-9588"><a href="/donate" title="Support ZeroHedge">donate</a></li>
+<li class="0"><a href="/contributing-editors">contributors</a></li>
+<li class="1 last"><a href="http://zerohedge-newsletter.iclnd.com/">newsletter</a></li>
+</ul>    </nav>
+  </div>
+
+  <div id="page">
+    <div id="header-container">
+      <header id="site-header" class="Fixed">
+        <a id="mmenu-button"><span></span></a>
+        <nav class="desktop-menu">
+          <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/contributing-editors" title="">Contributors</a></li>
+<li class="leaf"><a href="http://zerohedge-newsletter.iclnd.com/" title="">Newsletter</a></li>
+<li class="leaf"><a href="/donate" title="">Donate</a></li>
+<li class="expanded last"><a href="/" title="">More</a><ul class="menu"><li class="leaf first"><a href="http://www.cafepress.com/zerohedge" title="">Store</a></li>
+<li class="leaf"><a href="/article/zero-hedge-logo-tee" title="">ZH-TShirt</a></li>
+<li class="leaf"><a href="/taxonomy_vtn/voc/3" title="">Glossary</a></li>
+<li class="leaf"><a href="/archive" title="">Archive</a></li>
+<li class="leaf"><a href="/content/zero-hedge-manifesto" title="">Manifesto</a></li>
+<li class="leaf last"><a href="http://feeds.feedburner.com/zerohedge/feed" title="">RSS</a></li>
+</ul></li>
+</ul>        </nav>
+        <a href="http://www.zerohedge.com" class="header-logo">
+            <img class="logo-mobile" alt="ZeroHedge" src="/sites/all/themes/zero_hedge/images/logo_mobile.svg">
+            <img class="logo-full" alt="ZeroHedge" src="/sites/all/themes/zero_hedge/images/logo_full.svg">
+        </a>
+      </header>
+    </div>
+
+    <div class="page-inner">
+      <div class="ad-header-container">
+        <div id="ad-header-tablet" class="ad-container ad-banner-horizontal"></div>
+        <div id="ad-header-desktop" class="ad-container ad-banner-horizontal"></div>
+      </div>
+      <div id="ad-mobile-leaderboard"></div>
+      <div class="view view-featured-posts view-id-featured_posts view-display-id-default view-dom-id-2">
+        
+    
+    
+            <div class="slider view-content">
+              <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="node node-type-blog node-teaser node-nid-590084 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/therealfly" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-234204.jpg" alt="The_Real_Fly&#039;s picture" title="The_Real_Fly&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2017-03-10/former-congressman-dennis-kucinich-warns-congress-cia-wiretaps-are-real-and-it-happe">
+            Former Congressman Dennis Kucinich Warns Congress that CIA Wiretaps Are Real and It Happened to Him          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/therealfly" title="View user profile.">The_Real_Fly</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Mar 10, 2017 7:16 PM">Mar 10, 2017 7:16 PM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p>Redpills will be handed out until morale improves.</p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="node node-type-blog node-teaser node-nid-589957 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/goldcore" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-44273.jpg" alt="GoldCore&#039;s picture" title="GoldCore&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2017-03-10/gold-10000-coming-time-prepare-now">
+            Gold $10,000 Coming - &quot;Time To Prepare Is Now&quot;          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/goldcore" title="View user profile.">GoldCore</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Mar 11, 2017 9:00 AM">Mar 11, 2017 9:00 AM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p><span>"Plenty of potential geopolitical shocks that could threaten the current system ... Future of the European Union into grave doubt...&nbsp;The time to prepare is now"</span></p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <article class="node node-type-blog node-teaser node-nid-589967 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/zeropointnow" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-237925.jpg" alt="ZeroPointNow&#039;s picture" title="ZeroPointNow&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2017-03-10/weaponized-autism-stupid-shia-labeouf-livestreams-hwndu-flag-remote-tennessee-field-">
+            Shia LaBeouf LiveStreams HWNDU Flag In Remote Tennessee Field - 4Chan Finds In Less Than 24 Hours          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/zeropointnow" title="View user profile.">ZeroPointNow</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Mar 10, 2017 7:38 AM">Mar 10, 2017 7:38 AM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p>Kek willed it...</p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+        </div>
+    
+    
+    
+    
+    
+    
+</div>       <main>
+        <section class="article-list">
+                      <h1 class="title">The $74 Trillion Global Economy In One Chart</h1>
+                    <section class='messages-holder'>
+                      </section>
+          <div class="tabs"></div>
+          <script>
+  function my_addtoany_onready() {
+    $('.button_email').show();
+    $('.button_print').show();
+  }
+  var a2a_config = a2a_config || {};
+  a2a_config.callbacks = a2a_config.callbacks || [];
+  a2a_config.callbacks.push({
+    ready: my_addtoany_onready
+  });
+</script>
+<script type="text/javascript" async src="//static.addtoany.com/menu/page.js"></script>
+<section class="node node-type-story node-full node-nid-588827">
+  <div class="sub-title-box">
+    <div class="top-section">
+      <div class="picture">
+  <a href="/users/tyler-durden" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-5.jpg" alt="Tyler Durden&#039;s picture" title="Tyler Durden&#039;s picture"  /></a></div>
+      <div class="submitted">
+        <div class="submitted_username">
+          by <a href="/users/tyler-durden" title="View user profile.">Tyler Durden</a>        </div>
+        <div class="submitted_datetime">
+           <span title="Feb 23, 2017 10:55 PM">Feb 23, 2017 10:55 PM</span>        </div>
+      </div>
+    </div>
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#222">
+            <div class="total-share-count-container">
+        <div class="aggregate-share-count">0</div>
+        <div class="label">SHARES</div>
+      </div>
+            <a class="a2a_button_twitter"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_reddit"></a>
+      <a class="button_email" target='_blank' href=/printmail/588827>
+        <span class="a2a_svg a2a_w__default a2a_w_email">
+          <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+            <path fill="#FFF" d="M26 21.25v-9s-9.1 6.35-9.984 6.68C15.144 18.616 6 12.25 6 12.25v9c0 1.25.266 1.5 1.5 1.5h17c1.266 0 1.5-.22 1.5-1.5zm-.015-10.765c0-.91-.265-1.235-1.485-1.235h-17c-1.255 0-1.5.39-1.5 1.3l.015.14s9.035 6.22 10 6.56c1.02-.395 9.985-6.7 9.985-6.7l-.015-.065z"></path>
+          </svg>
+        </span>
+      </a>
+      <a class="button_print" target='_blank' href=/print/588827>
+        <span class="a2a_svg a2a_w__default a2a_w_print">
+          <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+            <path d="M22.5 19.59V24h-13v-4.41z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path>
+            <path d="M9.44 21.12H6.38a.8.8 0 0 1-.87-.7v-7.35a.8.8 0 0 1 .88-.7h19.23a.8.8 0 0 1 .88.7v7.35a.8.8 0 0 1-.88.7h-3.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path>
+            <path d="M22.5 12.32V8h-13v4.28" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"></path>
+          </svg>
+        </span>
+      </a>
+    </div>
+  </div>
+  <div class="content"><p>The latest GDP numbers from the <a href="http://data.worldbank.org/data-catalog/GDP-ranking-table">World Bank</a> were released earlier this month, and today&rsquo;s visualization from <a href="https://howmuch.net/articles/the-global-economy-by-GDP">HowMuch.net</a> breaks them down to show the<strong> relative share of the global economy for each country. </strong></p>
+<p><a href="http://www.visualcapitalist.com/74-trillion-global-economy-one-chart/"><em>As Visual Capitalist&#39;s Jeff Desjardins explains,</em></a> the full circle, known as a Voronoi Diagram, <strong>represents the entirety of the $74 trillion global economy in nominal terms.</strong> Meanwhile, each country&rsquo;s segment is sized accordingly to their percentage of global GDP output. Continents are also grouped together and sorted by color.</p>
+<div style="clear:both"><a href="http://www.visualcapitalist.com/74-trillion-global-economy-one-chart/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/02/global-economy-one-chart.png" style="border-width: 0px; border-style: solid; height: 515px; width: 601px;" /></a></div>
+<div><em>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></em></div>
+<p>&nbsp;</p>
+<p>Here is the data for the Top 20 Countries in table form:</p>
+<p><a href="http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/2017/02/19/20170223_gdp.jpg"><img height="731" src="http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/2017/02/19/20170223_gdp_0.jpg" width="600" /></a></p>
+
+
+</div>
+  <div class="node-links">
+          <div class="taxonomy-links">
+        <ul class="links"><li class="0 first"><a href="/category/tags/world-bank" rel="tag" title="">World Bank</a></li>
+<li class="1 last"><a href="/category/tags/global-economy" rel="tag" title="">Global Economy</a></li>
+</ul>      </div>
+        <div class="counter-comment-container">
+      <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=588827 created=1487908500 increment=true></span></span></li>
+<li class="print_html"><a href="/print/588827" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow">Printer-friendly version</a></li>
+<li class="link-created"><span><span title="Feb 23, 2017 10:55 PM">Feb 23, 2017 10:55 PM</span></span></li>
+<li class="link-comments last active"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comments" title="Jump to the first comment of this posting." class="active">98</a></li>
+</ul>    </div>
+    <!-- Start outbrain code -->
+    <div id="outbrain" class="similar-box"></div>
+    <!-- end outbrain code -->
+  </div>
+</section>
+<div id="outbrain-alternate"></div>
+<div id="comments">
+  <form action="/news/2017-02-23/74-trillion-global-economy-one-chart%0A"  accept-charset="UTF-8" method="post" id="comment-controls">
+<div><div class="box">
+
+  <h2>Comment viewing options</h2>
+
+  <div class="content"><div class="container-inline"><input type="hidden" name="form_build_id" id="form-LuVw83FDysIoB74Ryd-Lml9kcyEM8QUKVBTasd9NkNw" value="form-LuVw83FDysIoB74Ryd-Lml9kcyEM8QUKVBTasd9NkNw"  />
+<input type="hidden" name="form_id" id="edit-comment-controls" value="comment_controls"  />
+<div class="form-item" id="edit-mode-wrapper">
+ <select name="mode" class="form-select" id="edit-mode" ><option value="1">Flat list - collapsed</option><option value="2">Flat list - expanded</option><option value="3">Threaded list - collapsed</option><option value="4" selected="selected">Threaded list - expanded</option></select>
+</div>
+<div class="form-item" id="edit-order-wrapper">
+ <select name="order" class="form-select" id="edit-order" ><option value="1">Date - newest first</option><option value="2" selected="selected">Date - oldest first</option></select>
+</div>
+<div class="form-item" id="edit-comments-per-page-wrapper">
+ <select name="comments_per_page" class="form-select" id="edit-comments-per-page" ><option value="10">10 comments per page</option><option value="30">30 comments per page</option><option value="50" selected="selected">50 comments per page</option><option value="70">70 comments per page</option><option value="90">90 comments per page</option><option value="150">150 comments per page</option><option value="200">200 comments per page</option><option value="250">250 comments per page</option><option value="300">300 comments per page</option></select>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Save settings"  class="form-submit" />
+</div><div class="description">Select your preferred way to display the comments and click "Save settings" to activate your changes.</div></div>
+</div>
+
+</div></form>
+<a id="comment-9074364"></a>
+
+<div class="comment" id="comment-9074364">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/ersatz007" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-196767.jpg" alt="ersatz007&#039;s picture" title="ersatz007&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/ersatz007" title="View user profile.">ersatz007</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074364" class="active"><span title="Feb 23, 2017 10:59 PM">Feb 23, 2017 10:59 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I thought China overtook the US a couple years ago?</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074380"></a>
+
+<div class="comment" id="comment-9074380">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074364">
+          <i class="fa fa-share"></i>
+          ersatz007        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074380" class="active"><span title="Feb 23, 2017 11:03 PM">Feb 23, 2017 11:03 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>On a PPP basis, it did. But the US economy in nominal terms dominates the world. Which is why Trump can do just exactly as he wants with tariffs etc because ROW sytill needs access to the world's largest market. ROW will just have to suck it up...</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074422"></a>
+
+<div class="comment" id="comment-9074422">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/peddling-fiction" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220605.jpg" alt="peddling-fiction&#039;s picture" title="peddling-fiction&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074380">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074422" class="active"><span title="Feb 23, 2017 11:17 PM">Feb 23, 2017 11:17 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>74 trillion. LMFAO.&nbsp;</p>
+<p>Shadow groups have 500T.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074445"></a>
+
+<div class="comment" id="comment-9074445">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/38bwd22" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-212379.png" alt="38BWD22&#039;s picture" title="38BWD22&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/38bwd22" title="View user profile.">38BWD22</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074422">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074445" class="active"><span title="Feb 23, 2017 11:20 PM">Feb 23, 2017 11:20 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Not to piss anyone off here, but Bitcoin just crossed $1200:</p>
+<p>ounce.me &nbsp; &lt;=== shows PM prices too, my favorite everyday lil ol tool</p>
+<p>preev.com</p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074489"></a>
+
+<div class="comment" id="comment-9074489">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074445">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074489" class="active"><span title="Feb 23, 2017 11:35 PM">Feb 23, 2017 11:35 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Largely due to the lack of leveraged paper futures markets which can be manipulated by Central banks. If you want to buy a BTC you need cash; if you want to sell a BTC you need a BTC!!</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074495"></a>
+
+<div class="comment" id="comment-9074495">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/jackt" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="JackT&#039;s picture" title="JackT&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/jackt" title="View user profile.">JackT</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074489">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074495" class="active"><span title="Feb 23, 2017 11:35 PM">Feb 23, 2017 11:35 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>And it's all USD since most have "reinvested" their debt into the system of sickness. </p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074570"></a>
+
+<div class="comment" id="comment-9074570">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/saucy-jack" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-27126.jpg" alt="Saucy-Jack&#039;s picture" title="Saucy-Jack&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/saucy-jack" title="View user profile.">Saucy-Jack</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074489">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074570" class="active"><span title="Feb 23, 2017 11:58 PM">Feb 23, 2017 11:58 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Don't worry. They'll synthesize btc in no time and what's anybody going to do about it?</p>
+<p>Will hackers crash the paper btc markets with denial of service attacks until they fold?</p>
+<p>If not, btc will get fucked by Wall Street just like everthing else that starts out good and decent.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074789"></a>
+
+<div class="comment" id="comment-9074789">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074570">
+          <i class="fa fa-share"></i>
+          Saucy-Jack        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074789" class="active"><span title="Feb 24, 2017 1:27 AM">Feb 24, 2017 1:27 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I hope you are wrong but I fear you are right, which is why my exposure to BTC is limited. These Central Bankers are legends in their own minds and to see something like BTC which represents a "way out" for Joe Public must irritate the shit out of them. And I'm sure they are studying all sorts of possibilities to get BTC back "in line" where they think it belongs. If they can ban cash they are more than capable of banning BTC?</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074804"></a>
+
+<div class="comment" id="comment-9074804">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/kochevnik" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-225564.jpg" alt="kochevnik&#039;s picture" title="kochevnik&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/kochevnik" title="View user profile.">kochevnik</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074789">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074804" class="active"><span title="Feb 24, 2017 1:35 AM">Feb 24, 2017 1:35 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>BTC is just the prototype.&nbsp; Bugs like unconfirmed transactions.&nbsp; Dash has gone from $4 to $25 in a year, for example</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9075025"></a>
+
+<div class="comment" id="comment-9075025">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/limited-man" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="limited man&#039;s picture" title="limited man&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/limited-man" title="View user profile.">limited man</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074804">
+          <i class="fa fa-share"></i>
+          kochevnik        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075025" class="active"><span title="Feb 24, 2017 3:56 AM">Feb 24, 2017 3:56 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I'm making over $7k a month working part time. I kept hearing other people tell me how much money they can make online so I decided to look into it. Well, it was all true and has totally changed my life. This is what I do... <a href="http://bit.ly/2jdTzrM" title="http://bit.ly/2jdTzrM" rel="nofollow">http://bit.ly/2jdTzrM</a></p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9075298"></a>
+
+<div class="comment" id="comment-9075298">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/tocointhephrase" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-64350.jpg" alt="tocointhephrase&#039;s picture" title="tocointhephrase&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/tocointhephrase" title="View user profile.">tocointhephrase</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9075025">
+          <i class="fa fa-share"></i>
+          limited man        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075298" class="active"><span title="Feb 24, 2017 6:21 AM">Feb 24, 2017 6:21 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>THE EARTH IS FLAT!</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div></div><a id="comment-9075960"></a>
+
+<div class="comment" id="comment-9075960">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/divingengineer" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-165973.jpg" alt="divingengineer&#039;s picture" title="divingengineer&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/divingengineer" title="View user profile.">divingengineer</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074570">
+          <i class="fa fa-share"></i>
+          Saucy-Jack        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075960" class="active"><span title="Feb 24, 2017 9:01 AM">Feb 24, 2017 9:01 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Coming soon, Direxion BTC 3X, or some such nonsense.<br />
+You get the Idea, some asshole will create a CDO or an even more exotic "financial instrument" sooner or later.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div><a id="comment-9074513"></a>
+
+<div class="comment" id="comment-9074513">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/peddling-fiction" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220605.jpg" alt="peddling-fiction&#039;s picture" title="peddling-fiction&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074445">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074513" class="active"><span title="Feb 23, 2017 11:40 PM">Feb 23, 2017 11:40 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>38/22</p>
+<p>Do you still have some?</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074597"></a>
+
+<div class="comment" id="comment-9074597">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/38bwd22" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-212379.png" alt="38BWD22&#039;s picture" title="38BWD22&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/38bwd22" title="View user profile.">38BWD22</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074513">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074597" class="active"><span title="Feb 24, 2017 12:05 AM">Feb 24, 2017 12:05 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Oh yeah... &nbsp;Not a whole lot, but enough so I have "skin in the game".</p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074618"></a>
+
+<div class="comment" id="comment-9074618">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/peddling-fiction" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220605.jpg" alt="peddling-fiction&#039;s picture" title="peddling-fiction&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074597">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074618" class="active"><span title="Feb 24, 2017 12:13 AM">Feb 24, 2017 12:13 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Still interested in Bolivia?&nbsp;</p>
+<p>The railway from ilo to santos through bolivia will change this region. And Paraguay.</p>
+<p>¿Cómo te puedo ayudar?</p>
+<p>Avísame.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074685"></a>
+
+<div class="comment" id="comment-9074685">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/38bwd22" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-212379.png" alt="38BWD22&#039;s picture" title="38BWD22&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/38bwd22" title="View user profile.">38BWD22</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074618">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074685" class="active"><span title="Feb 24, 2017 12:43 AM">Feb 24, 2017 12:43 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Hmm. &nbsp;Let me ponder that. &nbsp; I had not seen the news re a new railway.</p>
+<p>Wikipedia has this (info from various times in 2014):</p>
+<p><a href="https://en.wikipedia.org/wiki/Central_Bi-Oceanic_railway" title="https://en.wikipedia.org/wiki/Central_Bi-Oceanic_railway" rel="nofollow">https://en.wikipedia.org/wiki/Central_Bi-Oceanic_railway</a></p>
+<p>Ah, here we go re newer info. &nbsp;From Nov. 2016, China wants in:</p>
+<p><a href="http://www.efe.com/efe/english/world/peru-ready-to-help-bolivia-with-access-pacific/50000262-3088123" title="http://www.efe.com/efe/english/world/peru-ready-to-help-bolivia-with-access-pacific/50000262-3088123" rel="nofollow">http://www.efe.com/efe/english/world/peru-ready-to-help-bolivia-with-acc...</a></p>
+<p>&nbsp;</p>
+<p><strong>Good eye there, p-f! &nbsp;Gmail me sometime at my dochen addy.</strong></p>
+<p>&nbsp;</p>
+<p>EDIT: That road from Peru's coast over the mountains and through the jungle to Brazil seems to be moving the freight. &nbsp;Imagine what a railroad could do re raw materials from Brazil (etc.) going to <strong>CHINA</strong>...</p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074705"></a>
+
+<div class="comment" id="comment-9074705">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/peddling-fiction" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220605.jpg" alt="peddling-fiction&#039;s picture" title="peddling-fiction&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074685">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074705" class="active"><span title="Feb 24, 2017 12:48 AM">Feb 24, 2017 12:48 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I will. Germany and Austria and others are piling onto the bandwagon.</p>
+<p>Will send info. Let's talk after that.</p>
+<p>Parece un hecho&nbsp;</p>
+<p>Y me da gusto por todos.</p>
+<p>Sí, tiene que ver con los Chinos también.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074734"></a>
+
+<div class="comment" id="comment-9074734">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/38bwd22" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-212379.png" alt="38BWD22&#039;s picture" title="38BWD22&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/38bwd22" title="View user profile.">38BWD22</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074705">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074734" class="active"><span title="Feb 24, 2017 12:53 AM">Feb 24, 2017 12:53 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Just in case you only have my ameru... gmail addy, that's OK too.</p>
+<p>We'll be in Lima in May.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074751"></a>
+
+<div class="comment" id="comment-9074751">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/peddling-fiction" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220605.jpg" alt="peddling-fiction&#039;s picture" title="peddling-fiction&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074734">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074751" class="active"><span title="Feb 24, 2017 1:04 AM">Feb 24, 2017 1:04 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>38/22</p>
+<p>Things are changing in our world.</p>
+<p>We need to be flexible but also clear in our ideals.</p>
+<p>Bolivia is a hybrid combo of entreprenuers and very basic social programs that were not existent when the right had the power. More importantly GDP has risen dramatically with Evo Morales here.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074807"></a>
+
+<div class="comment" id="comment-9074807">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/sixisnine" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-208332.jpg" alt="SixIsNinE&#039;s picture" title="SixIsNinE&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/sixisnine" title="View user profile.">SixIsNinE</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074751">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074807" class="active"><span title="Feb 24, 2017 1:38 AM">Feb 24, 2017 1:38 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>hey PF - if you're down South you won't have to worry about this, but check this out about the push to move 5G rollout in USA this year, 2017 :</p>
+<p><a href="https://www.youtube.com/watch?v=OMxfffqyDtc  " title="https://www.youtube.com/watch?v=OMxfffqyDtc  " rel="nofollow">https://www.youtube.com/watch?v=OMxfffqyDtc  </a> -&nbsp; the person presenting 5G says that they have plans to use this 24-100GHZ in ways we can't even imagine.&nbsp;</p>
+<p>since you reference gangstalking&nbsp;&nbsp; i think this will be of interest.&nbsp;</p>
+<p>Also, check this podcast :&nbsp; <a href="http://truthfrequencyradio.com/the-kev-baker-show-70539/   " title="http://truthfrequencyradio.com/the-kev-baker-show-70539/   " rel="nofollow">http://truthfrequencyradio.com/the-kev-baker-show-70539/   </a> -&nbsp; <span id="custom_desc">Eric joins us  tonight to talk about topics that has seen him become what is known as a  targetted individual. Tonight we are going to learn all about the  psychological operations &amp; electronic warfare that is part of a  citizen neutralisation program that has been around for decades. </span></p>
+<p>We get into the history of these mind control programs going back to  the Nazi’s and connecting the dots to present day. This is how the  global cabal are controlling the worlds population and steering them  into a satanic new world order.</p>
+<p>We will be conducting a series of shows with Dr Karlstrom as this is  far to extensive &amp; important a topic to cram into one hour.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div></div><a id="comment-9075410"></a>
+
+<div class="comment" id="comment-9075410">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/kahplunk" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-233486.jpg" alt="kahplunk&#039;s picture" title="kahplunk&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/kahplunk" title="View user profile.">kahplunk</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074685">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075410" class="active"><span title="Feb 24, 2017 7:04 AM">Feb 24, 2017 7:04 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p><a href="http://globalriskinsights.com/2015/05/south-americas-bi-oceanic-railway/" rel="nofollow">http://globalriskinsights.com/2015/05/south-americas-bi-oceanic-railway/</a></p>
+<p>found this also Thanks for the insight</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div></div></div><a id="comment-9074794"></a>
+
+<div class="comment" id="comment-9074794">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/sixisnine" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-208332.jpg" alt="SixIsNinE&#039;s picture" title="SixIsNinE&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/sixisnine" title="View user profile.">SixIsNinE</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074445">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074794" class="active"><span title="Feb 24, 2017 1:30 AM">Feb 24, 2017 1:30 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>ZH posted several articles last summer/fall that bitcoin was going up.&nbsp;&nbsp;&nbsp; hope some zeros made some coin</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9075339"></a>
+
+<div class="comment" id="comment-9075339">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/kahplunk" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-233486.jpg" alt="kahplunk&#039;s picture" title="kahplunk&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/kahplunk" title="View user profile.">kahplunk</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074794">
+          <i class="fa fa-share"></i>
+          SixIsNinE        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075339" class="active"><span title="Feb 24, 2017 6:33 AM">Feb 24, 2017 6:33 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I chickened out when it was 100 bucks so pissed</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9075296"></a>
+
+<div class="comment" id="comment-9075296">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/tocointhephrase" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-64350.jpg" alt="tocointhephrase&#039;s picture" title="tocointhephrase&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/tocointhephrase" title="View user profile.">tocointhephrase</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074445">
+          <i class="fa fa-share"></i>
+          38BWD22        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075296" class="active"><span title="Feb 24, 2017 6:20 AM">Feb 24, 2017 6:20 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>ZEROHEDGE....THE EARTH IS FLAT. GLOBAL IS A LIE!</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074821"></a>
+
+<div class="comment" id="comment-9074821">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/east-indian" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-215649.png" alt="East Indian&#039;s picture" title="East Indian&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/east-indian" title="View user profile.">East Indian</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074422">
+          <i class="fa fa-share"></i>
+          peddling-fiction        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074821" class="active"><span title="Feb 24, 2017 1:44 AM">Feb 24, 2017 1:44 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>When the zeroes and ones you create out of your computer are accepted as money, you can have $5,000,000,000,000,000,000,000,000,000,000,000,000,000,000 gazillions trillion billions.&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9075020"></a>
+
+<div class="comment" id="comment-9075020">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/lucitanian" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-210197.jpg" alt="lucitanian&#039;s picture" title="lucitanian&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/lucitanian" title="View user profile.">lucitanian</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074380">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075020" class="active"><span title="Feb 24, 2017 3:53 AM">Feb 24, 2017 3:53 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>"Trump can do just exactly as he wants"</p>
+<p>Not really. With over 60 Trillion in combined public and private debt, about 322 % of GDP, and an exposure to inflated derivatives market of abt 280 T with 6 major US banks holding 90% with risks averaging 27 times their asset value, it's more like the cartoon, where Coyote is sitting on the edge of the precipice watching it crumble (rising interest rates), but not so funny.</p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9078709"></a>
+
+<div class="comment" id="comment-9078709">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/i-feel-little-qeasy" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="I Feel a little Qeasy&#039;s picture" title="I Feel a little Qeasy&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/i-feel-little-qeasy" title="View user profile.">I Feel a little...</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074380">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9078709" class="active"><span title="Feb 24, 2017 3:53 PM">Feb 24, 2017 3:53 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>I can assure you that you are talking high quality BOLLOX. No-one in the rest of the world needs you theiving murdering narcisistic fuck-wits, you're kidding yourself. The worlds 'largest market' as you call it will be gone the instant you can't force other nations to pay for trade in your ass-wipe dollars. Not long now cunt. Suck that up.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074417"></a>
+
+<div class="comment" id="comment-9074417">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/gus100corrina" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-197867.png" alt="GUS100CORRINA&#039;s picture" title="GUS100CORRINA&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/gus100corrina" title="View user profile.">GUS100CORRINA</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074364">
+          <i class="fa fa-share"></i>
+          ersatz007        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074417" class="active"><span title="Feb 23, 2017 11:27 PM">Feb 23, 2017 11:27 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Interesting chart ... America looks to be way ahead of CHINA.</p>
+<p>My question: How can that be?</p>
+<p>Something does not look right.</p>
+<p>Below is the debt picture.</p>
+<p><a href="https://www.google.com/imgres?imgurl=http://static4.businessinsider.com/image/55ce3a87371d22723a8bdcb8-1070-1466/world-debt-60-trillion-infographic.jpg&amp;imgrefurl=http://www.businessinsider.com/graph-worlds-debt-share-by-country-2015-8&amp;h=1466&amp;w=1070&amp;tbnid=5fE7DAcr-4sjXM:&amp;vet=1&amp;tbnh=160&amp;tbnw=116&amp;docid=Pz09cieCsG-UoM&amp;usg=__W4vgBEs3oIQTvDktQE6mRB7myoc=&amp;sa=X&amp;ved=0ahUKEwjQy5qz8KfSAhUQwmMKHYIYBe0Q9QEIHjAA#h=1466&amp;imgrc=5fE7DAcr-4sjXM:&amp;tbnh=160&amp;tbnw=116&amp;vet=1&amp;w=1070" title="https://www.google.com/imgres?imgurl=http://static4.businessinsider.com/image/55ce3a87371d22723a8bdcb8-1070-1466/world-debt-60-trillion-infographic.jpg&amp;imgrefurl=http://www.businessinsider.com/graph-worlds-debt-share-by-country-2015-8&amp;h=1466&amp;w=1070&amp;tbnid=5fE7DAcr-4sjXM:&amp;vet=1&amp;tbnh=160&amp;tbnw=116&amp;docid=Pz09cieCsG-UoM&amp;usg=__W4vgBEs3oIQTvDktQE6mRB7myoc=&amp;sa=X&amp;ved=0ahUKEwjQy5qz8KfSAhUQwmMKHYIYBe0Q9QEIHjAA#h=1466&amp;imgrc=5fE7DAcr-4sjXM:&amp;tbnh=160&amp;tbnw=116&amp;vet=1&amp;w=1070" rel="nofollow">https://www.google.com/imgres?imgurl=http://static4.businessinsider.com/...</a></p>
+<p><strong>AMERICA IS ALSO THE LARGEST DEBTOR NATION BY FAR AS WELL!!!</strong></p>
+<p><strong>No wonder President TRUMP is so concerned about the US finances and debt. America's finances are a CLEAR and PRESENT DANGER to the survival of the republic.</strong></p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074509"></a>
+
+<div class="comment" id="comment-9074509">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/jackt" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="JackT&#039;s picture" title="JackT&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/jackt" title="View user profile.">JackT</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074417">
+          <i class="fa fa-share"></i>
+          GUS100CORRINA        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074509" class="active"><span title="Feb 23, 2017 11:39 PM">Feb 23, 2017 11:39 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>#winning is good...right? USA! USA! USA! </p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074726"></a>
+
+<div class="comment" id="comment-9074726">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/roddy6667" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-54961.jpg" alt="roddy6667&#039;s picture" title="roddy6667&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/roddy6667" title="View user profile.">roddy6667</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074417">
+          <i class="fa fa-share"></i>
+          GUS100CORRINA        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074726" class="active"><span title="Feb 24, 2017 12:51 AM">Feb 24, 2017 12:51 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>See my post about the numbers.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074447"></a>
+
+<div class="comment" id="comment-9074447">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/uhland62" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-215549.jpg" alt="uhland62&#039;s picture" title="uhland62&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/uhland62" title="View user profile.">uhland62</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074364">
+          <i class="fa fa-share"></i>
+          ersatz007        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074447" class="active"><span title="Feb 23, 2017 11:21 PM">Feb 23, 2017 11:21 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Maybe these figures are from a good years from the US, i.e. good weapons sales and increased payments by overseas countries for the bases?&nbsp;</p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074715"></a>
+
+<div class="comment" id="comment-9074715">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/roddy6667" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-54961.jpg" alt="roddy6667&#039;s picture" title="roddy6667&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/roddy6667" title="View user profile.">roddy6667</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074364">
+          <i class="fa fa-share"></i>
+          ersatz007        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074715" class="active"><span title="Feb 24, 2017 12:49 AM">Feb 24, 2017 12:49 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>That GDP dollar buys a lot more in China, so internally, they are number one. A household income od $9400 US buys a decent middlle class life, measured by Western standards. That's the main reason I retired in China. My wife and I (two people) live an upper middle class life on $20,000 a year SS. We don't touch our savings. We have money left over to travel several times a year.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074928"></a>
+
+<div class="comment" id="comment-9074928">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/aguy" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="AGuy&#039;s picture" title="AGuy&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/aguy" title="View user profile.">AGuy</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074364">
+          <i class="fa fa-share"></i>
+          ersatz007        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074928" class="active"><span title="Feb 24, 2017 2:44 AM">Feb 24, 2017 2:44 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>"I thought China overtook the US a couple years ago?"</p>
+<p>Does anyone really believe that the US GDP is really $18T?, in 2008 before the meltdown it was at $14T. Its seems to good to be true, it probably isn't true!</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074379"></a>
+
+<div class="comment" id="comment-9074379">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/ed-jobb" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-234848.jpg" alt="Ed Jobb&#039;s picture" title="Ed Jobb&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/ed-jobb" title="View user profile.">Ed Jobb</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074379" class="active"><span title="Feb 23, 2017 11:03 PM">Feb 23, 2017 11:03 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Take away their debt from that chart &amp; see what it looks like.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074388"></a>
+
+<div class="comment" id="comment-9074388">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074379">
+          <i class="fa fa-share"></i>
+          Ed Jobb        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074388" class="active"><span title="Feb 23, 2017 11:04 PM">Feb 23, 2017 11:04 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Take away their debt and Russia probably moves to #1. Yes, THAT Russia!!</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074478"></a>
+
+<div class="comment" id="comment-9074478">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074388">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074478" class="active"><span title="Feb 23, 2017 11:32 PM">Feb 23, 2017 11:32 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Which helps explain a lot?</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9075330"></a>
+
+<div class="comment" id="comment-9075330">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/kahplunk" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-233486.jpg" alt="kahplunk&#039;s picture" title="kahplunk&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/kahplunk" title="View user profile.">kahplunk</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074388">
+          <i class="fa fa-share"></i>
+          philipat        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075330" class="active"><span title="Feb 24, 2017 6:31 AM">Feb 24, 2017 6:31 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Was thinking of buying some rubles</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div><a id="comment-9074386"></a>
+
+<div class="comment" id="comment-9074386">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/farqued" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-187402.jpg" alt="Farqued Up&#039;s picture" title="Farqued Up&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/farqued" title="View user profile.">Farqued Up</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074386" class="active"><span title="Feb 23, 2017 11:04 PM">Feb 23, 2017 11:04 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>It will be interesting to see the numbers in 4 years.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074398"></a>
+
+<div class="comment" id="comment-9074398">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/sekhars" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-220245.png" alt="sekhars&#039;s picture" title="sekhars&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/sekhars" title="View user profile.">sekhars</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074398" class="active"><span title="Feb 23, 2017 11:08 PM">Feb 23, 2017 11:08 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>it should be done through PPP based. It is not a true economical picture</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074442"></a>
+
+<div class="comment" id="comment-9074442">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/uhland62" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-215549.jpg" alt="uhland62&#039;s picture" title="uhland62&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/uhland62" title="View user profile.">uhland62</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074398">
+          <i class="fa fa-share"></i>
+          sekhars        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074442" class="active"><span title="Feb 23, 2017 11:19 PM">Feb 23, 2017 11:19 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Even then, selling weapons for protection is economy, but then it's not. Weapons expenses are essentially non-productive outgoings.&nbsp;</p>
+<p>They are used for grandstanding and chestbeating. Within a few years they are outdated and need to be melted down but did not produce anything over their lifespan.</p>
+<p><strong>Of course the US looks wonderful when allies (Australia in this instance) pays a lot to them. New UK Trident orders are in the pipeline, but the necessary austerity conditions are so severe that experts expect blood in the streets within 2 years. Sure, during the year that Britain's Trident payment comes into the US, people will say 'look - No 1, aren't we fabulous'.&nbsp;</strong></p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074428"></a>
+
+<div class="comment" id="comment-9074428">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/buckstopshere" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-190897.jpg" alt="buckstopshere&#039;s picture" title="buckstopshere&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/buckstopshere" title="View user profile.">buckstopshere</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074428" class="active"><span title="Feb 23, 2017 11:15 PM">Feb 23, 2017 11:15 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>China's GDP is based on malinvestments that will yield a negative or low return on investment.</p>
+<p>Many ghost cities and shopping centers.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074453"></a>
+
+<div class="comment" id="comment-9074453">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/philipat" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="philipat&#039;s picture" title="philipat&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/philipat" title="View user profile.">philipat</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074428">
+          <i class="fa fa-share"></i>
+          buckstopshere        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074453" class="active"><span title="Feb 23, 2017 11:23 PM">Feb 23, 2017 11:23 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Yes but it IS infratructure and it will one day be used and was constructed at lower prices before inflation. It still seems to me to be preferable to build infrastucture than to piss money away into the Banks, which the US has done? And incidentally, the majority of China's debt is in the Government sector (State Banks owed by State owned enterprises) so that debt could be cancelled at the flick of a "pen and phone" to misqoute another dickhead.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074462"></a>
+
+<div class="comment" id="comment-9074462">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/krungle" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-224860.jpg" alt="Krungle&#039;s picture" title="Krungle&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/krungle" title="View user profile.">Krungle</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074428">
+          <i class="fa fa-share"></i>
+          buckstopshere        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074462" class="active"><span title="Feb 23, 2017 11:27 PM">Feb 23, 2017 11:27 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Isn't pretty much the entire US economy a malinvestment at this point? At least the Chinese have infrastructure. &nbsp;&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9074930"></a>
+
+<div class="comment" id="comment-9074930">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/aguy" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="AGuy&#039;s picture" title="AGuy&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/aguy" title="View user profile.">AGuy</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074462">
+          <i class="fa fa-share"></i>
+          Krungle        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074930" class="active"><span title="Feb 24, 2017 2:47 AM">Feb 24, 2017 2:47 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>"Isn't pretty much the entire US economy a malinvestment at this point? At least the Chinese have infrastructure."</p>
+<p>LOL! You mean the Chinese Potamkin cities that no one lives in, and the millions upon millions of nail building crumbling. At least the US infrastructure build 40 to 50 years ago was made using real steel and real concrete, instead of chinese sand.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div><a id="comment-9074746"></a>
+
+<div class="comment" id="comment-9074746">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/roddy6667" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-54961.jpg" alt="roddy6667&#039;s picture" title="roddy6667&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/roddy6667" title="View user profile.">roddy6667</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074428">
+          <i class="fa fa-share"></i>
+          buckstopshere        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074746" class="active"><span title="Feb 24, 2017 1:02 AM">Feb 24, 2017 1:02 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Most of those ghost city articles are misinformation written to make China look bad. I can't find any info on an empty city, nor do I know anybody that has seen one. i live in China and have travelled extensively in the North in the past 7 years.</p>
+<p>Pleasse name three, since you know all about it.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9075310"></a>
+
+<div class="comment" id="comment-9075310">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/kahplunk" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-233486.jpg" alt="kahplunk&#039;s picture" title="kahplunk&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/kahplunk" title="View user profile.">kahplunk</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074746">
+          <i class="fa fa-share"></i>
+          roddy6667        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075310" class="active"><span title="Feb 24, 2017 6:28 AM">Feb 24, 2017 6:28 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p><a href="https://www.youtube.com/watch?v=FMi_i9_MKvM" rel="nofollow">https://www.youtube.com/watch?v=FMi_i9_MKvM</a></p>
+<p>&nbsp;</p>
+<p>watch and see why America&nbsp;is bankrupted. Those ghost citys are now full. The people of China have Gold and lots of it not to mention they are savers where as the US is just done look at the numbers not the hype.</p>
+<p><a title="View user profile." href="http://www.zerohedge.com/users/buckstopshere" rel="nofollow"><span>buckstopshere</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;missed&nbsp;click&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="comment-header_date"><a href="http://www.zerohedge.com/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074428" class="active" rel="nofollow"><span title="15 PM">&nbsp;</span></a></span></p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9075423"></a>
+
+<div class="comment" id="comment-9075423">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/fattail" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-64924.jpg" alt="fattail&#039;s picture" title="fattail&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/fattail" title="View user profile.">fattail</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9074746">
+          <i class="fa fa-share"></i>
+          roddy6667        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9075423" class="active"><span title="Feb 24, 2017 7:07 AM">Feb 24, 2017 7:07 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>60 minutes didn't seem to have any trouble finding them.</p>
+<p><a href="https://www.youtube.com/watch?v=Uo0tvY_4PlM" title="https://www.youtube.com/watch?v=Uo0tvY_4PlM" rel="nofollow">https://www.youtube.com/watch?v=Uo0tvY_4PlM</a></p>
+<p>&nbsp;</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="indented"><a id="comment-9082058"></a>
+
+<div class="comment" id="comment-9082058">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/roddy6667" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-54961.jpg" alt="roddy6667&#039;s picture" title="roddy6667&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/roddy6667" title="View user profile.">roddy6667</a>    </span>
+              <a class="comment-header_reply-to" title="replying to" href="#comment-9075423">
+          <i class="fa fa-share"></i>
+          fattail        </a>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9082058" class="active"><span title="Feb 25, 2017 8:25 AM">Feb 25, 2017 8:25 AM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>Most of these "cities" are not cities, they are just neighborhoods in a city. Things are much bigger in China. These new districts are mostly 20 year projects and are right on track.</p>
+<p>According to&nbsp; research by Standard Chartered, typical occupancy rates for a new district in China during the initial phase (first five years of a development) are under 20 percent. They then increase to around 50 percent in the rapid growth phase (six to 10 years) and then to between 70 and 80 percent in the mature phase (11 to15 years).<br />A large development like Ordos New City, built to house 500,000 at capacity, can be at 20% and have 100,000 people living there. That’s a lot of people, but to an outside reporter trying to write an article critical of China, they remain invisible.At present Kangbashi in Ordos, has 150,000 residents, but it is still included in every hit piece on "Chinese ghost cities". EVERY unit was sold, most for cash. The present owners who are sitting on vacant units are doing so voluntarily. This is a success story, not a failure.</p>
+<p>Americanss need to get a passport and see what is going on in the real world instead of letting their TV tell what reality is.</p>
+<p>60 Minutes is a muckracking American TV show that is famous for twisting the truth and presenting part of it to make a sensational story. You watch TV and think you are participating in reality.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+</div></div></div><a id="comment-9074486"></a>
+
+<div class="comment" id="comment-9074486">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/elterco" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-19154.jpg" alt="ElTerco&#039;s picture" title="ElTerco&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/elterco" title="View user profile.">ElTerco</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074486" class="active"><span title="Feb 23, 2017 11:33 PM">Feb 23, 2017 11:33 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>It would be interesting to add one more column -- population.</p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<a id="comment-9074520"></a>
+
+<div class="comment" id="comment-9074520">
+  <div class="comment-left">
+    <div class="comment-photo">
+      <div class="picture">
+  <a href="/users/scatha" title="View user profile."><img src="/sites/all/themes/zero_hedge/images/bagicon.png" alt="scatha&#039;s picture" title="scatha&#039;s picture"  /></a></div>
+    </div>
+    <div class="comment-vote">
+          </div>
+  </div>
+  <div class="comment-right">
+    <div class="comment-header">
+            <span class="comment-header_author">
+      <a href="/users/scatha" title="View user profile.">scatha</a>    </span>
+            <span class="comment-header_date"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart#comment-9074520" class="active"><span title="Feb 23, 2017 11:42 PM">Feb 23, 2017 11:42 PM</span></a></span>
+    </div>
+    <div class="comment-content">
+      <p>This just tells us about fallacy of GDP as a tool of measuring anything that has to do remotely with the economic situation of ordinary people and moreover in all those countries GDP is concocted vastly differently in a clear goal seeking effort so their artificially produce gains (while GAAP compliant GDPs report often recession/depression) to be reported in the financial media and to lie to the investors. But it tells you one thing namely reveals fallacy of benefits of&nbsp; global trade and free markets as a driver or growth.In fact global trade collapses, markets close and mercantilism, protectionism thrives.</p>
+<p>Try to buy new Japanese car in S. Korea or vice versa. Good luck. World shrinks as we I write.</p>
+<p>An interesting take on such fallacy of globalization can be found here:</p>
+<p><a href="https://contrarianopinion.wordpress.com/economy-update/" title="https://contrarianopinion.wordpress.com/economy-update/" rel="nofollow">https://contrarianopinion.wordpress.com/economy-update/</a></p>
+
+    </div>
+    <div class="comment-links">
+          </div>
+  </div>
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/news/2017-02-23/74-trillion-global-economy-one-chart?page=1" title="Go to last page" class="active">last »</a></li>
+</ul></div></div>
+        </section>
+
+        <section id="sidebar-left" class="sled">
+          <div class="ad-left-container">
+            <div class="ad-left-wrapper">
+              <div id="ad-sidebarleft-top" class="ad-container ad-banner-vertical ad-show-text"></div>
+            </div>
+          </div>
+          <div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/news/2017-02-23/74-trillion-global-economy-one-chart?destination=node%2F588827"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-b1-FZuj800QR_s4_ZDaNMzP6Fj5_XeXcRYrmy0cxYZo" value="form-b1-FZuj800QR_s4_ZDaNMzP6Fj5_XeXcRYrmy0cxYZo"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+<div class="edit-feed-me-wrapper"><div class="form-item" id="edit-feed-me-wrapper">
+ <input type="text" maxlength="128" name="feed_me" id="edit-feed-me" size="20" value="" class="form-text" />
+ <div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><input type="submit" name="op" id="edit-submit-1" value="Log in"  class="form-submit" />
+
+</div></form>
+</div></div>
+<div class="block block-menu" id="block-menu-secondary-links">
+  <h2 class="title">Zero Hedge Reads</h2>  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.acting-man.com/" title="">Acting Man</a></li>
+<li class="leaf"><a href="http://www.alt-market.com" title="">Alt-Market</a></li>
+<li class="leaf"><a href="http://benzinga.com" title="">Benzinga</a></li>
+<li class="leaf"><a href="http://boombustblog.com/" title="">Boom Bust Blog</a></li>
+<li class="leaf"><a href="http://www.CapitalistExploits.at" title="">Capitalist Exploits</a></li>
+<li class="leaf"><a href="http://mpettis.com/" title="">China Financial Markets</a></li>
+<li class="leaf"><a href="http://www.peakprosperity.com/" title="">Chris Martenson&#039;s Blog</a></li>
+<li class="leaf"><a href="http://www.contraryinvestor.com" title="">Contrary Investor</a></li>
+<li class="leaf"><a href="http://danericselliottwaves.blogspot.com/" title="">Daneric&#039;s Elliott Waves</a></li>
+<li class="leaf"><a href="http://www.doctorhousingbubble.com/" title="">Dr. Housing Bubble</a></li>
+<li class="leaf"><a href="http://www.etfdailynews.com" title="">ETF Daily News</a></li>
+<li class="leaf"><a href="http://www.etfdigest.com" title="">ETF Digest</a></li>
+<li class="leaf"><a href="http://econimica.blogspot.com" title="">Economica</a></li>
+<li class="leaf"><a href="http://www.thefinancialrevolutionist.com/?utm_source=zh" title="">Financial Revolutionist</a></li>
+<li class="leaf"><a href="http://www.firstrebuttal.com/" title="">First Rebuttal</a></li>
+<li class="leaf"><a href="http://forexlive.com" title="">ForexLive</a></li>
+<li class="leaf"><a href="https://www.fundist.com/" title="">Fundist</a></li>
+<li class="leaf"><a href="http://gainspainscapital.com/" title="">Gains Pains &amp; Capital</a></li>
+<li class="leaf"><a href="http://hedgeaccordingly.com/" title="">Hedge Accordingly</a></li>
+<li class="leaf"><a href="http://implode-explode.com/" title="">Implode-Explode</a></li>
+<li class="leaf"><a href="http://www.investingcontrarian.com/" title="">Investing Contrarian</a></li>
+<li class="leaf"><a href="http://jessescrossroadscafe.blogspot.com/" title="">Jesse&#039;s Cafe Americain</a></li>
+<li class="leaf"><a href="http://LettersFromNorway.com" title="www.LettersFromNorway.com   ">Letters From Norway</a></li>
+<li class="leaf"><a href="http://libertyblitzkrieg.com/" title="">Liberty Blitzkrieg</a></li>
+<li class="leaf"><a href="http://marketmontage.com/" title="">Market Montage</a></li>
+<li class="leaf"><a href="http://maxkeiser.com/" title="">Max Keiser</a></li>
+<li class="leaf"><a href="http://mises.org/" title="">Mises Institute</a></li>
+<li class="leaf"><a href="https://mishtalk.com/" title="">Mish Talk</a></li>
+<li class="leaf"><a href="http://nakedcapitalism.com" title="">Naked Capitalism</a></li>
+<li class="leaf"><a href="http://www.oftwominds.com/blog.html" title="">Of Two Minds</a></li>
+<li class="leaf"><a href="http://oilprice.com/" title="">Oil Price</a></li>
+<li class="leaf"><a href="http://schiffgold.com/news/" title="">Peter Schiff</a></li>
+<li class="leaf"><a href="http://RebootingCapitalism.com " title="">Rebooting Capitalism</a></li>
+<li class="leaf"><a href="http://shankystechblog.blogspot.com" title="">Shanky&#039;s Tech Blog</a></li>
+<li class="leaf"><a href="http://slopeofhope.com/" title="">Slope of Hope</a></li>
+<li class="leaf"><a href="https://www.smartknowledgeu.com/blog" title="">SmartKnowledgeU Blog</a></li>
+<li class="leaf"><a href="http://www.tfmetalsreport.com" title="TF Metals Report">TF Metals Report</a></li>
+<li class="leaf"><a href="https://www.theautomaticearth.com" title="">The Automatic Earth</a></li>
+<li class="leaf"><a href="http://www.theburningplatform.com/" title="">The Burning Platform</a></li>
+<li class="leaf"><a href="http://www.economicpopulist.org/" title="">The Economic Populist</a></li>
+<li class="leaf"><a href="http://www.thehammerstone.com/" title="">The Hammerstone Group</a></li>
+<li class="leaf"><a href="http://vineyardsaker.blogspot.com/" title="">The Vineyard Of The Saker</a></li>
+<li class="leaf"><a href="http://www.themistrading.com/" title="">Themis Trading</a></li>
+<li class="leaf"><a href="http://truesinews.com/" title="">True Sinews</a></li>
+<li class="leaf"><a href="http://www.valuewalk.com" title="Value Walk">Value Walk</a></li>
+<li class="leaf last"><a href="http://wolfstreet.com/" title="Wolf Street">Wolf Street</a></li>
+</ul></div></div>
+          <div id="ad-sidebarleft-bottom" class="ad-container ad-banner-vertical ad-show-text"></div>
+        </section>
+
+        <section id="sidebar-right" class="sled">
+          <div class="block block-zh_glue" id="block-zh_glue-custom_search">
+    <div class="content"><form accept-charset="UTF-8" action="/search/apachesolr_search/" class="search-form" id="search-form" method="post" size="28">
+    <div>
+        <input class="form-text" id="edit-keys-header" maxlength="255" name="keys" size="28" type="text" value="" placeholder="search zerohedge" /></div>
+    <input class="form-submit" id="edit-submit" size="32" type="submit" />
+</form>
+<div id="search-block-ad"></div>
+</div></div>
+          <div id="ad-sidebar-right_300-1" class="ad-container ad-box ad-show-text"></div>
+          <div class="block block-zh_glue" id="block-zh_glue-recent">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab3">New Comments</a>
+            </li>
+            <div class="accordion-section-content" id="tab3"><div class="view view-most-recent-comments-block view-id-most_recent_comments_block view-display-id-default view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:38: <a href="/news/2017-03-11/trump-fires-us-attorney-preet-bharara#comment-9171950">&quot;Money is merely a by-product</a> (<a href="/users/we-are-priests" title="View user profile.">We Are The Priests</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:37: <a href="/news/2017-03-11/retail-investors-flood-stocks-professionals-are-dumping-speculative-longs#comment-9171949">Only a simpleton would spout</a> (<a href="/users/goofball" title="View user profile.">Goofball</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:37: <a href="/news/2017-03-11/protest-breaks-out-near-turkish-consulate-rotterdam-dutch-embassy-turkey-closed#comment-9171910">Try to get some extra IQ</a> (<a href="/users/vageling" title="View user profile.">Vageling</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:37: <a href="/news/2017-03-11/protest-breaks-out-near-turkish-consulate-rotterdam-dutch-embassy-turkey-closed#comment-9171948">Kebad is the entire cultural</a> (<a href="/users/sudden-debt" title="View user profile.">Sudden Debt</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:37: <a href="/news/2017-03-11/weve-created-monster-ron-paul-says-its-fantastic-wikileaks-exposed-cia#comment-9171947">Near as I can tell, US Intel</a> (<a href="/users/yes-we-can-lets-not" title="View user profile.">Yes We Can. But...</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:36: <a href="/news/2017-03-11/protest-breaks-out-near-turkish-consulate-rotterdam-dutch-embassy-turkey-closed#comment-9171946">Turkish Foreign Minister was</a> (<a href="/users/peddling-fiction" title="View user profile.">peddling-fiction</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:36: <a href="/news/2017-03-11/california-exporting-its-poor-texas#comment-9171945">My Californian wife loves</a> (<a href="/users/shovelhead" title="View user profile.">shovelhead</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:35: <a href="/news/2017-03-11/protest-breaks-out-near-turkish-consulate-rotterdam-dutch-embassy-turkey-closed#comment-9171944">Let us apply the law for a</a> (<a href="/users/vageling" title="View user profile.">Vageling</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:35: <a href="/news/2017-03-11/european-parliament-censors-its-own-free-speech#comment-9171943">Good.  The more control the</a> (<a href="/users/trucker-glock" title="View user profile.">Trucker Glock</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">03-11 18:35: <a href="/news/2017-03-11/european-parliament-censors-its-own-free-speech#comment-9171942">Why even have a parliament.</a> (<a href="/users/steelrules" title="View user profile.">steelrules</a>)</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab5">Today's Top Stories</a>
+            </li>
+            <div class="accordion-section-content" id="tab5"><div class="view view-most-popular-posts-today view-id-most_popular_posts_today view-display-id-default view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">251,232 - <a href="/node/589986">The Conflict Within The Deep State Just Broke Into Open Warfare</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">231,119 - <a href="/node/590056">&quot;Civil War&quot; Breaks Out At White House Over Trade... And Goldman Is Winning</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">132,880 - <a href="/node/590057">Jeff Sessions Asks All Remaining Obama-Appointed U.S. Attorneys To Resign</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">92,315 - <a href="/node/590070">Preppers Stuck In Cities: Elite Chartering &quot;Getaway Boats In Case Of Manhattan Emergency&quot;</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">76,000 - <a href="/node/590087">When This All Blows Up...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">69,083 - <a href="/node/590069">Dear Washington Post: Costco Carrying Orwell&#039;s &#039;1984&#039; Is Not A F**king Joke</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">60,152 - <a href="/news/2017-03-10/real-obamacare-replacement-worry">The Real Obamacare Replacement Worry</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">47,167 - <a href="/node/590102">Trump Fires US Attorney Preet Bharara After He Refuses To Quit</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">42,500 - <a href="/news/2017-03-10/how-black-market-saving-two-countries-their-governments">How The Black Market Is Saving Two Countries From Their Governments</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">41,624 - <a href="/node/590095">Widespread AT&amp;T Outages Reported Across The U.S.</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+        </ul>
+    </div>
+</div></div></div>
+          <div class="block block-zh_glue" id="block-zh_glue-newsletter">
+    </div>
+          <div class="block block-zh_glue" id="block-zh_glue-ran">
+    <div class="content"><a href="http://zerohedge.talking-forex.com/"><img src="/sites/default/files/images/user6/imageroot/2011/08/live_commentary_button_big.png" width="290" height="90"/></a></div></div>
+          <div id="ad-sidebar-right_300-2" class="ad-container ad-box ad-show-text"></div>
+          <div class="block block-zh_glue" id="block-zh_glue-cab">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab6">Contact Information</a>
+            </li>
+            <div class="accordion-section-content" id="tab6">
+                <div class="contact-block-content">
+                    <p>Tips: tips [ at ] zerohedge.com</p>
+                    <p>General: info [ at ] zerohedge.com</p>
+                    <p>Legal: legal [ at ] zerohedge.com</p>
+                    <p>Advertising: ads [ at ] zerohedge.com</p>
+                    <p>Abuse/Complaints: abuse [ at ] zerohedge.com</p>
+                    <p><a href="http://orders.zerohedge.com/">Advertise With Us</a></p>
+                </div>
+            </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab7">Suggested Reading</a>
+            </li>
+            <div class="accordion-section-content" id="tab7">
+                <div class="contact-block-content">
+                    <p><em>Make sure to read our &quot;<a href="/help/how-readtip-zero-hedge-without-attracting-interest-human-resourcesthe-treasuryblack-helicopt">How To [Read/Tip Off] Zero Hedge Without Attracting The Interest Of [Human Resources/The Treasury/Black Helicopters]</a>&quot; Guide</em></p>
+                    <p>It would be very wise of you to study our <a href="/help/disclaimer">disclaimer</a>, our <a href="/node/12342">privacy policy </a>and our (non)policy on <a href="/node/13972">conflicts / full disclosure</a>. Here&#39;s our <a href="http://www.zerohedge.com/cookie-policy">Cookie Policy</a>.&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p><a href="http://www.zerohedge.com/help/report-offensive-comments">How to report offensive comments</a></p>
+                    <p><a href="http://www.zerohedge.com/help/notice-racism">Notice on Racial Discrimination</a>.&nbsp;</p>
+                </div>
+            </div>
+    </div>
+</div></div></div>
+          <div class="block block-zh_glue" id="block-zh_glue-combo">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab1">RanSquawk News</a>
+            </li>
+            <div class="accordion-section-content" id="ctab1"><div class="view view-ran-squawk-feed view-id-ran_squawk_feed view-display-id-default view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/fitch-affirms-germany-at-aaa-outlook-stable-10-03-2017">Fitch affirms Germany at AAA; outlook stable</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/fitch-affirms-lithuania-at-a-outlook-stable-10-03-2017">Fitch affirms Lithuania at A-; outlook stable</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/us-market-wrap-nonfarm-payrolls-cements-a-march-hike-oil-continues-its-decline-as-supply-glut-continues-10-03-2017">US MARKET WRAP - Nonfarm Payrolls cements a March hike; oil continues...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/ransquawk-today-s-trading-edge-10-03-2017">RANsquawk - Today&#039;s Trading Edge</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/audio-closed-for-the-week-the-desk-will-reopen-on-sunday-at-2200gmt-or-on-monday-at-0630gmt-for-the-european-session-10-03-2017">AUDIO CLOSED FOR THE WEEK, THE DESK WILL REOPEN ON SUNDAY AT 2200GMT...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/gilead-gild-are-reportedly-nearing-an-agreement-to-acquire-incyte-incy-according-to-streetinsider-10-03-2017">Gilead (GILD) are reportedly nearing an agreement to acquire Incyte (...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/dealreporter-say-that-spark-energy-spke-are-in-the-early-stages-of-a-sale-process-10-03-2017">Dealreporter say that Spark Energy (SPKE) are in the early stages of...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="https://ransquawk.com/headlines/wti-crude-futures-settle-at-usd-48-49-bbl-brent-crude-futures-settle-at-usd-51-37-bbl-10-03-2017">WTI crude futures settle at USD 48.49/bbl, Brent crude futures settle...</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab2">The Fly</a>
+            </li>
+            <div class="accordion-section-content" id="ctab2"><div class="view view-fly-on-the-wall view-id-fly_on_the_wall view-display-id-default view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:09: <a href="http://thefly.com/permalinks/entry.php/id2518867/NOSYMBOL-UBS-IT-hardwareChina-analysts-hold-analystindustry-conference-call">UBS IT hardware-China analysts hold analyst/industry conference call</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:09: <a href="http://thefly.com/permalinks/entry.php/id2518866/ANGI;WIX;W-Oppenheimer-internet-analyst-holds-an-analystindustry-conference-call">Oppenheimer internet analyst holds an analyst/industry conference call</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:09: <a href="http://thefly.com/permalinks/entry.php/id2518434/ERIC-Ericsson-to-hold-a-conference-call">Ericsson to hold a conference call</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:09: <a href="http://thefly.com/permalinks/entry.php/id2516291/ASTE;CAT;ESE;DE;JOY;MTW;PX;RXN;SNHY;SUP;TEX;TWI;TRMB;WIT-AEM-to-hold-an-expo">AEM to hold an expo</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-10 23:30: <a href="http://thefly.com/permalinks/entry.php/id2518847/UTX-United-Technologies-CEO-Seeing-momentum-in-economy-post-election">United Technologies CEO: Seeing momentum in economy post election</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-10 23:30: <a href="http://thefly.com/permalinks/entry.php/id2518846/CA-CA-Inc-agrees-to-pay-M-settlement-over-false-claims-case-Reuters-says">CA Inc. agrees to pay $45M settlement over false claims case, Reuters...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-10 23:30: <a href="http://thefly.com/permalinks/entry.php/id2518845/NCMI;AMC-NCM-AMC-reach-pact-allowing-AMC-to-comply-with-DOJ-order-on-Carmike">NCM, AMC reach pact allowing AMC to comply with DOJ order on Carmike</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-10 23:30: <a href="http://thefly.com/permalinks/entry.php/id2518844/WTKWY-Wolters-Kluwer-upgraded-to-Neutral-from-Sell-at-Goldman">Wolters Kluwer upgraded to Neutral from Sell at Goldman</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab3">Street Insider</a>
+            </li>
+            <div class="accordion-section-content" id="ctab3"><div class="view view-street-insider view-id-street_insider view-display-id-default view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Politics/Preet+Bharara+Fired+By+US+President+Donald+Trump/12658574.html">Preet Bharara Fired By US President Donald Trump</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Analyst+Comments/Goldman+Sachs+%28GS%29+Wishes+Spooz+A+%22Happy+Birthday+Indeed%22%2C+Says+Rally+Driven+By+Valuations+Not+By+Profits/12658571.html">Goldman Sachs (GS) Wishes Spooz A &quot;Happy Birthday Indeed&quot;, Says Rally Driven By Valuations Not By Profits</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Corporate+News/Bitcoin+Collapses+20%25+Following+SEC+Ruling+On+Winklevoss+ETF+Listing/12658521.html">Bitcoin Collapses 20% Following SEC Ruling On Winklevoss ETF Listing</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Analyst+Comments/Credit+Suisse+Reports+A+%22sudden+drop%22+In+Starbucks+%28SBUX%29+Same-Store+Sales%2C+Questions+If+Co.+Can+Meet+Consensus+Estimates/12658512.html">Credit Suisse Reports A &quot;sudden drop&quot; In Starbucks (SBUX) Same-Store Sales, Questions If Co. Can Meet Consensus Estimates</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Analyst+Comments/JMP+Securities+Downgrades+Patriot+National+%28PN%29+to+Market+Perform/12658488.html">JMP Securities Downgrades Patriot National (PN) to Market Perform</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Analyst+Comments/Apple+%28AAPL%29+PT+Raised+to+%24160+at+Credit+Suisse%2C+Believes+Stock+%22looks+inexpensive%22/12658042.html">Apple (AAPL) PT Raised to $160 at Credit Suisse, Believes Stock &quot;looks inexpensive&quot;</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Mergers+and+Acquisitions/Samsung+Electronics+Acquisition+of+Harman+International+%28HAR%29+Complete/12658063.html">Samsung Electronics Acquisition of Harman International (HAR) Complete</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">03-11 18:36: <a href="http://www.streetinsider.com/Corporate+News/Equity+Bancshares+%28EQBK%29+Announces+Completion+of+Prairie+State+Bancshares+Merger/12658076.html">Equity Bancshares (EQBK) Announces Completion of Prairie State Bancshares Merger</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+        </ul>
+    </div>
+</div>
+</div></div>
+          <div id="ad-sidebar-right_300-smartlinks" class="ad-container ad-sticky ad-show-text"></div>
+        </section>
+
+      </main>
+
+      <footer id="footer">
+        <div id="footer-region">
+          <div class="block block-block" id="block-block-72">
+    <div class="content"><style>
+@media (max-width: 1280px) {
+  .button_email { margin-left: 2px !important; }
+  .button_print { margin-left:4px !important; }
+}
+</style></div></div>
+          <div class="footer-section">
+            <a href="/help/notice-racism">Discrimination Notice</a>
+            <a href="/cookie-policy">Cookie Policy</a>
+          </div>
+          <div class="footer-section">
+            <div>Copyright &copy;2009-2017 ZeroHedge.com/ABC Media, LTD</div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+      <script type="text/javascript" src="/arrowchat/external.php?type=djs" charset="utf-8"></script>
+    <script type="text/javascript" src="/arrowchat/external.php?type=js" charset="utf-8"></script>
+    <div id="user_relationships_popup_form" class="user_relationships_ui_popup_form"></div><script type="text/javascript" src="/sites/all/modules/bu/bu.js?R"></script>
+</body>
+</html>

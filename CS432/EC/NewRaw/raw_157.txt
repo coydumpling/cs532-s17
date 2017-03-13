@@ -1,0 +1,1746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script>
+var gomez={
+gs: new Date().getTime(),
+acctId:"D3FD89",
+grpId:"Escenic",
+grpId1:"wch",
+grpId2:window.location.hostname,
+grpId3:"small_business",
+pgId:"story-detail",
+wrate:1
+};
+</script>
+<script type='text/javascript'>
+(function(){var a=window;a.dT_?a.console&&a.console.log("Duplicate agent injection detected, turning off redundant initConfig."):window.dT_||(window.dT_={cfg:"cors=1|async=1|tp=500,50,5,1,10|reportUrl=//mcclatchy.dynatracesaas.com/dynaTraceMonitor|agentUri=//mcclatchy.dynatracesaas.com/dtagent_23jpqrstxz_6000500041014.js|auto=#AUTO#|domain=#DOMAIN#|rid=RID_#REQUEST_ID#|rpid=#RESPONSE_ID#"})})();(function(){function s(){var a=0;try{a=window.performance.timing.navigationStart+Math.floor(window.performance.now())}catch(b){}return 0>=a?(new Date).getTime():a}function Z(a,b){return $(a,b)}function l(a,b){for(var c=1;c<arguments.length;c++)a.push(arguments[c])}function v(a,b){return parseInt(a,b||10)}function E(a){try{if(w)return w[a]}catch(b){}return null}function F(a,b){try{window.sessionStorage.setItem(a,b)}catch(c){}}function m(a,b){var c=-1;b&&(a&&a.indexOf)&&(c=a.indexOf(b));return c}function G(a){document.cookie=
+a+'="";path=/'+(d.domain?";domain="+d.domain:"")+"; expires=Thu, 01-Jan-70 00:00:01 GMT;"}function H(a){a=encodeURIComponent(a);var b=[];if(a)for(var c=0;c<a.length;c++){var k=a.charAt(c),d=aa[k];d?l(b,d):l(b,k)}return b.join("")}function x(a,b,c){b||0==b?(b=(""+b).replace(/[;\n\r]/g,"_"),b="DTSA"===a.toUpperCase()?H(b):b,a=a+"="+b+";path=/"+(d.domain?";domain="+d.domain:""),c&&(a+=";expires="+c.toUTCString()),document.cookie=a):G(a)}function r(a){var b,c,k,d=document.cookie.split(";");for(b=0;b<
+d.length;b++)if(c=m(d[b],"="),k=d[b].substring(0,c),c=d[b].substring(c+1),k=k.replace(/^\s+|\s+$/g,""),k===a)return"DTSA"===a.toUpperCase()?decodeURIComponent(c):c;return""}function I(a){return/^[0-9A-Za-z_$\+\/\.\-\*%\|]*$/.test(a)}function J(){var a=r(K);return a&&I(a)?a:""}function L(a){a=a||J();var b={sessionId:null,serverId:null};if(a){var c=m(a,"|"),d=a;-1!==c&&(d=a.substring(0,c));c=m(d,"$");-1!==c?(b.sessionId=d.substring(c+1),b.serverId=d.substring(0,c)):b.sessionId=d}return b}function ba(a){return L(a).serverId}
+function ca(a){if(a)return L(a).sessionId;if(a=e.gSC()){var b=a.indexOf("|");-1!==b&&(a=a.substring(0,b))}return a}function M(a,b){return Math.floor(Math.random()*(b-a+1))+a}function N(a){var b=window.crypto||window.msCrypto,c;if(b)c=new Int8Array(a),b.getRandomValues(c);else{c=[];for(b=0;b<a;b++)c.push(M(0,O))}a=[];for(b=0;b<c.length;b++){var d=Math.abs(c[b]%O),d=9>=d?String.fromCharCode(d+48):String.fromCharCode(d+55);a.push(d)}return a.join("")}function P(a){return document.getElementsByTagName(a)}
+function Q(a){var b=a.length;if("number"===typeof b)a=b;else{for(var b=0,c=2048;a[c-1];)b=c,c+=c;for(var d=7;1<c-b;)d=(c+b)/2,a[d-1]?b=d:c=d;a=a[d]?c:b}return a}function da(){var a=d.csu,a=(a.indexOf("dbg")==a.length-3?a.substr(0,a.length-3):a)+"_"+d.app+"_Store";try{if(y){var b=y.getItem(a);if(b){for(var a={},c=b.split("|"),b=0;b<c.length;b++){var e=c[b].split("=");2==e.length&&(a[e[0]]=decodeURIComponent(e[1]))}if(!d.lastModification||parseInt(a.lastModification.substr(0,13),10)>=parseInt(d.lastModification.substr(0,
+13),10))for(var q in a)a.hasOwnProperty(q)&&("config"==q?z(a[q]):d[q]=a[q])}}}catch(g){}}function z(a){a=a.split("|");for(var b=0;b<a.length;b++){var c=m(a[b],"=");-1===c?d[a[b]]="1":d[a[b].substring(0,c)]=a[b].substring(c+1,a[b].length)}}function ea(a,b){if(a){var c=/([a-zA-Z]*)[0-9]{0,3}_[a-zA-Z_0-9]*_[0-9]+/g.exec(a);if(c&&c.length){var k=c[0];d.csu=c[1];c=k.split("_");d.legacy="1";d.featureHash=c[1];d.dtVersion=e.version[0]+""+e.version[1]}}b&&z(b);c=location.hostname;k=d.domain;c=c&&k?c==k||
+-1!==c.indexOf("."+k,c.length-("."+k).length)?!0:!1:!0;c||(delete d.domain,d.domainOverride="true")}function fa(){return K}function ga(){return ha}function ia(){return ja}function A(a){d[a]=0>m(d[a],"#"+a.toUpperCase())?d[a]:""}function ka(){return t}function R(a,b){for(var c=S(b),d=!1,e=0;e<c.length;e++)c[e].frameId===t&&(c[e].actionId=a,d=!0);d||l(c,{frameId:t,actionId:a});T(c)}function T(a,b){var c="";if(a){for(var c=[],d=0;d<a.length;d++)0<d&&0<c.length&&l(c,"p"),l(c,a[d].frameId),l(c,"h"),l(c,
+a[d].actionId);c=c.join("")}c||(c="-");x(B,c)}function S(a){var b=r(B),c=[];if(b&&"-"!==b)for(var b=b.split("p"),d=0;d<b.length;d++){var e=b[d].split("h");if(2===e.length&&e[0]&&e[1]){var g=e[0],f;if(!(f=a)){f=g.split("_");f=v(f[0]);var h=s()%C;h<f&&(h+=C);f=f+9E5>h}f&&l(c,{frameId:g,actionId:e[1]})}}return c}function U(){var a=r(u);if(!a||""==a||a.length&&a.length!=V)a=E(u),a&&a.length==V||(W=!0,a=s()+N(la));var b=a,c=new Date;c.setFullYear(c.getFullYear()+2);x(u,b,c);F(u,b);return a}function ma(){return W}
+var g=window;if(!g.dT_||!g.dT_.cfg||"string"!=typeof g.dT_.cfg||g.dT_.initialized)g.console&&g.console.log("Initconfig not found or agent already initialized! This is an injection issue.");else{var $=window.setTimeout,w=window.sessionStorage,e={version:[6,5,4,"1014"],cfg:window.dT_&&window.dT_.cfg,ica:1};e.version[3]=parseInt(e.version[3],10);window.dT_=e;e.agentStartTime=s();e.nw=s;e.apush=l;e.st=Z;var O=32,aa={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"};
+e.gSSV=E;e.sSSV=F;e.pn=v;e.iVSC=I;e.io=m;e.dC=G;e.sC=x;e.esc=H;e.gSId=ba;e.gDtc=ca;e.gSC=J;e.gC=r;e.cRN=M;e.cRS=N;e.gEL=Q;e.gEBTN=P;var d={reportUrl:"dynaTraceMonitor",initializedModules:"",csu:"dtagent",domainOverride:"false",dataDtConfig:e.cfg},y;try{y=window.localStorage}catch(na){}if(-1==m(d.dataDtConfig,"#CONFIGSTRING")&&(z(d.dataDtConfig),A("domain"),A("auto"),A("app"),(g=d.agentUri)&&-1<m(g,"_")))g=/([a-zA-Z0-9]*)[0-9]*_([a-zA-Z0-9]*)_[0-9]*/.exec(g),d.csu=g[1],d.featureHash=g[2],d.dtVersion=
+e.version[0]+""+e.version[1];var g=P("script"),X=Q(g);if(0<X)for(var h,Y=d.csu+"_bootstrap.js",D=0;D<X;D++)if(h=g[D],h.attributes){var n=h.attributes.getNamedItem("data-dtconfig");h=h.src;if(n){ea(h,n.value);break}if((n=h&&h.indexOf(Y))&&0<=n)n=n+Y.length+5,d.app=h.length>n?h.substr(n):"Default%20Application"}da();try{var f=d.ign;if(f&&RegExp(f).test(window.location.href)){document.dT_=window.dT_=null;return}}catch(oa){}var B="dtPC",K="dtCookie",ha="x-dtPC",ja="x-dtReferer";e.gSCN=fa;e.gPCHN=ga;e.gRHN=
+ia;e.pageContextCookieName=B;e.latencyCookieName="dtLatC";e.cfg=d;var C=6E8,t=e.agentStartTime%C+"_"+v(1E3*Math.random());e.gFId=ka;e.frameId=t;R(1);e.gPC=S;e.cPC=R;e.sPC=T;var p;try{p=w.getItem("dtDisabled")}catch(pa){}!d.auto&&(!d.legacy&&!p)&&(f=d.agentname||d.csu||"dtagent",f=r("dtUseDebugAgent")?d.debugName||f+"dbg":d.name||f,p=d.agentUri||d.agentLocation+"/"+f+"_"+d.featureHash+"_"+d.buildNumber,d.async?(f=document.createElement("script"),f.setAttribute("src",p),d.async&&f.setAttribute("defer",
+"true"),f.setAttribute("crossorigin","anonymous"),p=document.getElementsByTagName("script")[0],p.parentElement.insertBefore(f,p)):document.write('<script type="text/javascript" src="'+p+'">\x3c/script>'));var u="rxVisitor",la=32,V=45,W=!1;U();e.iNV=ma;e.gVID=U}})();
+</script>
+<!-- paywall disabled -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Expanded Salon Lavish lets stylists be independent | The Wichita Eagle</title>
+<meta name="allow-comments" content="true"/>
+<meta name="description" content="A hair stylist for 16 years, Lacey Smith knew she didn’t want to be a traditional boss in her industry."/>
+<meta name="title" content="Expanded Salon Lavish lets stylists be independent | The Wichita Eagle"/>
+<meta name="googlebot" content="noodp, noarchive"/>
+<meta name="google-site-verification" content="thVBZpsksuHoYvluJbdqO2dn-LGiOiA_blrAPWi_lmk"/>
+<meta property="og:title" content="Expanded Salon Lavish lets stylists be independent"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.kansas.com/news/business/small-business/article134293939.html"/>
+<meta property="og:description" content="A hair stylist for 16 years, Lacey Smith knew she didn&rsquo;t want to be a traditional boss in her industry."/>
+<meta property="og:image" content="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/LANDSCAPE_1140/Salon%20Lavish%20photo"/>
+<meta property="og:site_name" content="kansas"/>
+<meta property="fb:app_id" content="296896553782412"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="kansasdotcom">
+<meta name="twitter:title" content="Expanded Salon Lavish lets stylists be independent">
+<meta name="twitter:description" content="A hair stylist for 16 years, Lacey Smith knew she didn&rsquo;t want to be a traditional boss in her industry.">
+<meta name="twitter:image" content="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/LANDSCAPE_1140/Salon%20Lavish%20photo">
+<meta name="msapplication-TileImage" content="http://www.kansas.com/static/theme/kansas/base/ico/windowsmetro-144.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.kansas.com/static/theme/kansas/base/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.kansas.com/static/theme/kansas/base/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.kansas.com/static/theme/kansas/base/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.kansas.com/static/theme/kansas/base/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="http://www.kansas.com/static/theme/kansas/base/ico/favicon.png">
+<link href="http://www.kansas.com/static/theme/kansas-2020/base/css/main-1.0.101-bbdd684.css?sVer=1.0.101-bbdd684" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://www.kansas.com/static/js/html5shiv.js?sVer=1.0.101-bbdd684"></script>
+<script src="http://www.kansas.com/static/js/respond.min.js?sVer=1.0.101-bbdd684"></script>
+<script type="text/javascript" src="http://www.kansas.com/static/js/mi-scripts/pollyfill.js?sVer=1.0.101-bbdd684"></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.kansas.com/static/js/jquery-1.10.2.min.js?sVer=1.0.101-bbdd684"></script>
+<script type="text/javascript" src="http://www.kansas.com/static/js/mi-wf-site-1.0.101-bbdd684-min.js"></script>
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.pagelevel':'story',
+'marketInfo.careerbuilder.mxjobsrchcriteria_rawwords':'outside놩',
+'wufoo.formID':'',
+'publication.mediadomain':'media.kansas.com',
+'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'marketInfo.application_version':'1.0.101-bbdd684',
+'marketInfo.logoAltText':'The Wichita Eagle',
+'marketInfo.allow_ads':'true',
+'nativo.story.placements':'840288,745256,844414',
+'marketInfo.pagelevel_informational':'false',
+'marketInfo.addcities':'Maize, Derby, Goddard, Andover, Haysville',
+'marketInfo.staticDirectory':'kansas',
+'marketInfo.state_abbreviation':'KS',
+'marketInfo.devDirectory':'',
+'publication.domain':'Kansas.com',
+'accuweather.partnerCode':'MCCLATCHY',
+'marketInfo.domain':'kansas',
+'facebook.app.id':'296896553782412',
+'marketInfo.clipped_taxonomy':'Business/Economy/SmallBusiness',
+'nativo.video.placements':'869378,869376',
+'marketInfo.careerbuilder.lr':'CBCB_WE',
+'accuweather.locationString':'Wichita',
+'marketInfo.adretargeting.kill_list':["simpli.fi"],
+'marketInfo.webmaster_email':'webmaster@wichitaeagle.com',
+'marketInfo.phone':'316-268-6000',
+'marketInfo.sourcelevel':'smallbusiness',
+'pressPlus.zone':'kCBg6LrA3qsSKbboWlkzjQ',
+'olive.localBrand':'E-Eagle',
+'marketInfo.carsSEO':'"SEO information for the cars page"',
+'marketInfo.zipcode':'67202',
+'marketInfo.shortURL':'breaking',
+'marketInfo.carsAFF':'kansas',
+'legacy.siteName':'kansas',
+'wishabi.apiKey':'3daeea236cece48f',
+'marketInfo.viewsizes':[{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]},{"Extra-Small":[0,0]}],
+'findnsave.tracking':'findnsave',
+'classads.homefinderUrl':'http://www.homefinder.com/KS/Wichita/',
+'exactTarget.offerLists':'1683044|Kansas.com partner offers|Discounts and special offers from our carefully screened partners.|1',
+'legacy.affiliateId':'we001170',
+'accuweather.dev':'false',
+'marketInfo.state':'Kansas',
+'marketInfo.siteId':'80',
+'marketInfo.county':'Sedgwick County',
+'marketInfo.adsizes':{"outofpage":{},"default":{"None":[],"970x90":[970,90],"Billboard Flex":[[960,30],[970,30],[970,90],[970,250]],"960x30":[960,30],"728x90":[728,90],"600x250":[600,250],"500x300":[500,300],"468x60":[468,60],"336x280":[336,280],"320x450":[320,450],"320x50":[320,50],"300x600":[300,600],"Flex Ad":[[300,250],[300,600]],"Welcome Ad":[[300,250],[300,600],[550,480],[600,500]],"300x250":[300,250],"300x100":[300,100],"300x75":[300,75],"300x50":[300,50],"240x400":[240,400],"234x60":[234,60],"216x36":[216,36],"180x150":[180,150],"168x28":[168,28],"160x600":[160,600],"160x90":[160,90],"146x60":[146,60],"120x600":[120,600],"120x240":[120,240],"120x20":[120,20],"Rising Star":[500,300]},"floorboard":{"None":[],"285x70":[285,70]},"wallpaper":{"None":[],"1600x600":[1600,600]}},
+'marketInfo.careerbuilder.s_freshness':'30',
+'wishabi.bodyId':'861',
+'obituaries.deathNoticeUrl':'http://www.legacy.com/obituaries/kansas/obituary-place-an-obituary.aspx',
+'classads.carsUrl':'http://www.cars.com/?aff=kansas',
+'marketInfo.name':'The Wichita Eagle',
+'marketInfo.location':'Wichita',
+'marketInfo.region':'',
+'classads.apartmentsUrl':'http://www.apartments.com/Kansas/Wichita',
+'marketInfo.careerbuilder.dmc_id':'1028',
+'marketInfo.code':'WCH',
+'marketInfo.careerbuilder.dmc_code':'wic',
+'marketInfo.market_identifier':'WCH.site_kansas',
+'wf.resource.static.rootUrl':'http://www.kansas.com/static/',
+'financialContent.account':'kansas',
+'marketInfo.followLinks':'0',
+'marketInfo.networkid':'7675',
+'marketInfo.product':'site',
+'wishabi.navId':'1058',
+'obituaries.deathNoticeEmail':'obiteam@wichitaeagle.com',
+'marketInfo.careerbuilder.s_rawwords':'CustomField3:WICHITATJ',
+'marketInfo.street_address':'825 E. Douglas, Wichita, KS 67202',
+'obituaries.deathNoticePhone':'316-268-6508',
+'accuweather.locationKey':'348426',
+'marketInfo.taxonomy':'Business/Economy/SmallBusiness//',
+'marketInfo.city':'Wichita',
+});
+</script>
+<script type="text/javascript" >
+mi_Ads.env.create();
+</script>
+<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid" async></script>
+<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+try {
+amznads.getAds('3108'); } catch(e) { /*ignore*/}
+</script>
+<script type="text/javascript">
+try {
+amznads.setTargetingForGPTAsync('amznslots');
+} catch(e) { /*ignore*/}
+</script>
+<script type="text/javascript">
+var _prx = window._prx || [];
+_prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+<script type="text/javascript">
+var mistats = mistats || {};
+mistats.pagelevel="Story";
+mistats.cmsid="Story: 134293939";
+mistats.pagename="Story: 134293939|Expanded Salon Lavish lets stylists be independent";
+mistats.taxonomy="Business|Economy|SmallBusiness||";
+mistats.channel="Small Business";
+mistats.contentsource="unknown|By Joe StumpeEagle correspondent";
+mistats.pubdate="2017/02/22";
+mistats.moddate="2017/02/22 H14";
+mistats.keywords="";
+</script>
+<script type='text/javascript' src='http://media.kansas.com/misites/wic/kansas.js'></script>
+<script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+</head>
+<body>
+<!-- Powered by Escenic Content Engine and Widget Framework. http://escenic.com -->
+<div class=" " >
+<script type="text/javascript">
+var $window = $window || $(window);
+var $document = $document || $(document);
+function hidePhotoTitle() {
+if( $(document.getElementById("top-galleries")).height() === 0) {
+$(document.getElementById("top-photos-carousel")).hide();
+} if($(document.getElementById("top-galleries-with-counter")).height() === 0) {
+$(document.getElementById("top-photos-carousel")).hide();
+console.log('found');
+}
+}
+$window.on("load", hidePhotoTitle);
+</script>
+<script src="http://media.kansas.com/static/scripts/outbrain.js"></script>
+</div>
+<div class="">
+<header class=" " role="banner">
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-oop-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad"
+articleId="134293939" ></div>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead top:
+Referenced feature mi.masterConfig.searchBarType, which was empty. Attempting fall-back value.
+-->
+<div id="masthead-container"
+>
+<div class="container">
+<div class="masthead-row">
+<div id="masthead-main"
+>
+<div id="masthead-logo"
+>
+<a href="http://www.kansas.com/" target="_top"><img src="http://www.kansas.com/static/images/kansas/logo-lg.png" alt="The Wichita Eagle | Kansas.com" class="img-responsive center-block"></a>
+</div>
+<div id="quick-nav"
+class="hidden-xs">
+<ul class=" nav navbar-nav">
+<li>
+<a href="http://www.legacy.com/obituaries/kansas/#navlink=navbar">
+Obituaries
+</a>
+</li>
+<li>
+<a href="/sports/#navlink=navbar">
+Sports
+</a>
+</li>
+<li>
+<a href="/news/business/#navlink=navbar">
+Business
+</a>
+</li>
+<li>
+<a href="/classifieds/#navlink=navbar">
+Classifieds
+</a>
+</li>
+</ul>
+<div id="site-search-lg" class="visible-lg">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</div>
+<div id="search-icon-sm-md" class="site-search dropdown visible-md visible-sm">
+<a href="#" class="btn btn-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+<li class="input-group">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" placeholder="Search the site" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead switch:
+Referenced feature mi.masterConfig.masthead-extra, which was empty. Attempting fall-back value.
+-->
+<div id="masthead-ad"
+class="visible-md visible-lg">
+<div>
+<div class="ad-widget" id="div-gpt-ad-2" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="None"
+defaultsize="Large"
+Small = "None"
+Medium = "234x60"
+Extra-Small = "None"
+Large = "234x60"
+articleId="134293939"
+></div>
+</div>
+</div>
+</div>
+<div id="main-nav-container"
+>
+<div class="weather-container hidden-xs">
+<div class="miWeather">
+<a href="/weather">
+<div class="miWeatherCurrent">
+<div class="mi-weather-alert"></div>
+</div>
+</a>
+</div>
+</div>
+<div id="login-subscribe"
+class="hidden-xs">
+<!--
+Widget ID: Feature Master with title feature master masthead login subscribe links:
+Referenced feature mi.masterConfig.masthead.mpp, which was empty. Attempting fall-back value.
+-->
+<ul class=" paywall-links">
+<li>
+<a href="/activate">
+Sign In
+</a>
+</li>
+<li>
+<a href="http://tweoffers.com/">
+Subscribe
+</a>
+</li>
+</ul>
+</div>
+<div id="main-nav"
+>
+<nav class="navbar navbar-default " role="navigation" >
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse">
+<div id="search-icon-xs" class="site-search dropdown visible-xs">
+<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+<li class="input-group">
+<form action="/search/" class="form-inline" id="site-search" role="search">
+<input type="text" name="q" class="form-control" placeholder="Search the site" />
+<button class="input-group-addon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</li>
+</ul>
+</div>
+<div class="weather-container visible-xs">
+<div class="miWeather">
+<a href="/weather">
+<div class="miWeatherCurrent">
+<div class="mi-weather-alert"></div>
+</div>
+</a>
+</div>
+</div>
+<!--
+Widget ID: Feature Master with title feature master masthead login subscribe links:
+Referenced feature mi.masterConfig.masthead.mpp, which was empty. Attempting fall-back value.
+-->
+<ul class=" paywall-links">
+<li>
+<a href="/activate">
+Sign In
+</a>
+</li>
+<li>
+<a href="http://tweoffers.com/">
+Subscribe
+</a>
+</li>
+</ul>
+<ul class=" nav navbar-nav">
+<li>
+<a href="/#navlink=subnav">
+Home
+</a>
+</li>
+<li>
+<a href="/e-eagle/#navlink=subnav">
+E-Eagle
+</a>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Customer Service <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/customer-service/#navlink=subnav">Customer Service</a></li>
+<li><a href="http://nl.newsbank.com/nl-search/we/Archives?p_action=keyword&s_search_type=keyword&p_product=WE&p_theme=realcities2&s_site=kansas#navlink=subnav">Archives</a></li>
+<li><a href="http://wichitaeagle.mycapture.com/#navlink=subnav">Buy Photos and Pages</a></li>
+<li><a href="/customer-service/contact-us/#navlink=subnav">Contact Us</a></li>
+<li><a href="/plus/#navlink=subnav">Eagle+ Sign In</a></li>
+<li><a href="http://customercare.kansas.com/#navlink=subnav">Eagle Store</a></li>
+<li><a href="/site-services/newsletters/newsletter-signup/#navlink=subnav">Newsletters</a></li>
+<li><a href="http://nie.wichitaeagle.com/#navlink=subnav">Newspaper in Education</a></li>
+<li><a href="/plus/#navlink=subnav">Subscribe</a></li>
+<li><a href="/customer-service/#navlink=subnav">Subscriber Services</a></li>
+<li><a href="/customer-service/about-us/#navlink=subnav">About Us</a></li>
+</ul>
+</li>
+<li class="nav-divider"> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>News <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/news/#navlink=subnav">News</a></li>
+<li><a href="/news/local/crime/#navlink=subnav">Crime &amp; Courts</a></li>
+<li><a href="/news/local/#navlink=subnav">Local</a></li>
+<li><a href="/site-services/databases/#navlink=subnav">Databases</a></li>
+<li><a href="/news/local/education/#navlink=subnav">Education</a></li>
+<li><a href="/news/lottery/#navlink=subnav">Lottery</a></li>
+<li><a href="/news/nation-world/#navlink=subnav">Nation &amp; World</a></li>
+<li><a href="/news/politics-government/#navlink=subnav">Politics</a></li>
+<li><a href="/news/special-reports/#navlink=subnav">Special Projects</a></li>
+<li><a href="/news/weather/#navlink=subnav">Weather</a></li>
+<li><a href="/news/weird/#navlink=subnav">Weird News</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/news/weather/finger-on-the-weather/#navlink=subnav">Finger on the Weather</a></li>
+<li><a href="/news/politics-government/prairie-politics/#navlink=subnav">Prairie Politics</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Sports <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/sports/#navlink=subnav">Sports</a></li>
+<li><a href="/sports/college/wichita-state/#navlink=subnav">Wichita State</a></li>
+<li><a href="/sports/nfl/kansas-city-chiefs/#navlink=subnav">Chiefs</a></li>
+<li><a href="http://www.varsitykansas.com/#navlink=subnav">High Schools</a></li>
+<li><a href="/sports/college/big-12/kansas-state/#navlink=subnav">K-State</a></li>
+<li><a href="/sports/college/big-12/university-of-kansas/#navlink=subnav">Kansas</a></li>
+<li><a href="/sports/outdoors/#navlink=subnav">Outdoors</a></li>
+<li><a href="/sports/mlb/kansas-city-royals/#navlink=subnav">Royals</a></li>
+<li><a href="/sports/college/state-college-sports/#navlink=subnav">State Colleges</a></li>
+<li><a href="/sports/other-sports/wichita-wingnuts/#navlink=subnav">Wingnuts</a></li>
+<li><a href="/sports/other-sports/nbc-baseball/#navlink=subnav">NBC baseball</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/sports/spt-columns-blogs/bob-lutz/#navlink=subnav">Bob Lutz</a></li>
+<li><a href="/sports/college/big-12/university-of-kansas/jayhawk-dispatch/#navlink=subnav">Jayhawk Dispatch</a></li>
+<li><a href="/sports/college/big-12/kansas-state/k-stated/#navlink=subnav">K-Stated</a></li>
+<li><a href="/sports/spt-columns-blogs/lutz-blog/#navlink=subnav">Lutz Blog</a></li>
+<li><a href="/sports/outdoors/michael-pearce/#navlink=subnav">Michael Pearce</a></li>
+<li><a href="/sports/college/wichita-state/shockwaves/#navlink=subnav">Shockwaves</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Politics <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 200px;">
+<li><a href="/news/politics-government/#navlink=subnav">Politics</a></li>
+<li><a href="/news/politics-government/election/#navlink=subnav">Elections</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Business <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/news/business/#navlink=subnav">Business</a></li>
+<li><a href="/news/business/agriculture/#navlink=subnav">Agribusiness</a></li>
+<li><a href="/news/business/aviation/#navlink=subnav">Aviation</a></li>
+<li><a href="/news/business/banking/#navlink=subnav">Banking</a></li>
+<li><a href="/news/business/health-care/#navlink=subnav">Health Care</a></li>
+<li><a href="/news/business/small-business/#navlink=subnav">Small Business</a></li>
+<li><a href="/news/business/forward/#navlink=subnav/">Forward Wichita</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/news/business/aviation/air-capital-insider/#navlink=subnav">Air Capital Insider</a></li>
+<li><a href="/news/business/biz-columns-blogs/business-casual/#navlink=subnav">Business Casual</a></li>
+<li><a href="/news/business/biz-columns-blogs/business-perspectives/#navlink=subnav">Business Perspectives</a></li>
+<li><a href="/news/business/biz-columns-blogs/carrie-rengers/#navlink=subnav">Carrie Rengers</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Living <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/living/#navlink=subnav">Living</a></li>
+<li><a href="http://www.legacy.com/celebration/kansas/#navlink=subnav">Celebrations</a></li>
+<li><a href="/living/family/#navlink=subnav">Family</a></li>
+<li><a href="/living/fashion/#navlink=subnav">Fashion</a></li>
+<li><a href="/living/food-drink/#navlink=subnav">Food &amp; Drink</a></li>
+<li><a href="/living/health-fitness/#navlink=subnav">Health &amp; Fitness</a></li>
+<li><a href="/living/home-garden/#navlink=subnav">Home &amp; Garden</a></li>
+<li><a href="/living/pets/#navlink=subnav">Pets</a></li>
+<li><a href="/living/religion/#navlink=subnav">Religion</a></li>
+<li><a href="/living/travel/#navlink=subnav">Travel</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/living/family/suzanne-tobias/#navlink=subnav">Suzanne Tobias</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Entertainment <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/entertainment/#navlink=subnav">Entertainment</a></li>
+<li><a href="/entertainment/arts-culture/#navlink=subnav">The Arts</a></li>
+<li><a href="/entertainment/books/#navlink=subnav">Books</a></li>
+<li><a href="/entertainment/celebrities/#navlink=subnav">Celebrities</a></li>
+<li><a href="/entertainment/comics/#navlink=subnav">Comics</a></li>
+<li><a href="http://games.kansas.com/#navlink=subnav">Games &amp; Puzzles</a></li>
+<li><a href="/entertainment/horoscopes/#navlink=subnav">Horoscopes</a></li>
+<li><a href="/entertainment/restaurants/#navlink=subnav">Restaurants</a></li>
+<li><a href="http://events.kansas.com/#navlink=subnav">Events</a></li>
+<li><a href="/entertainment/movies-news-reviews/#navlink=subnav">Movies</a></li>
+<li><a href="/entertainment/music-news-reviews/#navlink=subnav">Music</a></li>
+<li><a href="/entertainment/tv/#navlink=subnav">TV</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/entertainment/restaurants/dining-with-denise-neil/#navlink=subnav">Dining with Denise</a></li>
+<li><a href="/entertainment/movies-news-reviews/movie-maniac/#navlink=subnav">Movie Maniac</a></li>
+<li><a href="/entertainment/ent-columns-blogs/keeper-of-the-plans/#navlink=subnav">Keeper of the Plans</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Opinion <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 0px;">
+<li><a href="/opinion/#navlink=subnav">Opinion</a></li>
+<li><a href="/opinion/editorials/#navlink=subnav">Editorials</a></li>
+<li><a href="/opinion/editorial-cartoons/#navlink=subnav">Editorial Cartoons</a></li>
+<li><a href="/opinion/letters-to-the-editor/#navlink=subnav">Letters</a></li>
+<li><a href="/opinion/opn-columns-blogs/#navlink=subnav">Opinion Columns</a></li>
+<li><a href="/opinion/letters-to-the-editor/submit-a-letter/#navlink=subnav">Submit a Letter</a></li>
+<li class="dropdown-header">Blogs & Columnists</li>
+<li><a href="/opinion/editorial-cartoons/richard-crowson/#navlink=subnav">Richard Crowson</a></li>
+<li><a href="/opinion/opn-columns-blogs/now-consider-this/#navlink=subnav">Now Consider This</a></li>
+<li><a href="/opinion/opn-columns-blogs/opinion-line/#navlink=subnav">Opinion Line</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.legacy.com/obituaries/kansas/#navlink=subnav">
+Obituaries
+</a>
+</li>
+<li class="nav-divider"> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Classifieds <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 440px;">
+<li><a href="/classifieds/#navlink=subnav">Classifieds</a></li>
+<li><a href="/classified-ads/category/02+Auctions+/+Estate+/+Misc.+Sales#navlink=subnav">Auctions/Estate Sales</a></li>
+<li><a href="/classified-ads/08+Garage+Sales/classification/Garage+Sale/#navlink=subnav">Garage Sales</a></li>
+<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobresults.aspx?lr=cbcb_we#navlink=subnav">Jobs</a></li>
+<li><a href="http://www.legalnotice.org/pl/wichitaeagle/#navlink=subnav">Legal Notices</a></li>
+<li><a href="http://findnsave.kansas.com/Local-Ads/c-4050/City-and-Public-Notices#navlink=subnav">Public Notices</a></li>
+<li><a href="/classified-ads/category/09+Merchandise#navlink=subnav">Merchandise</a></li>
+<li><a href="/classified-ads/category/10+Pets+%26+Animals#navlink=subnav">Pets</a></li>
+<li><a href="/classified-ads/category/14+Service+Directory#navlink=subnav">Service Directory</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" target=""><span class="glyphicon glyphicon-chevron-left"></span>Place An Ad <span class="glyphicon glyphicon-chevron-right"></span><b class="caret"></b></a>
+<ul class="dropdown-menu" style="padding-top: 480px;">
+<li><a href="http://wichitaeagle.adperfect.com/#navlink=subnav">Place An Ad</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/?catid=720#navlink=subnav">Merchandise</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/?catid=723#navlink=subnav">Jobs</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/?catid=726#navlink=subnav">Cars</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/?catid=716#navlink=subnav">Homes</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/?catid=717#navlink=subnav">Apartments</a></li>
+<li><a href="http://wichitaeagle.adperfect.com/#navlink=subnav">Other Categories</a></li>
+<li><a href="http://memberservices.mcclatchyinteractive.com/ics/support/default.asp?deptID=4605#navlink=subnav">Classified Support Center</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.careerbuilder.com/jobseeker/jobs/jobresults.aspx?lr=cbcb_we#navlink=subnav">
+Jobs
+</a>
+</li>
+<li>
+<a href="http://www.startmoonlighting.com/mni/Wichita-Eagle/?utm_source=Wichita-Eagle&utm_medium=navweblink&utm_campaign=MNI#navlink=subnav">
+Moonlighting
+</a>
+</li>
+<li>
+<a href="/cars/#navlink=subnav">
+Cars
+</a>
+</li>
+<li>
+<a href="/homes/#navlink=subnav">
+Homes
+</a>
+</li>
+<li>
+<a href="http://findnsave.kansas.com/PrintCoupons/#navlink=subnav">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var language = "en-us";
+var mast_options = {
+language: language,
+locationKey: mi.pageInfo.getConf('accuweather.locationKey'),
+locationString: mi.pageInfo.getConf('accuweather.locationString'),
+isDevEnv: mi.pageInfo.getConf('accuweather.dev'),
+publicationUrl: 'http://www.kansas.com/',
+iconPath: 'static/images/widgets/weather/2020/',
+detail: 'false'
+};
+var windowSize = jQuery(window).width();
+if (windowSize > 767) {
+jQuery(".mi-weather-alert").populateWeatherAlert("description", mast_options);
+}
+jQuery(".miWeatherCurrent").populateCurrentWeather(mast_options);
+</script>
+<style type="text/css">
+/* Navigation Menu-specific styles */
+/* @media screen and (min-width: 1200px) {
+#masthead-container .dropdown:hover .dropdown-menu {
+display: block; } }
+*/
+</style>
+<script type="text/javascript">
+/*
+var $window = $window || $(window);
+var $nav = $(document.getElementById("main-nav-container"));
+var $toggle = $nav.find(".navbar-header").find(".navbar-toggle");
+var $dropdown = $(".dropdown");
+var $navbarNav = $nav.find(".navbar-nav");
+var $navbarDropdown = $navbarNav.find(".dropdown-menu");
+if ( location.hostname.split('.')[ 1 ] === "elnuevoherald" || language === "es" ) {
+$toggle.prepend('<span class="nav-label hidden-xs">Secciones</span>');
+$dropdown.find(".form-control").attr('placeholder', 'Búsqueda');
+}
+else {
+// add Menu label to nav toggle for small and up
+$toggle.prepend('<span class="nav-label hidden-xs">Full Menu</span>');
+}
+$dropdown.children('a').attr('data-target', '#');
+// Make subnav same height as main nav
+$(document.getElementById('navbar-collapse-1')).on('shown.bs.collapse', function () {
+var navHeight = $navbarNav.height();
+$navbarDropdown.css("min-height", navHeight + "px");
+});
+*/
+if (location.hostname.split('.')[1] == 'elnuevoherald') {
+jQuery('#main-nav-container .navbar-header .navbar-toggle').prepend('<span class="nav-label hidden-xs">Secciones</span>');
+jQuery('.dropdown .form-control').attr('placeholder','Búsqueda');
+} else {
+// add Menu label to nav toggle for small and up
+jQuery('#main-nav-container .navbar-header .navbar-toggle').prepend('<span class="nav-label hidden-xs">Full Menu</span>');
+}
+jQuery('.dropdown > a').attr('data-target','#');
+// Make dropdowns work on hover at large breakpoint
+jQuery(function() {
+jQuery("#masthead-container .dropdown").hover(
+function(){ if ($(window).width() > 1200) { $(this).addClass('open') } },
+function(){ if ($(window).width() > 1200) { $(this).removeClass('open') } }
+);
+});
+// Make subnav same height as main nav
+$('#navbar-collapse-1').on('shown.bs.collapse', function () {
+var nav_height = jQuery("#main-nav .navbar-nav").height();
+jQuery("#main-nav .navbar-nav .dropdown-menu").css( "min-height", nav_height + "px" );
+}); </script>
+</header>
+<div class="container " >
+<div id="leaderboard-ad"
+class="ad border-bottom">
+<div class="visible-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-3" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="b"
+defaultsize="Large"
+Small = "None"
+Medium = "None"
+Extra-Small = "320x50"
+Large = "None"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-4" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="d"
+defaultsize="Large"
+Small = "728x90"
+Medium = "728x90"
+Extra-Small = "None"
+Large = "728x90"
+articleId="134293939"
+></div>
+</div>
+</div>
+</div>
+</div>
+<section class="container story " role="main">
+<div id="story-header"
+>
+<h1 class="heading section-main-heading link">
+<a href="http://www.kansas.com/news/business/small-business/">
+Small Business
+</a>
+</h1>
+<p
+class="published-date">
+February 22, 2017 2:21 PM
+</p>
+<h1
+class="title">
+Expanded Salon Lavish lets stylists be independent
+</h1>
+</div>
+<div class="row
+story-rail-wrapper">
+<div class="wide-rail">
+<div class="story-gallery ">
+<div id="slick-gallery-container-29504347"
+class="mi-slick-gallery-container clearfix" style="visibility: hidden;">
+<div class="preroll-container" data-uniqueID="29504347">
+<!--"Gallery pre-roll turned off as page level is: story . Must be: gallery" -->
+<script type="text/javascript">
+$(function () {
+$(document).trigger("slickgallery.init", [
+29504347,
+1,
+{
+}
+]);
+});
+</script>
+<div class="slick-gallery">
+<div class="gallery-item image">
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_320/Salon%20Lavish%20photo" data-width-320></span>
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_480/Salon%20Lavish%20photo" data-width-480></span>
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_640/Salon%20Lavish%20photo" data-width-640></span>
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_768/Salon%20Lavish%20photo" data-width-768></span>
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_960/Salon%20Lavish%20photo" data-width-960></span>
+<span class="test-temp" data-src="http://www.kansas.com/news/business/small-business/ed1wet/picture134293934/ALTERNATES/FREE_1140/Salon%20Lavish%20photo" data-width-1140></span>
+<img alt="Salon Lavish owner Lacey Smith, standing in the center of the back row, poses with some of the stylists who work at her salon." title="Salon Lavish owner Lacey Smith, standing in the center of the back row, poses with some of the stylists who work at her salon." />
+<div class="caption">
+<span class="caption-text">
+Salon Lavish owner Lacey Smith, standing in the center of the back row, poses with some of the stylists who work at her salon.
+</span>
+<span class="credits">Courtesy photo</span>
+</div>
+</div>
+</div>
+</div>
+<div class="gallery-counter-container">
+</div>
+<div class="caption-toggle">i</div>
+<div class="current-caption"></div>
+</div>
+</div>
+<div id="story-body-items"
+>
+<div
+class="byline element-spacing-small">
+<p><span class="ng_byline_name">By Joe Stumpe</span></p><p><span class="ng_byline_credit">Eagle correspondent</span></p>
+</div>
+<div class="share-tools-wrapper">
+<!--
+Widget ID: Feature Master with title feature master share buttons:
+Referenced feature mi.masterConfig.shareButtons, which was empty. Attempting fall-back value.
+-->
+<ul class="share-icons">
+<li class="facebook">
+<a class="facebook-share" title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://www.kansas.com/news/business/small-business/article134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-facebook"></div>
+</li>
+<li class="twitter">
+<a title="Share on Twitter" href="https://twitter.com/share?text=Expanded%20Salon%20Lavish%20lets%20stylists%20be%20independent&url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-twitter"></div>
+</li>
+<li class="email">
+<a href="mailto:?subject=Expanded+Salon+Lavish+lets+stylists+be+independent&body=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html"></a>
+<div class="glyphicon glyphicon-envelope"></div>
+</li>
+<li class="more" onClick="return true">
+<ul class="share-options">
+<li class="linked-in"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html&title=Expanded+Salon+Lavish+lets+stylists+be+independent"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+<li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+<li class="pinterest"><a href="http://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html&description=Expanded+Salon+Lavish+lets+stylists+be+independent&media=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2fed1wet%2fpicture134293934%2fALTERNATES%2fLANDSCAPE_1140%2fSalon%2520Lavish%2520photo"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+<li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.kansas.com/news/business/small-business/article134293939.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+<li class="print"><a href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+<li class="reprints"><a href="http://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+</ul>
+<div class="glyphicon glyphicon-share"></div>
+</li>
+</ul>
+</div>
+<div class="ndn_embed" id="ndn-video-player-1" data-config-distributor-id="91076" data-config-width="100%" data-config-height="9/16w"></div>
+<div class="dateline-storybody">
+<div id="story-target" class="clearfix">
+<div id="content-body-16193897-134293939"
+>
+<p>A hair stylist for 16 years, Lacey Smith knew she didn’t want to be a traditional boss in her industry. </p><p>“Stylists, if you don’t know, are a different creature,” she said. “We don’t color inside the lines, we’re always stepping outside.</p><p>“When you work in an environment that restricts you, it causes friction; then you get attitude and sulkiness.”</p><p>Instead, Smith operates Salon Lavish as a rental salon, with beauty professionals leasing booth space from her as private contractors. She recently completed an expansion that doubled its size, just in time for its third anniversary.</p><p>Eighteen stylists and two aestheticians work there, offering a variety of beauty services.</p><p>“We’re still a team,” Smith said, but one “without any drama.”</p><p>Smith had worked in the same strip-center location when it was a different salon, “so I knew its potential.” </p><p>When that salon closed, “I talked to the landlord and just jumped all the way in.”</p><p>She started with nine chairs and soon realized that she could rent to more stylists if she had the room. Thanks to an investor, she was able to take over about 1,200 square feet of space next door, knocking down a wall to create one large salon floor.</p><p>Smith said the investor’s decision to go ahead came at a dramatic moment in her life. She had been splitting time between the salon, her four children and her ailing father.</p><p>“The day that he passed away, I got a call from the investor saying he was going to invest,” she said. “It was like the lowest low and highest high at the same time.”</p><p>In addition to traditional styling, the salon has several contractors who specialize.</p><p>“I myself am an extension specialist,” Smith said. “That’s a pretty extensive service. It takes four to six hours, and it’s quite expensive.”</p><p>A couple of other stylists offer what’s called an agave smoothing treatment.</p><p>“It basically takes your unruly, frizzy hair and smooths it out. That’s a really popular service.”</p><p>Chemical peels, facials and facial hair removal, eyelash extension, manicures, pedicures and other nail care are also performed there.</p><p>Smith said stylists working as independent contractors can make more than they do as traditional employees of salons. They also have the flexibility to set their own hours, which is why she lists the salon’s hours as “8-ish to 8-ish.”</p><p>For her own part, she tries to respect her contractors’ independent ways.</p><p>“I just hold my tongue, and it’s made me successful,” she said.</p><p>Smith currently has room for a couple more stylists.</p><p>Smith, who works as a stylist in addition to managing the salon, said she couldn’t do it without a “huge support system” at home. Her husband, who has been laid off from his railroad job, takes care of their children, with the help of their 16-year-old daughter. That allows her to concentrate on making sure the expanded salon succeeds.</p><p>“I love it,” she said. “I have all the energy in the world because I’m passionate about it.”</p><div class="ng_factbox"><p><span class="ng_factbox_bold">Now you know</span></p><div class="ng_factbox_head"><p>SALON LAVISH</p><span class="ng-command" data-value="252"> </span></div><p><strong>Address:</strong> 10248 W. 13th St. </p><p><strong>Phone:</strong> <a href="tel:316-200-7959" title="">316-200-7959</a></p><p><strong>Owner:</strong> Lacey Smith</p><p><strong>Website:</strong> <a href="http://salon-lavish.com/" target="_blank" title="">salon-lavish.com</a></p></div>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-16193897-134293939 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-16193897-134293939").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-16193897-134293939").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = false;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-16193897-134293939").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</div>
+</div>
+<div class="ndn_embed" id="ndn-video-player-2" data-config-distributor-id="91076" data-config-width="100%" data-config-height="9/16w"></div>
+<div id="related-gallery"
+class="reorder_story-target_2 reorder">
+</div>
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-5" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="None"
+defaultsize="Large"
+Small = "336x280"
+Medium = "336x280"
+Extra-Small = "336x280"
+Large = "336x280"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_6 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-6" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="c"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_11 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-7" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="e"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="ad visible-xs reorder_story-target_16 reorder">
+<div>
+<div class="ad-widget" id="div-gpt-ad-8" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="f"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x250"
+Large = "None"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+</div>
+<div id="story-related"
+class="story-related element-spacing-large">
+<h1 >
+Related content
+</h1>
+<div id="related-links" >
+</div>
+</div>
+<script type="text/javascript">
+var $storyRelated = $(document.getElementById('story-related'));
+if ($storyRelated.find('article').length === 0) {
+$storyRelated.hide();
+}
+</script>
+<div class="share-tools-wrapper visible-sm visible-xs element-spacing-medium">
+<!--
+Widget ID: Feature Master with title feature master share buttons:
+Referenced feature mi.masterConfig.shareButtons, which was empty. Attempting fall-back value.
+-->
+<ul class="share-icons">
+<li class="facebook">
+<a class="facebook-share" title="Share on Facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://www.kansas.com/news/business/small-business/article134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-facebook"></div>
+</li>
+<li class="twitter">
+<a title="Share on Twitter" href="https://twitter.com/share?text=Expanded%20Salon%20Lavish%20lets%20stylists%20be%20independent&url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+<div class="glyphicon glyphicon-twitter"></div>
+</li>
+<li class="email">
+<a href="mailto:?subject=Expanded+Salon+Lavish+lets+stylists+be+independent&body=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html"></a>
+<div class="glyphicon glyphicon-envelope"></div>
+</li>
+<li class="more" onClick="return true">
+<ul class="share-options">
+<li class="linked-in"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html&title=Expanded+Salon+Lavish+lets+stylists+be+independent"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+<li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+<li class="pinterest"><a href="http://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html&description=Expanded+Salon+Lavish+lets+stylists+be+independent&media=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2fed1wet%2fpicture134293934%2fALTERNATES%2fLANDSCAPE_1140%2fSalon%2520Lavish%2520photo"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+<li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.kansas.com/news/business/small-business/article134293939.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+<li class="print"><a href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+<li class="reprints"><a href="http://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+</ul>
+<div class="glyphicon glyphicon-share"></div>
+</li>
+</ul>
+</div>
+<div class="more-stories-link">
+<a href="http://www.kansas.com/news/business/small-business/">
+Small Business
+</a>
+</div>
+<h2 class='heading'>Suggested for you</h2>
+<div id="exchange-embed-widget-ba62d"></div>
+<script>
+$(document).ready(function(){
+var divElem ="exchange-embed-widget-ba62d"; 
+var aggr = new Aggrego(document.getElementById(divElem), "ba62d14748db050d2fbe3c736c26cf95");
+aggr.init();
+});
+</script>
+<div id="commenting-container"
+class="commenting-container
+element-spacing-large">
+<h1 class="heading">
+Comments
+</h1>
+<!--
+Widget ID: Feature Master with title feature master comments:
+Referenced feature mi.masterConfig.comments, which was empty. Attempting fall-back value.
+-->
+<script>
+if($("meta[property='fb:app_id']").length === 1 && $("meta[name='allow-comments']").prop("content") === "true") {
+mi.commenting = new mi.Commenting();
+mi.commenting.setConf( {
+accountName: mi.pageInfo.getConf('marketInfo.domain'),
+fbapp_id: mi.pageInfo.getConf('facebook.app.id'),
+fb_comment_div: {'data-width': '100%'}
+});
+$(document).ready(function() {
+mi.commenting.display();
+});
+} else {
+$(document).ready(function() {
+var disabledText = 'Comments have been disabled for this story.';
+$("#commentingStage").prepend("<p><strong>" + disabledText + "</strong></p>");
+});
+}
+</script>
+<div id="commentingStage"
+>
+</div>
+</div>
+</div>
+<div id="nativoArticlePage"
+>
+</div>
+</div>
+<div class="narrow-rail">
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-9" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="b"
+defaultsize="Large"
+Small = "300x250"
+Medium = "Flex Ad"
+Extra-Small = "None"
+Large = "Flex Ad"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+<div id="video-widget"
+class="headline-list">
+<h1 class="heading link">
+<a href="http://www.kansas.com/video/">
+Videos
+</a>
+</h1>
+<section >
+<div class="teaser ">
+<div class="container-115257423" id="container-115257423"> <script type="text/javascript">
+if ( typeof wpsCSS === 'undefined' ) {
+var wpsCSS = document.createElement('link');
+wpsCSS.href = '/wps/build/wps-css/theme-f24601c88b.kansas.css';
+wpsCSS.rel = 'stylesheet';
+wpsCSS.type = 'text/css';
+document.getElementsByTagName('head')[ 0 ].appendChild(wpsCSS);
+}
+</script> <div class="wf-wps-side-bar"> <div class="wf-wps-side-bar"> <div class="mi-video-sidebar-widget" id="video-detail-115257423-1489272962674"> <div id="video-container-115257423-1489272962674"> <div id="video-detail-115257423-1489272962674" class="media-wrap"> <div class="video-media" data-id="115257423" data-index> <div id="player-115257423-1489272962674" class="player" data-id="115257423"> <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; background: url('') no-repeat center center; background-size: cover;"> </div> </div> <div class="mi-video-utilty-bar share-icons "> <a class="facebook-share mi-video-utility-item" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook"> <span class="glyphicon glyphicon-facebook"></span> <span class="utility-text">facebook</span> </a> <a class="twitter-share mi-video-utility-item" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter"> <span class="glyphicon glyphicon-twitter"></span> <span class="utility-text">twitter</span> </a> <a class="email-share mi-video-utility-item" href="" title="Share by Email"> <span class="jw-icon jw-icon-email"></span> <span class="utility-text">email</span> </a> <a class="mi-video-share-btn mi-video-utility-item" title="Share"> <span class="jw-icon jw-icon-share"></span> <span class="utility-text">Share</span> </a> </div> <div class="clearfix"></div> <div id="mi-video-overlay-115257423-1489272962674" class="mi-video-custom-overlay-wrap" style="display:none;"> <div class="mi-video-eos-wrap"> <h3 class="mi-video-overlay-title">More Videos</h3> <div class="mi-video-eos"> <div class="mi-overlay-item" data-index="0"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/local/hqq0i6-Vigil-for-Toni-Anderson-missing-Wichita-woman/alternates/LANDSCAPE_200/Vigil%20for%20Toni%20Anderson%2C%20missing%20Wichita%20woman" alt="Vigil for Toni Anderson, missing Wichita woman"> <span class="duration">1:08</span> </div> <div class="media-desc"> <h4 class="video-title">Vigil for Toni Anderson, missing Wichita woman</h4> </div> <div class="svg-timer-wrap"> <svg class="svg-timer" viewbox="0 0 34 34"> <g> <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle> <text class="svg-timer-text" x="17" y="24"></text> </g> </svg> <a class="svg-timer-pause" href="javascript:void(0)"> <span class="glyphicon glyphicon-pause"></span> Pause </a> </div> </div> <div class="mi-overlay-item" data-index="1"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/njr3ez-Roberts-visits-areas-families-affected-by-Kansas-wildfires/alternates/LANDSCAPE_200/Roberts%20visits%20areas%2C%20families%20affected%20by%20Kansas%20wildfires" alt="Roberts visits western Kansas after wildfires"> <span class="duration">1:23</span> </div> <div class="media-desc"> <h4 class="video-title">Roberts visits western Kansas after wildfires</h4> </div> </div> <div class="mi-overlay-item" data-index="2"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/state/9imr06-gardiner-keyframe/alternates/LANDSCAPE_200/gardiner%20keyframe" alt="'They never stood a chance in a lot of these pastures, the fire was so fast'"> <span class="duration">1:46</span> </div> <div class="media-desc"> <h4 class="video-title">'They never stood a chance in a lot of these pastures, the fire was so fast'</h4> </div> </div> <div class="mi-overlay-item" data-index="3"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/local/n9q8et-FIRE-UPDATE-Were-still-going-from-fire-to-fire-to-fire/alternates/LANDSCAPE_200/FIRE%20UPDATE%3A%20%27We%27re%20still%20going%20from%20fire%20to%20fire%20to%20fire%27" alt="Kansas wildfire update: 'We're still going from fire to fire to fire'"> <span class="duration">1:17</span> </div> <div class="media-desc"> <h4 class="video-title">Kansas wildfire update: 'We're still going from fire to fire to fire'</h4> </div> </div> <div class="mi-overlay-item" data-index="4"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/local/1f5zbp-The-tiniest-town-that-burned-the-most/alternates/LANDSCAPE_200/The%20tiniest%20town%20that%20burned%20the%20most" alt="The tiny Kansas town that burned the most"> <span class="duration">2:38</span> </div> <div class="media-desc"> <h4 class="video-title">The tiny Kansas town that burned the most</h4> </div> </div> <div class="mi-overlay-item" data-index="5"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/sports/f41rc8-Coach-Marshall-says-giving-Shamet-the-ball-was-the-turning-point-for-the-team/alternates/LANDSCAPE_200/Coach%20Marshall%20says%20giving%20Shamet%20the%20ball%20was%20the%20turning%20point%20for%20the%20team" alt="Coach Marshall says giving Shamet the ball was the turning point for the team"> <span class="duration">12:17</span> </div> <div class="media-desc"> <h4 class="video-title">Coach Marshall says giving Shamet the ball was the turning point for the team</h4> </div> </div> <div class="mi-overlay-item" data-index="6"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/latest-news/bvxjwf-Maize-Advances-to-Third-State-Title-Game-in-Last-Four-Years/alternates/LANDSCAPE_200/Maize%20Advances%20to%20Third%20State%20Title%20Game%20in%20Last%20Four%20Years" alt="Maize advances to third state title game in last four years"> <span class="duration">0:38</span> </div> <div class="media-desc"> <h4 class="video-title">Maize advances to third state title game in last four years</h4> </div> </div> <div class="mi-overlay-item" data-index="7"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/weather/z5dbaf-Western-Kansas-family-They-lost-everything/alternates/LANDSCAPE_200/Western%20Kansas%20family%3A%20They%20lost%20everything" alt="Western Kansas family: They lost everything"> <span class="duration">3:01</span> </div> <div class="media-desc"> <h4 class="video-title">Western Kansas family: They lost everything</h4> </div> </div> <div class="mi-overlay-item" data-index="8"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/weather/qliq31-Drone-video-captures-wildfire-ravaged-Kansas-landscape/alternates/LANDSCAPE_200/Drone%20video%20captures%20wildfire-ravaged%20Kansas%20landscape" alt="Drone video captures wildfire-ravaged Kansas landscape"> <span class="duration">1:17</span> </div> <div class="media-desc"> <h4 class="video-title">Drone video captures wildfire-ravaged Kansas landscape</h4> </div> </div> <div class="mi-overlay-item" data-index="9"> <div class="media-wrap"> <img data-flickity-lazyload="http://www.kansas.com/news/local/crime/lce8lp-Crime-Stoppers-unveils-new-software-app-for-tipsters/alternates/LANDSCAPE_200/Crime%20Stoppers%20unveils%20new%20software%2C%20app%20for%20tipsters" alt="Crime Stoppers unveils new software, app for tipsters"> <span class="duration">6:09</span> </div> <div class="media-desc"> <h4 class="video-title">Crime Stoppers unveils new software, app for tipsters</h4> </div> </div> </div> </div> <div class="mi-video-share-wrap"> <span class="mi-video-close-share jw-icon jw-icon-close"></span> <h3 class="mi-video-overlay-title">Share Video</h3> <ul class="share-icons video"> <li class="embed"> <div class="form-group"> <label>Video link:</label> <input class="mi-share-link" type="text" readonly value=""> <div class="btn btn-primary select-btn">
+Select
+</div> </div> <div class="form-group"> <label>Embed code:</label> <input class="overlay-embed-share" type="text" readonly value=""> <div class="btn btn-primary select-btn">
+Select
+</div> </div> </li> <li class="facebook"> <a class="facebook-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook"> <span class="glyphicon glyphicon-facebook"></span> facebook </a> </li> <li class="twitter"> <a class="twitter-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter"> <span class="glyphicon glyphicon-twitter"></span> twitter </a> </li> <li class="email"> <a class="email-share" href=""> <span class="jw-icon jw-icon-email"></span> email </a> </li> </ul> </div> </div> <script type="text/javascript">
+if ( typeof allowAds === 'undefined' ) {
+var allowAds = true;
+}
+if ( typeof wpsConfig === 'undefined' ) {
+var wpsConfig = {
+baseUrl: '/wps/source/scripts/src',
+urlArgs: 'misv=3bd7c6f',
+paths: {
+'fastdom': '../libs/fastdom.min',
+'moment': '../libs/moment.min',
+'jwplayer': ['https://d12j9jiosu7f.cloudfront.net/jwplayer-7.8.7/jwplayer',
+'../libs/jwplayer'],
+'flickity': '../libs/flickity.pkgd.min'
+},
+waitSeconds: 0
+};
+var wpsRequire = requirejs.config(wpsConfig);
+}
+wpsRequire([ 'video' ], function ( video ) {
+return video([{"id":"115257423","asset_type":"videoIngest","url":"http://www.kansas.com/news/business/small-business/article115257423.html","duration":"0:51","image":"http://www.kansas.com/news/business/jqttjt-Helping-small-business-owners-sleep-better-is-firms-goal/alternates/LANDSCAPE_768/Helping%20small%20business%20owners%20sleep%20better%20is%20firm%27s%20goal","title":"Helping small-business owners sleep better is firm's goal","description":"Helping small-business owners sleep better is firm's goal <span class=\"title-duration\">0:51</span>","displayDescription":"The Alternative Board seeks to provide small-business owners with an advisory board of other owners. John Meetz is the local franchisee. He presented Wednesday at 1 Million Cups.","videographer":"","credit":"dvoorhis@wichitaeagle.com","published":1479341510,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/11/17/0/1437582013143-p5k4ma/54c7e535-df15-48c7-af5e-782ef9794acf-1479341503222.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/11/17/0/1437580321678-6bjrso/54c7e535-df15-48c7-af5e-782ef9794acf-1479341504100.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/11/17/0/art_115257423/54c7e535_df15_48c7_af5e_782ef9794acf.m3u8"}],"mediaid":"lOpXoRMD","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D115257423%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=small_business&id=115257423&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D115257423%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"77061677","asset_type":"videoIngest","url":"http://www.kansas.com/news/business/small-business/article77061677.html","duration":"0:42","image":"http://www.kansas.com/latest-news/itnpjf-Comfort-Care-Homes/alternates/LANDSCAPE_768/Comfort%20Care%20Homes","title":"Comfort Care Homes","description":"Comfort Care Homes <span class=\"title-duration\">0:42</span>","displayDescription":"Comfort Care Homes owner Doug Stark talks about being named the top small business in Wichita with 26 to 100 employees (Bryan Horwath/Wichita Eagle).","videographer":"","credit":"bhorwath@wichitaeagle.com","published":1463011731,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/1437582013143-p5k4ma/ab851521-73ac-4391-980a-f9cf487de8b7-1463011729820.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/1437580321678-6bjrso/ab851521-73ac-4391-980a-f9cf487de8b7-1463011730247.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/art_77061677/ab851521_73ac_4391_980a_f9cf487de8b7.m3u8"}],"mediaid":"AE4spdVD","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D77061677%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=small_business&id=77061677&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D77061677%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"77062932","asset_type":"videoIngest","url":"http://www.kansas.com/news/business/small-business/article77062932.html","duration":"0:44","image":"http://www.kansas.com/latest-news/539xjt-Xclusive-Events/alternates/LANDSCAPE_768/Xclusive%20Events","title":"Xclusive Events","description":"Xclusive Events <span class=\"title-duration\">0:44</span>","displayDescription":"Xclusive Events co-owner Cody Lathrop talks about his bartending business being recognized as one of Wichita's top small businesses on May 11 (Bryan Horwath/Wichita Eagle).","videographer":"","credit":"bhorwath@wichitaeagle.com","published":1463011200,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/1437582013143-p5k4ma/2dae284e-dd6e-45c9-bbdf-8147feba3823-1463011198413.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/1437580321678-6bjrso/2dae284e-dd6e-45c9-bbdf-8147feba3823-1463011198876.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2016/5/11/23/art_77062932/2dae284e_dd6e_45c9_bbdf_8147feba3823.m3u8"}],"mediaid":"YduzsxaA","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D77062932%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=small_business&id=77062932&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dsmall_business%26id%3D77062932%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FBusiness%2FEconomy%2FSmallBusiness&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}}], {"wpsInclude":true,"wpsArea":"side_bar","autoPlay":false,"pubName":"kansas","embed":false,"cacheBust":"3bd7c6f","iterator":1,"uniqueID":"115257423-1489272962674","paywallEnabled":false,"domainName":"www.kansas.com","baseTemplate":"video"}, [{"id":"127595684","asset_type":"videoIngest","url":"http://www.kansas.com/news/local/article127595684.html","duration":"1:08","image":"http://www.kansas.com/news/local/hqq0i6-Vigil-for-Toni-Anderson-missing-Wichita-woman/alternates/LANDSCAPE_768/Vigil%20for%20Toni%20Anderson%2C%20missing%20Wichita%20woman","title":"Vigil for Toni Anderson, missing Wichita woman","description":"Vigil for Toni Anderson, missing Wichita woman <span class=\"title-duration\">1:08</span>","displayDescription":"Members of the Risen Savior Lutheran Church and others gathered at a candlelight vigil at the church on Thursday, Jan. 19, 2017, to pray for Toni Anderson, the missing 20-year-old Wichita woman who was last heard from on Sunday in Kansas City. (Video by Fernando Salazar/The Wichita Eagle)","videographer":"","credit":"Fernando Salazar / The Wichita Eagle","published":1484878708,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/1/20/2/1437582013143-p5k4ma/f64b3fdc-088f-44b3-b10a-359078143f1f-1484878706421.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/1/20/2/1437580321678-6bjrso/f64b3fdc-088f-44b3-b10a-359078143f1f-1484878707133.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/1/20/2/art_127595684/f64b3fdc_088f_44b3_b10a_359078143f1f.m3u8"}],"mediaid":"mCf9wkXx","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlocal%26id%3D127595684%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=local&id=127595684&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlocal%26id%3D127595684%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137894878","asset_type":"videoIngest","url":"http://www.kansas.com/news/local/article137894878.html","duration":"1:23","image":"http://www.kansas.com/news/njr3ez-Roberts-visits-areas-families-affected-by-Kansas-wildfires/alternates/LANDSCAPE_768/Roberts%20visits%20areas%2C%20families%20affected%20by%20Kansas%20wildfires","title":"Roberts visits western Kansas after wildfires","description":"Roberts visits western Kansas after wildfires <span class=\"title-duration\">1:23</span>","displayDescription":"Sen. Pat Roberts toured parts of western Kansas on Friday, which has been ravaged by wildfires this week. (Video by Bo Rader / The Wichita Eagle / March 10, 2017)","videographer":"","credit":"brader@wichitaeagle.com","published":1489206951,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/4/1437582013143-p5k4ma/7bb58cde-457a-4973-b996-2365f07703f4-1489206949182.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/4/1437580321678-6bjrso/7bb58cde-457a-4973-b996-2365f07703f4-1489206949637.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/4/art_137894878/7bb58cde_457a_4973_b996_2365f07703f4.m3u8"}],"mediaid":"Y5E0DgNJ","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlocal%26id%3D137894878%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=local&id=137894878&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dlocal%26id%3D137894878%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137360993","asset_type":"videoIngest","url":"http://www.kansas.com/news/state/article137360993.html","duration":"1:46","image":"http://www.kansas.com/news/state/9imr06-gardiner-keyframe/alternates/LANDSCAPE_768/gardiner%20keyframe","title":"'They never stood a chance in a lot of these pastures, the fire was so fast'","description":"'They never stood a chance in a lot of these pastures, the fire was so fast' <span class=\"title-duration\">1:46</span>","displayDescription":"Greg Gardiner's family has been ranching in Clark County for five generations, having homesteaded in 1885. This week's fires are their ranch's worst natural disaster, killing about 500 cattle. (Video and Photos by Mike Pearce / The Wichita Eagle)","videographer":"","credit":"brader@wichitaeagle.com","published":1489073211,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/5/1437582013143-p5k4ma/f3f20918-5934-4483-a35d-9b925db40d31-1489073208348.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/5/1437580321678-6bjrso/f3f20918-5934-4483-a35d-9b925db40d31-1489073209258.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/5/art_137360993/f3f20918_5934_4483_a35d_9b925db40d31.m3u8"}],"mediaid":"0qqOQXha","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dstate%26id%3D137360993%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FState&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=state&id=137360993&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dstate%26id%3D137360993%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FState&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137057473","asset_type":"videoIngest","url":"http://www.kansas.com/news/weather/article137057473.html","duration":"1:17","image":"http://www.kansas.com/news/local/n9q8et-FIRE-UPDATE-Were-still-going-from-fire-to-fire-to-fire/alternates/LANDSCAPE_768/FIRE%20UPDATE%3A%20%27We%27re%20still%20going%20from%20fire%20to%20fire%20to%20fire%27","title":"Kansas wildfire update: 'We're still going from fire to fire to fire'","description":"Kansas wildfire update: 'We're still going from fire to fire to fire' <span class=\"title-duration\">1:17</span>","displayDescription":"Kansas Highway Patrol Trooper Michael Racy updates the status of the Clark County fires from the command post in Ashland, Kansas. (March 7, 2017) ","videographer":"","credit":"omorrison@wichitaeagle.com","published":1488933551,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/8/0/1437582013143-p5k4ma/415a9e74-9fa5-4a9b-a3c5-dbadd68c7646-1488933548834.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/8/0/1437580321678-6bjrso/415a9e74-9fa5-4a9b-a3c5-dbadd68c7646-1488933549291.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/8/0/art_137057473/415a9e74_9fa5_4a9b_a3c5_dbadd68c7646.m3u8"}],"mediaid":"8ob5BOeZ","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137057473%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=weather&id=137057473&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137057473%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137322663","asset_type":"videoIngest","url":"http://www.kansas.com/news/weather/article137322663.html","duration":"2:38","image":"http://www.kansas.com/news/local/1f5zbp-The-tiniest-town-that-burned-the-most/alternates/LANDSCAPE_768/The%20tiniest%20town%20that%20burned%20the%20most","title":"The tiny Kansas town that burned the most","description":"The tiny Kansas town that burned the most <span class=\"title-duration\">2:38</span>","displayDescription":"The town of Englewood, population of about 80, probably suffered the most damage per capita of any town in Kansas in the largest wildfire to ever burn across the state. (March 8, 2017)","videographer":"","credit":"omorrison@wichitaeagle.com","published":1489023661,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/1/1437582013143-p5k4ma/8f8d35fc-52e5-419b-a3ec-1fbebf8fd9fe-1489023657340.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/1/1437580321678-6bjrso/8f8d35fc-52e5-419b-a3ec-1fbebf8fd9fe-1489023657968.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/1/art_137322663/8f8d35fc_52e5_419b_a3ec_1fbebf8fd9fe.m3u8"}],"mediaid":"LONBzodB","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137322663%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=weather&id=137322663&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137322663%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"136642233","asset_type":"videoIngest","url":"http://www.kansas.com/sports/college/wichita-state/article136642233.html","duration":"12:17","image":"http://www.kansas.com/sports/f41rc8-Coach-Marshall-says-giving-Shamet-the-ball-was-the-turning-point-for-the-team/alternates/LANDSCAPE_768/Coach%20Marshall%20says%20giving%20Shamet%20the%20ball%20was%20the%20turning%20point%20for%20the%20team","title":"Coach Marshall says giving Shamet the ball was the turning point for the team","description":"Coach Marshall says giving Shamet the ball was the turning point for the team <span class=\"title-duration\">12:17</span>","displayDescription":"Coach Gregg Marshall’s post-game press conference at the Missouri Valley Conference Tournament. Marshall won his second MVC Tournament.","videographer":"","credit":"jgreen@wichitaeagle.com","published":1488765854,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/6/1/1437582013143-p5k4ma/30e6606d-dc1c-4a57-a7f4-f46c379166fc-1488765839659.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/6/1/1437580321678-6bjrso/30e6606d-dc1c-4a57-a7f4-f46c379166fc-1488765842476.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/6/1/art_136642233/30e6606d_dc1c_4a57_a7f4_f46c379166fc.m3u8"}],"mediaid":"Soqlb3tN","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwichita_state%26id%3D136642233%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FSports%2FCollege%2FCollege&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=wichita_state&id=136642233&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dwichita_state%26id%3D136642233%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FSports%2FCollege%2FCollege&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137841728","asset_type":"videoIngest","url":"http://www.kansas.com/sports/high-school/article137841728.html","duration":"0:38","image":"http://www.kansas.com/latest-news/bvxjwf-Maize-Advances-to-Third-State-Title-Game-in-Last-Four-Years/alternates/LANDSCAPE_768/Maize%20Advances%20to%20Third%20State%20Title%20Game%20in%20Last%20Four%20Years","title":"Maize advances to third state title game in last four years","description":"Maize advances to third state title game in last four years <span class=\"title-duration\">0:38</span>","displayDescription":"Maize defeated Salina Central for a third time this season, 54-35, to advance to the Class 5A finals on Saturday.","videographer":"","credit":"teldridge@wichitaeagle.com","published":1489194105,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/0/1437582013143-p5k4ma/69d6012d-8315-4b6e-9dcd-551a01e29d1d-1489194104073.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/0/1437580321678-6bjrso/69d6012d-8315-4b6e-9dcd-551a01e29d1d-1489194104465.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/11/0/art_137841728/69d6012d_8315_4b6e_9dcd_551a01e29d1d.m3u8"}],"mediaid":"z7wGzsUV","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhigh_school%26id%3D137841728%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FSports%2FHighSchool%2FHighSchool&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=high_school&id=137841728&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dhigh_school%26id%3D137841728%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FSports%2FHighSchool%2FHighSchool&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"136912058","asset_type":"videoIngest","url":"http://www.kansas.com/news/weather/article136912058.html","duration":"3:01","image":"http://www.kansas.com/news/weather/z5dbaf-Western-Kansas-family-They-lost-everything/alternates/LANDSCAPE_768/Western%20Kansas%20family%3A%20They%20lost%20everything","title":"Western Kansas family: They lost everything","description":"Western Kansas family: They lost everything <span class=\"title-duration\">3:01</span>","displayDescription":"Mike Koehn waits for an insurance adjuster to look at his house and about everything he and his wife, Myrna, own. It all burned down in the fire Monday, a couple miles west of Protection, Kansas. (Oliver Morrison/The Wichita Eagle) ","videographer":"","credit":"omorrison@wichitaeagle.com","published":1488906424,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/7/16/1437582013143-p5k4ma/17ed6c64-2262-4be8-b01c-5410b223986c-1488906419907.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/7/16/1437580321678-6bjrso/17ed6c64-2262-4be8-b01c-5410b223986c-1488906420680.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/7/16/art_136912058/17ed6c64_2262_4be8_b01c_5410b223986c.m3u8"}],"mediaid":"jPL2q5rP","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D136912058%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=weather&id=136912058&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D136912058%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137469883","asset_type":"videoIngest","url":"http://www.kansas.com/news/weather/article137469883.html","duration":"1:17","image":"http://www.kansas.com/news/weather/qliq31-Drone-video-captures-wildfire-ravaged-Kansas-landscape/alternates/LANDSCAPE_768/Drone%20video%20captures%20wildfire-ravaged%20Kansas%20landscape","title":"Drone video captures wildfire-ravaged Kansas landscape","description":"Drone video captures wildfire-ravaged Kansas landscape <span class=\"title-duration\">1:17</span>","displayDescription":"A drone captures stark images of the scarred Kansas land near Coldwater and Greensburg on March 8, 2017. (Courtesy of Jonah Sowa/Kiowa County Media Center) ","videographer":"","credit":"","published":1489093517,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/19/1437582013143-p5k4ma/comanche-1489093514489.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/19/1437580321678-6bjrso/comanche-1489093515070.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/9/19/art_137469883/comanche.m3u8"}],"mediaid":"hBxFz0x4","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137469883%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=weather&id=137469883&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dweather%26id%3D137469883%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FWeather&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}},{"id":"137681093","asset_type":"videoIngest","url":"http://www.kansas.com/news/local/crime/article137681093.html","duration":"6:09","image":"http://www.kansas.com/news/local/crime/lce8lp-Crime-Stoppers-unveils-new-software-app-for-tipsters/alternates/LANDSCAPE_768/Crime%20Stoppers%20unveils%20new%20software%2C%20app%20for%20tipsters","title":"Crime Stoppers unveils new software, app for tipsters","description":"Crime Stoppers unveils new software, app for tipsters <span class=\"title-duration\">6:09</span>","displayDescription":"Wichita police Detective Wendy Hummell explains new software Friday, March 10, 2017, for accepting tips for Crime Stoppers of Wichita/Sedgwick County. The organization is eliminating tips by text and will instead use a new app for anonymous tips. (Courtesy of Wichita Police Department/Facebook)","videographer":"","credit":"","published":1489168191,"sources":[{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/10/17/1437582013143-p5k4ma/wpdfri-1489168182676.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/10/17/1437580321678-6bjrso/wpdfri-1489168185393.mp4"},{"file":"http://dr6lcqo3bxtwa.cloudfront.net/binary/2017/3/10/17/art_137681093/wpdfri.m3u8"}],"mediaid":"sEiaa8y7","ads":[{"publication":"kansas","tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D137681093%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll","lang":"en","sz":"400x300","vpos":"preroll","cust_params":"sect=crime&id=137681093&eid=115257423&pl="}],"adschedule":{"adbreak":{"tag":"http://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dcrime%26id%3D137681093%26eid%3D115257423%26pl%3D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FWCH.site_kansas%2FNews%2FLocal&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vpos=preroll"}}}]);
+});
+</script> </div> </div> <div class="video-details"> <time class="published-date timeago hidden">4 months ago</time> <h2 class="title video-title"> <a href="http://www.kansas.com/news/business/small-business/article115257423.html">Helping small-business owners sleep better is firm's goal</a> </h2> </div> </div> <div id="playlist-115257423-1489272962674"> <div class="mi-playlist-sidebar"> <a class="playlist-item" href="#0" data-index="0"> <div class="media posterframe-wrapper"> <img src="http://www.kansas.com/news/business/jqttjt-Helping-small-business-owners-sleep-better-is-firms-goal/alternates/LANDSCAPE_200/Helping%20small%20business%20owners%20sleep%20better%20is%20firm%27s%20goal" alt="Helping small-business owners sleep better is firm's goal"> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">0:51</span> </div> <div class="media-desc"> <time class="published-date hidden">4 months ago</time> <h4 class="title video-title">Helping small-business owners sleep better is firm's goal</h4> </div> </a> <a class="playlist-item" href="#1" data-index="1"> <div class="media posterframe-wrapper"> <img src="http://www.kansas.com/latest-news/itnpjf-Comfort-Care-Homes/alternates/LANDSCAPE_200/Comfort%20Care%20Homes" alt="Comfort Care Homes"> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">0:42</span> </div> <div class="media-desc"> <time class="published-date hidden">10 months ago</time> <h4 class="title video-title">Comfort Care Homes</h4> </div> </a> <a class="playlist-item" href="#2" data-index="2"> <div class="media posterframe-wrapper"> <img src="http://www.kansas.com/latest-news/539xjt-Xclusive-Events/alternates/LANDSCAPE_200/Xclusive%20Events" alt="Xclusive Events"> <span class="glyphicon glyphicon-play-circle"></span> <span class="duration">0:44</span> </div> <div class="media-desc"> <time class="published-date hidden">10 months ago</time> <h4 class="title video-title">Xclusive Events</h4> </div> </a> </div> </div> </div> </div> </div> </div>
+</div>
+</section>
+<div class="clearfix footer element_spacing_large">
+<p class="readmore">
+<a href="http://www.kansas.com/video/">
+View more video
+</a>
+</p>
+</div>
+</div>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-10" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="c"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div id="market-widget-1"
+class="element-spacing-medium">
+</div>
+<div class="element-spacing-medium">
+<!--
+Widget ID: Feature Master with title feature master more stories:
+Referenced feature mi.masterConfig.moreStories, which was empty. Attempting fall-back value.
+-->
+<section id="more-stories-widget"
+class="headline-list element_spacing_large">
+<h1 class="heading link">
+<a href="http://www.kansas.com/news/business/small-business/">
+Small Business
+</a>
+</h1>
+<article class="small_business media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.kansas.com/news/business/small-business/article137399438.html#wgt=trending">
+Wichita chamber names finalists for Small Business Awards
+</a>
+</h2>
+</div>
+</article>
+<article class="small_business media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.kansas.com/news/business/small-business/article137223353.html#wgt=trending">
+Warm cookies and cold milk: The Cookie Guy always delivers
+</a>
+</h2>
+</div>
+</article>
+<article class="small_business media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.kansas.com/news/business/small-business/article135800488.html#wgt=trending">
+Newcomer, veteran work to build law practice in Wichita
+</a>
+</h2>
+</div>
+</article>
+<article class="small_business media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.kansas.com/news/business/small-business/article134293939.html#wgt=trending">
+Expanded Salon Lavish lets stylists be independent
+</a>
+</h2>
+</div>
+</article>
+<article class="small_business media ">
+<div class="teaser ">
+<h2 class="title ">
+<a href="http://www.kansas.com/news/business/small-business/article132928894.html#wgt=trending">
+With push from her son, Wichitan opens her own business
+</a>
+</h2>
+</div>
+</article>
+</section>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-11" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="e"
+defaultsize="Large"
+Small = "300x250"
+Medium = "Flex Ad"
+Extra-Small = "None"
+Large = "Flex Ad"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="element-spacing-medium">
+<section class="element_spacing_large ndn">
+<script async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<h1 class="heading">Editor's Choice Videos</h1>
+<div class="center-block ndn_embed text-center" data-config-widget-id="10736" data-config-type="VideoLauncher/Slider300x250" data-config-tracking-group="91076"></div>
+<script async type="text/javascript">var _informq = _informq || []; _informq.push(['embed']);</script>
+</section>
+</div>
+<div >
+</div>
+<!--
+Widget ID: Feature Master with title feature master extra ads story:
+Referenced feature mi.masterConfig.extraAdsStory, which was empty. Attempting fall-back value.
+-->
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-12" adtype="default" data-ad-policy="onPageLoad" atf="n"
+oom="y"
+pkg="None"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div class="ad hidden-xs">
+<div>
+<div class="ad-widget" id="div-gpt-ad-13" adtype="default" data-ad-policy="onPageLoad" atf="n"
+oom="y"
+pkg="None"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "None"
+Large = "300x250"
+articleId="134293939"
+></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*
+look for elements with classes in the format of
+reorder_<id of target container element>_<position>
+e.g. reorder_story-target_3 would be moved after
+the 3rd child element of #story-target.
+If there aren't enough child elements,
+(e.g., targeting the 7th element of a 4-paragraph story)
+jQuery won't move it.
+*/
+var $document = $document || $(document);
+var reorderRegEx = /\breorder_([a-z0-9\-]+)_(\d+)/;
+var reorderFunc = function ( index, element ) {
+var classes = element.className;
+var parts = reorderRegEx.exec(classes);
+$(document.getElementById(parts[1])).find('>div>:nth-child(' + parts[2] + ')').after(element);
+};
+$('.reorder').each(reorderFunc);
+$document.ready(function () {
+// And now actually show the related content, if we should.
+// Except this actually hides it if we should. ¯\_(ツ)_/¯
+if ( $("#related-gallery").children().length == 0 ) {
+$("#related-gallery").hide();
+} });
+</script>
+<script type="text/javascript">
+var $window = $window || $(window);
+var $document = $document || $(document);
+var isSticky = false;
+$document.ready(function() {
+var $shareTools = $('.share-tools-wrapper');
+var $commentingContainer = $(document.getElementById("commenting-container"));
+var $storyBody = $(document.getElementById("story-body-items"));
+var stickyTools = function () {
+var scrollTop = $window.scrollTop(),
+storyBodyTop = $storyBody.offset().top - 50,
+commentingTop = $commentingContainer.offset().top;
+/* Check if user scrolls to the share tools but grab it 50px early
+* to accommodate the top: 50px CSS once sticky'd (this eliminates
+* the slight jump in the beginning).
+*/
+if ( isSticky === false && scrollTop > storyBodyTop && scrollTop < commentingTop ) {
+isSticky = true;
+return $shareTools.toggleClass('sticky-tools');
+}
+if ( isSticky === true && ( scrollTop >= commentingTop || scrollTop < storyBodyTop ) ) {
+isSticky = false;
+return $shareTools.toggleClass('sticky-tools'); }
+};
+stickyTools();
+$window.on("scroll", stickyTools);
+//Story Numberlines
+var rearrangeHighline = function() {
+var $this = $(this);
+var $leadIn = $this.find('.ng_number_leadin').detach();
+$this.wrapInner('<span></span>');
+$this.prepend($leadIn);
+};
+$('.highline-number').find('p').each(rearrangeHighline);
+});
+</script>
+</section>
+<div class="container " >
+<div class="ad ad-sense">
+<div>
+<div class="ad-widget" id="div-gpt-ad-14" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="m"
+defaultsize="Large"
+Small = "300x250"
+Medium = "300x250"
+Extra-Small = "300x250"
+Large = "300x250"
+articleId="134293939"
+></div>
+</div>
+</div>
+</div>
+<footer class=" " >
+<div class="container">
+<div class="ad">
+<div>
+<div class="ad-widget" id="div-gpt-ad-15" adtype="default" data-ad-policy="onPageLoad" atf="n"
+pkg="None"
+defaultsize="Large"
+Small = "728x90"
+Medium = "728x90"
+Extra-Small = "300x250"
+Large = "728x90"
+articleId="134293939"
+></div>
+</div>
+</div>
+</div>
+<div id="footer"
+>
+<header id="footer-logo"
+>
+<div class="container text-center">
+<a href="http://www.kansas.com/" target="_top"><img src="http://www.kansas.com/static/images/kansas/logo-sm.png" alt="The Wichita Eagle | Kansas.com" class="img-responsive"></a>
+</div>
+</header>
+<div class="container hidden-xs">
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="footer-columns"
+>
+<div class="row " id="footer-menu-columns">
+<div class="col-sm-3 footer-column border-right border-xs-remove-right">
+<h2 class="heading">
+<a href="http://#collapseOne">
+Subscriptions
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="http://tweoffers.com/#navlink=mi_footer">
+Digital Subscriptions
+</a>
+</li>
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Subscriber Services
+</a>
+</li>
+<li>
+<a href="/e-eagle/#navlink=mi_footer">
+E-Eagle
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column border-lg-right">
+<h2 class="heading">
+<a href="http://#collapseTwo">
+Site Information
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Customer Service
+</a>
+</li>
+<li>
+<a href="/customer-service/about-us/#navlink=mi_footer">
+About Us
+</a>
+</li>
+<li>
+<a href="/customer-service/contact-us/#navlink=mi_footer">
+Contact Us
+</a>
+</li>
+<li>
+<a href="/customer-service/faq/#navlink=mi_footer">
+FAQ
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column border-right border-xs-remove-right">
+<h2 class="heading">
+<a href="http://#collapseThree">
+Social, Mobile & More
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="/mobile/#navlink=mi_footer">
+Mobile Options
+</a>
+</li>
+<li>
+<a href="http://www.facebook.com/wichitaeagle#navlink=mi_footer" target="_blank">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://twitter.com/kansasdotcom/#navlink=mi_footer" target="_blank">
+Twitter
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/thewichitaeagle#navlink=mi_footer" target="_blank">
+YouTube
+</a>
+</li>
+<li>
+<a href="/site-services/newsletters/newsletter-signup/#navlink=mi_footer">
+Newsletters
+</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-column">
+<h2 class="heading">
+<a href="http://#collapseFour">
+Advertising
+</a>
+</h2>
+<ul class=" footer-menu">
+<li>
+<a href="/advertise/#navlink=mi_footer">
+Information
+</a>
+</li>
+<li>
+<a href="/advertise/article69098757.html#navlink=mi_footer">
+Digital Advertising
+</a>
+</li>
+<li>
+<a href="/advertise/rates/#navlink=mi_footer">
+Rates
+</a>
+</li>
+<li>
+<a href="http://wichitaeagle.adperfect.com/#navlink=mi_footer">
+Place a Classified
+</a>
+</li>
+<li>
+<a href="http://wichita.dealsaver.com/#navlink=mi_footer" target="_blank">
+Local Deals
+</a>
+</li>
+<li>
+<a href="http://findnsave.kansas.com/#navlink=mi_footer" target="_blank">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row " id="footer-legal">
+<ul class=" footer-menu-legal">
+<li>
+<a href="/site-services/legal/copyright/#navlinks=footer" target="_top">
+Copyright
+</a>
+</li>
+<li>
+<a href="/site-services/legal/commenting-policy/#navlinks=footer" target="_top">
+Commenting Policy
+</a>
+</li>
+<li>
+<a href="/site-services/legal/privacy-policy/#navlink=mi_footer" target="_top">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/site-services/legal/terms-of-service/#navlink=mi_footer" target="_top">
+Terms of Service
+</a>
+</li>
+</ul>
+<script>
+jQuery('#footer #footer-columns .heading > a').each(function(){ $(this).attr('href',$(this).attr('href').split('//')[1]);})
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="accordion"
+class="visible-xs panel-group">
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseOne">
+Subscriptions
+</a>
+</h2>
+</div>
+<div id="collapseOne"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="http://tweoffers.com/#navlink=mi_footer">
+Digital Subscriptions
+</a>
+</li>
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Subscriber Services
+</a>
+</li>
+<li>
+<a href="/e-eagle/#navlink=mi_footer">
+E-Eagle
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseTwo">
+Site Information
+</a>
+</h2>
+</div>
+<div id="collapseTwo"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="/customer-service/#navlink=mi_footer">
+Customer Service
+</a>
+</li>
+<li>
+<a href="/customer-service/about-us/#navlink=mi_footer">
+About Us
+</a>
+</li>
+<li>
+<a href="/customer-service/contact-us/#navlink=mi_footer">
+Contact Us
+</a>
+</li>
+<li>
+<a href="/customer-service/faq/#navlink=mi_footer">
+FAQ
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseThree">
+Social, Mobile & More
+</a>
+</h2>
+</div>
+<div id="collapseThree"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="/mobile/#navlink=mi_footer">
+Mobile Options
+</a>
+</li>
+<li>
+<a href="http://www.facebook.com/wichitaeagle#navlink=mi_footer" target="_blank">
+Facebook
+</a>
+</li>
+<li>
+<a href="https://twitter.com/kansasdotcom/#navlink=mi_footer" target="_blank">
+Twitter
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/thewichitaeagle#navlink=mi_footer" target="_blank">
+YouTube
+</a>
+</li>
+<li>
+<a href="/site-services/newsletters/newsletter-signup/#navlink=mi_footer">
+Newsletters
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseFour">
+Advertising
+</a>
+</h2>
+</div>
+<div id="collapseFour"
+class="panel-collapse collapse">
+<div class="panel-body">
+<ul class=" footer-menu">
+<li>
+<a href="/advertise/#navlink=mi_footer">
+Information
+</a>
+</li>
+<li>
+<a href="/advertise/article69098757.html#navlink=mi_footer">
+Digital Advertising
+</a>
+</li>
+<li>
+<a href="/advertise/rates/#navlink=mi_footer">
+Rates
+</a>
+</li>
+<li>
+<a href="http://wichitaeagle.adperfect.com/#navlink=mi_footer">
+Place a Classified
+</a>
+</li>
+<li>
+<a href="http://wichita.dealsaver.com/#navlink=mi_footer" target="_blank">
+Local Deals
+</a>
+</li>
+<li>
+<a href="http://findnsave.kansas.com/#navlink=mi_footer" target="_blank">
+Shopping
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h2 class="heading">
+<a href="http://#collapseFive">
+More
+</a>
+</h2>
+</div>
+<div id="collapseFive"
+class="panel-collapse collapse">
+<div class="panel-body">
+<script>
+jQuery('#footer #accordion .heading > a').attr({'data-toggle':'collapse','data-parent':'#accordion'}).each(function(){ $(this).attr('href',$(this).attr('href').split('//')[1]);})
+</script>
+<ul class=" footer-menu-legal">
+<li>
+<a href="/site-services/legal/copyright/#navlinks=footer" target="_top">
+Copyright
+</a>
+</li>
+<li>
+<a href="/site-services/legal/commenting-policy/#navlinks=footer" target="_top">
+Commenting Policy
+</a>
+</li>
+<li>
+<a href="/site-services/legal/privacy-policy/#navlink=mi_footer" target="_top">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/site-services/legal/terms-of-service/#navlink=mi_footer" target="_top">
+Terms of Service
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 968074018;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<div class="hidden">
+<div>
+<div class="ad-widget" id="div-gpt-ad-16" adtype="default" data-ad-policy="onPageLoad" atf="y"
+pkg="a"
+defaultsize="Extra-Small"
+Small = "None"
+Medium = "None"
+Extra-Small = "300x75"
+Large = "None"
+articleId="134293939"
+></div>
+</div>
+</div>
+<div id="floorboard"
+class="hidden-xs">
+<div>
+<div id="floorboard_outer">
+<div id="floorTagWrapper" style="display:none;">
+<div class="ad-widget" id="div-gpt-ad-17" adtype="floorboard" atf="y" pkg="a"
+defaultsize="Large" data-ad-policy="onPageLoad"
+Small='285x70'
+Medium='285x70'
+Extra-Small='None'
+Large='285x70'
+articleId='134293939'
+></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- Render Footer from Escenic or WPS based on switch-->
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.script.location":"http://static.mcclatchyinteractive.com/escenic/jwplayer-7.1.4/jwplayer.js","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","videoPlayer":"jwplayer","media.jwplayer.options.primary":"html5","media.jwplayer.ga.enabled":"true ","media.jwplayer.hls.enabled":"true","media.jwplayer.key":"tTakaWDwaA/5t6sLfLhYBB4EfEa1ETrJDYnTPw=="};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "http://www.kansas.com/";
+/* Client-side device detection */
+var WFClientTypeDef = {"extraSmall":"(max-width: 767px)","medium":"(min-width: 992px) and (max-width: 1199px)","large":"(min-width: 1200px)","small":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript"
+src="http://www.kansas.com/static/js/wps-wf-site-1.0.101-bbdd684-min.js"></script>
+<script type="text/javascript" >
+mi_Ads.env.init();
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=3274&contextPath=3034-3262-3263-3274-&pubId=5&cat=&meta=read-story&objId=134293939&type=article&title=Expanded+Salon+Lavish+lets+stylists+be+independent&url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&amp;ctxId=3274&amp;contextPath=3034-3262-3263-3274-&amp;pubId=5&amp;cat=&amp;meta=read-story&amp;objId=134293939&amp;type=article&amp;title=Expanded+Salon+Lavish+lets+stylists+be+independent&amp;url=http%3a%2f%2fwww.kansas.com%2fnews%2fbusiness%2fsmall-business%2farticle134293939.html" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script>
+var trackerConfig = null;
+if (typeof {} != 'object') {
+trackerConfig = '{}';
+trackerSend = 'send';
+}
+else {
+trackerConfig = {};
+if (!trackerConfig.hasOwnProperty('name')) {
+trackerConfig.name = 'wf';
+}
+trackerSend = trackerConfig.name + '.send';
+}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3858463-32', trackerConfig);
+ga(trackerSend, 'pageview');
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style");
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+);
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript">
+mi.pageInfo.setConf("chartbeat.uid", 62447);
+</script>
+<div id="mistatstag" style="display:none;">
+<script type="text/javascript" src="http://media.kansas.com/mistats/products/escenic_s_code.js"></script>
+<script type="text/javascript" src="http://media.kansas.com/mistats/products/escenic.js"></script>
+<script type="text/javascript" src="http://media.kansas.com/mistats/finalizestats.js"></script>
+</div>
+<!-- Lotame Tracking Tag -->
+<script src="http://tags.crwdcntrl.net/c/7453/cc.js?ns=_cc7453" id="LOTCC_7453"></script>
+<script>_cc7453.bcp();</script>
+</body>
+</html>

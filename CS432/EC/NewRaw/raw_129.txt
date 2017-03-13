@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
+    <title>Accountability bodies - Newspaper - DAWN.COM</title> 
+     <meta property='fb:app_id' content='1383068068604634' /> 
+     <meta property='fb:pages' content='86398345441' /> 
+     <link rel='canonical' href='http://www.dawn.com/news/1316576' />              
+    <meta name='twitter:card' content='summary' /> 
+    <meta name='twitter:site' content='@dawn_com' /> 
+    <meta name='twitter:url' content='https://www.dawn.com/news/1316576' /> 
+    <meta name='twitter:title' content='Accountability bodies' /> 
+    <meta name='twitter:description' content='THE observation made by the Supreme Court is manifestly true. Accountability of high officials has broken down...' /> 
+    <meta name='twitter:image' content='http://www.dawn.com/_img/social-default.jpg' />
+            
+    <meta property='og:site_name' content='DAWN.COM' /> 
+    <meta property='og:url' content='https://www.dawn.com/news/1316576' /> 
+    <meta property='og:type' content='article' /> 
+    <meta property='og:title' content='Accountability bodies' /> 
+    <meta property='og:description' content='THE observation made by the Supreme Court is manifestly true. Accountability of high officials has broken down...' /> 
+    <meta property='og:image' content='http://www.dawn.com/_img/social-default.jpg' />
+            
+    <meta property='article:publisher' content='https://www.dawn.com' /> 
+    <meta property='article:published_time' content='2017-02-24 01:54:43' /> 
+    <meta property='article:modified_time' content='2017-02-24 01:54:43' />  
+    <meta property='article:section' itemprop='articleSection' content='newspaper' />
+            
+    <meta property='author' content='Editorial' />  
+  
+  
+    <link rel='stylesheet' href='/_css/print.20170225152104.css' media='print'>
+    <link rel='stylesheet' href='/_css/all.20170310153106.css' media='all'>
+    
+<!-- - - - - - - adsense:header start - - - - - - -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+googleAdsSlots = [];
+googletag.cmd.push(function() {
+      
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-TOP', [728, 90], 'div-gpt-ad-1455520357400-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728, 90], 'div-gpt-ad-1455520357400-1').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-RM-1x1', [1, 1], 'div-gpt-ad-1455520357400-10').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-MIDDLE', [728, 90], 'div-gpt-ad-1455520357400-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-MOBILE-728x90-BOTTOM', [728, 90], 'div-gpt-ad-1455531878761-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-TOP', [300, 250], 'div-gpt-ad-1455520357400-4').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-2', [300, 250], 'div-gpt-ad-1455520357400-6').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300, 250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-2', [300, 250], 'div-gpt-ad-1455520357400-5').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [300, 600], 'div-gpt-ad-1455520357400-8').addService(googletag.pubads()));
+
+  googletag.pubads().set("document_language", "en");
+  
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting('site', 'www.dawn.com');
+  googletag.pubads().setTargeting('category', ["Single Story","Newspaper"]);
+  
+  googletag.pubads().disableInitialLoad();
+  googletag.enableServices();
+});
+</script>
+<!-- - - - - - - adsense:header end - - - - - - -->
+
+<!-- - - - - start:refresh slots - - - - -->
+<script type="text/javascript">
+window.onload = function() {
+  googletag.cmd.push(function() {
+
+    function isEnabled(div) {
+      if (!div) return false;
+
+      var width = parseInt($(div).css('width'));
+      var height = parseInt($(div).css('height'));
+      var margin = parseInt($(div).css('margin'));
+      var display = $(div).css('display');
+      var parent = $(div).parent();
+
+      if (display == 'none') return false;
+
+      if (parent.is('body')) {
+        return true;
+      } else {
+        return isEnabled(parent);
+      }
+    }
+
+    var resetCorrelator = true; // issue #470
+    for (i = 0; i < googleAdsSlots.length; i++) {
+      var slot = googleAdsSlots[i];
+      var id = slot.getSlotElementId();
+      var div = document.getElementById(id);
+
+      if (isEnabled(div)) {
+        googletag.pubads().refresh([slot], {changeCorrelator: resetCorrelator});
+        resetCorrelator = false;
+      }
+    }
+
+    // http://stackoverflow.com/a/30935893
+    // https://developers.google.com/doubleclick-gpt/reference#googletag.events.SlotRenderEndedEvent
+    // it is required as sometimes rendered ad is empty but rad adds width and height on the div
+    // which doesn't allow the ad to collapse in this case
+    googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+      if(e.isEmpty) {
+        $('#' + e.slot.getSlotElementId()).parents('.ad').attr("style", "display: none !important");
+      }
+    });
+  });
+}
+</script>
+<!-- - - - - end:refresh slots - - - - -->
+  
+<!-- - - - - start:onesignal link - - - - -->
+<link rel='manifest' href='/manifest.json'>
+<!-- - - - - end:onesignal link - - - - -->
+
+            <!-- - - - - start:google - - - - -->
+            <script type="text/javascript">
+            (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40396753-1', 'auto');
+            
+    ga('set', 'dimension6', 'news/1316576');
+    ga('set', 'dimension1', 'Newspaper');
+    ga('set', 'dimension2', 'Editorial');
+    ga('set', 'dimension3', 'Editorial-2677');
+    ga('set', 'dimension5', '2017-02-24 01:54:43');  
+    ga('set', 'contentGroup1', 'Newspaper');
+    ga('set', 'contentGroup2', 'Editorial');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+            </script>
+            <!-- - - - - end:google - - - - -->
+
+    <!-- - - - - start:chartbeat - - - - -->
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <!-- - - - - end:chartbeat - - - - -->
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body class="article  newspaper  editorial  newspaper-editorial  adsonly">
+
+<header class="pb-2">
+  
+<div class="container  ltr">
+  <div class="px-2  mb-2  d-none  d-sm-block">
+    <ul class='nav  nav--network  text-center  size-two'>
+                <li class='nav__item  nav__item--epaper  text--400      '><a  class='' href='http://epaper.dawn.com'>EPAPER</a></li>
+                <li class='nav__item  nav__item--live-tv  text--400      '><a  class='' href='http://www.dawnnews.tv/watch-live'>LIVE TV</a></li>
+                <li class='nav__item  nav__item--dawnnews-urdu  text--400      '><a  class='' href='http://www.dawnnews.tv'>DAWNNEWS URDU</a></li>
+                <li class='nav__item  nav__item--images  text--400      '><a  class='' href='http://images.dawn.com'>Images</a></li>
+                <li class='nav__item  nav__item--herald  text--400      '><a  class='' href='http://herald.dawn.com'>Herald</a></li>
+                <li class='nav__item  nav__item--aurora  text--400      '><a  class='' href='http://aurora.dawn.com'>Aurora</a></li>
+                <li class='nav__item  nav__item--cityfm89  text--400      '><a target='_blank' class='' href='http://cityfm89.com'>CityFM89</a></li>
+                <li class='nav__item  nav__item--events  text--400      '><a target='_blank' class='' href='http://educationexpo.dawn.com'>Events</a></li>
+                <li class='nav__item  nav__item--supplements  text--400      '><a  class='' href='http://www.dawn.com/events/supplements'>Supplements</a></li>
+                <li class='nav__item  nav__item--classifieds  text--400      '><a target='_blank' class='' href='http://classifieds.dawn.com/'>Classifieds</a></li>
+                <li class='nav__item  nav__item--obituaries  text--400      '><a target='_blank' class='' href='http://obituary.dawn.com'>Obituaries</a></li>
+          </ul>
+  </div>
+</div> <!-- .container -->
+<div class="mx-2">
+  <div class="container">
+
+    <div class='grid  grid--full'>
+      <div class='grid__item  one-quarter'>
+      </div>
+
+      <div class='grid__item  one-half  palm--one-whole'>
+        <div class="mast  text-center  mx-2">
+                      <a href='/' class=''>
+                <h1 class='text-hide  logo  mx-auto  my-4'>
+                    DAWN.COM
+                </h1>      
+            </a>        </div>
+      </div>
+
+      <div class='grid__item  one-quarter'>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class='adblocker-overlay' style='display: none;'></div>
+<div class='adblocker-modal' style="display: none;">
+  <h1 class='adblocker-modal__heading'><img src='/_img/logo--white.png' width='150' alt="Dawn Logo" /></h1>
+  <div class='adblocker-modal__content'>
+    <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+    <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+  </div>
+  <button class='adblocker-modal__button'></button>
+</div>
+<div class='one-whole  text-center  adblock-alert'>
+  <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+  <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+</div>
+<style>
+.adblock-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 202;
+  display: none;
+}
+.adblocker-overlay {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.5;
+  z-index: 999;
+}
+.adblocker-modal {
+  position: fixed;
+  background: #FFF;
+  border: 2px solid #2F2F2F;
+  left: 50%;
+  top: 50%;
+  width: 600px;
+  height: 200px;
+  margin-left: -300px;
+  margin-top: -100px;
+  overflow: hidden;
+  z-index: 99999999;
+}
+.adblocker-modal__heading {
+  background: #000;
+  text-align: center;
+}
+.adblocker-modal__content {
+  text-align: center;
+  padding: 9px;
+  margin: 9px;
+}
+.adblocker-modal__button {
+  text-align: center;
+  width: 100px;
+  margin: 10px auto;
+  background: #D2D2D2;
+  cursor: pointer;
+  padding: 5px;
+  color: #F00;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: block;
+}
+</style><div class='one-whole  text-center  ie-alert'>
+  <p><img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, please upgrade to the latest version of IE to have a better reading experience</p>.
+</div>
+<style>
+.ie-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 3001;
+  display: none;
+  position: fixed;
+}
+.ie8 .ie-alert,
+.lte8 .ie-alert {
+	display: block;
+}
+</style><div class='container  headroom'>
+  <div class="px-2  border--ends  one-whole  float-left">
+    
+<div class='menu  float-left'>
+  <img class='menu__logo  menu__logo--white d-none' src='/_img/logo--white.png' alt="Dawn Logo" />
+  <img class='menu__logo  menu__logo--black d-none' src='/_img/logo.png' alt="Dawn Logo" />
+  <ul class='nav  nav--primary  nav--responsive  '>
+                <li class='nav__item  nav__item--home  theme        '><a  class='' href='/'>Home</a></li>
+                <li class='nav__item  nav__item--latest-news  theme        '><a  class='' href='/latest-news'>Latest</a></li>
+                <li class='nav__item  nav__item--popular  theme        '><a  class='' href='/popular'>Popular</a></li>
+                <li class='nav__item  nav__item--pakistan  theme        '><a  class='' href='/pakistan'>Pakistan</a></li>
+                <li class='nav__item  nav__item--today-s-paper  theme        '><a  class='' href='http://epaper.dawn.com'>Today's Paper</a></li>
+                <li class='nav__item  nav__item--opinion  theme        '><a  class='' href='/opinion'>Opinion</a></li>
+                <li class='nav__item  nav__item--world  theme        '><a  class='' href='/world'>World</a></li>
+                <li class='nav__item  nav__item--sport  theme        '><a  class='' href='/sport'>Sport</a></li>
+                <li class='nav__item  nav__item--business  theme        '><a  class='' href='/business'>Business</a></li>
+                <li class='nav__item  nav__item--magazines  theme        '><a  class='' href='/magazines'>Magazines</a></li>
+                <li class='nav__item  nav__item--entertainment  theme        '><a  class='' href='/entertainment'>Culture</a></li>
+                <li class='nav__item  nav__item--blogs  theme        '><a  class='' href='/blogs'>Blogs</a></li>
+                <li class='nav__item  nav__item--tech  theme        '><a  class='' href='/tech'>Tech</a></li>
+                <li class='nav__item  nav__item--multimedia  theme        '><a  class='' href='/multimedia'>Multimedia</a></li>
+                <li class='nav__item  nav__item--newspaper  theme      active  '><a  class='' href='/newspaper'>Archive</a></li>
+                <li class='nav__item  nav__item--in-depth  theme        '><a  class='' href='/in-depth'>In Depth</a></li>
+          </ul>
+</div>
+<ul class="nav  nav--aside  d-none  d-sm-block  float-left">
+  <li class='nav__item  one-whole  text-right'>
+    <button class='js-search  search  bald  size-two'>
+      <img src='/_img/search.png' alt="Search Icon" width='15' title='Dawn Search' /><span class="d-none  d-xl-inline-block">SEARCH</span>
+    </button>
+  </li>
+</ul>
+
+
+<div class='search-box  '>
+  <form action="/search">
+    <input type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="search  theme  " value="" placeholder="Search" name="q" />
+  </form>
+</div>  </div>
+</div></header>
+<div class="container">
+
+<!-- - - adsense: start - - -->
+<div class='ad  pb-2  border--bottom  mb-4' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style='z-index: 2147483647 !important;'>
+      <div id='div-gpt-ad-1455520357400-0' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div><!--partial:news/default-story start-->
+<div class="container">
+  <div class="content">
+    <main>
+
+      <!-- hed -->
+      <div class="grid">
+        <div class="grid__item  one-whole">
+          <div class="grid  grid--center">
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              <div class="mx-2  mt-4">
+                                                                                                
+    <!-- box/title title-italic -->
+    <h2 data-layout='story'  data-id='1316576'  class='story__title      text--italic  mt-2  size-eleven  '><a href='https://www.dawn.com/news/1316576/accountability-bodies' class='story__link'>Accountability bodies</a></h2>
+                <!-- box/byline --><div class='    my-2'><span class='story__byline    caps  text--gray  size-three  '><a href='https://www.dawn.com/authors/2677/editorial'>Editorial</a></span><span class='divider  text--gray  divider--hyphen'></span><!-- box/date --><span class='story__time  size-three  caps  text--gray    '><span class='timestamp--label'>Published</span> <span class='timestamp--time  timeago' title='2017-02-24T01:54:43+05:00'><span class='timestamp__calendar'>Feb 24, 2017</span> <span class='timestamp__time'>01:54am</span></span></span> </div>              </div>
+            </div>
+          </div>
+
+          <!-- article -->
+          <div class="grid  grid--center">
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              <article class="story  story--single  px-2  px-sm-0">
+                <div class="my-2  clearfix">
+                  
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;width=87&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:87px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;layout=button&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:58px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="https://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;text=Accountability%20bodies&amp;size=m" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:60px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--label  social--whatsapp  d-block  d-sm-none  float-left  pr-2  " aria-hidden="true">
+      <a href="WhatsApp://send?text=Accountability%20bodies%20-%20http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576">WHATSAPP</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--comment      social--label  float-left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="#comments">&nbsp; 7 Comments</a>
+    </div>
+    <!-- box/social -->
+    <div class="social    social--email    social--label  float-left  pr-2  " aria-hidden="true">
+      <a onclick="$('.mailer [name^=id]').val(1316576);$('.mailer').modal().open()" href="javascript:void(0)"> &nbsp;Email</a>
+    </div>                            <div class="mailer  themodal  themodal--centered" style="width:400px;height:260px;background:#fff">
+                              <h3>Email</h3>
+                              <br />
+                              <form class="emailer" method="post" action="/news/email/1316576"
+                                onsubmit="javascript:$.post(this.action, $(this).serialize());$(this).html('Mail sent, thank you!');return false;">
+                                <input type="hidden" name="jscheck" value="" />
+
+                                Your Name:<br />
+                                <input type="text" name="sender" /><br />
+                                <br />
+                                Recipient Email:<br />
+                                <input type="text" name="to" /> <br />
+                                <br />
+                                <input type="submit" value="Email" />
+
+                                <input type="hidden" name="id" value="" />
+                                </form>
+                            </div>
+    <!-- box/social -->
+    <div class="social  social--print    social--label  float-left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="https://www.dawn.com/news/print/1316576"> &nbsp;Print</a>
+    </div>                </div>
+                
+                
+
+    <!-- box/content -->
+    <div class='story__content      pt-4  '><p class=''>THE observation made by the Supreme Court is manifestly true. Accountability of high officials has broken down because the institutional system of checks and balances is not functioning. Good sense and propriety may have stopped the court from going further in its observations, but the facts speak for themselves: by design or through neglect, the political leadership of the country has allowed oversight and investigatory watchdogs to be rendered toothless. The Supreme Court named three institutions, NAB, the FIA and the FBR, though the scope of the institutional breakdown is much wider and encompasses everything from regulatory bodies to criminal investigation authorities. Nothing works as it should and when green shoots do appear, when there is a nascent flowering of individual initiative and daring, the potential threat to the powers-that-be is quickly smothered. As the exasperated court noted, supposedly independent watchdogs and investigatory bodies not only do nothing, but are often proud of and defiant about their dismal record. The sclerotic accountability system, if not retooled and re-energised, could become a threat to the democratic order itself. Time and again, threats to the democratic order, from within the system and by anti-democrats, have tapped into public disenchantment and been built on the refusal of the political class to submit to the rule of law, transparency and accountability.</p><p class=''>What can be done? The political protagonists from the 1990s appear to have learned at least one lesson: accountability should not be used as a political tool against their opponents. But the PPP and PML-N have gone from one extreme to another — from accountability as vendetta to accountability as nonexistent, even when it is desperately needed. More than eight years of democratic transition has produced not one suggestion of note by either the previous government or the present one that could further the cause of public accountability. True, the PTI has made anti-corruption the cornerstone of its politics, but too many compromises inside the party and too few legislative or institution-strengthening ideas in the assemblies have left it with little achieved on its signature policy issue. Meanwhile, a judicial system based on adversarial, common law canons does not create the space for energetic intervention by the courts. As evidenced by the Panama Papers hearings, the courts have few options when other institutions choose to stall. Perhaps a stinging, well-argued judgement will help break the impasse.</p><p class=''><em>Published in Dawn, February 24th, 2017</em></p>
+    </div>
+
+                <div class="my-2  clearfix">
+                  
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;width=87&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:87px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;layout=button&amp;size=small" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:58px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--iframe  float-left  pr-2  " aria-hidden="true">
+        <iframe src="https://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576&amp;text=Accountability%20bodies&amp;size=m" scrolling="no" frameborder="0" style="border:none;overflow:hidden;height:20px;width:60px" allowTransparency="true"></iframe>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--label  social--whatsapp  d-block  d-sm-none  float-left  pr-2  " aria-hidden="true">
+      <a href="WhatsApp://send?text=Accountability%20bodies%20-%20http%3A%2F%2Fwww.dawn.com%2Fnews%2F1316576">WHATSAPP</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--comment      social--label  float-left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="#comments">&nbsp; 7 Comments</a>
+    </div>
+    <!-- box/social -->
+    <div class="social    social--email    social--label  float-left  pr-2  " aria-hidden="true">
+      <a onclick="$('.mailer [name^=id]').val(1316576);$('.mailer').modal().open()" href="javascript:void(0)"> &nbsp;Email</a>
+    </div>
+    <!-- box/social -->
+    <div class="social  social--print    social--label  float-left  pr-2  d-none  d-sm-block  " aria-hidden="true">
+      <a href="https://www.dawn.com/news/print/1316576"> &nbsp;Print</a>
+    </div>                </div>
+              </article>
+            </div><!-- .grid__item --><!-- .eight~~tenths -->
+
+            <div class="grid__item  eight-tenths  palm--one-whole">
+              
+              <div class='my-4'>
+              
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-6' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-6'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+              </div>
+
+              <!-- related stories -->
+              <!-- related stories -->
+
+              <div>
+              
+<!-- - - adsense: start - - -->
+<div class='ad  py-2  ad--adjustable  my-4  border--ends  d-none  d-sm-block' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-2' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+              </div>
+
+
+              <div class="m-2">
+                <div class="grid  grid--narrow">
+                  <div class="grid__item  one-half  palm--one-whole">
+                    <section class="widget  widget-sectionauthor  widget--article">
+                                          </section>
+                  </div>
+
+                  <div class="grid__item  one-half  palm--one-whole">
+                    <div>
+                    
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-4' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-4'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+                    </div>
+                    <section class="widget  widget-popular  widget--article">
+                      <div class='widget__container'>
+                        <h2 class='widget__container__title  caps  size-six'><span>Most Popular</span></h2>
+                        <div class='widget__container__body'>
+                        <div class="tabs">
+    <ul class="nav  nav--tabs">
+      <li class='active' ><a href='#mostPopular48'>24 Hours</a></li><li class='' ><a href='#mostPopular72'>3 Days</a></li><li class='' ><a href='#mostCommented'>Commented</a></li>    </ul>
+    <div class="tabs__content">
+      <div class='tabs__pane  active' id='mostPopular48'><ol class='popular-list'>
+                    <li><a href='/news/1319342/chinese-firm-awarded-dasu-dam-contracts'>Chinese firm awarded Dasu dam contracts</a></li><li><a href='/news/1319415/scuffle-breaks-out-between-pti-pml-n-lawmakers-outside-na'>Scuffle breaks out between PTI, PML-N lawmakers outside NA</a></li><li><a href='/news/1319551/legislator-asks-us-to-stop-treating-pakistan-as-ally'>Legislator asks US to stop treating Pakistan as ally</a></li><li><a href='/news/1319301/cpec-enclaves'>CPEC enclaves</a></li><li><a href='/news/1319476/indias-diplomatic-isolation-of-pakistan-hinders-prospects-for-improved-ties-us-centcom-commander'>India's 'diplomatic isolation' of Pakistan hinders prospects for improved ties: US Centcom commander</a></li><li><a href='/news/1318873/locating-the-enemy'>Locating the enemy</a></li><li><a href='/news/1319080/how-indian-media-jumped-on-the-fake-news-bandwagon-in-a-rush-to-discredit-kashmiri-separatists'>How Indian media jumped on the fake news bandwagon in a rush to discredit Kashmiri separatists</a></li><li><a href='/news/1319176/indian-citizen-gets-15-year-jail-term-on-terrorism-charges-in-us'>Indian citizen gets 15-year jail term on terrorism charges in US</a></li>
+                  </ol></div><div class='tabs__pane  ' id='mostPopular72'><ol class='popular-list'>
+                    <li><a href='/news/1319008/pakistan-first-country-to-benefit-from-high-quality-solar-maps-world-bank'>Pakistan first country to benefit from high-quality solar maps: World Bank</a></li><li><a href='/news/1319176/indian-citizen-gets-15-year-jail-term-on-terrorism-charges-in-us'>Indian citizen gets 15-year jail term on terrorism charges in US</a></li><li><a href='/news/1319342/chinese-firm-awarded-dasu-dam-contracts'>Chinese firm awarded Dasu dam contracts</a></li><li><a href='/news/1318873/locating-the-enemy'>Locating the enemy</a></li><li><a href='/news/1319551/legislator-asks-us-to-stop-treating-pakistan-as-ally'>Legislator asks US to stop treating Pakistan as ally</a></li><li><a href='/news/1319415/scuffle-breaks-out-between-pti-pml-n-lawmakers-outside-na'>Scuffle breaks out between PTI, PML-N lawmakers outside NA</a></li><li><a href='/news/1319301/cpec-enclaves'>CPEC enclaves</a></li><li><a href='/news/1319080/how-indian-media-jumped-on-the-fake-news-bandwagon-in-a-rush-to-discredit-kashmiri-separatists'>How Indian media jumped on the fake news bandwagon in a rush to discredit Kashmiri separatists</a></li>
+                  </ol></div><div class='tabs__pane  ' id='mostCommented'>
+            <ol class='popular-list'>
+                <li><a href='/news/1319811/modis-party-wins-indias-biggest-state-to-strengthen-grip-on-power'>Modi's party wins India's biggest state to strengthen grip on power</a></li><li><a href='/news/1319659/blind-faith'>Blind faith</a></li><li><a href='/news/1319803/indian-pm-modis-party-ahead-in-state-polls'>Indian PM Modi's party ahead in state polls</a></li><li><a href='/news/1319770/pakistan-did-helpful-things-against-haqqanis-us-general'>Pakistan did ‘helpful things’ against Haqqanis: US general</a></li><li><a href='/news/1319804/religious-scholars-should-spread-message-of-peace-and-tolerance-pm-nawaz'>Religious scholars should spread message of peace and tolerance: PM Nawaz</a></li><li><a href='/news/1319786/india-moves-tipu-sultans-armoury-to-lay-rail-track'>India moves Tipu Sultan’s armoury to lay rail track</a></li><li><a href='/news/1231162/public-misogyny-chronicles-of-a-boy-on-karachis-streets'>Public misogyny: Chronicles of a boy on Karachi's streets  </a></li><li><a href='/news/1319551/legislator-asks-us-to-stop-treating-pakistan-as-ally'>Legislator asks US to stop treating Pakistan as ally</a></li>
+            </ol></div>    </div>
+</div>                        </div>
+                      </div>
+                    </section>
+                  </div>
+                  <div class="grid__item  one-whole">
+                    <div class="mb-4  today-images">
+                      <h3 class='size-six'>TODAY ON IMAGES</h3>
+                      
+
+<div class='slideshow  slideshow--single  portable--one-whole  slideshow--main  ' data-slick='{
+                                        "dots": true,
+                                        "dotsClass": "slideshow__pager",
+                                        "asNavFor": null,
+                                        "cssEase": "ease",
+                                        "speed": 200,
+                                        "autoplaySpeed": 4000,
+                                        "slidesToScroll": 2,
+                                        "slidesToShow": 2,
+                                        "responsive": [{"breakpoint": 480, "settings":{"slidesToShow":2, "slidesToScroll":1}},{"breakpoint": 720, "settings":{"slidesToShow":2, "slidesToScroll":1}}],
+                                        "fade": false
+                                    }'>
+<div class='slideshow__slide  slideshow__slide--first  pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319813' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319813/kangana-vs-karan-a-different-freedom-of-speech-debate-unfolds-in-bollywood'><img src='//i.dawn.com/thumbnail/2017/03/58c3de6ee1baa.jpg'  alt='Kangana vs Karan: A different freedom of speech debate unfolds in Bollywood' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319813'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319813/kangana-vs-karan-a-different-freedom-of-speech-debate-unfolds-in-bollywood' class='story__link'>Kangana vs Karan: A different freedom of speech debate unfolds in Bollywood</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319813&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Kangana%20vs%20Karan%3A%20A%20different%20freedom%20of%20speech%20debate%20unfolds%20in%20Bollywood&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319813&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319813" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide  slideshow__slide--first  pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319807' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319807/veena-malik-seeks-khula-from-husband-after-3-years-of-marriage'><img src='//i.dawn.com/thumbnail/2017/03/58c3c3c6925c3.jpg'  alt='Veena Malik seeks khula from husband after 3 years of marriage' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319807'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319807/veena-malik-seeks-khula-from-husband-after-3-years-of-marriage' class='story__link'>Veena Malik seeks khula from husband after 3 years of marriage</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319807&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Veena%20Malik%20seeks%20khula%20from%20husband%20after%203%20years%20of%20marriage&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319807&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319807" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319805' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319805/indian-censors-refused-to-certify-my-film-because-it-exposes-sexism-says-director'><img src='//i.dawn.com/thumbnail/2017/03/58c3bc38d4733.jpg'  alt='Indian censors refused to certify my film because it exposes sexism, says director' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319805'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319805/indian-censors-refused-to-certify-my-film-because-it-exposes-sexism-says-director' class='story__link'>Indian censors refused to certify my film because it exposes sexism, says director</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319805&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Indian%20censors%20refused%20to%20certify%20my%20film%20because%20it%20exposes%20sexism%2C%20says%20director&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319805&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319805" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319802' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319802/weekend-grub-buon-cibo-offers-mexican-flavours-every-karachiite-should-try'><img src='//i.dawn.com/thumbnail/2017/03/58c3a133c21f2.gif'  alt='Weekend Grub: Buon Cibo offers Mexican flavours every Karachiite should try' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319802'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319802/weekend-grub-buon-cibo-offers-mexican-flavours-every-karachiite-should-try' class='story__link'>Weekend Grub: Buon Cibo offers Mexican flavours every Karachiite should try</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319802&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Weekend%20Grub%3A%20Buon%20Cibo%20offers%20Mexican%20flavours%20every%20Karachiite%20should%20try&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319802&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319802" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319799' data-layout='story'>
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319799'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319799/leaving-pakistan-and-lollywood-was-painful-says-shabnam' class='story__link'>Leaving Pakistan and Lollywood was painful, says Shabnam</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319799&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Leaving%20Pakistan%20and%20Lollywood%20was%20painful%2C%20says%20Shabnam&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319799&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319799" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319624' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319624/6-times-pakistani-politicians-insulted-the-women-they-work-with'><img src='//i.dawn.com/thumbnail/2017/03/58c2b39ac65de.jpg'  alt='6 times Pakistani politicians insulted the women they work with' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319624'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319624/6-times-pakistani-politicians-insulted-the-women-they-work-with' class='story__link'>6 times Pakistani politicians insulted the women they work with</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319624&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=6%20times%20Pakistani%20politicians%20insulted%20the%20women%20they%20work%20with&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319624&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319624" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319612' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319612/sang-e-marmar-is-a-necessary-critique-of-pakistans-obsession-with-ghairat'><img src='//i.dawn.com/thumbnail/2017/03/58c2769c3e681.png'  alt='Sang-e-Marmar is a necessary critique of Pakistan&amp;#39;s obsession with &amp;#39;ghairat&amp;#39;' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319612'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319612/sang-e-marmar-is-a-necessary-critique-of-pakistans-obsession-with-ghairat' class='story__link'>Sang-e-Marmar is a necessary critique of Pakistan&#39;s obsession with &#39;ghairat&#39;</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319612&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Sang-e-Marmar%20is%20a%20necessary%20critique%20of%20Pakistan%27s%20obsession%20with%20%27ghairat%27&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319612&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319612" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide    pr-2  slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-2' data-id='1319605' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319605/not-enough-films-on-women-and-partition-vidya-balan'><img src='//i.dawn.com/thumbnail/2017/03/58c249ea89c63.jpg'  alt='Not enough films on women and Partition: Vidya Balan' /></a></div>        
+    </figure>
+
+    <!-- box/title small-italic-pr:2 -->
+    <h2 data-layout='story'  data-id='1319605'  class='story__title    size-five  text--italic      pr-2'><a href='https://www.dawn.com/news/1319605/not-enough-films-on-women-and-partition-vidya-balan' class='story__link'>Not enough films on women and Partition: Vidya Balan</a></h2>
+
+    <!-- box/social -->
+<div class='  social--top  social--left'>    <div class="social    social--icon  social--facebook    float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319605&display=popup&ref=plugin" target="_blank"></a>
+        
+    </div>    <div class="social    social--icon  social--twitter  float-left  " aria-hidden="true">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Not%20enough%20films%20on%20women%20and%20Partition%3A%20Vidya%20Balan&url=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319605&counturl=http%3A%2F%2Fwww.dawn.com%2Fnews%2F1319605" target="_blank"></a>
+    </div>    <div class="social  social--comment    social--tiny    float-left  " aria-hidden="true">
+      <a href="#comments">0</a>
+    </div></div></article>
+<!-- - - - /article - - - -->
+
+
+</div>
+</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="grid__item  three-quarters  palm--one-whole">
+            <hr class="my-4  clear--both" />
+<section id="comments" class="comments  px-4">
+    <h1 class='comments__label  caps  size-eight  '>Comments (7) Closed</h1>
+        <div class="votes-button-container">
+      <button type="button" class="button js-comments-sort-votes  float-right  text--gray  caps">BEST</button>
+      <button type="button" class="button js-comments-sort-date--new  float-right  text--gray  caps">NEWEST</button>
+      <button type="button" disabled="disabled" class="button js-comments-sort-date  float-right  text--gray  caps">OLDEST</button>
+    </div>
+    <br /><br />
+    
+    <div class="comment  pb-4  mb-4  border--bottom" id="4559180">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Life</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T03:24:37+05:00"><span class='timestamp--time  timeago' title='2017-02-24T03:24:37+05:00'>Feb 24, 2017 03:24am</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>This is really sad that no one is willing to improve the system but everyone desire to reap fruits of corruption free Pakistan. I followed the court proceedings on Panama papers with due zeal and I am disappointed the manner in which prosecution pleaded the case. It was mere political rhetoric without any valid legal grounds on which court could base its decision. The defendants easily got away with the legal requirements of record keeping. In my opinion the honourable court will recommend measures to make laws and regulations to deal with future corruption and to make the regulators functional and proactive.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4559180"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4559180">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4559220">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Naeem</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T04:02:39+05:00"><span class='timestamp--time  timeago' title='2017-02-24T04:02:39+05:00'>Feb 24, 2017 04:02am</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>It is not in the interest of NS and his party to strengthen accountability. This will prevent them from making millions.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4559220"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4559220">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4559405">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Shahid</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T07:35:23+05:00"><span class='timestamp--time  timeago' title='2017-02-24T07:35:23+05:00'>Feb 24, 2017 07:35am</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>Accountability that never was for the 'untouchables' was duely pronounced dead. No condolences required b/c it was as good as dead even before proclamation of its death. Time to start anew soon after and in the light of the judgement on the Panama Leaks. No harm in getting a headstart before that, preferably without garrulous politicians, intriguing bureaucrats and corrupt law makers.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4559405"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4559405">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4560051">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Zeeshan Ahmad</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T11:03:34+05:00"><span class='timestamp--time  timeago' title='2017-02-24T11:03:34+05:00'>Feb 24, 2017 11:03am</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>I think SCP must take stand this time and without bending the constitution send all the watchdog heads home with an ultimatum to the upcoming show progress within six months from their joining date.</p>
+
+<p>Also, if it does not find enough material, must ask of the politicians to show moral courage and resign from high posts till the investigation completes.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4560051"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4560051">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4560262">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Aziz</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T12:01:26+05:00"><span class='timestamp--time  timeago' title='2017-02-24T12:01:26+05:00'>Feb 24, 2017 12:01pm</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>Well-timed comment on the observations made by the learned judges of the Supreme Court.</p>
+
+<p>The musical chair triad of PML-N, the  PPP, and the naive generals are all responsible for this national malaise. The bulk of the blame, however clearly lies with the so-called civilian governments.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4560262"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4560262">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4560269">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Mehboob ali lalani</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T12:03:38+05:00"><span class='timestamp--time  timeago' title='2017-02-24T12:03:38+05:00'>Feb 24, 2017 12:03pm</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>It is unrealistic to dream good accountability system. The present system breeds corruption. The PM depends on parliamentarians all the time to remain on the prestigious position. He can't take any action against them. When top is unable to do anything, down the line is free from any fear. </p>
+
+<p>This parliamentary system is rotten, highly exorbitant and not delivering.</p>
+
+<p>It is essential to overhaul and reform the system where honest and highly educated persons are allowed to contest the election. There are lot of good people in the country who have vision and ability to run the country and to lead it on progressive path provided we can get rid of mediocre and corrupt people.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4560269"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4560269">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="4561096">
+      <div class="grid">
+        <div class="grid__item  nine-tenths">
+          <div class="">
+            <span class="comment__author  size-four  caps  float-left  text--gray">Shahid</span>
+            <span class="timeago  comment__date  caps  size-four  pb-2" title="2017-02-24T15:55:19+05:00"><span class='timestamp--time  timeago' title='2017-02-24T15:55:19+05:00'>Feb 24, 2017 03:55pm</span></span>
+          </div>
+          <div class="comment__body    clearfix"><p>It would be instructive to read articles 62 and 63 along with all their clauses and compare line by line with public display of deeds of the so called MPAs. There are qualifications for becoming an MPA and then there are conditions to maintain that status. Look at public display of their deeds and be judge for yourselves where they stand. Accountability is a serious business, not the casual they make it to be. Enforce accountability on them regarding their oath they had undertaken. For that, all need to know and understand what it is. Otherwise they will keep taking the State along with its citizens for a ride as they have been. The SC is the ultimate institution to judge their conduct vis-a-vis the standard; the constitution, and surely it will, and that is exactly what it is doing now.</p>
+</div>
+
+          <div class="">
+                                    <div class="button  button--social" title="Recommend this comment">
+                            <span class="button__label  votejs__cast  px-2  text--gray  caps" data-vote-key="1316576/up-4561096"><!--
+              -->Recommend</span><!--
+              --><span class="button__count  votejs__count  text--gray" data-vote-key="1316576/up-4561096">0</span>
+            </div>
+                      </div>
+        </div> <!-- .nine-tenths -->
+      </div> <!-- .grid -->
+    </div> <!-- .comment -->
+
+  </section>
+            </div>
+          </div>
+          <div class='px-2'>
+          
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div style='max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455531878761-2' class='ad__wrapper__slot' style='width:728px;height:90px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455531878761-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+          </div>
+        </div>
+      </div> <!-- .grid -->
+    </main>
+
+
+    <aside class="pb-4">
+
+<!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title: DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1220'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-3' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1347 -  type: sponsoredcontent -  object_id:  -  title: Sponsored - - - - - - -->
+<section class='widget  theme  widget-sponsoredcontent  '  data-type='sponsoredcontent' data-id='1347'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>Sponsored</span></h2>
+<div class='widget__container__body  '>
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1221 -  type: adsense -  object_id:  -  title: DAWN-MREC-DESKTOP-300x250-2 - /1029551/DAWN-MREC-DESKTOP-300x250-2 - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1221'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN-MREC-DESKTOP-300x250-2 - /1029551/DAWN-MREC-DESKTOP-300x250-2</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-5' class='ad__wrapper__slot' style='width:300px;height:250px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-5'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600 - - - - - - -->
+<section class='widget  theme  widget-adsense  '  data-type='adsense' data-id='1219'>
+<div class='widget__container  '>
+<h2 class='widget__container__title  '><span>DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600</span></h2>
+<div class='widget__container__body  '>
+
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div style='max-width:300px;max-height:600px;text-align:center;margin:0 auto;overflow:hidden'>
+    <div class="radWrapper  ad__wrapper" style=''>
+      <div id='div-gpt-ad-1455520357400-8' class='ad__wrapper__slot' style='width:300px;height:600px'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-8'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+</aside>
+  </div> <!-- .content -->
+</div> <!-- .container -->
+
+  <div class='navstory  navstory--prev' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--prev" href="https://www.dawn.com/news/1316715/the-lost-civilisation-of-mehrgarh-a-treasure-in-ruins">&lsaquo;</a>
+    <div class='navstory__article  navstory__article--prev'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1316715' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1316715'  class='story__title        '><a href='https://www.dawn.com/news/1316715/the-lost-civilisation-of-mehrgarh-a-treasure-in-ruins' class='story__link'>The lost civilisation of Mehrgarh: A treasure in ruins</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' data-focus-x='47.75%' data-focus-y='63.125%'>
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1316715/the-lost-civilisation-of-mehrgarh-a-treasure-in-ruins'><img src='//i.dawn.com/thumbnail/2017/02/58aff95d1fd5b.jpg?r=1489231885'  alt='The lost civilisation of Mehrgarh: A treasure in ruins' /></a></div>        
+    </figure>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+    <div class='navstory  navstory--next' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--next" href="https://www.dawn.com/news/1319476/indias-diplomatic-isolation-of-pakistan-hinders-prospects-for-improved-ties-us-centcom-commander">&rsaquo;</a>
+    <div class='navstory__article  navstory__article--next'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1319476' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1319476'  class='story__title        '><a href='https://www.dawn.com/news/1319476/indias-diplomatic-isolation-of-pakistan-hinders-prospects-for-improved-ties-us-centcom-commander' class='story__link'>India&#39;s &#39;diplomatic isolation&#39; of Pakistan hinders prospects for improved ties: US Centcom commander</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  one-whole  palm--one-whole        ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1319476/indias-diplomatic-isolation-of-pakistan-hinders-prospects-for-improved-ties-us-centcom-commander'><img src='//i.dawn.com/thumbnail/2017/03/58c1b20b5047d.jpg'  alt='India&amp;#39;s &amp;#39;diplomatic isolation&amp;#39; of Pakistan hinders prospects for improved ties: US Centcom commander' /></a></div>        
+    </figure>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+  <!--partial:news/default-story end-->
+<footer>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.min.js" crossorigin="anonymous"></script>
+
+	<div class='pt-2  px-2  mb-2  clearfix'>
+			</div>
+
+	    <script src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+    <script src='//platform.twitter.com/widgets.js'></script>
+    <script src='/_js/all.20170301184606.js'></script>
+
+    <script>dailymotionSyndicationId(202395)</script><div class="p-2  mx-2">
+  <div class="container  container--footer">
+    <div class='mt-2'>
+      <div class="pt-4">
+        <div class="grid  grid--full">
+          <div class="grid__item  two-tenths  portable--one-whole">
+            <ul class="nav">
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--black' src="/_img/logo.20170312043821.png"></li>
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--white  d-none' src="/_img/logo--white.20170312043821.png"></li>
+              <li class="nav__item  one-whole  mt-2"><p>Copyright &copy; 2017</p></li>
+              <li class="nav__item  one-whole"><p class="d-none"> Compunode.com Pvt. Ltd. (<a href="http://www.compunode.com/">www.compunode.com</a>).Designed for <a href="http://www.dawn.com">Dawn</a>.</p></li>
+                  <li class="nav__item  one-whole"><p>Scribe Publishing Platform</p></li>
+            </ul>
+          </div>
+
+          <div class="grid__item  eight-tenths  portable--one-whole">
+            <div class="grid  grid--full">
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap  palm-bald--left">
+                  <li class="nav__item  one-whole"><a href="/contact">Contact Us</a></li>
+                  <li class="nav__item  one-whole"><a href="https://www.facebook.com/dawndotcom">Facebook</a></li>
+                  <li class="nav__item  one-whole"><a href="https://twitter.com/dawn_com">Twitter</a></li>
+                  <li class="nav__item  one-whole"><a href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
+                  <li class="nav__item  one-whole"><a href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap  palm-bald--left">
+                  <li class="nav__item  one-whole"><a href="/newsletters">Newsletters</a></li>
+                  <li class="nav__item  one-whole"><a href="/prayers-timings">Prayer Timings</a></li>
+                  <li class="nav__item  one-whole"><a href="/stocks">Stock Forex and Gold</a></li>
+                  <li class="nav__item  one-whole"><a href="/weather">Weather</a></li>
+                  <li class="nav__item  one-whole"><a href="/social-media-guidelines">Social Media Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap  palm-bald--left">
+                  <li class="nav__item  one-whole"><a href="/code-of-ethics">Code of Ethics</a></li>
+                  <li class="nav__item  one-whole"><a href="/terms">Terms of Use</a></li>
+                  <li class="nav__item  one-whole"><a href="/privacy">Privacy</a></li>
+                  <li class="nav__item  one-whole"><a href="/reproduction-copyrights">Reproduction Copyrights</a></li>
+                  <li class="nav__item  one-whole"><a href="/contribution-guidelines">Contribution Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap  palm-bald--left">
+                  <li class="nav__item  one-whole"><a href="/advertise-dawn">Advertise in Dawn</a></li>
+                  <li class="nav__item  one-whole"><a href="http://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
+                  <li class="nav__item  one-whole"><a href="http://obituary.dawn.com">Obituaries</a></li>
+                  <li class="nav__item  one-whole" style="visibility:hidden"><a href="/news/793000/full-width-template">Place Classifieds Ad</a></li>
+                  <!-- <li class="nav__item  one-whole"><a href="http://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
+                </ul>
+              </div>
+
+              <div class="grid__item  one-fifth  palm--one-whole">
+                <ul class="nav  nav--dawn-sitemap  palm-bald--left">
+                  <li class="nav__item  one-whole"><a href="http://www.dawn.com">Dawn.com</a></li>
+                  <li class="nav__item  one-whole"><a href="http://dawnnews.tv/">Dawnnews.tv</a></li>
+                  <li class="nav__item  one-whole"><a href="http://cityfm89.com">Cityfm 89</a></li>
+                  <li class="nav__item  one-whole"><a href="http://herald.dawn.com">HERALD</a></li>
+                  <li class="nav__item  one-whole"><a href="http://aurora.dawn.com">Aurora</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>            <!-- - - - - start:alexa - - - - -->
+            <script type="text/javascript">
+              _atrk_opts = { atrk_acct:"1DJ3k1acFH00UN", domain:"dawn.com",dynamic: true};
+              (function() {
+                var as = document.createElement('script');
+                as.type = 'text/javascript';
+                as.async = true;
+                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+                var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+            </script>
+            <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1DJ3k1acFH00UN" style="display:none" height="1" width="1" alt="" /></noscript>
+            <!-- - - - - end:alexa - - - - -->
+    <!-- - - - - start:chartbeat publishing - - - - -->
+    <script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 62163;
+    _sf_async_config.domain = "dawn.com";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "Newspaper,Editorial";
+    _sf_async_config.authors = "Editorial-2677";
+    /** CONFIGURATION END **/
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
+    <!-- - - - - end:chartbeat - - - - -->
+            <!-- - - - - start:ga-events - - - - -->
+            <script type="text/javascript">
+            
+    if (typeof $ !== 'undefined') $('.story__content a').click(function(){ga('send','event','story','click','links');});
+    if (typeof $ !== 'undefined') $('.social--whatsapp a').click(function(){ga('send','event','story','click','whatsapp');});
+    if (typeof $ !== 'undefined') $('.social--print a').click(function(){ga('send','event','story','click','print');});
+    if (typeof $ !== 'undefined') $('.social--email a').click(function(){ga('send','event','story','click','email');});
+    if (typeof $ !== 'undefined') $('.story__meta a').click(function(){ga('send','event','story','click','author');});
+    if (typeof $ !== 'undefined') $('.navstory--prev a').click(function(){ga('send','event','prevnext','click','prev');});
+    if (typeof $ !== 'undefined') $('.navstory--next a').click(function(){ga('send','event','prevnext','click','next');});
+            </script>
+            <!-- - - - - end:ga-events - - - - -->
+
+            <!-- - - - - start:onesignal - - - - -->
+            <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+            <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+                appId: "da41085a-a849-47c0-96e7-4b956b56f35e",
+                /* Set to true to automatically prompt visitors */
+                autoRegister: true,
+
+                // https://documentation.onesignal.com/docs/customize-permission-messages-1
+                notifyButton: {
+                    text: {
+                        'tip.state.unsubscribed': 'Subscribe to notifications',
+                        'tip.state.subscribed': "You're subscribed to notifications",
+                        'tip.state.blocked': "You've blocked notifications",
+                        'message.prenotify': 'Click to subscribe to notifications',
+                        'message.action.subscribed': "Thanks for subscribing!",
+                        'message.action.resubscribed': "You're subscribed to notifications",
+                        'message.action.unsubscribed': "You won't receive notifications again",
+                        'dialog.main.title': 'Manage Site Notifications',
+                        'dialog.main.button.subscribe': 'SUBSCRIBE',
+                        'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+                        'dialog.blocked.title': 'Unblock Notifications',
+                        'dialog.blocked.message': "Follow these instructions to allow notifications:"
+                    },
+                    /* Set to false to hide */
+                    enable: false
+                },
+
+                prenotify: true,
+                persistNotification: false,
+                showCredit: false,
+                // Your other init options here
+                promptOptions: {
+                    /* Change bold title, limited to 30 characters */
+                    siteName: "Dawn.Com",
+                    /* Subtitle, limited to 90 characters */
+                    actionMessage: "We'd like to show you notifications for the latest news and updates.",
+                    /* Example notification title */
+                    exampleNotificationTitle: 'Subscribe for news updates',
+                    /* Example notification message */
+                    exampleNotificationMessage: "",
+                    /* Text below example notification, limited to 50 characters */
+                    exampleNotificationCaption: 'You can unsubscribe anytime',
+                    /* Accept button text, limited to 15 characters */
+                    acceptButtonText: "ALLOW",
+                    /* Cancel button text, limited to 15 characters */
+                    cancelButtonText: "NO THANKS"
+                }
+            }]);
+            // OneSignal.setSubscription(true);
+            OneSignal.push(function() {
+                // forcefully popup for notification subscription
+                // OneSignal.registerForPushNotifications();
+                // for debugging
+                // OneSignal.log.setLevel('trace');
+                /*OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                    if (isEnabled) {
+                      console.log("Push notifications are enabled!");
+                    }
+                    else {
+                      console.log("Push notifications are not enabled yet.");
+                    }
+                });*/
+            });
+            </script>
+            <!-- - - - - end:onesignal - - - - -->	<script>
+		function adBlockerPresent() {
+			Counter.count('adblocker', 'present');
+			console.log('this is adBlockerPresent()');
+			if (window.matchMedia('(max-device-width: 750px)').matches) return;
+			if ($('body').is('.hero')) return;
+
+			adblockAlert();
+			$(window).scroll(function() {
+				adblockAlert();
+			});
+			$(window).resize(function() {
+				adblockAlert();
+			});
+		}
+		function adBlockerAbsent() {
+			// hide all ad blocker mesages in case of false positive
+			$('.adblocker-overlay').hide();
+			$('.adblocker-modal').hide();
+			$('.adblock-alert').hide();
+			console.log('this is adBlockerAbsent()');
+			Counter.count('adblocker', 'absent');
+		}
+		
+		function adblockAlert() {
+			var dismissDelay = 3;
+
+			var $modal = $('.adblocker-modal');
+			var $headroom = $('.headroom');
+			var $sticky = $('.adblock-alert');
+			var $modalOverlay = $('.adblocker-overlay')
+			var $modalButton = $('.adblocker-modal__button').attr('disabled', 'disabled');
+
+			$modalButton.on('click', function() {
+				$modalOverlay.css('display', 'none');
+				$modal.css('display', 'none');
+				Cookies.set('adblock-popup', true, {expires: 0.25});
+			});
+
+			$sticky.css('display', 'block').css('position', 'fixed');
+
+			// maintain position of adblocker warning on top and headroom displaced below it
+			if (window.scrollY === 0) {
+				$headroom.css('margin-top', 0);
+			} else {
+				$headroom.css('margin-top', $sticky.outerHeight() + 'px');
+			}
+
+			// don't show modal if cookie hasn't expired yet
+			if (Cookies.get('adblock-popup')) return;
+
+			// modal is already visible, don't re-render it
+			if ($modal.is(':visible')) return;
+
+			$modalButton.html(dismissDelay)
+
+			// show countdown on button
+			var interval = setInterval(function() {
+				if (dismissDelay == 0) {
+					clearInterval(interval);
+					$modalButton.html('Continue').removeAttr('disabled');
+				} else {
+					$modalButton.html(dismissDelay);
+				}
+				dismissDelay--;
+			}, 1000);
+
+			$modalOverlay.css('display', 'block');
+			$modal.css('display', 'block');
+		}
+
+		if(typeof blockAdBlock === 'undefined') {
+			console.log('ad blocker is not defined');
+			$('.headroom .border--ends').attr("style", "border-top-color: #dcdcdc !important");
+			adBlockerPresent();
+		} else {
+			blockAdBlock.setOption({
+				checkOnLoad: false,
+				debug: true
+			});
+			blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+		}
+		
+		function checkAgain() {
+			// setTimeout 300ms for the recheck is visible when you click on the button
+			setTimeout(function() {
+				if(typeof blockAdBlock === 'undefined') {
+					adBlockerPresent();
+				} else {
+					blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+					blockAdBlock.check();
+				}
+			}, 300);
+		}
+	</script>
+
+</footer>
+<!--2017-03-12 04:38:21-->
+</body>
+</html>

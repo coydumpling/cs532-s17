@@ -1,0 +1,2184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Local Stylists Attend New York Fashion Week</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://wspa.com/xmlrpc.php">
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=wspa.com&amp;id=85383819&amp;t=1489275675&amp;back=http%3A%2F%2Fwspa.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//mgtvwspa.wordpress.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel="alternate" type="application/rss+xml" title="WSPA.com &raquo; Feed" href="http://wspa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WSPA.com &raquo; Comments Feed" href="http://wspa.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WSPA.com &raquo; Local Stylists Attend New York Fashion Week Comments Feed" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	
+<meta name="google-site-verification" content="wa-xjyHJaY5FW0-OJAPTVCGAN8O2Og0UFp6jdAwfuo4">
+<meta name="google-site-verification" content="SlzbgC01KbOof7bGvWIfrceyPzFxw_pTjzwSA6JtbsE">
+<meta name="apple-itunes-app" content="app-id=388954265">
+<meta name="google-play-app" content="app-id=com.doapps.android.mln.MLN_949a5d4124213f3cf04fc575d0765725">
+<meta name="msvalidate.01" content="25404283363C09DE121A55A903F03873">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="WSPA.com">
+
+<meta name='description' content='Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#039;s biggest fashion event of the year and are bringing the hot trends back to you.' />
+<meta name='keywords' content='Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#039;s biggest fashion event of the year and are bringing the hot trends back to you.' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9juEOgjAMhF/I2qBo5IfxWcaoMFihoZvEt3dIjAka/jS9y3294iRghz5QH5AjiI+16xUnsQODsvP0XKm9Vd3hf8y7jhRbCmJsB2+1FbfDSMlnMWFOMFXOkCdOsS2M5fyh5rVJXZs1y/tlKSOpQprsIkNoUtEvt9j4cIJfHsTUBH3kkkbFiu4m+rD251M3vmb5qTjkWXG8tC95RoJn' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/wp-content/themes/vip/lin-media/static/css/global.css?m=1487356155h' type='text/css' media='all' />
+<style id='lin-style-inline-css' type='text/css'>
+body,body .site-header .site-header-container{background-position: top center; background-repeat: repeat-x;} @media screen and ( min-width: 481px ) and ( max-width: 991px ){body .site-header .site-header-container{background-image: url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-wallpaper.png ), url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-repeater1.png );}} @media screen and (min-width: 992px){body{background-attachment: fixed; background-image: url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-wallpaper.png ), url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-repeater1.png );} body .site-header .site-header-container{background-image: url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-wallpaper.png ), url( https://mgtvwspa.files.wordpress.com/2015/06/bg-sos-repeater1.png );}}@media screen and ( max-width: 481px ) { body, .site-header-container {background-color: #ffffff; } }
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJx9j9EKwyAMRX9oLittoS9j3xLFqSMaMZb9fi0b28rAJ++Fc2ICARLXYDjJJ5yNyAmeWbVSbaoQV5VpdaExzrIiNlgDp0NRd8JQemqxmti16KBRP7UnodmHayzf1MMzS31tAuKx7H+9354lbAJSO8XxsfxJ1dtoBfwEjlgj7cAtXodpmedxGcbLYwNLQH2Y' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var linScreens = {"screen_groups":{"any":{"label":"[any screen]","min_width_px":null,"max_width_px":-1,"experience":null,"layout":null},"smallest":{"label":"Smallest screens (\"phones only\")","min_width_px":null,"max_width_px":480,"experience":"smartphone","layout":"small-responsive"},"smaller":{"label":"Smaller screens (\"phones to portrait tablets\")","min_width_px":null,"max_width_px":767,"experience":"tablet-portrait","layout":"medium-responsive"},"not_smallest":{"label":"Above-smallest screens (\"portrait tablets and up\")","min_width_px":481,"max_width_px":-1,"experience":null,"layout":null},"medium":{"label":"Medium screens (\"tablets\")","min_width_px":481,"max_width_px":991,"experience":null,"layout":"medium-responsive"},"larger":{"label":"Larger screens (\"landscape tablets and up\")","min_width_px":768,"max_width_px":-1,"experience":"desktop","layout":null},"largest":{"label":"Largest screens (\"desktops\")","min_width_px":992,"max_width_px":-1,"experience":"desktop","layout":"desktop"}},"experiences":{"smartphone":["smallest"],"tablet-portrait":["smaller"],"desktop":["larger","largest"]},"layouts":{"small-responsive":["smallest"],"medium-responsive":["smaller","medium"],"desktop":["largest"]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydjt0KwjAMRl/Irk4m7kZ8FOnauKX2z6bd0Ke3A70Qh6IQCCTnOwmfAkMnTVZAXJe6ZIjXR6s0rfgngFnso0hQWXRPWHqXwKWZtb5DAywTRNGXWRGd/AIXPCULRAVa2L6+hG5EmL5iGlIQ8swiEN7erGmAco+PGLhBxywoFJySSChn1QhO+Vh12Snza3YAoeDPLB2lV3PoYPd10+42bb1t1voOXuScMQ=='></script>
+<script type="text/javascript" src="http://lin-d.openx.net/w/1.0/jstag?nc=5678-MediaGeneral"></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mgtvwspa.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/" />
+<link rel='shortlink' href='http://wp.me/p5Mgen-1o2u' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fwspa.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fwspa.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Local Stylists Attend New York Fashion Week" />
+<meta property="og:url" content="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/" />
+<meta property="og:description" content="Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#8217;s biggest fashion event of the year and are bringing the hot trends b…" />
+<meta property="article:published_time" content="2017-02-21T01:00:11+00:00" />
+<meta property="article:modified_time" content="2017-02-21T01:00:12+00:00" />
+<meta property="og:site_name" content="WSPA.com" />
+<meta property="og:image" content="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=1200" />
+<meta property="og:image:width" content="660" />
+<meta property="og:image:height" content="371" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="wspa7" />
+<meta name="twitter:image:src" content="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=640" />
+<meta name="twitter:creator" content="@WSPA7" />
+<meta property="article:publisher" content="http://www.facebook.com/wspatv" />
+<meta name="twitter:title" content="Local Stylists Attend New York Fashion Week" />
+<meta name="twitter:description" content="Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#8217;s biggest fashion event of the year and are bringing the hot trends b…" />
+<link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/f24a223906827fbea90f2e0e73c54692?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/f24a223906827fbea90f2e0e73c54692?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/f24a223906827fbea90f2e0e73c54692?s=114" />
+<link rel='openid.server' href='http://mgtvwspa.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://mgtvwspa.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wspa.com/osd.xml" title="WSPA.com" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime();</script>
+	<script async type="text/javascript">
+	var bob_cb = '1';
+	bob_cb = ((new Date()).getTime() + "" + Math.floor(Math.random() * 1000000)).substr(0, 16);
+	(function() { var bob_tag = document.createElement('script'); bob_tag.type = 'text/javascript'; bob_tag.async = true; bob_tag.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'bob.dmpxs.com/static/bob_001.js?bob_cb=' + bob_cb; var bts = document.getElementsByTagName('script')[0]; bts.parentNode.insertBefore(bob_tag, bts); } )();
+
+	</script>
+	
+	<meta property="fb:pages" content="57341417592" />
+	
+
+<meta http-equiv="refresh" content="1200">
+<meta name="application-name" content="WSPA.com" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="7 News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://wspa.com/feed/;icon-uri=http://1.gravatar.com/blavatar/f24a223906827fbea90f2e0e73c54692?s=16" /><!-- Include Google_services.js -->
+		<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+		<script type='text/javascript'>
+function lin_get_size_mapping( slot ) {
+	if ( 'river_custom' == slot ) {
+		return googletag.sizeMapping().
+			addSize( [991, 0], [638, 60] ).
+			addSize( [0, 0], [320, 50] ).
+			build();
+	}
+
+	return '';
+}
+googletag.cmd.push(function() {
+googletag.pubads().set("page_url", [location.protocol, '//', location.host, location.pathname].join(''));
+if ( linScreens.isScreenGroupByWidth( 'any' ) ) {
+	googletag.defineOutOfPageSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', "lin-video-article").addService(googletag.pubads()).setTargeting("WP-Position", "lin-video-article").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-video-article .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'not_smallest' ) ) {
+	lin_slot_header_leaderboard = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [728,90], "lin-header-leaderboard").defineSizeMapping(lin_get_size_mapping("header_leaderboard")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-header-leaderboard").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-header-leaderboard .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'not_smallest' ) ) {
+	lin_slot_footer_leaderboard = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [728,90], "lin-footer-leaderboard").defineSizeMapping(lin_get_size_mapping("footer_leaderboard")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-footer-leaderboard").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-footer-leaderboard .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'not_smallest' ) ) {
+	lin_slot_rr_top = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[300,250],[300,600],[160,600]], "lin-rr-top").defineSizeMapping(lin_get_size_mapping("rr_top")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-rr-top").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-rr-top .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'not_smallest' ) ) {
+	lin_slot_rr_bottom = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [300,250], "lin-rr-bottom").defineSizeMapping(lin_get_size_mapping("rr_bottom")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-rr-bottom").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-rr-bottom .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'not_smallest' ) ) {
+	lin_slot_river_custom = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[320,50],[638,60]], "lin-river-custom").defineSizeMapping(lin_get_size_mapping("river_custom")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-river-custom").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-river-custom .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'largest' ) ) {
+	lin_slot_supernav_sponsored_by = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [88,31], "lin-supernav-sponsored-by").defineSizeMapping(lin_get_size_mapping("supernav_sponsored_by")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-supernav-sponsored-by").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-supernav-sponsored-by .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'any' ) ) {
+	lin_slot_ampmidcontent = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [300,250], "lin-amp-mid-content").defineSizeMapping(lin_get_size_mapping("amp-mid-content")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-amp-mid-content").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-amp-mid-content .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'smaller' ) ) {
+	lin_slot_river_first = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[320,50],[300,250]], "lin-river-first").defineSizeMapping(lin_get_size_mapping("river_first")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-river-first").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-river-first .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'smaller' ) ) {
+	lin_slot_river_middle = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[320,50],[300,250]], "lin-river-middle").defineSizeMapping(lin_get_size_mapping("river_middle")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-river-middle").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-river-middle .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'smaller' ) ) {
+	lin_slot_river_last = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[320,50],[300,250]], "lin-river-last").defineSizeMapping(lin_get_size_mapping("river_last")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-river-last").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-river-last .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'any' ) ) {
+	lin_slot_gallery_modal_above = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [[728,90],[320,50]], "lin-gallery-modal-above").defineSizeMapping(lin_get_size_mapping("gallery_modal_above")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-gallery-modal-above").setTargeting("WP-Post", "330738").setTargeting("gallery_modal", "true");
+} else {
+	jQuery( '#lin-gallery-modal-above .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'any' ) ) {
+	lin_slot_gallery_modal_sidebar = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [300,250], "lin-gallery-modal-sidebar").defineSizeMapping(lin_get_size_mapping("gallery_modal_sidebar")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-gallery-modal-sidebar").setTargeting("WP-Post", "330738").setTargeting("gallery_modal", "true");
+} else {
+	jQuery( '#lin-gallery-modal-sidebar .advertisement-label' ).hide();
+}
+if ( linScreens.isScreenGroupByWidth( 'any' ) ) {
+	lin_slot_facebook_instant = googletag.defineSlot('/5678/mg.WSPA/entertainment/scene-on-7/fashion/local-stylist-attend-new-york-fashion-week/detail', [300,250], "lin-facebook-instant").defineSizeMapping(lin_get_size_mapping("facebook_instant")).addService(googletag.pubads()).setTargeting("WP-Position", "lin-facebook-instant").setTargeting("WP-Post", "330738");
+} else {
+	jQuery( '#lin-facebook-instant .advertisement-label' ).hide();
+}
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+<link rel="amphtml" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+
+<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6036439" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({article:'auto'});
+	!function (e, f, u) {
+		e.async = 1;
+		e.src = u;
+		f.parentNode.insertBefore(e, f);
+	}(document.createElement('script'),
+		document.getElementsByTagName('script')[0],
+		'http://cdn.taboola.com/libtrc/mediageneral-network/loader.js');
+</script>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s2.wp.com/?custom-css=1&#038;csblog=5Mgen&#038;cscache=6&#038;csrev=110" />
+		
+<!--[if lt IE 9]>
+<script src="https://s0.wp.com/wp-content/themes/vip/lin-media/static/js/selectivizr.min.js"></script>
+<![endif]-->
+</head>
+
+<body class="post-template-default single single-post postid-330738 single-format-video repeater-image mp6 customizer-styles-applied site-header-contracted non-entertainment has-header-leaderboard site-color-light highlander-enabled highlander-light">
+
+		<script type="text/javascript">
+		var s_account="lintvwspa,dpsglobal";
+		var s=s_gi(s_account);
+
+		/************************** CONFIG SECTION **************************/
+		/* You may add or alter any code config here. */
+		// s.debugTracking=true;
+		s.visitorNamespace="lintv";
+
+		s.trackDownloadLinks=true;
+		s.trackExternalLinks=true;
+		s.trackInlineStats=true;
+		s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx";
+		s.linkInternalFilters="javascript:wspa.com,interactives.wspa.com,#";
+		s.linkLeaveQueryString=true;
+		s.linkTrackVars="None";
+		s.linkTrackEvents="None";
+		s.dstStart="3/12/2017";
+		s.dstEnd="11/5/2017";
+		s.currentYear="2017";
+		s.linGetScreenSize = new Function( "return linScreens.getScreenSize()" );
+		s.linGetRenderedExperience = new Function( "return linScreens.getExperience( window.innerWidth );" );
+		s.linGetLayoutName = new Function( "return linScreens.getLayout( window.innerWidth ); ");
+
+		s.usePlugins=true;
+		function s_doPlugins(s) {
+
+			// use implementation plug-ins that are defined below
+			// in this section. For example, if you copied the append
+			// list plug-in code below, you could call:
+			// s.events=s.apl(s.events,"event1",",",1);
+			
+			s.pageName='entertainment:scene-on-7:fashion:local-stylist-attend-new-york-fashion-week:detail';
+			s.eVar1='entertainment';
+			s.eVar2='entertainment:scene-on-7';
+			s.eVar3='entertainment:scene-on-7:fashion';
+			s.eVar4='entertainment:scene-on-7:fashion';
+			s.eVar12=s.getNewRepeat(30,'s_getNewRepeat');
+			s.eVar17=s.getTimeParting('h','-5');
+			s.eVar18=s.getTimeParting('d','-5');
+			s.eVar19=s.getTimeParting('w','-5');
+			s.eVar20=s.getVisitNum();
+			s.eVar21=s.getDaysSinceLastVisit('s_dayslastvisit');
+			s.eVar22='Local Stylists Attend New York Fashion Week';
+			s.eVar23='';
+			s.eVar25='sceneon7staff';
+			s.eVar41='entertainment:scene-on-7:fashion:local-stylist-attend-new-york-fashion-week:detail';
+			s.eVar42='';
+			s.eVar55='http://wspa.com';
+			s.eVar56=s.linGetScreenSize();
+			s.eVar57=s.linGetRenderedExperience();
+			s.eVar58=s.linGetLayoutName();
+			s.prop1='entertainment';
+			s.prop2='entertainment:scene-on-7';
+			s.prop3='entertainment:scene-on-7:fashion';
+			s.prop4='entertainment:scene-on-7:fashion';
+			s.prop12=s.getNewRepeat(30,'s_getNewRepeat');
+			s.prop17=s.getTimeParting('h','-5');
+			s.prop18=s.getTimeParting('d','-5');
+			s.prop19=s.getTimeParting('w','-5');
+			s.prop20=s.getVisitNum();
+			s.prop21=s.getDaysSinceLastVisit('s_dayslastvisit');
+			s.prop22='Local Stylists Attend New York Fashion Week';
+			s.prop23='';
+			s.prop25='sceneon7staff';
+			s.prop41='entertainment:scene-on-7:fashion:local-stylist-attend-new-york-fashion-week:detail';
+			s.prop42='';
+			s.prop55='http://wspa.com';
+			s.prop56=s.linGetScreenSize();
+			s.prop57=s.linGetRenderedExperience();
+			s.prop58=s.linGetLayoutName();
+			s.hier1='entertainment,scene-on-7,fashion';
+			s.prop70='';
+			s.prop71='';		}
+		s.doPlugins=s_doPlugins;
+
+		s.trackingServer="lintv.122.2o7.net";
+
+		/************************** PLUGINS SECTION *************************/
+		s = lin_aa_plugins(s);
+
+		/****************************** MODULES *****************************/
+		s = lin_aa_modules(s);
+		s.loadModule("Media");
+		s.Media.autoTrack=false;
+		s.Media.trackWhilePlaying = true;
+		s.trackMilestones = "25,50,75";
+		s.Media.trackVars="prop29,prop30,prop31,prop32,eVar17,eVar18,eVar19";
+		s.Media.trackEvents="None";
+		s.loadModule("Integrate");
+
+		var s_code=s.t();if(s_code)document.write(s_code);
+		</script>
+		
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5WLZX2"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer',"GTM-N5WLZX2");</script>
+	<!-- End Google Tag Manager -->
+
+<div id='lin-video-article' class='dfp-ad'></div>
+<div id="content-wrapper">
+	<nav id="smaller-screen-navigation" class="offcanvas-navigation " role="navigation">
+	<ul id="menu-main" class="menu"><li class="menu-item"><a href="http://wspa.com/" rel="home">Home</a></li><li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14"><a href="http://wspa.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128"><a href="http://wspa.com/category/news/local-news-greenville-spartanburg-anderson-gaffney/">Local News</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121"><a href="http://wspa.com/category/news/accidents/">Accidents &amp; Traffic</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"><a href="http://wspa.com/category/news/school-education-news-sc-nc-ga/">Back to School</a></li>
+	<li id="menu-item-1602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1602"><a href="http://wspa.com/category/news/consumer-news/">Consumer</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"><a href="http://wspa.com/category/news/crime-news-greenville-spartanburg-anderson/">Crime</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124"><a href="http://wspa.com/category/news/government-politics-sc-nc-ga/">Elections, Govt &amp; Politics</a></li>
+	<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125"><a href="http://wspa.com/category/news/health-medical-news/">Health</a></li>
+	<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"><a href="http://wspa.com/category/news/international-news/">International</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158"><a href="http://wspa.com/category/news/investigations/">Investigations</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"><a href="http://wspa.com/category/news/job-news-sc-nc-ga/">Jobs</a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-460"><a href="http://wspa.com/category/news/links/">Links We Mentioned</a></li>
+	<li id="menu-item-56548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56548"><a href="http://wspa.com/watch-live-video-and-dvr/">Live Video and DVR</a></li>
+	<li id="menu-item-143980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143980"><a href="http://wspa.com/category/news/missing-persons/">Missing Persons</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129"><a href="http://wspa.com/category/news/national-news/">National</a></li>
+	<li id="menu-item-231529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231529"><a href="http://wspa.com/category/news/scams/">Scams</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131"><a href="http://wspa.com/category/news/state-news-sc-nc-ga/">State News</a></li>
+	<li id="menu-item-56814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56814"><a href="http://wspa.com/category/video/">Video</a></li>
+</ul>
+</li>
+<li id="menu-item-35835" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-35835"><a href="http://wspa.com/category/weather/">Weather</a>
+<ul class="sub-menu">
+	<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://wspa.com/7-day/">7 Day</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="http://wspa.com/weather-alerts/">Alerts</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://wspa.com/weather-apps/">Apps</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://wspa.com/closings/">Closings</a></li>
+	<li id="menu-item-65903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65903"><a href="https://closings.wspa.com/">Closings Login</a></li>
+	<li id="menu-item-78081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78081"><a href="http://wspa.com/register-to-be-included-in-our-closings-list/">Closings: Get On The List</a></li>
+	<li id="menu-item-332699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-332699"><a href="http://wspa.com/category/color-your-weather/">Color Your Weather</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://wspa.com/current-conditions/">Current Conditions</a></li>
+	<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438"><a href="http://wspa.com/2015/04/23/247-weather-forecast/">Forecast</a></li>
+	<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://wspa.com/hourly-forecast/">Hourly</a></li>
+	<li id="menu-item-26148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26148"><a href="http://wspa.com/category/hurricane-sc-ga-nc/">Hurricane Center</a></li>
+	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://wspa.com/radar/">Radar</a></li>
+	<li id="menu-item-123652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123652"><a href="http://wspa.com/road-conditions-map-for-upstate-sc-and-wnc/">Road Conditions</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://wspa.com/satellite/">Satellite</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://wspa.com/satrad/">SatRad</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://wspa.com/severe/">Severe</a></li>
+	<li id="menu-item-6148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6148"><a href="http://wspa.com/traffic-tracker/">Traffic Tracker</a></li>
+	<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://wspa.com/webcams/">Webcams</a></li>
+	<li id="menu-item-5811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5811"><a href="http://wspa.com/wx-email-alerts/">WX Email Alerts</a></li>
+	<li id="menu-item-151578" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-151578"><a href="http://wspa.com/2016/03/15/wx-preparedness/">WX Preparedness</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="http://wspa.com/category/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-228386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228386"><a href="http://wspa.com/category/sports/carolina-panthers/">Carolina Panthers</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="http://wspa.com/category/sports/clemson-tigers-sports/">Clemson Tigers</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137"><a href="http://wspa.com/category/sports/college-sports/">College Sports</a></li>
+	<li id="menu-item-38197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38197"><a href="http://wspa.com/category/sports/high-school-football-upstate-sc-western-nc/">High School Football</a></li>
+	<li id="menu-item-232023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232023"><a href="http://wspa.com/mascot/">Mascot Challenge</a></li>
+	<li id="menu-item-226807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226807"><a href="http://wspa.com/category/olympics/">Olympics</a></li>
+	<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139"><a href="http://wspa.com/category/sports/star-of-the-week/">Star Of The Week</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140"><a href="http://wspa.com/category/sports/usc-gamecocks-sports/">USC Gamecocks</a></li>
+</ul>
+</li>
+<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-79"><a href="http://wspa.com/category/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-247740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247740"><a href="http://wspa.com/bitesizetv-hollywood-today-live/">Hollywood Today Live</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80"><a href="http://wspa.com/category/entertainment/scene-on-7/">SCENE ON 7</a></li>
+	<li id="menu-item-7004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7004"><a href="http://wspa.com/contact-scene-on-7/">Contact Scene on 7</a></li>
+	<li id="menu-item-143571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143571"><a href="http://wspa.com/category/entertainment/scene-on-7/fashion/">Fashion</a></li>
+	<li id="menu-item-143572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143572"><a href="http://wspa.com/category/entertainment/scene-on-7/food/">Food</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://wspa.com/scene-on-7-meet-the-team/">Meet The Scene Team</a></li>
+	<li id="menu-item-143573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143573"><a href="http://wspa.com/category/entertainment/scene-on-7/music/">Music</a></li>
+	<li id="menu-item-143574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143574"><a href="http://wspa.com/category/entertainment/scene-on-7/nightlife/">Nightlife</a></li>
+	<li id="menu-item-182120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182120"><a href="http://wspa.com/category/entertainment/scene-on-7/parties/">Parties</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-contests-promos/">Scene On 7 Contests &amp; Promos</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-the-pulse/">The Pulse</a></li>
+	<li id="menu-item-143577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143577"><a href="http://wspa.com/category/entertainment/scene-on-7/things-to-do/">7 Things To Do</a></li>
+	<li id="menu-item-22143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22143"><a href="http://wspa.com/22140/">———————</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81"><a href="http://wspa.com/category/entertainment/your-carolina/">YOUR CAROLINA</a></li>
+	<li id="menu-item-46743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46743"><a href="http://wspa.com/category/entertainment/your-carolina/lets-get-cookin-with-ingles/">Chef&#8217;s Kitchen with Ingles</a></li>
+	<li id="menu-item-7060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7060"><a href="http://wspa.com/contact-your-carolina/">Contact Your Carolina</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-food-for-thought/">Food For Thought</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-girl-talk/">Girl Talk</a></li>
+	<li id="menu-item-7058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7058"><a href="http://wspa.com/your-carolina-jobs/">Jobs</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-performances-music/">Performances &amp; Music</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-wellness-matters/">Your Wellness Matters</a></li>
+	<li id="menu-item-161355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161355"><a href="http://wspa.com/category/entertainment/your-carolina/yc-design-tips/">YC Design Tips</a></li>
+	<li id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-contests/">Your Carolina Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-155"><a href="http://wspa.com/category/community-news-sc-nc/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156"><a href="http://wspa.com/category/community-news-sc-nc/caring-for-the-carolinas/">Caring For The Carolinas</a></li>
+	<li id="menu-item-4246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4246"><a title="Community Calendar" href="http://wspa.eviesays.com/">Community Calendar</a></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="http://wspa.com/category/community-news-sc-nc/events-sc-nc/">Events</a></li>
+	<li id="menu-item-228553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228553"><a href="http://wspa.com/operationsafedrive/">Operation Safe Drive</a></li>
+	<li id="menu-item-271053" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271053"><a href="http://wspa.com/2016/11/08/season-of-hope/">Season of Hope</a></li>
+	<li id="menu-item-62669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62669"><a href="http://www.ourupstatesc.info/calendar.php">Upstate Info Hub Calendar</a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a title="Health Link" href="http://wspa.wmpsites.com/wspa-healthlink/">Health Link</a></li>
+<li id="menu-item-111500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111500"><a href="http://wspa.com/report-it/">Report It!</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-298"><a href="http://wspa.com/more/">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-169670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169670"><a href="http://wspa.com/about-us/">About Us</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="http://wspa.com/advertise-with-wspa/">Advertise With Us</a></li>
+	<li id="menu-item-464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464"><a href="https://jobs.mediageneral.com/jobsearch.asp">Apply For Job</a></li>
+	<li id="menu-item-28436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28436"><a href="http://wspa.com/amy-wood-blog/">Amy Wood Blog</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://wspa.com/apps/">Apps</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://wspa.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-19185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19185"><a href="http://wspa.com/email-alerts/">Email Alerts</a></li>
+	<li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="http://wspa.com/gas-prices/">Gas Prices</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="http://www.tapedupe.com/">Get Newcast DVD</a></li>
+	<li id="menu-item-61472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61472"><a title="WSPA Google Plus" href="https://plus.google.com/+Wspa7">Google+</a></li>
+	<li id="menu-item-61471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61471"><a title="WSPA Instagram" href="https://instagram.com/wspatv">Instagram</a></li>
+	<li id="menu-item-7061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7061"><a href="http://wspa.com/internships/">Internships</a></li>
+	<li id="menu-item-30721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30721"><a href="http://wspa.com/meet-the-team/">Meet The Team</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="http://metvnetwork.com/">MeTV Carolinas</a></li>
+	<li id="menu-item-31361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31361"><a href="http://wspa.com/text-alerts/">Text Alerts</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://wspa.com/tv-schedule/">TV Schedule</a></li>
+	<li id="menu-item-61470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61470"><a title="WSPA Twitter" href="https://twitter.com/wspa7">Twitter</a></li>
+	<li id="menu-item-343162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343162"><a href="http://wspa.com/work-for-us/">Work for Us</a></li>
+</ul>
+</li>
+</ul></nav>
+	<div class="header-image">
+		<div class="wallpaper-image">
+			<div id="page" class="hfeed site">
+
+				
+				<header id="masthead" class="site-header" role="banner">
+					<div class="site-header-container">
+													<div class="row row-leaderboard">
+								<div id='lin-header-leaderboard' class='dfp-ad'></div>							</div><!-- .row -->
+						
+						<!-- Contained at 1000px wide -->
+						<div class="row header-row ">
+							
+							<div class="site-branding">
+									<h1 class="site-logo ">
+		<a href="http://wspa.com/" rel="home">
+			<img src="https://mgtvwspa.files.wordpress.com/2015/04/logo-sos-large.png" alt="WSPA.com">
+		</a>
+	</h1>
+							</div><!-- .site-branding -->
+
+							<div class="site-utilities">
+																	<section class="current-weather">
+												<a href="/category/weather">
+	
+		<aside class="weather-capsule">
+			<figure class="weather-capsule-image">
+				<img src="https://s0.wp.com/wp-content/themes/vip/lin-media/inc/wx_shortcodes/static/images/conditions/66.png" alt="Broken Clouds">
+			</figure>
+			<div class="weather-capsule-content-wrapper">
+				<h3 class="weather-capsule-current-temperature">46&deg; <span class="temperature-scale">F</span></h3>
+				<div class="weather-capsule-secondary-content-wrapper">
+					<p class="weather-capsule-current-sky-conditions">Broken Clouds</p>
+					<ul class="weather-capsule-list">
+						<li>Hi: 53&deg; F</li>
+						<li>Lo: 32&deg; F</li>
+					</ul>
+				</div><!-- .weather-capsule-secondary-content-wrapper -->
+			</div><!-- .weather-capsule-content-wrapper -->
+		</aside>
+
+		</a>
+											<nav class="current-weather-navigation" role="navigation">
+											<div class="menu-weather-in-header-container"><ul id="menu-weather-in-header" class="menu inline-navigation"><li id="menu-item-18881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18881"><a href="http://wspa.com/radar/">Radar</a></li>
+<li id="menu-item-18882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18882"><a href="http://wspa.com/7-day/">7 Day</a></li>
+<li id="menu-item-18880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18880"><a href="http://wspa.com/hourly-forecast/">Hourly</a></li>
+<li id="menu-item-18879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18879"><a href="http://wspa.com/2015/04/23/247-weather-forecast/">Forecast</a></li>
+</ul></div>										</nav>
+									</section>
+
+																				<aside class="alert-pill alert-weather">
+			<h1 class="alert-title"><a href="http://wspa.com/weather-alerts/">4 Weather Alerts</a></h1>
+		</aside>
+
+	<aside class="alert-pill alert-closings">
+			<h1 class="alert-title"><a href="http://wspa.com/closings/">5 Closings</a></h1>
+		</aside>
+									
+																								</div><!-- .site-utilities -->
+						</div><!-- .row -->
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<h1 class="menu-toggle">Menu</h1>
+							<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+							<div class="offcanvas-navigation-toggle offcanvas-navigation-toggle-icon toggle-icon-open">&nbsp;</div>
+							<a href="http://wspa.com/" rel="home" class="home-link">Home</a>
+															<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-supernav menu-item-14"><a href="http://wspa.com/category/news/">News</a>
+			<div class="supernav">
+				<div class="supernav-primary-wrapper">
+					<h3 class="supernav-heading">News</h3>
+					<ul class="sub-menu">
+				<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128"><a href="http://wspa.com/category/news/local-news-greenville-spartanburg-anderson-gaffney/">Local News</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121"><a href="http://wspa.com/category/news/accidents/">Accidents &amp; Traffic</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"><a href="http://wspa.com/category/news/school-education-news-sc-nc-ga/">Back to School</a></li>
+	<li id="menu-item-1602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1602"><a href="http://wspa.com/category/news/consumer-news/">Consumer</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"><a href="http://wspa.com/category/news/crime-news-greenville-spartanburg-anderson/">Crime</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124"><a href="http://wspa.com/category/news/government-politics-sc-nc-ga/">Elections, Govt &amp; Politics</a></li>
+	<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125"><a href="http://wspa.com/category/news/health-medical-news/">Health</a></li>
+	<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"><a href="http://wspa.com/category/news/international-news/">International</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158"><a href="http://wspa.com/category/news/investigations/">Investigations</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"><a href="http://wspa.com/category/news/job-news-sc-nc-ga/">Jobs</a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-460"><a href="http://wspa.com/category/news/links/">Links We Mentioned</a></li>
+	<li id="menu-item-56548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56548"><a href="http://wspa.com/watch-live-video-and-dvr/">Live Video and DVR</a></li>
+	<li id="menu-item-143980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143980"><a href="http://wspa.com/category/news/missing-persons/">Missing Persons</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129"><a href="http://wspa.com/category/news/national-news/">National</a></li>
+	<li id="menu-item-231529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231529"><a href="http://wspa.com/category/news/scams/">Scams</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131"><a href="http://wspa.com/category/news/state-news-sc-nc-ga/">State News</a></li>
+	<li id="menu-item-56814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56814"><a href="http://wspa.com/category/video/">Video</a></li>
+
+					</ul><!-- .sub-menu -->
+					<section class="supernav-featured-tags">
+				<h4 class="supernav-featured-tags-heading">Featured:</h4>
+				<ul class="supernav-featured-tags-list">
+					<li class="supernav-featured-tags-list-item"><a href="http://wspa.com/tag/charles-carver/" rel="tag">charles carver</a><li class="supernav-featured-tags-list-item"><a href="http://wspa.com/tag/kala-brown/" rel="tag">kala brown</a><li class="supernav-featured-tags-list-item"><a href="http://wspa.com/tag/todd-kohlhepp/" rel="tag">todd kohlhepp</a></ul><!-- .supernav-featured-tags-list --> </section><!-- .supernav-featured-tags --></div><!-- .supernav-primary-wrapper -->			<section class="supernav-latest-headlines">
+				<h3 class="supernav-heading">Latest Headlines</h3>
+				<div class="primary-column">
+					
+<article id="post-343664" class="media-object  post-343664 autopub_ap_story type-autopub_ap_story status-publish format-standard hentry category-national-news category-news">
+				
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/ap/the-latest-mother-will-file-claim-over-sons-police-death/"  rel="bookmark">The Latest: Mother will file claim over son&#8217;s police death</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on under-hour">
+	Updated: <time
+				class="updated"
+				datetime="2017-03-11T18:26:36+00:00"
+				data-standard-view="11m"
+			>11 mins</time> ago</span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>HUNTINGTON BEACH, Calif. (AP) — The Latest on the police shooting of a man at a Southern California sports complex (all times local): 3:30 p&hellip;</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343661" class="media-object  post-343661 autopub_ap_story type-autopub_ap_story status-publish format-standard hentry category-national-news category-news">
+				
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/ap/the-latest-ny-top-official-critical-of-prosecutor-purge/"  rel="bookmark">The Latest: NY top official critical of prosecutor purge</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on under-hour">
+	Updated: <time
+				class="updated"
+				datetime="2017-03-11T18:26:40+00:00"
+				data-standard-view="11m"
+			>11 mins</time> ago</span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>NEW YORK (AP) — The Latest on the firing of Manhattan U.S. Attorney Preet Bharara. (all times local): 6 p.m. New York’s attorney general say&hellip;</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+	</div><!-- .primary-column -->
+	<div class="secondary-column">
+
+<article id="post-343649" class="title-object post-343649 post type-post status-publish format-standard has-post-thumbnail hentry category-consumer-news category-national-news category-news tag-car tag-driving">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/11/california-to-give-the-green-light-to-truly-driverless-cars/" rel="bookmark">California to give the green light to truly driverless cars</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on under-hour">
+	Updated: <time
+				class="updated"
+				datetime="2017-03-11T18:08:14+00:00"
+				data-standard-view="30m"
+			>30 mins</time> ago</span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343653" class="title-object post-343653 autopub_ap_story type-autopub_ap_story status-publish format-standard hentry category-national-news category-news">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/ap/ap-top-strange-news-at-551-p-m-est/" rel="bookmark">AP Top Strange News at 5:51 p.m. EST</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on under-hour">
+	Updated: <time
+				class="updated"
+				datetime="2017-03-11T17:56:23+00:00"
+				data-standard-view="42m"
+			>42 mins</time> ago</span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343635" class="title-object post-343635 post type-post status-publish format-video has-post-thumbnail hentry category-school-education-news-sc-nc-ga category-national-news category-news category-video tag-college tag-drugs tag-education tag-free tag-grades tag-high-school tag-school tag-students post_format-post-format-video">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/11/hs-kids-offered-2-free-years-of-college-for-good-grades-staying-off-drugs/" rel="bookmark">HS kids offered 2 free years of college for good grades, staying off drugs</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on under-hour">
+	Updated: <time
+				class="updated"
+				datetime="2017-03-11T17:54:16+00:00"
+				data-standard-view="44m"
+			>44 mins</time> ago</span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+				</div><!-- .primary-column -->
+			</section><!-- .supernav-latest-headlines -->
+			
+			</div><!-- .supernav -->
+			</li>
+<li id="menu-item-35835" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-supernav menu-item-35835"><a href="http://wspa.com/category/weather/">Weather</a>
+			<div class="supernav">
+				<div class="supernav-primary-wrapper">
+					<h3 class="supernav-heading">Weather</h3>
+					<ul class="sub-menu">
+				<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://wspa.com/7-day/">7 Day</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="http://wspa.com/weather-alerts/">Alerts</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://wspa.com/weather-apps/">Apps</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://wspa.com/closings/">Closings</a></li>
+	<li id="menu-item-65903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65903"><a href="https://closings.wspa.com/">Closings Login</a></li>
+	<li id="menu-item-78081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78081"><a href="http://wspa.com/register-to-be-included-in-our-closings-list/">Closings: Get On The List</a></li>
+	<li id="menu-item-332699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-332699"><a href="http://wspa.com/category/color-your-weather/">Color Your Weather</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://wspa.com/current-conditions/">Current Conditions</a></li>
+	<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438"><a href="http://wspa.com/2015/04/23/247-weather-forecast/">Forecast</a></li>
+	<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://wspa.com/hourly-forecast/">Hourly</a></li>
+	<li id="menu-item-26148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26148"><a href="http://wspa.com/category/hurricane-sc-ga-nc/">Hurricane Center</a></li>
+	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://wspa.com/radar/">Radar</a></li>
+	<li id="menu-item-123652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123652"><a href="http://wspa.com/road-conditions-map-for-upstate-sc-and-wnc/">Road Conditions</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://wspa.com/satellite/">Satellite</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://wspa.com/satrad/">SatRad</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://wspa.com/severe/">Severe</a></li>
+	<li id="menu-item-6148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6148"><a href="http://wspa.com/traffic-tracker/">Traffic Tracker</a></li>
+	<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://wspa.com/webcams/">Webcams</a></li>
+	<li id="menu-item-5811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5811"><a href="http://wspa.com/wx-email-alerts/">WX Email Alerts</a></li>
+	<li id="menu-item-151578" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-151578"><a href="http://wspa.com/2016/03/15/wx-preparedness/">WX Preparedness</a></li>
+
+					</ul><!-- .sub-menu -->
+					</div><!-- .supernav-primary-wrapper -->		<div class="supernav-current-conditions">
+			<h3 class="supernav-heading">Current Conditions</h3>
+			<a href="http://wspa.com/category/weather/">
+				<aside class="weather-conditions">
+	<div class="weather-conditions-primary-wrapper">
+		<figure class="weather-conditions-image">
+			<img src="https://s0.wp.com/wp-content/themes/vip/lin-media/inc/wx_shortcodes/static/images/conditions/66.png" alt="">
+		</figure>
+		<h3 class="weather-conditions-current-temperature">46&deg; <span class="temperature-scale">F</span></h3>
+		<p class="weather-conditions-current-sky-conditions">Broken Clouds</p>
+	</div><!-- .weather-conditions-primary-wrapper -->
+
+	<div class="weather-conditions-secondary-wrapper">
+		<ul class="weather-conditions-list">
+			<li><span class="weather-conditions-list-item-name">Feels Like: <span class="weather-conditions-list-item-value">42&deg; F</span></span></li>
+			<li><span class="weather-conditions-list-item-name">Wind: <span class="weather-conditions-list-item-value">NNE 8</span></span></li>
+			<li><span class="weather-conditions-list-item-name">Humidity: <span class="weather-conditions-list-item-value">37%</span></span></li>
+			<li><span class="weather-conditions-list-item-name">Dewpoint: <span class="weather-conditions-list-item-value">21&deg; F</span></span></li>
+			<li><span class="weather-conditions-list-item-name">Sunrise: <span class="weather-conditions-list-item-value">6:43 AM</span></span></li>
+			<li><span class="weather-conditions-list-item-name">Sunset: <span class="weather-conditions-list-item-value">6:32 PM</span></span></li>
+		</ul>
+	</div><!-- .weather-conditions-secondary-wrapper -->
+</aside>
+			</a>
+		</div>
+				<div class="supernav-third-column-markup">
+							<h3 class="supernav-heading">Features</h3>
+						<div style="text-align:center;">
+<div style="float:left;padding-right:20px;">
+<a href="/2015/04/23/247-weather-forecast/" style="margin:0;padding:0;border:none;"><img src="http://wx.wspa.com/weather/wx-forecast-small.jpg" width="120px" height="60px" border="0"></br>
+Forecast</a>
+</div>
+
+<div style="float:left;">
+<a href="/hourly-forecast/" style="margin:0;padding:0;border:none;"><img src="http://wx.wspa.com/weather/hourly/hourly-tiny.jpg" border="0" width="120px" height="60px"></br>
+Hourly</a>
+</div>
+
+<div style="clear:both;"></div>
+<div style="float:left;padding-right:20px;"><a href="/weather/7-day/" style="margin:0;padding:0;border:none;"><img src="http://wx.wspa.com/weather/7day/greenville-7day-tiny.jpg" width="120px" height="60px" border="0"></br>
+7-Day</a>
+</div>
+
+<div style="float:left;">
+<a href="/weather/radar/" style="margin:0;padding:0;border:none;"><img src="http://wx.wspa.com/weather/radar/WEB_RADAR_SMALL.jpg" style="height:60px;" border="0" width="120px" height="60px"></br>
+Radar</a>
+
+</div>
+</div>			<div id='lin-supernav-sponsored-by' class='dfp-ad'><p class="sponsored-by-label">Sponsored by:</p></div>		</div><!-- .supernav-third-column-markup-->
+		
+			</div><!-- .supernav -->
+			</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-supernav menu-item-16"><a href="http://wspa.com/category/sports/">Sports</a>
+			<div class="supernav">
+				<div class="supernav-primary-wrapper">
+					<h3 class="supernav-heading">Sports</h3>
+					<ul class="sub-menu">
+				<li id="menu-item-228386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228386"><a href="http://wspa.com/category/sports/carolina-panthers/">Carolina Panthers</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="http://wspa.com/category/sports/clemson-tigers-sports/">Clemson Tigers</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137"><a href="http://wspa.com/category/sports/college-sports/">College Sports</a></li>
+	<li id="menu-item-38197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38197"><a href="http://wspa.com/category/sports/high-school-football-upstate-sc-western-nc/">High School Football</a></li>
+	<li id="menu-item-232023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232023"><a href="http://wspa.com/mascot/">Mascot Challenge</a></li>
+	<li id="menu-item-226807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226807"><a href="http://wspa.com/category/olympics/">Olympics</a></li>
+	<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139"><a href="http://wspa.com/category/sports/star-of-the-week/">Star Of The Week</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140"><a href="http://wspa.com/category/sports/usc-gamecocks-sports/">USC Gamecocks</a></li>
+
+					</ul><!-- .sub-menu -->
+					<section class="supernav-featured-tags">
+				<h4 class="supernav-featured-tags-heading">Featured:</h4>
+				<ul class="supernav-featured-tags-list">
+					<li class="supernav-featured-tags-list-item"><a href="http://wspa.com/tag/clemson-football/" rel="tag">Clemson Football</a></ul><!-- .supernav-featured-tags-list --> </section><!-- .supernav-featured-tags --></div><!-- .supernav-primary-wrapper -->			<section class="supernav-latest-headlines">
+				<h3 class="supernav-heading">Latest Headlines</h3>
+				<div class="primary-column">
+					
+<article id="post-343426" class="media-object  post-343426 post type-post status-publish format-standard has-post-thumbnail hentry category-college-sports category-sports tag-furman-basketball tag-usc-upstate-basketball">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/10/furman-and-usc-upstate-accept-cit-bids/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="67526" data-permalink="http://wspa.com/furman-basketball/" data-orig-file="https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg" data-orig-size="660,371" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Furman Basketball" data-image-description="&lt;p&gt;Furman basketball generic&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2015/10/furman-basketball.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/furman-and-usc-upstate-accept-cit-bids/"  rel="bookmark">Furman and USC Upstate Accept CIT Bids</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T23:47:25+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>Furman and USC Upstate Accept CIT Bids</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343419" class="media-object  post-343419 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-usc-gamecocks-sports tag-dawn-staley tag-usa-womens-basketball">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/10/usc-head-coach-dawn-staley-named-usa-basketball-womens-head-coach/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="343074" data-permalink="http://wspa.com/?attachment_id=343074" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg" data-orig-size="381,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;FILE - In this Sept. 30, 2000, file photo, United States&#039; Dawn Staley (5) and Nikki McCray, right, celebrate the USA&#039;s victory over Australia in the women&#039;s gold medal basketball game at the 2000 Summer Olympic Games in Sydney, Australia. Two people with knowledge of the decision say Dawn Staley will be the next U.S. women&#039;s basketball Olympic coach. They spoke to The Associated Press Thursday, March 9, 2017, on condition of anonymity because the decision hasn&#039;t been publicly announced. The 46-year-old Staley has coached South Carolina since 2008, guiding them to a four straight Southeastern Conference regular season titles and a three consecutive SEC Tournament crowns. (AP Photo\/Elise Amendola, File)&quot;,&quot;created_timestamp&quot;:&quot;970274640&quot;,&quot;copyright&quot;:&quot;2000 AP&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;SEC Auburn South Carolina Basketball&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="SEC Auburn South Carolina Basketball" data-image-description="&lt;p&gt;FILE &#8211; In this Sept. 30, 2000, file photo, United States&#8217; Dawn Staley (5) and Nikki McCray, right, celebrate the USA&#8217;s victory over Australia in the women&#8217;s gold medal basketball game at the 2000 Summer Olympic Games in Sydney, Australia. Two people with knowledge of the decision say Dawn Staley will be the next U.S. women&#8217;s basketball Olympic coach. They spoke to The Associated Press Thursday, March 9, 2017, on condition of anonymity because the decision hasn&#8217;t been publicly announced. The 46-year-old Staley has coached South Carolina since 2008, guiding them to a four straight Southeastern Conference regular season titles and a three consecutive SEC Tournament crowns. (AP Photo/Elise Amendola, File)&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg?w=223" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/preview-v0186.jpg?w=381" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/usc-head-coach-dawn-staley-named-usa-basketball-womens-head-coach/"  rel="bookmark">USC Head Coach Dawn Staley Named USA Basketball Women&#8217;s Head Coach</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T23:35:19+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>USC Head Coach Dawn Staley Named USA Basketball Women&#8217;s Head Coach</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+	</div><!-- .primary-column -->
+	<div class="secondary-column">
+
+<article id="post-343417" class="title-object post-343417 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-usc-gamecocks-sports tag-chad-holbrook tag-clarke-schmidt tag-gamecocks-baseball tag-madison-stokes">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/madison-stokes-2-run-hr-lifts-usc-past-michigan-st-3-2/" rel="bookmark">Madison Stokes 2-Run HR Lifts USC Past Michigan St., 3-2</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T23:08:48+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343394" class="title-object post-343394 post type-post status-publish format-standard has-post-thumbnail hentry category-clemson-tigers-sports category-sports tag-andrew-cox tag-chris-williams tag-clemson-baseball tag-monte-lee">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/clemson-shuts-down-notre-dame-in-acc-opener-4-1/" rel="bookmark">Clemson Shuts Down Notre Dame in ACC Opener, 4-1</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T21:32:05+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343392" class="title-object post-343392 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-usc-gamecocks-sports tag-frank-martin tag-gamecocks-basketball tag-sindarius-thornwell">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/south-carolina-falls-to-alabama-in-quarterfinals-of-sec-tournament-64-53/" rel="bookmark">South Carolina Falls to Alabama in Quarterfinals of SEC Tournament, 64-53</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T21:29:41+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+				</div><!-- .primary-column -->
+			</section><!-- .supernav-latest-headlines -->
+			
+			</div><!-- .supernav -->
+			</li>
+<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-has-supernav menu-item-79"><a href="http://wspa.com/category/entertainment/">Entertainment</a>
+			<div class="supernav">
+				<div class="supernav-primary-wrapper">
+					<h3 class="supernav-heading">Entertainment</h3>
+					<ul class="sub-menu">
+				<li id="menu-item-247740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247740"><a href="http://wspa.com/bitesizetv-hollywood-today-live/">Hollywood Today Live</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80"><a href="http://wspa.com/category/entertainment/scene-on-7/">SCENE ON 7</a></li>
+	<li id="menu-item-7004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7004"><a href="http://wspa.com/contact-scene-on-7/">Contact Scene on 7</a></li>
+	<li id="menu-item-143571" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-143571"><a href="http://wspa.com/category/entertainment/scene-on-7/fashion/">Fashion</a></li>
+	<li id="menu-item-143572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143572"><a href="http://wspa.com/category/entertainment/scene-on-7/food/">Food</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://wspa.com/scene-on-7-meet-the-team/">Meet The Scene Team</a></li>
+	<li id="menu-item-143573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143573"><a href="http://wspa.com/category/entertainment/scene-on-7/music/">Music</a></li>
+	<li id="menu-item-143574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143574"><a href="http://wspa.com/category/entertainment/scene-on-7/nightlife/">Nightlife</a></li>
+	<li id="menu-item-182120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182120"><a href="http://wspa.com/category/entertainment/scene-on-7/parties/">Parties</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-contests-promos/">Scene On 7 Contests &amp; Promos</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-the-pulse/">The Pulse</a></li>
+	<li id="menu-item-143577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143577"><a href="http://wspa.com/category/entertainment/scene-on-7/things-to-do/">7 Things To Do</a></li>
+	<li id="menu-item-22143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22143"><a href="http://wspa.com/22140/">———————</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81"><a href="http://wspa.com/category/entertainment/your-carolina/">YOUR CAROLINA</a></li>
+	<li id="menu-item-46743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46743"><a href="http://wspa.com/category/entertainment/your-carolina/lets-get-cookin-with-ingles/">Chef&#8217;s Kitchen with Ingles</a></li>
+	<li id="menu-item-7060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7060"><a href="http://wspa.com/contact-your-carolina/">Contact Your Carolina</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-food-for-thought/">Food For Thought</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-girl-talk/">Girl Talk</a></li>
+	<li id="menu-item-7058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7058"><a href="http://wspa.com/your-carolina-jobs/">Jobs</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-performances-music/">Performances &amp; Music</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-wellness-matters/">Your Wellness Matters</a></li>
+	<li id="menu-item-161355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161355"><a href="http://wspa.com/category/entertainment/your-carolina/yc-design-tips/">YC Design Tips</a></li>
+	<li id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147"><a href="http://wspa.com/category/entertainment/your-carolina/your-carolina-contests/">Your Carolina Contests</a></li>
+
+					</ul><!-- .sub-menu -->
+					</div><!-- .supernav-primary-wrapper -->			<section class="supernav-latest-headlines">
+				<h3 class="supernav-heading">Latest Headlines</h3>
+				<div class="primary-column">
+					
+<article id="post-343246" class="media-object  post-343246 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-fashion category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="343251" data-permalink="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/clothess/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How To Dress The Four Main Body Types" data-image-description="&lt;p&gt;Are you an apple or maybe a pear? It&#8217;s Fashion Friday and we&#8217;re showing you how to dress the main body types.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/"  rel="bookmark">How To Dress The Four Main Body Types</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T20:00:14+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>Are you an apple or maybe a pear? It&#8217;s Fashion Friday and we&#8217;re showing you how to dress the main body types.</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+
+<article id="post-343245" class="media-object  post-343245 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/10/the-bandwagon-challenge/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="343247" data-permalink="http://wspa.com/2017/03/10/the-bandwagon-challenge/wagon/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="The Bandwagon Challenge!" data-image-description="&lt;p&gt;It&#8217;s a bracket contest with food! We explain how it works!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/10/the-bandwagon-challenge/"  rel="bookmark">The Bandwagon Challenge!</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-10T20:00:10+00:00"
+				data-standard-view=""
+			>March 10, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>It&#8217;s a bracket contest with food! We explain how it works!</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+	</div><!-- .primary-column -->
+	<div class="secondary-column">
+
+<article id="post-342444" class="title-object post-342444 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/paparazzi-accessories-2/" rel="bookmark">Paparazzi Accessories</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T20:00:41+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-342443" class="title-object post-342443 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-music category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/luke-bryan-is-in-town-this-week/" rel="bookmark">Luke Bryan Is In Town This Week</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T20:00:38+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-342442" class="title-object post-342442 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/we-are-catching-up-with-stephen-wonderboy-thompson/" rel="bookmark">We Are Catching Up With Stephen &#8220;Wonderboy&#8221; Thompson</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T20:00:36+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+				</div><!-- .primary-column -->
+			</section><!-- .supernav-latest-headlines -->
+			
+			</div><!-- .supernav -->
+			</li>
+<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-has-supernav menu-item-155"><a href="http://wspa.com/category/community-news-sc-nc/">Community</a>
+			<div class="supernav">
+				<div class="supernav-primary-wrapper">
+					<h3 class="supernav-heading">Community</h3>
+					<ul class="sub-menu">
+				<li id="menu-item-156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156"><a href="http://wspa.com/category/community-news-sc-nc/caring-for-the-carolinas/">Caring For The Carolinas</a></li>
+	<li id="menu-item-4246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4246"><a title="Community Calendar" href="http://wspa.eviesays.com/">Community Calendar</a></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="http://wspa.com/category/community-news-sc-nc/events-sc-nc/">Events</a></li>
+	<li id="menu-item-228553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228553"><a href="http://wspa.com/operationsafedrive/">Operation Safe Drive</a></li>
+	<li id="menu-item-271053" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271053"><a href="http://wspa.com/2016/11/08/season-of-hope/">Season of Hope</a></li>
+	<li id="menu-item-62669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62669"><a href="http://www.ourupstatesc.info/calendar.php">Upstate Info Hub Calendar</a></li>
+
+					</ul><!-- .sub-menu -->
+					</div><!-- .supernav-primary-wrapper -->			<section class="supernav-latest-headlines">
+				<h3 class="supernav-heading">Latest Headlines</h3>
+				<div class="primary-column">
+					
+<article id="post-342486" class="media-object  post-342486 post type-post status-publish format-standard has-post-thumbnail hentry category-community-news-sc-nc category-local-news-greenville-spartanburg-anderson-gaffney tag-animals">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/09/free-dogs-this-weekend-at-greenville-co-animal-care/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="dogs" srcset="https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="342492" data-permalink="http://wspa.com/2017/03/09/free-dogs-this-weekend-at-greenville-co-animal-care/greenville-animal-care/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg" data-orig-size="660,371" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="greenville-animal-care dogs" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/greenville-animal-care.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/free-dogs-this-weekend-at-greenville-co-animal-care/"  rel="bookmark">FREE DOGS this weekend at Greenville Co. Animal Care</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T17:18:56+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>All dog adoptions are free this weekend, March 11, at Greenville Co. Animals Care, according to the organization.</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+
+<article id="post-342322" class="media-object  post-342322 post type-post status-publish format-standard has-post-thumbnail hentry category-community-news-sc-nc category-local-news-greenville-spartanburg-anderson-gaffney">
+				<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/09/road-closures-for-st-patricks-day-in-greenville/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="223158" data-permalink="http://wspa.com/2016/07/27/gas-leak-closes-streets-in-downtown-greenville/downtown-greenville/" data-orig-file="https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="downtown greenville" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2016/07/downtown-greenville.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+	
+	
+	<header class="entry-header">
+		
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/road-closures-for-st-patricks-day-in-greenville/"  rel="bookmark">Road closures for St. Patrick&#8217;s Day in Greenville</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T13:39:05+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+				<p>The City of Greenville has announced the following road closures for St. Patrick&#8217;s Day.</p>
+			</div><!-- .entry-summary -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+	</div><!-- .primary-column -->
+	<div class="secondary-column">
+
+<article id="post-342317" class="title-object post-342317 post type-post status-publish format-standard has-post-thumbnail hentry category-community-news-sc-nc category-local-news-greenville-spartanburg-anderson-gaffney category-top-stories">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/09/gaffney-hs-teacher-finalist-for-sc-teacher-of-the-year/" rel="bookmark">Gaffney HS teacher finalist for SC Teacher of the Year</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-09T13:44:36+00:00"
+				data-standard-view=""
+			>March 9, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-341608" class="title-object post-341608 post type-post status-publish format-standard has-post-thumbnail hentry category-community-news-sc-nc tag-animals">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/08/kitten-season-almost-here-anderson-paws-needs-donations/" rel="bookmark">Kitten season almost here, Anderson PAWS needs donations</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-08T16:03:45+00:00"
+				data-standard-view=""
+			>March 8, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+
+<article id="post-340899" class="title-object post-340899 post type-post status-publish format-standard has-post-thumbnail hentry category-caring-for-the-carolinas">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="http://wspa.com/2017/03/07/march-2017-caring-for-the-carolinas-award-winner/" rel="bookmark">March 2017 Caring for the Carolinas Award Winner</a></h1>
+
+		<div class="entry-meta">
+			
+<span class="updated-on over-hour over-five-hours">
+	<time
+				class="updated"
+				datetime="2017-03-07T15:34:19+00:00"
+				data-standard-view=""
+			>March 7, 2017</time></span>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	</article><!-- #post-## -->
+				</div><!-- .primary-column -->
+			</section><!-- .supernav-latest-headlines -->
+			
+			</div><!-- .supernav -->
+			</li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a title="Health Link" href="http://wspa.wmpsites.com/wspa-healthlink/">Health Link</a></li>
+<li id="menu-item-111500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111500"><a href="http://wspa.com/report-it/">Report It!</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-298"><a href="http://wspa.com/more/">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-169670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169670"><a href="http://wspa.com/about-us/">About Us</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="http://wspa.com/advertise-with-wspa/">Advertise With Us</a></li>
+	<li id="menu-item-464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464"><a href="https://jobs.mediageneral.com/jobsearch.asp">Apply For Job</a></li>
+	<li id="menu-item-28436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28436"><a href="http://wspa.com/amy-wood-blog/">Amy Wood Blog</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://wspa.com/apps/">Apps</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://wspa.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-19185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19185"><a href="http://wspa.com/email-alerts/">Email Alerts</a></li>
+	<li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="http://wspa.com/gas-prices/">Gas Prices</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="http://www.tapedupe.com/">Get Newcast DVD</a></li>
+	<li id="menu-item-61472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61472"><a title="WSPA Google Plus" href="https://plus.google.com/+Wspa7">Google+</a></li>
+	<li id="menu-item-61471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61471"><a title="WSPA Instagram" href="https://instagram.com/wspatv">Instagram</a></li>
+	<li id="menu-item-7061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7061"><a href="http://wspa.com/internships/">Internships</a></li>
+	<li id="menu-item-30721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30721"><a href="http://wspa.com/meet-the-team/">Meet The Team</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="http://metvnetwork.com/">MeTV Carolinas</a></li>
+	<li id="menu-item-31361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31361"><a href="http://wspa.com/text-alerts/">Text Alerts</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://wspa.com/tv-schedule/">TV Schedule</a></li>
+	<li id="menu-item-61470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61470"><a title="WSPA Twitter" href="https://twitter.com/wspa7">Twitter</a></li>
+	<li id="menu-item-343162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343162"><a href="http://wspa.com/work-for-us/">Work for Us</a></li>
+</ul>
+</li>
+</ul></div><form role="search" method="get" class="search-form search-form-not-toggled" action="http://wspa.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field"  value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+								<a href="#" class="search-toggle">Search the site</a>
+														<div class="mobile-weather">
+										<a href="/category/weather">
+	
+		<aside class="weather-capsule">
+			<figure class="weather-capsule-image">
+				<img src="https://s0.wp.com/wp-content/themes/vip/lin-media/inc/wx_shortcodes/static/images/conditions/66.png" alt="Broken Clouds">
+			</figure>
+			<div class="weather-capsule-content-wrapper">
+				<h3 class="weather-capsule-current-temperature">46&deg; <span class="temperature-scale">F</span></h3>
+				<div class="weather-capsule-secondary-content-wrapper">
+					<p class="weather-capsule-current-sky-conditions">Broken Clouds</p>
+					<ul class="weather-capsule-list">
+						<li>Hi: 53&deg; F</li>
+						<li>Lo: 32&deg; F</li>
+					</ul>
+				</div><!-- .weather-capsule-secondary-content-wrapper -->
+			</div><!-- .weather-capsule-content-wrapper -->
+		</aside>
+
+		</a>
+								</div>
+						</nav><!-- #site-navigation -->
+						
+						
+					</div><!-- .site-header-container -->
+				</header><!-- #masthead -->
+
+				<div id="content" class="site-content">
+
+					
+					<main id="main" class="site-main" role="main">
+
+	<div id="primary" class="content-area" itemscope itemtype="http://schema.org/Article">
+
+		
+			
+<article id="post-330738" class="content-single post-330738 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-fashion category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2" itemscope itemtype="http://schema.org/Article">
+			<header class="entry-header">
+			<h1 class="entry-title" itemprop="headline">Local Stylists Attend New York Fashion Week</h1>
+			
+			<div class="entry-meta">
+				
+<div class="entry-meta-primary-column">
+	<img alt='' src='http://1.gravatar.com/avatar/d0a6ebcd8ff4d7b461ed9224b9560a25?s=44&#038;d=404&#038;r=G' class='avatar avatar-44' height='44' width='44' />	
+<span class="byline">By <a href="http://wspa.com/author/wspatammyjones/" title="Posts by sceneon7staff" class="author url fn" rel="author">sceneon7staff</a></span>
+
+<span class="posted-on">
+	Published: <time class="entry-date published" datetime="2017-02-20T20:00:11+00:00">February 20, 2017, 8:00 pm</time></span>
+
+<span class="updated-on ">
+	Updated: <time
+				class="updated"
+				datetime="2017-02-20T15:45:45+00:00"
+				data-standard-view=""
+			>February 20, 2017, 3:45 pm</time></span>
+</div><!-- .entry-meta-primary-column -->
+	<div class="robots-nocontent sd-social-icon entry-header-sharing">
+		<div class="sd-content">
+			<ul>
+																			<li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-330738" class="share-twitter sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li>
+																			<li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-330738" class="share-google-plus-1 sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li>
+																			<li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-330738" class="share-facebook sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li>
+																			<li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-330738" class="share-pinterest sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li>
+							</ul>
+		</div>
+	</div>
+			</div><!-- .entry-meta -->
+		</header><!-- .entry-header -->
+	
+	<div id="entry-content" class="entry-content">
+					
+<div class="entry-media-wrapper">
+	<figure class="entry-media alternate-image">
+		<img width="650" height="366" src="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=650" class="attachment-large size-large wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=650 650w, https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=300 300w, https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=768 768w, https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=1024 1024w, https://mgtvwspa.files.wordpress.com/2017/02/style.jpg 1280w" sizes="(max-width: 650px) 100vw, 650px" data-attachment-id="330740" data-permalink="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/style-3/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Local Stylists Attend New York Fashion Week" data-image-description="&lt;p&gt;Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#8217;s biggest fashion event of the year and are bringing the hot trends back to you.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/02/style.jpg?w=650" />
+					<figcaption>
+				Local Stylists Attend New York Fashion Week			</figcaption>
+		
+	</figure>
+</div>
+		
+		<div class="entry-content-wrap" itemprop="articleBody">
+			<div id='p0'></div><script data-anvp='{"mcp":"LIN","profile":"lin","station_id":"WSPA","width":"100%","height":null,"video":"1255990","playlist":null,"autoplay":false,"sharelink":null,"pInstance":"p0","plugins":{"dfp":{"adTagUrl":"http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=1x1000&iu=\/5678\/mg.WSPA\/entertainment\/scene-on-7\/fashion\/local-stylist-attend-new-york-fashion-week\/detail&ciu_szs=300x250&gdfp_req=1&env=vp&output=xml_vast2&ad_rule=1"},"analytics":{"pdb":"20813333"},"omniture":{"profile":"LIN","account":"lintvwspa,dpsglobal","trackingServer":"lintv.122.2o7.net"},"googleAnalytics":{"trackingId":"UA-73963435-1","category":"Anvato Web Player","events":{"VIDEO_STARTED":"START","VIDEO_COMPLETED":"STOP"}}},"html5":true,"shareLink":"http:\/\/wspa.com\/2017\/02\/20\/local-stylist-attend-new-york-fashion-week\/","titleVisible":true,"companions":[{"width":"300","height":"250","containers":["lin-rr-top"]}]}' src='http://up.anv.bz/latest/scripts/anvload.js'></script>
+<p><br />
+Fashion Week just wrapped up in New York City! We have two local stylists who got to go behind the scenes for the country&#8217;s biggest fashion event of the year and are bringing the hot trends back to you.</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-330738" class="share-facebook sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-330738" class="share-twitter sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-330738" class="share-google-plus-1 sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/#print" target="_blank" title="Click to print"><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-330738" class="share-pinterest sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-330738" class="share-linkedin sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/?share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-kindle"><div class="kindleWidget kindle_button"><a rel="nofollow" data-shared="" class="share-kindle sd-button share-icon no-text" href="https://www.amazon.com/gp/sendtokindle/widget-popup?ie=UTF&url=http://wspa.com/2017/02/20/local-stylist-attend-new-york-fashion-week/" target="_blank" title="Click to send this to your Kindle device"><span></span><span class="sharing-screen-reader-text">Click to send this to your Kindle device (Opens in new window)</span></a></div></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div></div>
+								<div class="related-posts-wrap">
+		<h4>Related Posts</h4>
+		<div class="related-posts">
+											
+<article id="post-322346" class="figurehead-object  post-322346 post type-post status-publish format-standard has-post-thumbnail hentry category-health-medical-news category-news tag-bile-duct-cancer tag-cholangiocarcinoma tag-lisa-layton tag-liver-cancer tag-new-york-fashion-week">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/02/08/mom-goes-from-crummy-cancer-to-ny-fashion-week/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="322363" data-permalink="http://wspa.com/2017/02/08/mom-goes-from-crummy-cancer-to-ny-fashion-week/lisa-layton/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg" data-orig-size="640,357" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="lisa-layton" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/02/lisa-layton.jpg?w=640" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2017/02/08/mom-goes-from-crummy-cancer-to-ny-fashion-week/"  rel="bookmark">Mom goes from ‘crummy cancer’ to NY Fashion Week</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+											
+<article id="post-337118" class="figurehead-object  post-337118 post type-post status-publish format-video has-post-thumbnail hentry category-entertainment category-fashion category-scene-on-7 post_format-post-format-video lin_section-scene-on-7-2">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/01/a-local-thrift-store-is-ready-for-savvy-shoppers/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="337119" data-permalink="http://wspa.com/2017/03/01/a-local-thrift-store-is-ready-for-savvy-shoppers/hill-2/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="A Local Thrift Store Is Ready For Savvy Shoppers" data-image-description="&lt;p&gt;On the Fashion Scene tonight we&#8217;ve got something new for savvy shoppers! Miracle Hill is hosting a grand re-opening of its thrift store on Wade Hampton Boulevard in Greenville. &lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/hill.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2017/03/01/a-local-thrift-store-is-ready-for-savvy-shoppers/"  rel="bookmark">A Local Thrift Store Is Ready For Savvy Shoppers</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+											
+<article id="post-341366" class="figurehead-object  post-341366 post type-post status-publish format-standard has-post-thumbnail hentry category-international-news category-news tag-acid-attacks">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/08/acid-victims-redefine-beauty-in-bangladesh-fashion-show/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="341367" data-permalink="http://wspa.com/2017/03/08/acid-victims-redefine-beauty-in-bangladesh-fashion-show/shonali-khatun/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Shonali Khatun" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/shonali-khatun.jpeg?w=640" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2017/03/08/acid-victims-redefine-beauty-in-bangladesh-fashion-show/"  rel="bookmark">Acid victims redefine beauty in Bangladesh fashion show</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+											
+<article id="post-341293" class="figurehead-object  post-341293 post type-post status-publish format-standard has-post-thumbnail hentry category-local-news-greenville-spartanburg-anderson-gaffney category-national-news category-news tag-day-without-a-woman">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/08/womens-march-organizers-proposing-a-day-without-a-woman/"  rel="bookmark"><img width="151" height="85" src="https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg?w=151&amp;h=85&amp;crop=1" class="attachment-lin-thumbnail size-lin-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg?w=151&amp;h=85&amp;crop=1 151w, https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg?w=302&amp;h=170&amp;crop=1 302w" sizes="(max-width: 151px) 100vw, 151px" data-attachment-id="341294" data-permalink="http://wspa.com/2017/03/08/womens-march-organizers-proposing-a-day-without-a-woman/philippines-international-womens-day/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg" data-orig-size="5184,3456" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;A protester holds a slogan as she joins a rally marking International Women&#039;s Day in Manila, Philippines on Wednesday March 8, 2017. The women&#039;s group is also opposing the revival of the death penalty by the Philippine Congress. (AP Photo\/Aaron Favila)&quot;,&quot;created_timestamp&quot;:&quot;1488939371&quot;,&quot;copyright&quot;:&quot;Copyright 2017 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;165&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.000125&quot;,&quot;title&quot;:&quot;Philippines International Womens Day&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Philippines International Womens Day" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/ap_17067217345174.jpg?w=650" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2017/03/08/womens-march-organizers-proposing-a-day-without-a-woman/"  rel="bookmark">Women’s March organizers proposing ‘A Day Without a Woman’</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+								</div>
+	</div>
+			
+			
+<div class="mobile river-ad-wrapper river-first-ad-wrapper">
+	<div id='lin-river-first' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div></div>
+					</div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+			<nav class="navigation post-navigation" role="navigation">
+	<div class="nav-links">
+					<a class="previous-post-link" href="http://wspa.com/2017/02/10/define-your-style/">
+				&laquo; Previous Story			</a>
+							&mdash;
+							<a href="http://wspa.com/2017/03/01/a-local-thrift-store-is-ready-for-savvy-shoppers/" class="next-post-link">
+				Next Story &raquo;			</a>
+			</div>
+</nav>
+
+			
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'thumbnails-a',
+		container: 'taboola-below-article-thumbnails',
+		placement: 'Below Article Thumbnails',
+		target_type: 'mix'
+	});
+</script>
+
+			
+	<div itemprop="comment">
+		
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.</noscript>
+
+<div id="comments" class="comments-area" data-show-immediately="0">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/20/local-stylist-attend-new-york-fashion-week/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://wspa.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e88f5421e1" /><input type="hidden" name="_wp_http_referer" value="/2017/02/20/local-stylist-attend-new-york-fashion-week/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='330738' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d40dfcc7b3" /></p>
+<input type="hidden" name="genseq" value="1489275675" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="69"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+	</div>
+	
+		
+		
+<div id="grv-personalization-42" class="gravity-wrapper"></div>
+
+	</div><!-- #primary -->
+
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<!-- BEGIN Companion Wrapper --><div id="lr_comp_default_300x250"><div class="dfp-ad lin-rr-top"><div id="lin-rr-top"><p class="advertisement-label">Advertisement</p></div></div></div><!--/#comp_default--><div id="lr_comp_300x250" style="display:block;"></div><!-- END Companion Wrapper --><div class="widget-visibility-wrapper show-on-any"><aside id="lin_article_bin_widget-3" class="widget widget_lin_article_bin_widget"><h1 class="widget-title">Scene On 7 Contests</h1>
+<div class="bin-layout bin-layout-10 bin-layout-grid">
+	<ul class="article-grid">
+					<li>
+				
+<article id="post-338659" class="figurehead-object  post-338659 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment category-scene-on-7-contests-promos category-your-carolina-contests">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2017/03/06/escape-room-adventures-spartanburg-giveaway/"  rel="bookmark"><img width="300" height="170" src="https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png?w=300&amp;h=170&amp;crop=1" class="attachment-hero_medium size-hero_medium wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png 300w, https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png?w=150&amp;h=85&amp;crop=1 150w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="338660" data-permalink="http://wspa.com/2017/03/06/escape-room-adventures-spartanburg-giveaway/escape-room-5/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png" data-orig-size="300,170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="escape-room" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/escape-room.png?w=300" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2017/03/06/escape-room-adventures-spartanburg-giveaway/"  rel="bookmark">Escape Room Adventures (Spartanburg) Giveaway</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+			</li>
+					<li>
+				
+<article id="post-259197" class="figurehead-object  post-259197 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment category-scene-on-7 category-scene-on-7-contests-promos tag-swamp-rabbits-hockey-tickets lin_section-scene-on-7-2">
+		<div class="figurehead-object-body">
+						<figure class="entry-thumbnail">
+		<a href="http://wspa.com/2016/10/17/win-hockey-tickets/"  rel="bookmark"><img width="300" height="170" src="https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg?w=300&amp;h=170&amp;crop=1" class="attachment-hero_medium size-hero_medium wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg 300w, https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg?w=150&amp;h=85&amp;crop=1 150w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="259206" data-permalink="http://wspa.com/2016/10/17/win-hockey-tickets/2016-button/" data-orig-file="https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg" data-orig-size="300,170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Win Hockey Tickets!" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2016/10/2016-button.jpg?w=300" /></a>
+	</figure><!-- .entry-thumbnail -->
+		
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wspa.com/2016/10/17/win-hockey-tickets/"  rel="bookmark">Win Hockey Tickets!</a></h1>
+
+					</header><!-- .entry-header -->
+
+			</div><!-- .figurehead-object-body -->
+
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+	</article><!-- #post-## -->
+			</li>
+			</ul>
+</div><!-- .bin-layout-10 -->
+</aside></div><!-- .widget-visibility-wrapper --><div class="widget-visibility-wrapper show-on-any"><aside id="text-125" class="widget widget_text">			<div class="textwidget"><a href="http://www.ourupstatesc.info/" target="_blank"><img src="https://mgtvwspa.files.wordpress.com/2016/03/updateinfo.jpg" width="100%"></a></div>
+		</aside></div><!-- .widget-visibility-wrapper --><div class="widget-visibility-wrapper show-on-any"><aside id="nav_menu-2" class="widget widget_nav_menu"><h1 class="widget-title">Scene On 7 Menu</h1><div class="menu-scene-on-7-menu-container"><ul id="menu-scene-on-7-menu" class="menu"><li id="menu-item-182144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182144"><a href="http://wspa.com/category/entertainment/scene-on-7/things-to-do/">7 Things To Do</a></li>
+<li id="menu-item-7098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7098"><a href="http://wspa.com/contact-scene-on-7/">Contact Scene on 7</a></li>
+<li id="menu-item-182123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182123"><a href="http://wspa.com/category/entertainment/scene-on-7/fashion/">Fashion</a></li>
+<li id="menu-item-182124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182124"><a href="http://wspa.com/category/entertainment/scene-on-7/food/">Food</a></li>
+<li id="menu-item-182125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182125"><a href="http://wspa.com/category/entertainment/scene-on-7/music/">Music</a></li>
+<li id="menu-item-182126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182126"><a href="http://wspa.com/category/entertainment/scene-on-7/nightlife/">Nightlife</a></li>
+<li id="menu-item-182127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182127"><a href="http://wspa.com/category/entertainment/scene-on-7/parties/">Parties</a></li>
+<li id="menu-item-7099" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7099"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-contests-promos/">Scene On 7 Contests &amp; Promos</a></li>
+<li id="menu-item-182128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182128"><a href="http://wspa.com/category/entertainment/scene-on-7/scene-on-7-the-pulse/">The Pulse</a></li>
+</ul></div></aside></div><!-- .widget-visibility-wrapper --><div class="widget-visibility-wrapper show-on-larger"><aside id="text-39" class="widget widget_text"><h1 class="widget-title">More Scene on 7</h1>			<div class="textwidget"><div class="display-posts-listing"><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="343251" data-permalink="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/clothess/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How To Dress The Four Main Body Types" data-image-description="&lt;p&gt;Are you an apple or maybe a pear? It&#8217;s Fashion Friday and we&#8217;re showing you how to dress the main body types.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/clothess.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/10/how-to-dress-the-four-main-body-types/">How To Dress The Four Main Body Types</a> <span class="excerpt-dash">-</span> <span class="excerpt">Are you an apple or maybe a pear? It's Fashion Friday and we're showing you how to dress the main body types.</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/10/the-bandwagon-challenge/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="343247" data-permalink="http://wspa.com/2017/03/10/the-bandwagon-challenge/wagon/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="The Bandwagon Challenge!" data-image-description="&lt;p&gt;It&#8217;s a bracket contest with food! We explain how it works!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/wagon.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/10/the-bandwagon-challenge/">The Bandwagon Challenge!</a> <span class="excerpt-dash">-</span> <span class="excerpt">It's a bracket contest with food! We explain how it works!</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/09/paparazzi-accessories-2/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="342451" data-permalink="http://wspa.com/2017/03/09/paparazzi-accessories-2/jewelry/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Paparazzi Accessories" data-image-description="&lt;p&gt;On the Fashion Scene tonight we&#8217;re talking about stylish jewelry at a reasonable price! Heather Dill is here to tell us all about &#8220;Paparazzi Accessories&#8221;.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/jewelry.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/09/paparazzi-accessories-2/">Paparazzi Accessories</a> <span class="excerpt-dash">-</span> <span class="excerpt">On the Fashion Scene tonight we're talking about stylish jewelry at a reasonable price! Heather Dill is here to tell us all about "Paparazzi&hellip;</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/09/luke-bryan-is-in-town-this-week/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="342449" data-permalink="http://wspa.com/2017/03/09/luke-bryan-is-in-town-this-week/lukee/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Luke Bryan Is In Town This Week" data-image-description="&lt;p&gt;Luke Bryan is in town this week and Old Dominion is canceling some concerts! Ellis and Bradley from WSSL 100 have the Nashville Scene.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/lukee.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/09/luke-bryan-is-in-town-this-week/">Luke Bryan Is In Town This Week</a> <span class="excerpt-dash">-</span> <span class="excerpt">Luke Bryan is in town this week and Old Dominion is canceling some concerts! Ellis and Bradley from WSSL 100 have the Nashville Scene.</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/09/we-are-catching-up-with-stephen-wonderboy-thompson/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="342445" data-permalink="http://wspa.com/2017/03/09/we-are-catching-up-with-stephen-wonderboy-thompson/wondervoy/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="We Are Catching Up With Stephen &#8220;Wonderboy&#8221; Thompson" data-image-description="&lt;p&gt;He&#8217;s our favorite &#8220;UFC&#8221; fighter! Simpsonville&#8217;s Stephen &#8220;Wonderboy&#8221; Thompson is joining us after a tough fight! We&#8217;re talking about how he&#8217;s recovering and what&#8217;s next!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/wondervoy.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/09/we-are-catching-up-with-stephen-wonderboy-thompson/">We Are Catching Up With Stephen &#8220;Wonderboy&#8221; Thompson</a> <span class="excerpt-dash">-</span> <span class="excerpt">He's our favorite "UFC" fighter! Simpsonville's Stephen "Wonderboy" Thompson is joining us after a tough fight! We're talking about how he's&hellip;</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/08/who-can-bop-it/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="341637" data-permalink="http://wspa.com/2017/03/08/who-can-bop-it/bop/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Who Can Bop It?" data-image-description="&lt;p&gt;So can they comb it and cradle it and whip it? Hawk and Tom are here to see who is the master of “Bop It” in our Radio Games!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/bop.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/08/who-can-bop-it/">Who Can Bop It?</a> <span class="excerpt-dash">-</span> <span class="excerpt">So can they comb it and cradle it and whip it? Hawk and Tom are here to see who is the master of “Bop It” in our Radio Games!</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/08/return-to-the-green/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="341635" data-permalink="http://wspa.com/2017/03/08/return-to-the-green/irishh/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Return to the Green" data-image-description="&lt;p&gt;There&#8217;s a big party going on Sunday at Fluor Field!  Marty Flynn is here to tell us all about it!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/irishh.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/08/return-to-the-green/">Return to the Green</a> <span class="excerpt-dash">-</span> <span class="excerpt">There's a big party going on Sunday at Fluor Field! Marty Flynn is here to tell us all about it!</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/08/pink-on-main-changes-location-ownership-and-focus/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="341589" data-permalink="http://wspa.com/2017/03/08/pink-on-main-changes-location-ownership-and-focus/pink-on-main/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="pink on main" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/pink-on-main.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/08/pink-on-main-changes-location-ownership-and-focus/">Pink on Main Changes Location, Ownership and Focus</a> <span class="excerpt-dash">-</span> <span class="excerpt">Spartanburg boutique Pink on Main has new digs and a new owner! Now exclusively selling Lilly Pulitzer clothing, the boutique has a new focu&hellip;</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/07/shuckin-shack/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="340991" data-permalink="http://wspa.com/2017/03/07/shuckin-shack/shuck/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Shuckin&#8217; Shack" data-image-description="&lt;p&gt;Get free food through the Vittl app and find out what the Shuckin&#8217; Shack is offering.&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/shuck.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/07/shuckin-shack/">Shuckin&#8217; Shack</a> <span class="excerpt-dash">-</span> <span class="excerpt">Get free food through the Vittl app and find out what the Shuckin' Shack is offering.</span></div><div class="listing-item" style="clear: both;"><a class="image alignleft " href="http://wspa.com/2017/03/07/happening-at-noma-square/" style="display: block;"><img width="150" height="84" src="https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg?w=150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg?w=150 150w, https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg?w=300 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="340989" data-permalink="http://wspa.com/2017/03/07/happening-at-noma-square/nomaa/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Happening At Noma Square" data-image-description="&lt;p&gt;Spring is only 13-days away and with this warm weather we are ready to sit outside and enjoy live music with a cold drink and that&#8217;s where Noma Square comes in!&lt;/p&gt;
+" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg?w=300" data-large-file="https://mgtvwspa.files.wordpress.com/2017/03/nomaa.jpg?w=650" /></a> <a class="title" href="http://wspa.com/2017/03/07/happening-at-noma-square/">Happening At Noma Square</a> <span class="excerpt-dash">-</span> <span class="excerpt">Spring is only 13-days away and with this warm weather we are ready to sit outside and enjoy live music with a cold drink and that's where N&hellip;</span></div></div></div>
+		</aside></div><!-- .widget-visibility-wrapper --><div id='lin-rr-bottom' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div>	</div><!-- #secondary -->
+	<div id="secondary-placeholder"></div>
+
+							<div class="tablet desktop">
+								<div id='lin-footer-leaderboard' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div>							</div><!-- .tablet.desktop -->
+
+															<div class="row solitary-column">
+									
+<div class="mobile river-ad-wrapper river-last-ad-wrapper">
+	<div id='lin-river-last' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div></div>
+								</div>
+							
+					</main><!-- #main -->
+
+				</div><!-- #content -->
+
+				<footer id="colophon" class="site-footer" role="contentinfo">
+					<div class="info-nav-wrapper">
+						<section class="site-info">
+							<h2><a class="unmarked-link" href="http://wspa.com/" rel="home">WSPA.com</a></h2>
+															<a href="http://www.nexstar.tv/" class="footer-logo">
+																						<img width="180" height="94" src="https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png?w=180" class="attachment-medium size-medium" alt="Nexstar logo" srcset="https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png 180w, https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png?w=150 150w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="304532" data-permalink="http://wspa.com/nexstar-logo-black2/" data-orig-file="https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png" data-orig-size="180,94" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Nexstar logo" data-image-description="" data-medium-file="https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png?w=180" data-large-file="https://mgtvwspa.files.wordpress.com/2017/01/nexstar-logo-black2.png?w=180" />																						</a>
+														<p>© 1998-2017 WSPA.com | Nexstar Broadcasting, Inc. | All rights reserved.</p>
+															<p>Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+													</section><!-- .site-info -->
+						<nav role="navigation">
+							<div class="column-navigation column-navigation-2"><h3 class="column-navigation-heading">Business</h3><div class="menu-business-container"><ul id="menu-business" class="menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://wspa.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-343161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343161"><a href="http://wspa.com/work-for-us/">Work for Us</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://wspa.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-138008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138008"><a href="http://wspa.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://publicfiles.fcc.gov/tv-profile/wspa-tv">FCC Public File</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://publicfiles.fcc.gov/tv-profile/wspa-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/d72e5208-3137-c6e4-98fb-b33ff1319d60/">EEO Report</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://publicfiles.fcc.gov/tv-profile/wspa-tv/programs-list/">Children&#8217;s Programming</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://wspa.com/closed-captioning/">Closed Captioning</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://wspa.com/advertising-terms-and-conditions-and-credit-policy/">Advertising Terms and Conditions and Credit Policy</a></li>
+</ul></div></div><div class="column-navigation column-navigation-2"><h3 class="column-navigation-heading">Sections</h3><div class="menu-sections-container"><ul id="menu-sections" class="menu"><li id="menu-item-19172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19172"><a href="http://wspa.com/category/news/">News</a></li>
+<li id="menu-item-19173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19173"><a href="http://wspa.com/category/sports/">Sports</a></li>
+<li id="menu-item-19171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19171"><a href="http://wspa.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-19170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19170"><a href="http://wspa.com/category/community-news-sc-nc/">Community</a></li>
+<li id="menu-item-109984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109984"><a href="http://carolinascw.com/">CW62</a></li>
+</ul></div></div>						</nav>
+					</div>
+					<section class="follow-wrapper">
+						<h3 class="follow-heading">Follow</h3>
+						<nav role="navigation" class="social-icons">
+	<ul class="social-icons-list ">
+		<li>
+			<a class="social-icon-item feed" href="http://wspa.com/feed/">
+				<span>Subscribe via RSS</span>
+							</a>
+		</li>
+					<li>
+				<a class="social-icon-item twitter" href="https://twitter.com/wspa7">
+					<span>Follow us on Twitter</span>
+									</a>
+			</li>
+							<li>
+				<a class="social-icon-item facebook" href="http://www.facebook.com/wspatv">
+					<span>Join us on Facebook</span>
+									</a>
+			</li>
+							<li>
+				<a class="social-icon-item youtube" href="https://www.youtube.com/user/WSPANewsChannel7">
+					<span>Follow us on YouTube</span>
+									</a>
+			</li>
+							<li>
+				<a class="social-icon-item googleplus" href="https://plus.google.com/111009677382578485425" rel="publisher">
+					<span>Follow us on Google+</span>
+									</a>
+			</li>
+											<li>
+				<a class="social-icon-item instagram" href="https://instagram.com/wspatv">
+					<span>Follow us on Instagram</span>
+									</a>
+			</li>
+			</ul>
+</nav>
+					</section>
+				</footer><!-- #colophon -->
+			</div><!-- #page -->
+
+			<!-- wpcom_wp_footer -->
+	<script type='text/javascript'>
+		var _sf_async_config = _sf_async_config || {};
+		/** CONFIGURATION START **/
+		_sf_async_config.uid = 23192;
+		_sf_async_config.domain = "";
+		_sf_async_config.useCanonical = true;
+		_sf_async_config.sections = "";
+		_sf_async_config.authors = "";
+		/** CONFIGURATION END **/
+	</script>
+<script>
+	(function() {
+		function loadChartbeat() {
+			window._sf_endpt = (new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+			loadChartbeat : function() {
+				oldonload();
+				loadChartbeat();
+			};
+	})();
+</script>
+
+<!-- Begin comScore Tag -->
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&#038;c2=6036439&#038;cv=2.0&#038;cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+		
+<div id="gallery-above-ad" style="display: none;">
+	<div id='lin-gallery-modal-above' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div></div>
+<div id="gallery-sidebar-ad" style="display: none;">
+	<div id='lin-gallery-modal-sidebar' class='dfp-ad'><p class="advertisement-label">Advertisement</p></div></div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201710y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-d0a6ebcd8ff4d7b461ed9224b9560a25">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/mgtvwspa.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/mgtvwspa.wordpress.com\/wp-login.php?action=logout&_wpnonce=32af9ec118","homeURL":"http:\/\/wspa.com\/","postID":"330738","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/wspa.com\/2017\/02\/20\/local-stylist-attend-new-york-fashion-week\/":330738};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2017/02/20/local-stylist-attend-new-york-fashion-week/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318h" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+					<script type="text/javascript">
+				jQuery(document).on('ready', function(){
+					jQuery('body').on('click', 'a.share-pinterest', function(e){
+						e.preventDefault();
+						// Load Pinterest Bookmarklet code
+						var s = document.createElement("script");
+						s.type = "text/javascript";
+						s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+						var x = document.getElementsByTagName("script")[0];
+						x.parentNode.insertBefore(s, x);
+						// Trigger Stats
+						var s = document.createElement("script");
+						s.type = "text/javascript";
+						s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+						var x = document.getElementsByTagName("script")[0];
+						x.parentNode.insertBefore(s, x);
+					});
+				});
+			</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script>
+			jQuery( document ).on( 'ready', function() {
+				jQuery.getScript( 'https://d1xnn692s7u6t6.cloudfront.net/widget.js', jetpack_sharing_kindle_init );
+			} );
+
+			jQuery( document.body ).on( 'post-load', jetpack_sharing_kindle_init );
+
+			function jetpack_sharing_kindle_init() {
+				jQuery( '.share-kindle' ).on( 'click', function( event ) {
+					event.preventDefault();
+
+					return true;
+				} );
+
+				if ( window.$SendToKindle && window.$SendToKindle.Widget ) {
+					$SendToKindle.Widget.init( {
+						'title': 		'.entry-title',
+						'published': 	'.entry-date', 
+						'content': 		'.post',
+						'exclude': 		'.sharedaddy'
+					} );
+				}
+			}
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lin = {"colors":{"backgroundColor":"#ffffff"},"singular":{"permalink":"http:\/\/wspa.com\/2017\/02\/20\/local-stylist-attend-new-york-fashion-week\/","postType":"post"},"stationId":"wspa","l10n":{"continueReading":"Continue Reading","loadMoreStories":"Load More Stories","hideComments":"Hide Comments","showComments":"Show Comments"},"disqus":{"domain":"disqus.com","facebookXdReceiverPath":"http:\/\/mgtvwspa.wordpress.com\/wp-content\/themes\/vip\/plugins\/disqus\/xd_receiver.htm","identifierForPost":"330738 http:\/\/wspa.com\/?p=330738","shortname":"wspatv","version":"2.40"},"ads":{"wpArticlePostTypes":["post","page","investigative-story","autopub_ap_story"]},"entertainmentTheme":{"isUsing":false},"hero":{"layout":false}};
+var gallery_strings = {"no_gallery_modal_set":"No gallery modal set.","modal_does_not_have_class":"Modal set but does not have proper class: \"lin-gallery-modal\".","show_more":"More","show_less":"Less","pager":"%1$d of %2$d","captions":{"on":"Turn Captions On","off":"Turn Captions Off"},"thumbnails":{"on":"Show Thumbnails","off":"Hide Thumbnails"},"galleries":{"on":"Latest Galleries","off":"Hide Galleries"}};
+var webpackFlags = {"feature":"","needsModernizr":"1"};
+var linGA = {"hasDefaultProperty":"1","hasAdditionalProperties":"1","is404":"","defaultProperty":"UA-73963435-1","additionalProperties":["UA-60088952-6"]};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVj0sOwjAMRC9EEoFaAQvEWdLEBBfHCfkUenvSSkgIsWE94zfP6hGFCVyAixqzsjChgfiUY96oj8hXEak65KwIb5DVvUKFq2ZLkN5lZEPVtrCBKltI2YQE0iN/48oVfOtNGBuOhQeLWuWiC5rV4hKli0VScK7hwwQpoYU/KY7CoEkOdZH85WiC940jEkSaf2l+fL0Ty8y4rgnNmua2ktvB2Z+23aHfH/td148vbMB7fQ=='></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"https:\/\/mgtvwspa.wordpress.com\/wp-content\/themes\/vip\/plugins\/facebook\/channel.php","xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}
+		if (Array.prototype.forEach) {
+			var fbPosts = document.querySelectorAll('fb\\:post');
+			Array.prototype.forEach.call(fbPosts, function(el) {
+				el.setAttribute('data-width', el.parentNode.offsetWidth);
+			});
+		}
+	}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/en_US\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"85383819","siteName":"WSPA.com","siteURL":"http:\/\/wspa.com","icon":"<img alt='' src='http:\/\/1.gravatar.com\/blavatar\/f24a223906827fbea90f2e0e73c54692?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"vip\/lin-media","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/mgtvwspa.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fwspa.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F","themeURL":"","xhrURL":"http:\/\/wspa.com\/wp-admin\/admin-ajax.php","nonce":"64ee2b6405","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"299b188164\" \/>","referer":"http:\/\/wspa.com\/2017\/02\/20\/local-stylist-attend-new-york-fashion-week\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/mgtvwspa.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmgtvwspa.wordpress.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F","postID":"330738","shortlink":"http:\/\/wp.me\/p5Mgen-1o2u","canEditPost":"","editLink":"https:\/\/mgtvwspa.wordpress.com\/wp-admin\/post.php?post=330738&action=edit","statsLink":"https:\/\/wordpress.com\/stats\/post\/330738\/wspa.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: LIN Media","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 184,550 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/mgtvwspa.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fwspa.com%2F2017%2F02%2F20%2Flocal-stylist-attend-new-york-fashion-week%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9jDEOg0AMBD8UxyAoQhHlLQYuYMT5TrZJvg8UJBVUO1rtDn4zdEk8iGNcIM/LwGJIfWSBlhQjmQfdCNInqHIf7N/dJ7vhiaFzTrIbfnSxzskc3jOxoo2kLMOR2+kVn2X9aIqiLqtmWgGpSUHy'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({flush: true});
+</script>
+<script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'85383819','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'85383819','v':'wpcom','tz':'-5','user_id':'0','post':'330738','subd':'mgtvwspa'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=85383819&v=wpcomvt&tz=-5&user_id=0&post=330738&subd=mgtvwspa&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdDNXdwSDNzY2t3TXpdMHlwa2VYWEwxYSU/eDhaOTJJQUhvamMwWit2eE9Tbz1BS3lVVmM1SD9zVT9DMHclSWE9VVctQ0p+cDNHODBlekN6JiYvP3wsfEVCVGNsSnlUdjc5PS45PTZfTm12flgrfl90VHwvbmVpTCUyc3VqJSVyYlNwbE49VThMQUh3YUF2TkJuN2c5UUIrMms0eGdsNHdvVGJvJWEzVVBlZmJpMitaYUREXy8/VXN3NVplUFF0RFlhV35oU0QsP2lnNTdiJXRZMktdYmdUU05EMTcrSkx6T2lv'}]);
+_stq.push([ 'clickTrackerInit', '85383819', '330738' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+			<!-- Google Analytics -->
+<script>
+	if ( typeof linGA !== 'undefined' && linGA.hasDefaultProperty ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		linGA.allProperties = [ linGA.defaultProperty ].concat( linGA.additionalProperties );
+		linGA.startTracking = function() {
+			jQuery.each( ga.getAll(), function( i, tracker ) {
+				name = tracker.get( 'name' );
+				ga( name + '.require', 'displayfeatures' );
+				ga( name + '.send', 'pageview' );
+				if ( linGA.is404 ) {
+					ga( name + '.send', 'event', '404', document.location.href, document.referrer );
+				}
+			});
+		};
+		linGA.trackExternal = function( e ) {
+			try {
+				jQuery.each( ga.getAll(), function( i, tracker ) {
+					ga( tracker.get( 'name' ) + '.send', 'event', 'Outbound Links', e.currentTarget.host, jQuery( this ).attr( 'href' ) );
+				});
+				// h/t https://wordpress.org/plugins/wp-google-analytics
+				if ( ! ( e.metaKey || e.ctrlKey || 1 == e.button || '_blank' == jQuery( this ).attr( 'target' ) ) ) {
+					e.preventDefault();
+					setTimeout( 'document.location = "' + jQuery( this ).attr( 'href' ) + '"', 150 );
+				}
+			} catch( err ) {}
+		};
+
+		/**
+		 * Send a GA event to all properies.
+		 *
+		 * @param  {string} category - Event category
+		 * @param  {string} action - Event action
+		 * @param  {string} label - Event label
+		 */
+		linGA.trackEvent = function( category, action, label ) {
+			try {
+				// Send event to all tracking properties.
+				jQuery.each( ga.getAll(), function( i, tracker ) {
+					ga( tracker.get( 'name' ) + '.send', 'event', category, action, label );
+				} );
+			} catch ( err ) {}
+		}
+
+		jQuery.each( linGA.allProperties, function( i, property ) {
+			ga( 'create', property, 'auto', { 'name': 't' + i } );
+		});
+		ga( linGA.startTracking );
+		jQuery( 'a:external' ).on( 'click', linGA.trackExternal );
+
+		// Track "Continue Reading" events.
+		window.addEventListener( 'lin:continueReading', function() {
+			linGA.trackEvent( 'Button', 'Tap', 'Continue Reading' );
+		}, false );
+
+		// Track "Load More Stories" events.
+		window.addEventListener( 'lin:loadMoreStories', function() {
+			linGA.trackEvent( 'Button', 'Tap', 'Load More Stories' );
+		}, false );
+	}
+</script>
+<!-- End Google Analytics -->
+
+		</div><!-- .wallpaper-image -->
+	</div><!-- .header-image -->
+</div> <!-- #content-wrapper -->
+
+</body>
+</html>

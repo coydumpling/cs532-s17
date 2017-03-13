@@ -1,0 +1,976 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	Ainge failed to make Celtics better now at NBA trade deadline
+</title><meta name="description" content="For the last few years, ever since he robbed Brooklyn in the Paul Pierce/Kevin Garnett deal, Danny Ainge has been doing the NBA improbable. He has the Celtics competitive in the present and building for the future. So why did he stop now?After weeks..." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="NBA,Boston Celtics,Danny Ainge," /> 
+<!-- Sets base URL -->
+<base href="http://www.concordmonitor.com/" />
+
+<!-- set the viewpoint -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+<!-- Begin Boostrap 3 -->
+<link href="/CMSPages/GetResource.ashx?stylesheetname=BootstrapCustom" type="text/css" rel="stylesheet"/> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/CMSScripts/Custom/bootstrapcustom/BootstrapCustom.js"></script>
+<!-- End Bootstrap 3 -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href="/CMSPages/GetResource.ashx?stylesheetname=nne-universal-structure" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?stylesheetname=branding-monitor" type="text/css" rel="stylesheet"/>
+
+<!-- Start DFP jQuery invocation script -->
+<script src="/CMSScripts/Custom/dfp/jquery.dfp.min.js"></script>
+
+<!-- End DFP jQuery invocation script -->
+
+
+
+<script src="/CMSScripts/Custom/navbar/nne-nav.js"></script>
+<link rel="icon" type="image/png" sizes="16x16" href="/App_Themes/Branding-monitor/favicon.png" />
+
+<script type="text/javascript" src="http://concordmonitor.nh.pw.newsmemory.com/include15.php?service=onstop"></script>
+
+<!-- Start Taboola -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/newspapersofnewengland-network/loader.js',
+  'tb_loader_script');
+</script>
+
+<!-- End Taboola -->
+ 
+<!-- set paywall criteria -->
+
+<script type="text/javascript" >
+      var ta_cat= "metered";
+</script>
+
+<!-- end paywall criteria --><!--begin canonical url -->
+<link rel="canonical" href="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962" />
+<!--end canonical url -->
+
+<!--begin Facebook meta tags -->
+<meta property="og:url"                content="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962" />
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="Ainge failed to make Celtics better now at NBA trade deadline" />
+<meta property="og:description"        content="For the last few years, ever since he robbed Brooklyn in the Paul Pierce/Kevin Garnett deal, Danny Ainge has been doing the NBA improbable. He has the Celtics competitive in the present and building for the future. So why did he stop now?After weeks..." /> 
+<meta property="og:image" content="http://www.concordmonitor.com/getattachment/e89f1b5f-be87-4b73-934d-b98666e47871/attachment.aspx" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Concord Monitor" />
+<meta property="fb:app_id" content="650098765059090" />
+<meta property="article:section" content="Sports/Columns" />
+<meta property="article:published_time" content="2/23/2017 11:14:36 PM" />
+<!-- end Facebook meta tags-->
+<!-- begin twitter cards -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@conmonitornews" />
+<meta name="twitter:title" content="Ainge failed to make Celtics better now at NBA trade deadline" />
+<meta name="twitter:description" content="For the last few years, ever since he robbed Brooklyn in the Paul Pierce/Kevin Garnett deal, Danny Ainge has been doing the NBA improbable. He has the Celtics competitive in the present and building for the future. So why did he stop now?After weeks..." />
+<meta name="twitter:image" content="http://www.concordmonitor.com/getattachment/e89f1b5f-be87-4b73-934d-b98666e47871/attachment.aspx" />
+<!--end twitter cards-->
+<script type="text/javascript" src="http://cmonitor.mycapture.com/mycapture/scripts/remote-1.2.asp"></script></head>
+<body class="LTR ENUS ContentBody" >
+    <form method="post" action="/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962.aspx?utm_campaign=Contact+Quiboat+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=quiboat" id="form">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMTY0MTExOTEPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCAgEPFgIeBmFjdGlvbgWsAS9JdHMtb2theS10aGF0LUFpbmdlLWRpZG50LWNyZWF0ZS1maXJld29ya3MtYnV0LWhlLXNob3VsZHZlLWRvbmUtc29tZXRoaW5nLTgyODg5NjIuYXNweD91dG1fY2FtcGFpZ249Q29udGFjdCtRdWlib2F0K0ZvcitNb3JlK1JlZmVycmVyJnV0bV9tZWRpdW09dHdpdHRlciZ1dG1fc291cmNlPXF1aWJvYXQWAgIFD2QWAmYPDxYEHghDc3NDbGFzcwUPUGFnZVBsYWNlaG9sZGVyHgRfIVNCAgJkFgJmD2QWBgIBD2QWAmYPZBYCAgIPFgweDEVuYWJsZVBhZ2luZ2geElRyYW5zZm9ybWF0aW9uTmFtZQUlTk5FLlRyYW5zZm9ybWF0aW9ucy5CcmVha2luZ19OZXdzX05ORR4dQWx0ZXJuYXRpbmdUcmFuc2Zvcm1hdGlvbk5hbWVlHhZIaWRlQ29udHJvbEZvclplcm9Sb3dzZx4MWmVyb1Jvd3NUZXh0BQ1ObyBkYXRhIGZvdW5kHgtfIUl0ZW1Db3VudGZkAgIPZBYCZg8PFgIeB1Zpc2libGVoZGQCBA9kFgJmD2QWAgICD2QWAmYPDxYEHwIFD1BhZ2VQbGFjZWhvbGRlch8DAgJkFgJmD2QWDAIDD2QWBAICD2QWAgICDxYMHwRoHwUFH05ORS5UcmFuc2Zvcm1hdGlvbnMuQnJlYWRjcnVtYnMfBmUfB2cfCAUNTm8gZGF0YSBmb3VuZB8JAgEWAmYPZBYCZg9kFgJmDxUCDlNwb3J0cy9Db2x1bW5zNFNwb3J0czxzcGFuIGNsYXNzPSdicmVhZGNydW1iX3NlcCc+ID4gPC9zcGFuPkNvbHVtbnNkAgMPZBYCAgIPFgwfBGgfBQUiTk5FLlRyYW5zZm9ybWF0aW9ucy5BcnRpY2xlSGVhZC1DTR8GZR8HZx8IBQ1ObyBkYXRhIGZvdW5kHwkCARYCZg9kFgJmD2QWAmYPFQE9QWluZ2UgZmFpbGVkIHRvIG1ha2UgQ2VsdGljcyBiZXR0ZXIgbm93IGF0IE5CQSB0cmFkZSBkZWFkbGluZWQCBQ9kFhZmD2QWAgICDxYMHwRoHwUFIU5ORS5UcmFuc2Zvcm1hdGlvbnMuRmxleHNsaWRlcl9DTR8GZR8HZx8IBQ1ObyBkYXRhIGZvdW5kHwkCAhYEZg9kFgJmD2QWAmYPFQcAZzxpbWcgYWx0PSIiIHNyYz0iL2dldGF0dGFjaG1lbnQvYTMyYjc5MzItMzY2Ny00MTc4LWJkOGItZjc1YWFlODFlNzk1L0NlbHRzRGVhZGxpbmUtQ01TUC0wMjI0MTctcGgwMiIgLz7TAUNoaWNhZ28gQnVsbHMgZ3VhcmQvZm9yd2FyZCBKaW1teSBCdXRsZXIgcmVhY3RzIGFmdGVyIGhpdHRpbmcgYSAzLXBvaW50IHNob3QgYWdhaW5zdCB0aGUgTWlsd2F1a2VlIEJ1Y2tzIGR1cmluZyB0aGUgZmlyc3QgaGFsZiBvZiBhbiBOQkEgYmFza2V0YmFsbCBnYW1lIFNhdHVyZGF5LCBEZWMuIDMxLCAyMDE2LCBpbiBDaGljYWdvLiAoQVAgUGhvdG8vTmFtIFkuIEh1aCkKTmFtIFkuIEh1aAwnTmFtIFkuIEh1aCfVASdDaGljYWdvIEJ1bGxzIGd1YXJkL2ZvcndhcmQgSmltbXkgQnV0bGVyIHJlYWN0cyBhZnRlciBoaXR0aW5nIGEgMy1wb2ludCBzaG90IGFnYWluc3QgdGhlIE1pbHdhdWtlZSBCdWNrcyBkdXJpbmcgdGhlIGZpcnN0IGhhbGYgb2YgYW4gTkJBIGJhc2tldGJhbGwgZ2FtZSBTYXR1cmRheSwgRGVjLiAzMSwgMjAxNiwgaW4gQ2hpY2Fnby4gKEFQIFBob3RvL05hbSBZLiBIdWgpJwwnTmFtIFkuIEh1aCdkAgEPZBYCZg9kFgJmDxUHAGc8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50Lzk3MDgwZTUwLTYyZjYtNGU0Ny1hODczLTM5ODRkY2NkYWNlYy9DZWx0c0RlYWRsaW5lLUNNU1AtMDIyNDE3LXBoMDMiIC8+xAFJbmRpYW5hIFBhY2VycycgUGF1bCBHZW9yZ2UgKDEzKSB0dXJucyB0b3dhcmQgdGhlIGJhc2tldCBkdXJpbmcgdGhlIGZpcnN0IHF1YXJ0ZXIgb2YgYW4gTkJBIGJhc2tldGJhbGwgZ2FtZSBhZ2FpbnN0IHRoZSBCb3N0b24gQ2VsdGljcyBpbiBCb3N0b24sIFdlZG5lc2RheSwgTm92LiAxMSwgMjAxNS4gKEFQIFBob3RvL01pY2hhZWwgRHd5ZXIpDU1pY2hhZWwgRHd5ZXIPJ01pY2hhZWwgRHd5ZXInxwEnSW5kaWFuYSBQYWNlcnNcJyBQYXVsIEdlb3JnZSAoMTMpIHR1cm5zIHRvd2FyZCB0aGUgYmFza2V0IGR1cmluZyB0aGUgZmlyc3QgcXVhcnRlciBvZiBhbiBOQkEgYmFza2V0YmFsbCBnYW1lIGFnYWluc3QgdGhlIEJvc3RvbiBDZWx0aWNzIGluIEJvc3RvbiwgV2VkbmVzZGF5LCBOb3YuIDExLCAyMDE1LiAoQVAgUGhvdG8vTWljaGFlbCBEd3llciknDydNaWNoYWVsIER3eWVyJ2QCAQ9kFgICAg8WDB8EaB8FBSdDTVMuQXJ0aWNsZS5GbGV4c2xpZGVyVGh1bWJuYWlsQ2Fyb3VzZWwfBmUfB2cfCAUNTm8gZGF0YSBmb3VuZB8JAgIWBGYPZBYCZg9kFgJmDxUCAGc8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50L2EzMmI3OTMyLTM2NjctNDE3OC1iZDhiLWY3NWFhZTgxZTc5NS9DZWx0c0RlYWRsaW5lLUNNU1AtMDIyNDE3LXBoMDIiIC8+ZAIBD2QWAmYPZBYCZg8VAgBnPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC85NzA4MGU1MC02MmY2LTRlNDctYTg3My0zOTg0ZGNjZGFjZWMvQ2VsdHNEZWFkbGluZS1DTVNQLTAyMjQxNy1waDAzIiAvPmQCAg9kFgICAg8WDB8EaB8FBSFOTkUuVHJhbnNmb3JtYXRpb25zLkFydGljbGVCeWxpbmUfBmUfB2cfCAUNTm8gZGF0YSBmb3VuZB8JAgEWAmYPZBYCZg9kFgJmDxUCNDxici8+PHNwYW4gY2xhc3M9ImJ5bGluZSI+QnkgVElNIE/igJlTVUxMSVZBTjwvc3Bhbj4rPHNwYW4gY2xhc3M9ImJ5Y3JlZGl0Ij5Nb25pdG9yIHN0YWZmPC9zcGFuPmQCAw9kFgICAg8WDB8EaB8FBSJOTkUuVHJhbnNmb3JtYXRpb25zLkFydGljbGVQdWJEYXRlHwZlHwdnHwgFDU5vIGRhdGEgZm91bmQfCQIBFgJmD2QWAmYPZBYCZg8VARtUaHVyc2RheSwgRmVicnVhcnkgMjMsIDIwMTdkAgQPZBYCZg8PFgIeBFRleHQFRjxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXRodW1icy11cCIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj5kZAIFD2QWAgICDxYMHwRoHwUFI05ORS5UcmFuc2Zvcm1hdGlvbnMuQXJ0aWNsZUtleXdvcmRzHwZlHwdnHwgFDU5vIGRhdGEgZm91bmQfCQIBZAIGDw8WAh8KaGRkAgcPZBYCAgIPFhQfCAUNTm8gZGF0YSBmb3VuZB4ORGF0YVNvdXJjZU5hbWVlHwRoHhBOZXN0ZWRDb250cm9sc0lEZR4QU2hvd0RlbGV0ZUJ1dHRvbmgfBmUeDlNob3dFZGl0QnV0dG9uaB8JAgEfBQUpTk5FLlRyYW5zZm9ybWF0aW9ucy5SZWxhdGVkQXJ0aWNsZXNJbmxpbmUfB2cWAmYPZBYCZg9kFgJmDxUCRC9Tb21lLXRlYW1zLWRpZC1iZXR0ZXItdGhhbi1vdGhlcnMtYXQtdGhlLU5CQS10cmFkZS1kZWFkbGluZS04MjkwODU4TkdyYWRpbmcgdGhlIGRlYWxzOiBBdCB0aGUgTkJBIHRyYWRlIGRlYWRsaW5lLCBhIGZsdXJyeSBvZiBzbWFsbC1wb3RhdG9lcyBtb3Zlc2QCCA8PFgIfCmhkZAIJDw8WAh8KaGRkAgoPZBYCAgIPFgwfBGgfBQUfTk5FLlRyYW5zZm9ybWF0aW9ucy5BcnRpY2xlQm9keR8GZR8HZx8IBQ1ObyBkYXRhIGZvdW5kHwkCARYCZg9kFgJmD2QWAmYPFQHuKTx3ZWJCb2R5PjxwPkZvciB0aGUgbGFzdCBmZXcgeWVhcnMsIGV2ZXIgc2luY2UgaGUgcm9iYmVkIEJyb29rbHluIGluIHRoZSBQYXVsIFBpZXJjZS9LZXZpbiBHYXJuZXR0IGRlYWwsIERhbm55IEFpbmdlIGhhcyBiZWVuIGRvaW5nIHRoZSBOQkEgaW1wcm9iYWJsZS4gSGUgaGFzIHRoZSBDZWx0aWNzIGNvbXBldGl0aXZlIGluIHRoZSBwcmVzZW50IDxlbT5hbmQ8L2VtPiBidWlsZGluZyBmb3IgdGhlIGZ1dHVyZS4gU28gd2h5IGRpZCBoZSBzdG9wIG5vdz88L3A+PHA+QWZ0ZXIgd2Vla3Mgb2YgcnVtb3JzLCBzcGVjdWxhdGlvbiBhbmQgdGh1bWIgaW5qdXJpZXMgYWNyb3NzIE5ldyBFbmdsYW5kIGZyb20gdG9vIG1hbnkgVHdpdHRlciByZWZyZXNoZXMsIEFpbmdlIGFuZCB0aGUgQ2VsdGljcyBkaWQgbm90aGluZyBhdCBUaHVyc2RheeKAmXMgTkJBIHRyYWRlIGRlYWRsaW5lLjwvcD48cD5JdOKAmXMgb2theSB0aGF0IGhlIGRpZG7igJl0IG1ha2UgdGhlIG1ham9yIGZpcmV3b3JrcyBtb3ZlIGJ5IHVubG9hZGluZyBwcml6ZWQgZHJhZnQgcGlja3MgZm9yIGJpZyBuYW1lcy4gUGF1bCBHZW9yZ2Ugb3IgSmltbXkgQnV0bGVyIHdvdWxkIGhhdmUgbG9va2VkIGdvb2QgaW4gZ3JlZW4sIGJ1dCBpZiB0aGUgcHJpY2Ugd2FzIHRvbyBoaWdoIG9yIHRoZSBsb25nLXRlcm0gZm9yZWNhc3QgZGlkbuKAmXQgbG9vayBnb29kLCBBaW5nZSBtYWRlIHRoZSB3aXNlIG1vdmUgYnkgc3RheWluZyBhd2F5IGFuZCAocHJlc3VtYWJseSkga2VlcGluZyB0aGUgcmlnaHRzIHRvIEJyb29rbHlu4oCZcyBmaXJzdC1yb3VuZCBwaWNrcyBpbiAyMDE3IGFuZCAyMDE4LjwvcD48cD5TdGlsbCwgQWluZ2Ugc2hvdWxkIGhhdmUgbWFkZSBhIHR3ZWFrIHRvIHRoaXMgeWVhcuKAmXMgdGVhbS4gSGUgc2hvdWxkIGhhdmUgYWRkZWQgYSBkdXN0aW5nIG9mIHNpemUgYW5kIHJlYm91bmRpbmcgdG8gdGhlc2UgQ2VsdGljcy4gQmlnIG1lbiB3ZXJlIGF2YWlsYWJsZSwgYW5kIGEgYmlnIG1hbiB3b3VsZCBoYXZlIGhlbHBlZCBCb3N0b24gYWdhaW5zdCB0ZWFtcyB0aGF0IGRpZCBnZXQgYmV0dGVyIGxpa2UgVG9yb250byBhbmQgV2FzaGluZ3RvbiwgYW5kIGFnYWluc3QgQ2xldmVsYW5kLCB3aGljaCByZW1haW5zIHRoZSBFYXN0IGZhdm9yaXRlIGJ1dCBsb29rcyB2dWxuZXJhYmxlIHdpdGggaW5qdXJpZXMuPC9wPjxwPklkZWFsbHksIEFpbmdlIHdvdWxkIGhhdmUgbGFuZGVkIEdlb3JnZSBvciBCdXRsZXIgYW5kIHNpZ25lZCB0aGVtIHRvIGEgbG9uZy10ZXJtIGRlYWwuIFRoYXQgd291bGQgaGF2ZSBjb21wbGV0ZWQgdGhlIOKAnHdpbiBub3figJ0gbW92ZW1lbnQgaGUgYmVnYW4gYnkgc2lnbmluZyBBbCBIb3Jmb3JkIGxhc3Qgc3VtbWVyLiBJdCBzdXJlbHkgd291bGQgaGF2ZSBjb3N0IHRoZSBDZWx0aWNzIG9uZSBvZiB0aG9zZSBCcm9va2x5biBwaWNrcywgYnV0IGF0IGxlYXN0IGluIHRoYXQgc2NlbmFyaW8gYWxsIG9mIHRoZWlyIGFzc2V0cyB3b3VsZCBoYXZlIGJlZW4gb24gdGhlIHNhbWUgdGltZWxpbmUuPC9wPjxwPkluc3RlYWQsIElzYWlhaCBUaG9tYXMgYW5kIEhvcmZvcmQsIGFuZCBwZXJoYXBzIEF2ZXJ5IEJyYWRsZXkgYW5kIEphZSBDcm93ZGVyLCB3aWxsIGJlIHBhc3QgdGhlaXIgcGVha3Mgd2hlbiB0aGUgdHdvIGZ1dHVyZSBCcm9va2x5biBwaWNrcyBhbmQgbGFzdCB5ZWFy4oCZcyBCcm9va2x5biBwaWNrLCBOby4gMyBvdmVyYWxsIEpheWxlbiBCcm93biwgcmVhY2ggdGhlaXIgcHJpbWVzLiBXaGljaCBtZWFucyBUaG9tYXMgYW5kIEhvcmZvcmQgd2lsbCBwcm9iYWJseSBub3QgYmUgcGFydCBvZiB0aGUgQ2VsdGljc+KAmSBuZXh0IHRpdGxlLiBCb3N0b27igJlzIGNoYW1waW9uc2hpcCB3aW5kb3cgaGFzIG1vdmVkIGludG8gdGhlIGZ1dHVyZS48L3A+PHA+SXTigJlzIHVuZm9ydHVuYXRlIEFpbmdlIGNvdWxkbuKAmXQgbWVzaCB0aGUgdHdvIHRpbWVsaW5lcywgYnV0IGl0IG1heSBiZSBoYXJkIHRvIGJsYW1lIGhpbSBmb3IgdGhhdC4gR2VvcmdlIHdpbGwgYmUgYSBmcmVlIGFnZW50IGluIDIwMTggYW5kIGl04oCZcyBiZWVuIHJlcG9ydGVkIHRoYXQgaGUgbG9uZ3MgdG8gcGxheSBmb3IgaGlzIGhvbWV0b3duIExvcyBBbmdlbGVzIExha2Vycy4gSWYgTGFycnkgQmlyZCBhbmQgSW5kaWFuYSB3ZXJlIGFza2luZyBhIHByZW1pdW0gcHJpY2UgZm9yIGEgb25lLXllYXIgcmVudGFsIG9uIEdlb3JnZSwgQWluZ2Ugd2FzIHdpc2UgdG8gZGVjbGluZS48L3A+PHA+QnV0bGVyIGhhcyB0d28geWVhcnMgbGVmdCBvbiBoaXMgY29udHJhY3QgYW5kIHRoZXJlIGhhdmUgYmVlbiBubyByZXBvcnRzIHRoYXQgaGXigJlzIGxvY2tlZCBpbiBvbiBhIGZ1dHVyZSB0ZWFtLiBCdXQgdGhlcmUgd2VyZSByZXBvcnRzIHRoYXQgQ2hpY2FnbyB3YXMgYXNraW5nIGEga2luZ+KAmXMgcmFuc29tIGZvciBCdXRsZXIuIFBsdXMsIGhlIG1heSBub3QgaGF2ZSBiZWVuIGVub3VnaCB0byB0cnVseSBwdXNoIHRoZSBDZWx0aWNzIHBhc3QgQ2xldmVsYW5kIOKAkyBldmVuIHdpdGggS2V2aW4gTG92ZSBvdXQg4oCTIG9yIEdvbGRlbiBTdGF0ZSwgc28gaXQgd291bGRu4oCZdCBtYWtlIHNlbnNlIHRvIG1vcnRnYWdlIHRoZSBmdXR1cmUgYnJpbmdpbmcgQnV0bGVyIHRvIEJvc3Rvbi48L3A+PHA+QWluZ2UgaGFzIGJlZW4gYWJsZSB0byBrZWVwIGJ1aWxkaW5nIGZvciB0aGUgZnV0dXJlIOKAkyBoYWxmIG9mIGhpcyBOQkEgaW1wcm9iYWJsZSBhY3Qg4oCTIGJ5IG5vdCBmYWxsaW5nIGZvciBnZXQtcmljaC1xdWljayB0cmFkZSBzY2Ftcy4gSGUgd2FzIG5vYm9keeKAmXMgc3Vja2VyIFRodXJzZGF5IGFuZCBoZeKAmXMgc3RpbGwgaG9sZGluZyB0aGUgcXVlZW7igJlzIGpld2VscyBpbiBoaXMgaG9yZGUuPC9wPjxwPllldCBBaW5nZSBoYXMgcHVsbGVkIG9mZiB0aGUgb3RoZXIgaGFsZiBvZiB0aGUgTkJBIGltcHJvYmFibGUg4oCTIGJlaW5nIGNvbXBldGl0aXZlIG5vdyDigJMgYnkgcmVtYWluaW5nIGFjdGl2ZSBhbmQgYWdncmVzc2l2ZSBpbiB0aGUgdHJhZGUgbWFya2V0LiBUaGF04oCZcyBob3cgaGUgYnJvdWdodCBpbiBndXlzIGxpa2UgVGhvbWFzIGFuZCBDcm93ZGVyLiBBbmQgdGhhdOKAmXMgd2hhdCBoZSBzaG91bGQgaGF2ZSBkb25lIG9uIFRodXJzZGF5LjwvcD48cD5UaGUgQ2VsdGljcyBoYXZlIGEgZ2xhcmluZyByZWJvdW5kaW5nIG5lZWQgKHRoZXkgYXJlIHRpZWQgZm9yIDI3dGggaW4gdGhlIGxlYWd1ZSBhdCA0MS4yIHJlYm91bmRzIHBlciBnYW1lKSBhbmQgdGhlcmUgd2VyZSBtdWx0aXBsZSByZWJvdW5kZXJzIG1vdmVkIGF0IHRoZSBkZWFkbGluZSDigJMgQW5kcmV3IEJvZ3V0ICg4LjkgcmVib3VuZHMgcGVyIGdhbWUgZm9yIGhpcyBjYXJlZXIpLCBOZXJsZW5zIE5vZWwgKDcuNikgYW5kIFAuSi4gVHVja2VyICg1LjcpLjwvcD48cD5Ob2VsIGFuZCBCb2d1dCB3ZXJlIHRyYWRlZCBmb3IgZWFjaCBvdGhlciwgYW5kIHRoZXJlIGFyZSByZXBvcnRzIHRoYXQgUGhpbGFkZWxwaGlhIHdpbGwgYnV5IG91dCBCb2d1dCwgc28gaGUgY291bGQgd2luZCB1cCBpbiBCb3N0b24gYW55d2F5LiBCdXQgdGhhdCBhbHNvIG1lYW5zIHRoZSByZWFsIGNhcnJvdHMgRGFsbGFzIHVzZWQgdG8gbHVyZSBOb2VsIGF3YXkgZnJvbSB0aGUgNzZlcnMgd2FzIGEgZmlyc3Qtcm91bmQgcGljayBpbiAyMDE3IGFuZCBzaG9vdGluZyBndWFyZCBKdXN0aW4gQW5kZXJzb24uIFRoZSBwaWNrIGlzIHRvcC0xOCBwcm90ZWN0ZWQsIGFuZCBpZiBpdCBsYW5kcyBpbiB0aGUgdG9wIDE4IHRoaXMgeWVhciwgUGhpbGx5IGdldHMgdHdvIHNlY29uZC1yb3VuZCBwaWNrcyBpbnN0ZWFkLjwvcD48cD5TbyB0d28gc2Vjb25kLXJvdW5kIHBpY2tzIGFuZCBhIHlvdW5nIHNob290aW5nIGd1YXJkIHdhcyB0aGUgcHJpY2UgZm9yIE5vZWwuIEFpbmdlIGNvdWxkIGhhdmUgcGFpZCB0aGF0IGFuZCBiYXJlbHkgZGVudGVkIGhpcyB0cmVhc3VyZSBjaGVzdC48L3A+PHA+VGhlIENlbHRpY3MgaGF2ZSB0aHJlZSBzZWNvbmQtcm91bmQgcGlja3MgaW4gdGhpcyBkcmFmdCBhbG9uZS4gQW5kIHlvdW5nIHNob290aW5nIGd1YXJkcz8gVGhlIENlbHRpY3MgYWxyZWFkeSByZWxlYXNlZCBvbmUgb2YgdGhvc2UgdGhpcyB5ZWFyIChSLkouIEh1bnRlcikgYW5kIHRoZXkgc3RpbGwgaGF2ZSBhIGxvZ2phbSBvZiB5b3VuZyBzaG9vdGluZyBndWFyZHMgd2l0aCBUZXJyeSBSb3ppZXIsIE1hcmN1cyBTbWFydCBhbmQgSmFtZXMgWW91bmcsIG5vdCB0byBtZW50aW9uIHRoZSAyNi15ZWFyLW9sZCBCcmFkbGV5LjwvcD48cD5BbmQgd2hhdCB3b3VsZCBpdCBoYXZlIHRha2VuIHRvIGdldCBCb2d1dCBmcm9tIERhbGxhcz8gVGhlIENlbHRpY3MgZG9u4oCZdCBoYXZlIGEgY29tbW9kaXR5IGxpa2UgTm9lbCwgYnV0IHRoZXkgd291bGRu4oCZdCBoYXZlIGJlZW4gYXNraW5nIGZvciBBbmRlcnNvbiBvciBhIHBpY2sgaW4gYWRkaXRpb24gdG8gQm9ndXQuIE1heWJlIEtlbGx5IE9seW55ayB3b3VsZCBoYXZlIGJlZW4gZW5vdWdoLiBPciBBbnRlIFppemljLCBvbmUgb2YgbGFzdCB5ZWFy4oCZcyB0aHJlZSBmaXJzdC1yb3VuZCBwaWNrcyB3aG8gaXMgY3VycmVudGx5IHN0YXNoZWQgb3ZlcnNlYXMuPC9wPjxwPlR1Y2tlciB3b3VsZG7igJl0IGhhdmUgYmVlbiBhbiBpZGVhbCBmaXQg4oCTIGhl4oCZcyByZWFsbHkgbW9yZSBvZiBhIG11c2NsZWQgc21hbGwgZm9yd2FyZCDigJMgYnV0IGhlIHdvdWxkIGhhdmUgaGVscGVkIHRoZSByZWJvdW5kaW5nIGRlZmljaWVuY2llcyBhbmQgaGUgd2FzIGFmZm9yZGFibGUuIFRvcm9udG8gc2hpcHBlZCBvbGQgZnJpZW5kIEphcmVkIFN1bGxpbmdlciBhbmQgdHdvIHNlY29uZC1yb3VuZCBwaWNrcyB0byBQaG9lbml4IGZvciBUdWNrZXIuIFdlIGtub3cgQm9zdG9uIGhhcyB0aGUgcGlja3MsIGFuZCB3ZSBrbm93IHRoYXQgT2x5bnlrIGFuZCBTdWxsaW5nZXIgYXJlIGNvbXBhcmFibGUuIEl0IGNvdWxkIGhhdmUgYmVlbiBkb25lLjwvcD48cD5Ob2VsLCBCb2d1dCBvciBUdWNrZXIgd2VyZW7igJl0IGdvaW5nIHRvIHR1cm4gdGhlIENlbHRpY3MgaW50byBhIHRydWUgdGl0bGUgY29udGVuZGVyLCBidXQgdGhleSB3b3VsZCBoYXZlIGhlbHBlZCB0aGlzIHllYXLigJlzIHRlYW0gd2l0aG91dCBodXJ0aW5nIHRoZSBmdXR1cmUuIEFpbmdlIGhhcyB0dXJuZWQgdGhhdCB0cmljayBpbiB0aGUgcGFzdCwgdG9vIGJhZCBoZSBjb3VsZG7igJl0IGRvIGl0IGFnYWluIFRodXJzZGF5LjwvcD48cCAvPjxwPihUaW0gT+KAmVN1bGxpdmFuIGNhbiBiZSByZWFjaGVkIGF0IDM2OS0zMzQxIG9yIGF0IHRvc3VsbGl2YW5AY21vbml0b3IuY29tIG9yIG9uIFR3aXR0ZXIgQHRpbW9zdWxsaXZhbjIwLik8L3A+PC93ZWJCb2R5PmQCBw9kFgICAQ9kFgICAg8WDB8EaB8FBSROTkUuVHJhbnNmb3JtYXRpb25zLkFydGljbGVUZWFzZXJCb3gfBmUfB2cfCAUNTm8gZGF0YSBmb3VuZB8JAgQWCGYPZBYCZg9kFgJmDxUGF0FydHMtTGlmZS9FbnRlcnRhaW5tZW50F0FydHMtTGlmZS9FbnRlcnRhaW5tZW50US9KdW5pb3ItU2VydmljZS1MZWFndWUtb2YtQ29uY29yZC1wcmVwYXJpbmctZm9yLWFubnVhbC10aGVhdGVyLXByb2R1Y3Rpb24tODUwNTE0NWk8aW1nIGFsdD0nJyBzcmM9Jy9nZXRhdHRhY2htZW50L2I0MmY3NTc3LWQ4ZGQtNDg0Ny05MTcyLTQzZGM2ZjZiYzliZC9KdW5pb3ItU2VydmljZS1MZWFndWUtb2YtQ29uY29yZCcgLz5RL0p1bmlvci1TZXJ2aWNlLUxlYWd1ZS1vZi1Db25jb3JkLXByZXBhcmluZy1mb3ItYW5udWFsLXRoZWF0ZXItcHJvZHVjdGlvbi04NTA1MTQ1Lkp1bmlvciBTZXJ2aWNlIExlYWd1ZSBob2xkcyBwbGF5IGFzIGZ1bmRyYWlzZXJkAgEPZBYCZg9kFgJmDxUGDkFydHMtTGlmZS9Gb29kDkFydHMtTGlmZS9Gb29kGi9TYXAtbG92aW5nLWNhdHRsZS04NTc2NDc5WjxpbWcgYWx0PScnIHNyYz0nL2dldGF0dGFjaG1lbnQvZTBhM2JiOGQtOGQzYy00N2QyLThlODUtZGVkM2M3MTRkYWRjL1NhcC1sb3ZpbmctY2F0dGxlJyAvPhovU2FwLWxvdmluZy1jYXR0bGUtODU3NjQ3OQ9DYXR0bGUgbG92ZSBzYXBkAgIPZBYCZg9kFgJmDxUGD09waW5pb24vQ29sdW1ucw9PcGluaW9uL0NvbHVtbnNZL1doYXQtYS10aGlyZC1ncmFkZS1nZW9ncmFwaHktbGVzc29uLXRhdWdodC1tZS1hYm91dC1hLXdvbWFuLXMtcGxhY2UtaW4tdGhlLXdvcmxkLTg1NzU4MDZpPGltZyBhbHQ9Jycgc3JjPScvZ2V0YXR0YWNobWVudC82ZGI5MWExMS1lM2Y4LTRiYTEtOWNmNy04NjBiMDBhM2JkZjAvV2hhdC1hLXRoaXJkLWdyYWRlLWdlb2dyYXBoeS1sZXMnIC8+WS9XaGF0LWEtdGhpcmQtZ3JhZGUtZ2VvZ3JhcGh5LWxlc3Nvbi10YXVnaHQtbWUtYWJvdXQtYS13b21hbi1zLXBsYWNlLWluLXRoZS13b3JsZC04NTc1ODA2UldoYXQgYSB0aGlyZC1ncmFkZSBnZW9ncmFwaHkgbGVzc29uIHRhdWdodCBtZSBhYm91dCBhIHdvbWFu4oCZcyBwbGFjZSBpbiB0aGUgd29ybGRkAgMPZBYCZg9kFgJmDxUGDk5ld3MvQ29tbXVuaXR5Dk5ld3MvQ29tbXVuaXR5GS9lbmdhZ2UtYW5kLXBob3RvLTg1NTMzNDFZPGltZyBhbHQ9Jycgc3JjPScvZ2V0YXR0YWNobWVudC9iMWM5MDQ4ZC00MGE0LTRkNzItYjZlZC01NDhlZTFlNGMyNWMvZW5nYWdlLWFuZC1waG90bycgLz4ZL2VuZ2FnZS1hbmQtcGhvdG8tODU1MzM0MSdDcmlzaXRlbGxvLCBQYXJzb25zIGFubm91bmNlIGVuZ2FnZW1lbnRkAgsPZBYCZg8PFgIfCmhkFgICBA8PFgIfCwWYATxzY3JpcHQ+dG90YWxfcGFnZXM9MDtwYXJhbV9uYW1lPSdQYWdlJzt1c2VfdXJsX3VwZGF0ZSA9J1RydWUnOyQoJy5QYWdlckNvbnRyb2wnKS5yZW1vdmUoKTtsb2FkZXJfbWV0aG9kID0gJyc7aGVhZGVyX2hlaWdodD01MDtpbml0UGFnaW5hdG9yKCk7PC9zY3JpcHQ+ZGQCDw9kFgJmD2QWAgICDxYMHwRoHwUFGU5ORS5UcmFuc2Zvcm1hdGlvbnMuTGlrZXMfBmUfB2cfCAUNTm8gZGF0YSBmb3VuZB8JAgUWCmYPZBYCZg9kFgJmDxUED0dONF9BUlRfODUwNDIxMwpOZXdzL1N0YXRlPy9GaXNoLWFuZC1HYW1lLXNlZXMtaXQtYWxsLWZyb20tZnVubnktdG8tcmVhbGx5LXNlcmlvdXMtODUwNDIxMzxGcm9tIHRyYWdlZHkgdG8gaHVtb3IsIOKAmE5vcnRoIFdvb2RzIExhd+KAmSBjb3ZlcnMgaXQgYWxswqBkAgEPZBYCZg9kFgJmDxUED0dONF9BUlRfODI2NDQ5NA1OZXdzL0J1c2luZXNzOi9GcmFua2xpbi1OSC1kb3dudG93bi1wcm9qZWN0LXdvcmtzLWxvY2FsLXN0dWRlbnRzLTgyNjQ0OTRAU2Nob29sLWRvd250b3duIHBhcnRuZXJzaGlwcyBhcmUgYSB3aW4gZm9yIGV2ZXJ5Ym9keSBpbiBGcmFua2xpbmQCAg9kFgJmD2QWAmYPFQQPR040X0FSVF84MzU3MDQyCk5ld3MvU3RhdGUsL3NraWluZy1kZWF0aHMtaGlzdG9yeS1uZXctaGFtcHNocmllLTgzNTcwNDI5V2h5IGRvIG1vc3QgTmV3IEhhbXBzaGlyZSBza2kgZmF0YWxpdGllcyBoYXBwZW4gaW4gTWFyY2g/ZAIDD2QWAmYPZBYCZg8VBA9HTjRfQVJUXzgzNTQxNTIUUG9saXRpY3MvU3RhdGUtSG91c2VKL01hdWRlLUZlcmd1c29uLWRpZWQtdHJhZ2ljYWxseS1idXQtbm90LWJlZm9yZS1tYWtpbmctYS1kaWZmZXJlbmNlLTgzNTQxNTI/RHVja2xlcjogRm9yIHRoZXNlIHRocmVlIHdvbWVuLCBhIHdvbWFu4oCZcyB3b3JrIHdhcyBuZXZlciBkb25lZAIED2QWAmYPZBYCZg8VBA9HTjRfQVJUXzgyMTYwNjcKTmV3cy9Mb2NhbDovQm9zY2F3ZW4tdGhlcmFwZXV0aWMtcmlkaW5nLXN0YWJsZS1sb29rcy1uZXctaG9tZS04MjE2MDY3OEJvc2Nhd2VuIHRoZXJhcGV1dGljIHJpZGluZyBwcm9ncmFtIGxvb2tpbmcgZm9yIG5ldyBob21lZAIRD2QWAmYPZBYCAgIPFgwfBGgfBQUZTk5FLlRyYW5zZm9ybWF0aW9ucy5MaWtlcx8GZR8HZx8IBQ1ObyBkYXRhIGZvdW5kHwkCBRYKZg9kFgJmD2QWAmYPFQQPR040X0FSVF84NTMxMzU0Ek9waW5pb24vRWRpdG9yaWFscygvUmVwdWJsaWNhbi1hdHRhY2stb24tdGhlLXBsYW5ldC04NTMxMzU0LUVkaXRvcmlhbDogR09QIG93bnMgVHJ1bXAgYXR0YWNrIG9uIHRoZSBFYXJ0aGQCAQ9kFgJmD2QWAmYPFQQPR040X0FSVF84Mzk4ODYyD09waW5pb24vQ29sdW1ucx4vVW5kZXJzdGFuZGluZy1mYXNjaXNtLTgzOTg4NjIuTXkgVHVybjogQ2FsbGluZyBsZWZ0IOKAmGZhc2Npc3Rz4oCZIGlzIGFic3VyZGQCAg9kFgJmD2QWAmYPFQQPR040X0FSVF84MzAwMjAwD09waW5pb24vQ29sdW1ucyIvVHJ1bXAtYW5kLXBpbmVhcHBsZS1waXp6YS04MzAwMjAwJkthdHkgQnVybnM6IFBpbmVhcHBsZSBwaXp6YSBwcmVzaWRlbmN5ZAIDD2QWAmYPZBYCZg8VBA9HTjRfQVJUXzg0NzQ5OTMKTmV3cy9Mb2NhbDwvR3VuLXJpZ2h0cy1hY3RpdmlzdHMtY2VsZWJyYXRlLWNvbnN0aXR1dGlvbmFsLWNhcnJ5LTg0NzQ5OTMzR3VuIHJpZ2h0cyBhY3RpdmlzdHMgY2VsZWJyYXRlIGNvbnN0aXR1dGlvbmFsIGNhcnJ5ZAIED2QWAmYPZBYCZg8VBA9HTjRfQVJUXzg0NDY2NDgPT3Bpbmlvbi9Db2x1bW5zLS9FbmRhbmdlcmluZy13b21lbi1hbmQtY2hpbGRyZW4taW4tTkgtODQ0NjY0ODdSZXAuIEpSIEhvZWxsOiBIQiA0NzggaXMgYSBkYW5nZXIgdG8gd29tZW4gYW5kIGNoaWxkcmVuZGQhKXZLuy85qZRD7FcYkLxvH6VkQnhAU3TLFSw1MuQHaQ==" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=_7aT67GwraOIyoyLruh_TIplzmq1FFGVN34_of-m6vqHJdNnsplTd9CGUJz-9Z-ZCSPOryoTpNuwATZzPbijoQZlD5AlPCfuhRYVy3depIyRqGVctq53PKvKgx9jqeDf0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<script>
+  dataLayer = [];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MC7GSF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MC7GSF');</script>
+<!-- End Google Tag Manager -->
+<!-- Fixed navbar -->
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<div class="navbar-left-area">
+					<button type="button" class="navbar-toggle collapsed hamburger-large toggle-panel"  aria-expanded="false" aria-controls="navbar" onclick="openNav()">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+                       <div class="hamburgermenu-label">MENU</div>
+					</button>
+					<a class="navbar-brand" href="/">
+						<img alt="Concord Monitor Logo" src="/App_Themes/ConcordMonitor/logos/CM-logo.png" class="header-image img-responsive" />
+					</a>
+				</div>
+				<div class="navbar-right-area">
+					<ul class="navbar-list">
+						<li>
+							<a href="/Reader-Services/Subscribe" id="subscribe-link-main">Subscribe</a>
+						</li>
+						<li>
+							<a onclick="ta_account();" id="ta_account_button2">Login</a> <a href="/Reader-Services/Subscriber-FAQ" target="_blank" class="faq-link-main"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a>
+						</li>
+						<li>
+							<a onclick="ta_openEedition(); return false;" id="eedition-link-main">eEdition</a>
+						</li>
+                        <li>
+							<a href="http://classifieds.concordmonitor.com/" id="ads-link-main" target="_blank">Ads</a>
+						</li>
+						<a href="/search" id="search-link-main"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+					</ul>
+
+				</div>
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="col-md-12 secondary-nav">
+				<ul class="nav navbar-nav secondary-nav-content">
+					<li class="hamburger-small">
+						<button type="button" class="navbar-toggle collapsed" onclick="openNav()">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar hamburger-small-bar"></span>
+						<span class="icon-bar hamburger-small-bar"></span>
+						<span class="icon-bar hamburger-small-bar"></span>
+					</button>
+					</li>
+					<li CLASS="logo-small">
+						<a href="http://www.concordmonitor.com" alt="Concord Monitor Logo" class="logosmalllink"><img src="/App_Themes/ConcordMonitor/logos/CM-logo-small.png" id="cm_logo_small" /></a>
+					</li>
+					<li CLASS="header-date">
+						<a href="#">Sat March 11 2017</a>
+					</li>
+
+					<li class="news-nav">
+						<a href="/News/">NEWS</a>
+					</li>
+
+					<li class="sports-nav">
+						<a href="/Sports/">SPORTS</a>
+					</li>
+
+					<li class="obituaries-nav">
+						<a href="http://www.legacy.com/obituaries/concordmonitor/">OBITUARIES</a>
+					</li>
+
+					<li class="opinion-nav">
+						<a href="/Opinion/">OPINION</a>
+					</li>
+                  
+                  	<li class="politics-nav">
+						<a href="/Politics/">POLITICS</a>
+					</li>
+
+					<li class="arts-nav">
+						<a href="/Arts-Life/">ARTS & LIFE</a>
+					</li>
+
+					<ul class="navbar-list secondary-nav-right">
+						<li>
+							<a href="/Reader-Services/Subscribe" id="subscribe-link-sub">Subscribe</a>
+						</li>
+						<li id="login-link-sub">
+							<a onclick="ta_account();" id="ta_account_button">Login</a> <a href="/Reader-Services/Subscriber-FAQ" target="_blank" class="faq-link-main"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a>
+						</li>
+						<li>
+							<a onclick="ta_openEedition(); return false;" id="eedition-link-sub">eEdition</a>
+						</li>
+                      <li>
+							<a href="http://classifieds.concordmonitor.com/" id="ads-link-sub">Ads</a>
+						</li>
+						<a href="/search" id="search-link-main"><span class="glyphicon glyphicon-search glyphicon-search-small" aria-hidden="true"></span></a>
+					</ul>
+					<div id="weather" class="hidden-xs col-sm-2 col-md-2  pull-right">
+                       <a href="/News/Weather"><ul  class="list-unstyled list-inline pull-right weatherlist">
+   <li><img src="/App_Themes/nne-universal-structure/weathericons/cloudy.png" class="weathericon" alt="cloudy"/></li>
+  <li class="weathertemp">10.2°</li>
+
+  </ul></a>
+                  </div>	
+				</ul>
+                <div class="breaking_news">
+</div>
+			</div>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse">
+          
+		</div>
+		<!--/.nav-collapse -->
+	</nav>
+<div id="sidenav" class="sidenav">
+	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a><ul class="nav navbar-nav mainnav">
+
+	<li><a class="navitem" href="/Home">Home</a></li>
+
+    <li><a class="navitem" href="http://concordmonitor.nh.newsmemory.com/" target="_blank">E-Edition</a></li>
+
+    <li><a class="navitem" href="/Search">Search</a></li>
+
+	<li><a class="navitem" data-target="#newssub" data-toggle="collapse" href="#">News <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="newssub">
+		<li><a class="navitem" href="/News">News</a></li>
+        <li><a class="navitem" href="/News/Local">Local</a></li>
+        <li><a class="navitem" href="/News/State">State</a></li>
+		<li><a class="navitem" href="/News/World">World</a></li>
+		<li><a class="navitem" href="/News/Police-Fire">Police/Fire</a></li>
+		<li><a class="navitem" href="/News/Business">Business</a></li>
+		<li><a class="navitem" href="/News/Science">Science</a></li>
+		<li><a class="navitem" href="/News/Town-By-Town">Town By Town</a></li>
+		<li><a class="navitem" href="/Reader-Services/Contribute/Send-a-News-Tip">Share A News Tip</a></li>
+	</ul>
+	</li>
+	
+	<li class="collapsed" data-target="#sportssub" data-toggle="collapse"><a class="navitem" href="#">Sports <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="sportssub">
+		<li><a class="navitem" href="/Sports">Sports</a></li>
+        <li><a class="navitem" href="/Sports/High-School">High School</a></li>
+      	<li><a class="navitem" href="/Sports/Professional">Professional</a></li>
+		<li><a class="navitem" href="/Sports/College">College</a></li>
+		<li><a class="navitem" href="/Sports/Columns">Columns</a></li>
+		<li><a class="navitem" href="/Sports/Send-Scores">Send Scores</a></li>
+	</ul>
+	</li>
+
+	<li class="collapsed" data-target="#obituariessub" data-toggle="collapse"><a class="navitem" href="#">Obituaries <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+		<ul class="sublevel sub-menu collapse" id="obituariessub">
+		<li><a class="navitem" href="http://www.legacy.com/obituaries/concordmonitor/" target="_blank">Obituaries</a></li>
+		<li><a class="navitem" href="/Reader-Services/Contribute/Submit-An-Obituary" target="_blank">Submit an Obituary</a></li>
+		</ul>
+	</li>
+
+
+	<li class="collapsed" data-target="#opinionsub" data-toggle="collapse"><a class="navitem" href="#">Opinion <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="opinionsub">
+		<li><a class="navitem" href="/Opinion">Opinion</a></li>
+		<li><a class="navitem" href="/Opinion/Columns">Columns</a></li>
+      <li><a class="navitem" href="/Opinion/Editorials">Editorials</a></li>
+		<li><a class="navitem" href="/Opinion/Letters">Letters</a></li>
+		<li><a class="navitem" href="/Opinion/Submit-a-Letter">Submit a Letter</a></li>
+		<li><a class="navitem" href="/Opinion/Cartoons">Cartoons</a></li>
+	</ul>
+	</li>
+
+
+	<li class="collapsed" data-target="#artssub" data-toggle="collapse"><a class="navitem" href="#">Arts/Life <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="artssub">
+		<li><a class="navitem" href="/Arts-Life">Arts/Life</a></li>
+		<li><a class="navitem" href="/Arts-Life/Books">Books</a></li>
+		<li><a class="navitem" href="/Arts-Life/Calendar/" target="_blank">Calendar</a></li>
+		<li><a class="navitem" href="/Arts-Life/TV-Listings">TV Listings</a></li>
+		<li><a class="navitem" href="/Arts-Life/Entertainment">Entertainment</a></li>
+		<li><a class="navitem" href="/Arts-Life/Food">Food</a></li>
+		<li><a class="navitem" href="/Arts-Life/Outdoors">Outdoors</a></li>
+		<li><a class="navitem" href="/Arts-Life/Home-Garden">Home/Garden</a></li>
+		<li><a class="navitem" href="/Arts-Life/Health">Health</a></li>
+		<li><a class="navitem" href="/Arts-Life/Milestones">Milestones</a></li>
+	</ul>
+	</li>
+
+	<li class="collapsed" data-target="#politicssub" data-toggle="collapse"><a class="navitem" href="#">Politics <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="politicssub">
+		<li><a class="navitem" href="/Politics">Politics</a></li>
+		<li><a class="navitem" href="/Politics/State-House">State House</a></li>
+		<li><a class="navitem" href="/Politics/Federal">Federal</a></li>
+		<li><a class="navitem" href="/Politics/Elections">Elections</a></li>
+		<li><a class="navitem" href="/Politics/Podcast">Podcast</a></li>
+	</ul>
+	</li>
+
+
+	<li class="collapsed" data-target="#mediasub" data-toggle="collapse"><a class="navitem" href="#">Multi Media <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="mediasub">
+	<li><a class="navitem" href="/Multi-Media/Photos">Photos</a></li>
+	<li><a class="navitem" href="https://www.youtube.com/user/ConcordMonitorOnline" target="_blank">Videos</a></li>
+	<li><a class="navitem" href="http://cmonitor.mycapture.com/mycapture/index.asp" target="_blank">Photo Reprints</a></li>
+	<li><a class="navitem" href="/Reader-Services/Contribute/Send-a-Photo">Submit a photo</a></li>	
+	</ul>
+	</li>
+
+	<li><a class="navitem" data-target="#classifiedssub" data-toggle="collapse" href="#">Classifieds <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+	<ul class="sublevel sub-menu collapse" id="classifiedssub">
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/" target="_blank">All Classifieds</a></li>
+		<li><a class="navitem" href="http://jobs.concordmonitor.com/" target="_blank">Jobs</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/automotive/search" target="_blank">Autos</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/real-estate-sales/search" target="_blank">Real Estate Sales</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/real-estate-rentals/search" target="_blank">Real Estate Rentals</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/merchandise/search" target="_blank">Merchandise</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/corner-cupboard/search" target="_blank">Corner Cupboard</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/pets/search" target="_blank">Animals</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/legals/search" target="_blank">Announcements</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/services-general/search">Services</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/services-legals-financial/search/" target="_blank">Financial/Business Services</a></li>
+		<li><a class="navitem" href="http://classifieds.concordmonitor.com/nh/legals/search">Public Notices/Legals</a></li>
+		<li><a class="navitem" href="http://concordmonitor.adperfect.com/" target="_blank">Place an ad</a></li>
+		<li><a class="navitem" href="http://deals.concordmonitor.com" target="_blank">Daily Deals</a></li>
+		<li><a class="navitem" href="http://local.concordmonitor.com/" target="_blank">Business Directory</a></li>
+	</ul>
+	</li>
+
+	<li><a class="navitem" target="_blank" href="http://jobs.concordmonitor.com">Jobs</a></li>
+
+	<li><a class="navitem" href="/Reader-Services/Advertise">Advertise</a></li>
+
+	<li class="collapsed" data-target="#readersub" data-toggle="collapse"><a class="navitem" href="#">Reader Services <span class="glyphicon glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
+	<li>
+	<ul class="sublevel sub-menu collapse" id="readersub">
+		<li><a class="navitem" href="/Reader-Services">Reader Services</a></li>
+		<li><a class="navitem" href="/Reader-Services/Contact-Us">Contact Us</a></li>
+		<li><a class="navitem" href="/Reader-Services/FAQ">FAQ</a></li>
+        <li><a class="navitem" href="/Reader-Services/Subscribe">Subscribe</a></li>
+		<li><a class="navitem" href="http://store.concordmonitor.com/products/pay-my-bill">Pay My Bill</a></li>
+		<li><a class="navitem" href="https://2.dat-e-baseonline.com/front/deb.asp?Action=reg&zx=425">Newsletter Signups</a></li>
+		<li><a class="navitem" href="/Reader-Services/Archive">Archive</a></li>
+		<li><a class="navitem" href="/Reader-Services/Advertise">Advertise</a></li>
+		<li><a class="navitem" href="http://www.conmon.com/nie/index.htm">Newspaper in Education</a></li>
+	</ul>
+	</li>
+</ul><script>
+  /* Set the width of the side navigation to 250px */
+function openNav() {
+    document.getElementById("sidenav").style.width = "300px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+    document.getElementById("sidenav").style.width = "0";
+}
+  </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+( function( $ ) {
+   $( 'a[href="#"]' ).click( function(e) {
+      e.preventDefault();
+   } );
+} )( jQuery );
+/* ]]> */
+</script></div>	
+<div class="content_main">
+
+
+<div class="container">
+     <div class="row">
+         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+             <div class="ad_banner"><div class="adunit 728x90 320x50" id="V2-Article-728x90-Top" data-dimensions="728x90,320x50" data-size-mapping="nne-default-mapping" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div></div>
+             <div class="head-content">
+<h5 class="breadcrumbs"><a href="/Sports/Columns/">Sports<span class='breadcrumb_sep'> > </span>Columns</a></h5>
+<h1 id="headline">Ainge failed to make Celtics better now at NBA trade deadline</h1>
+
+</div>
+             <div class="article-content"><div id="slider" class="flexslider">
+  <ul class="slides">
+
+<li><img alt="" src="/getattachment/a32b7932-3667-4178-bd8b-f75aae81e795/CeltsDeadline-CMSP-022417-ph02" />
+<p class="flex-caption">
+<span class="photocaption">Chicago Bulls guard/forward Jimmy Butler reacts after hitting a 3-point shot against the Milwaukee Bucks during the first half of an NBA basketball game Saturday, Dec. 31, 2016, in Chicago. (AP Photo/Nam Y. Huh)</span> <span class="photocredit">Nam Y. Huh</span>
+<script type="text/javascript">
+var currentLocation = window.location;
+var currentheadline = document.getElementById("headline").innerText;  
+var objLink = new myC_Remote.BuyLink();
+var photocredit = "'Nam Y. Huh' 'Chicago Bulls guard/forward Jimmy Butler reacts after hitting a 3-point shot against the Milwaukee Bucks during the first half of an NBA basketball game Saturday, Dec. 31, 2016, in Chicago. (AP Photo/Nam Y. Huh)'";
+var photocredit = photocredit.toUpperCase(); 
+var sellablestring = "MONITOR STAFF";
+if (photocredit.indexOf(sellablestring) > -1) {
+objLink.LinkContent = " &raquo; Buy this Image";
+objLink.IsAboveImage = false;
+objLink.LinkClass = "mycapturelink";
+objLink.LinkTarget = "_blank";
+objLink.Credit = "'Nam Y. Huh'";
+
+objLink.PageTitle = currentheadline;
+objLink.BackText = "Go back to the Concord Monitor";
+objLink.Notes = "From this page " + currentLocation;  
+objLink.Render();
+}  
+</script>
+  </p>
+</li>
+<li><img alt="" src="/getattachment/97080e50-62f6-4e47-a873-3984dccdacec/CeltsDeadline-CMSP-022417-ph03" />
+<p class="flex-caption">
+<span class="photocaption">Indiana Pacers' Paul George (13) turns toward the basket during the first quarter of an NBA basketball game against the Boston Celtics in Boston, Wednesday, Nov. 11, 2015. (AP Photo/Michael Dwyer)</span> <span class="photocredit">Michael Dwyer</span>
+<script type="text/javascript">
+var currentLocation = window.location;
+var currentheadline = document.getElementById("headline").innerText;  
+var objLink = new myC_Remote.BuyLink();
+var photocredit = "'Michael Dwyer' 'Indiana Pacers\' Paul George (13) turns toward the basket during the first quarter of an NBA basketball game against the Boston Celtics in Boston, Wednesday, Nov. 11, 2015. (AP Photo/Michael Dwyer)'";
+var photocredit = photocredit.toUpperCase(); 
+var sellablestring = "MONITOR STAFF";
+if (photocredit.indexOf(sellablestring) > -1) {
+objLink.LinkContent = " &raquo; Buy this Image";
+objLink.IsAboveImage = false;
+objLink.LinkClass = "mycapturelink";
+objLink.LinkTarget = "_blank";
+objLink.Credit = "'Michael Dwyer'";
+
+objLink.PageTitle = currentheadline;
+objLink.BackText = "Go back to the Concord Monitor";
+objLink.Notes = "From this page " + currentLocation;  
+objLink.Render();
+}  
+</script>
+  </p>
+</li></ul>
+</div><div id="carousel" class="flexslider">
+  <ul class="slides" id="navthumb">
+
+<li><img alt="" src="/getattachment/a32b7932-3667-4178-bd8b-f75aae81e795/CeltsDeadline-CMSP-022417-ph02" /></li>
+<li><img alt="" src="/getattachment/97080e50-62f6-4e47-a873-3984dccdacec/CeltsDeadline-CMSP-022417-ph03" /></li></ul>
+</div>
+<script type="text/javascript">
+var thumblist = document.getElementById("navthumb").getElementsByTagName("li");
+var thumbcount = thumblist.length;
+if (thumbcount < 2) {
+  document.getElementById('carousel').style.display = 'none';
+}
+</script>
+<br/><span class="byline">By TIM O’SULLIVAN</span><br/>
+<span class="bycredit">Monitor staff</span>
+<div class="pub-date">Thursday, February 23, 2017</div>
+<ul class="like_list">
+<li class="kentico_likes"> <a id="p_lt_ctl04_pageplaceholder_p_lt_ctl02_LikesLink_LinkButton1" class="like-link" href="javascript:__doPostBack(&#39;p$lt$ctl04$pageplaceholder$p$lt$ctl02$LikesLink$LinkButton1&#39;,&#39;&#39;)"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span></a>
+</span></li>
+<li class="facebook_comments"><a href="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962#fbcommentarea"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> <span class="fb-comments-count" data-href="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962"></span></a></li>
+<li class="print_button" onclick="window.print();"><span class="glyphicon glyphicon-print"></span> Print</li>
+<li class="facebook_likes"><div class="fb-like" data-href="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+</ul><div class="keywords_container">
+<ul class="keywordlist list-inline">
+<li class='keyword'><a href='/keyword/?keyword=NBA'>NBA</a></li>
+<li class='keyword'><a href='/keyword/?keyword=Boston Celtics'>Boston Celtics</a></li>
+<li class='keyword'><a href='/keyword/?keyword=Danny Ainge'>Danny Ainge</a></li>
+  </ul></div>  <div class="related_inline">
+    <h4>Related stories</h4>
+<ul class="related_links">
+
+<li class="related_link_item"><a href="/Some-teams-did-better-than-others-at-the-NBA-trade-deadline-8290858">Grading the deals: At the NBA trade deadline, a flurry of small-potatoes moves</a></li>
+</ul>
+</div><div id="articlebody">
+<webBody><p>For the last few years, ever since he robbed Brooklyn in the Paul Pierce/Kevin Garnett deal, Danny Ainge has been doing the NBA improbable. He has the Celtics competitive in the present <em>and</em> building for the future. So why did he stop now?</p><p>After weeks of rumors, speculation and thumb injuries across New England from too many Twitter refreshes, Ainge and the Celtics did nothing at Thursday’s NBA trade deadline.</p><p>It’s okay that he didn’t make the major fireworks move by unloading prized draft picks for big names. Paul George or Jimmy Butler would have looked good in green, but if the price was too high or the long-term forecast didn’t look good, Ainge made the wise move by staying away and (presumably) keeping the rights to Brooklyn’s first-round picks in 2017 and 2018.</p><p>Still, Ainge should have made a tweak to this year’s team. He should have added a dusting of size and rebounding to these Celtics. Big men were available, and a big man would have helped Boston against teams that did get better like Toronto and Washington, and against Cleveland, which remains the East favorite but looks vulnerable with injuries.</p><p>Ideally, Ainge would have landed George or Butler and signed them to a long-term deal. That would have completed the “win now” movement he began by signing Al Horford last summer. It surely would have cost the Celtics one of those Brooklyn picks, but at least in that scenario all of their assets would have been on the same timeline.</p><p>Instead, Isaiah Thomas and Horford, and perhaps Avery Bradley and Jae Crowder, will be past their peaks when the two future Brooklyn picks and last year’s Brooklyn pick, No. 3 overall Jaylen Brown, reach their primes. Which means Thomas and Horford will probably not be part of the Celtics’ next title. Boston’s championship window has moved into the future.</p><p>It’s unfortunate Ainge couldn’t mesh the two timelines, but it may be hard to blame him for that. George will be a free agent in 2018 and it’s been reported that he longs to play for his hometown Los Angeles Lakers. If Larry Bird and Indiana were asking a premium price for a one-year rental on George, Ainge was wise to decline.</p><p>Butler has two years left on his contract and there have been no reports that he’s locked in on a future team. But there were reports that Chicago was asking a king’s ransom for Butler. Plus, he may not have been enough to truly push the Celtics past Cleveland – even with Kevin Love out – or Golden State, so it wouldn’t make sense to mortgage the future bringing Butler to Boston.</p><p>Ainge has been able to keep building for the future – half of his NBA improbable act – by not falling for get-rich-quick trade scams. He was nobody’s sucker Thursday and he’s still holding the queen’s jewels in his horde.</p><p>Yet Ainge has pulled off the other half of the NBA improbable – being competitive now – by remaining active and aggressive in the trade market. That’s how he brought in guys like Thomas and Crowder. And that’s what he should have done on Thursday.</p><p>The Celtics have a glaring rebounding need (they are tied for 27th in the league at 41.2 rebounds per game) and there were multiple rebounders moved at the deadline – Andrew Bogut (8.9 rebounds per game for his career), Nerlens Noel (7.6) and P.J. Tucker (5.7).</p><p>Noel and Bogut were traded for each other, and there are reports that Philadelphia will buy out Bogut, so he could wind up in Boston anyway. But that also means the real carrots Dallas used to lure Noel away from the 76ers was a first-round pick in 2017 and shooting guard Justin Anderson. The pick is top-18 protected, and if it lands in the top 18 this year, Philly gets two second-round picks instead.</p><p>So two second-round picks and a young shooting guard was the price for Noel. Ainge could have paid that and barely dented his treasure chest.</p><p>The Celtics have three second-round picks in this draft alone. And young shooting guards? The Celtics already released one of those this year (R.J. Hunter) and they still have a logjam of young shooting guards with Terry Rozier, Marcus Smart and James Young, not to mention the 26-year-old Bradley.</p><p>And what would it have taken to get Bogut from Dallas? The Celtics don’t have a commodity like Noel, but they wouldn’t have been asking for Anderson or a pick in addition to Bogut. Maybe Kelly Olynyk would have been enough. Or Ante Zizic, one of last year’s three first-round picks who is currently stashed overseas.</p><p>Tucker wouldn’t have been an ideal fit – he’s really more of a muscled small forward – but he would have helped the rebounding deficiencies and he was affordable. Toronto shipped old friend Jared Sullinger and two second-round picks to Phoenix for Tucker. We know Boston has the picks, and we know that Olynyk and Sullinger are comparable. It could have been done.</p><p>Noel, Bogut or Tucker weren’t going to turn the Celtics into a true title contender, but they would have helped this year’s team without hurting the future. Ainge has turned that trick in the past, too bad he couldn’t do it again Thursday.</p><p /><p>(Tim O’Sullivan can be reached at 369-3341 or at tosullivan@cmonitor.com or on Twitter @timosullivan20.)</p></webBody><br/>
+
+</div><div class="col-lg-12" id="inline300x250">
+	<div class="adunit 300x250 center-block" id="V2-Article-Inline-300x250" data-dimensions="300x250" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div>
+</div>
+<script>
+    $( document ).ready(function() {
+$("#inline300x250").insertAfter("#articlebody p:eq(4)");
+    });
+</script><div id="webembedinline" style="width:100%;"></div>
+<script type="text/javascript">
+var embedlocation = (0 - 1 );
+$( document ).ready(function() {
+$("#webembedinline").insertAfter("#articlebody p:eq( "+embedlocation+" )");
+});
+</script><div id="webembedinline2" style="width:100%;"></div>
+<script type="text/javascript">
+var embedlocation2 = ( - 1 );
+$( document ).ready(function() {
+$("#webembedinline2").insertAfter("#articlebody p:eq( "+embedlocation2+" )");
+});
+</script></div>
+             <div class="article-teasers nocontent"><div class="adunit 728x90 320x50" id="V2-Article-728x90-Middle" data-dimensions="728x90,320x50" data-size-mapping="nne-default-mapping" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div><div class="row">
+	<div class="col-sm-12 homeboxes">
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 homebox">
+    <div class="thumbnail">
+    	<div class="frontpage_square">
+			<span class="homebox-section-label Arts-Life/Entertainment">Arts-Life/Entertainment</span>
+			<a href="/Junior-Service-League-of-Concord-preparing-for-annual-theater-production-8505145"><img alt='' src='/getattachment/b42f7577-d8dd-4847-9172-43dc6f6bc9bd/Junior-Service-League-of-Concord' /></a>
+			<div class="homebox-headline-container">
+			  <a href="/Junior-Service-League-of-Concord-preparing-for-annual-theater-production-8505145"><p class="homebox-headline-text">Junior Service League holds play as fundraiser</p></a>
+			</div>
+		</div>	
+	</div>
+</div><div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 homebox">
+    <div class="thumbnail">
+    	<div class="frontpage_square">
+			<span class="homebox-section-label Arts-Life/Food">Arts-Life/Food</span>
+			<a href="/Sap-loving-cattle-8576479"><img alt='' src='/getattachment/e0a3bb8d-8d3c-47d2-8e85-ded3c714dadc/Sap-loving-cattle' /></a>
+			<div class="homebox-headline-container">
+			  <a href="/Sap-loving-cattle-8576479"><p class="homebox-headline-text">Cattle love sap</p></a>
+			</div>
+		</div>	
+	</div>
+</div><div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 homebox">
+    <div class="thumbnail">
+    	<div class="frontpage_square">
+			<span class="homebox-section-label Opinion/Columns">Opinion/Columns</span>
+			<a href="/What-a-third-grade-geography-lesson-taught-me-about-a-woman-s-place-in-the-world-8575806"><img alt='' src='/getattachment/6db91a11-e3f8-4ba1-9cf7-860b00a3bdf0/What-a-third-grade-geography-les' /></a>
+			<div class="homebox-headline-container">
+			  <a href="/What-a-third-grade-geography-lesson-taught-me-about-a-woman-s-place-in-the-world-8575806"><p class="homebox-headline-text">What a third-grade geography lesson taught me about a woman’s place in the world</p></a>
+			</div>
+		</div>	
+	</div>
+</div><div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 homebox">
+    <div class="thumbnail">
+    	<div class="frontpage_square">
+			<span class="homebox-section-label News/Community">News/Community</span>
+			<a href="/engage-and-photo-8553341"><img alt='' src='/getattachment/b1c9048d-40a4-4d72-b6ed-548ee1e4c25c/engage-and-photo' /></a>
+			<div class="homebox-headline-container">
+			  <a href="/engage-and-photo-8553341"><p class="homebox-headline-text">Crisitello, Parsons announce engagement</p></a>
+			</div>
+		</div>	
+	</div>
+</div>	</div>
+</div><div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script><div class="fb-comments" name="fbcommentarea" id="fbcommentarea" data-href="http://www.concordmonitor.com/Its-okay-that-Ainge-didnt-create-fireworks-but-he-shouldve-done-something-8288962" data-width="100%" data-numposts="5"></div></div>  
+            <div class="article-newsletter"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 newsletter-submissions">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 newslettersignup">
+<script>
+    function EmailFormURL(){
+    var em_value = document.getElementById("em-form").value;
+    var formurl =  "https://2.dat-e-baseonline.com/front/deb.asp?Action=reg&zx=425&em="+em_value;
+	window.open(formurl);
+    }
+</script>
+
+<div class="form-group">
+	<label for="em">Newsletter Signup</label>
+	<form>
+		<input class="form-control newsletterform" name="em-form" placeholder="Enter Your E-Mail Address" type="text" id="em-form" />
+		<button class="btn btn-primary" form="button" type="submit" value="Submit" onclick='EmailFormURL()'>Sign up</button>
+	</form>
+</div>
+<ul class="list-inline">
+	<li><a href="https://www.facebook.com/ConcordMonitor"><img alt="Facebook" src="/App_Themes/nne-universal-structure/socialicons/fb-icon-color.png" /></a></li>
+	<li><a href="https://twitter.com/ConMonitorNews"><img alt="Twitter" src="/App_Themes/nne-universal-structure/socialicons/tw-icon-color.png" /></a></li>
+	<li><a href="https://www.youtube.com/user/ConcordMonitorOnline"><img alt="YouTube" src="/App_Themes/nne-universal-structure/socialicons/youtubeicon-color.png" /></a></li>
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 submissions">
+<div class="form-group"><label for="submitform">Submissions</label> <!-- Single button -->
+
+<div class="btn-group submissionforms"><button aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">Submit news or announcements</button>
+
+<ul class="dropdown-menu">
+	<li><a href="https://portal.cityspark.com/EventEntry/EventEntry/concordmonitor">Event Listing</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-an-Obituary">Submit an Obituary</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-a-Sports-Roundup">Submit a Sports Roundup</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-a-Sports-Preview">Submit a Sports Preview</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-HS-Varsity-Results">Submit HS Varsity Results</a></li>
+	<li><a href="/Opinion/Submit-a-Letter">Letter to the Editor</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-News-Tip">Send a news tip</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-Photo">Send a photo</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-Correction">​Suggest a correction</a></li>
+     <li><a href="/newbizbio">​New Business Bio</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>   
+             <div class="article-infinite-scroll"></div>
+         </div>
+         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+             <div class="right-column"><div class="sidebar-item"><div class="adunit 300x250" id="V2-Article-300x250-Top" data-dimensions="300x250" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div></div><div class="sidebar-item"><div class="adunit 300x100" id="V2-Home-300x100-Top" data-dimensions="300x100" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div></div></div>
+           <div class="sidebar-item edpickscontainer hidden-xs nocontent">
+            <ul class="nav nav-tabs">
+             <li class="active"><a data-toggle="tab" href="#EdPicks">Editor's Picks</a></li>  
+              <li ><a data-toggle="tab" href="#mostVoted">Most Voted</a></li>
+              <li><a data-toggle="tab" href="#mostRead">Most Read</a></li>
+              
+            </ul>          
+            <div class="tab-content">
+               <div id="EdPicks" class="tab-pane fade in active">
+                
+<div gn4id="GN4_ART_8504213">
+  <li class="list-item">
+  <a class="list-link bullet-News/State" href="/Fish-and-Game-sees-it-all-from-funny-to-really-serious-8504213"><span class="list-hed">From tragedy to humor, ‘North Woods Law’ covers it all </span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8264494">
+  <li class="list-item">
+  <a class="list-link bullet-News/Business" href="/Franklin-NH-downtown-project-works-local-students-8264494"><span class="list-hed">School-downtown partnerships are a win for everybody in Franklin</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8357042">
+  <li class="list-item">
+  <a class="list-link bullet-News/State" href="/skiing-deaths-history-new-hampshrie-8357042"><span class="list-hed">Why do most New Hampshire ski fatalities happen in March?</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8354152">
+  <li class="list-item">
+  <a class="list-link bullet-Politics/State-House" href="/Maude-Ferguson-died-tragically-but-not-before-making-a-difference-8354152"><span class="list-hed">Duckler: For these three women, a woman’s work was never done</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8216067">
+  <li class="list-item">
+  <a class="list-link bullet-News/Local" href="/Boscawen-therapeutic-riding-stable-looks-new-home-8216067"><span class="list-hed">Boscawen therapeutic riding program looking for new home</span></a>
+  </li>
+</div>
+
+              </div>
+              <div id="mostVoted" class="tab-pane fade">
+                
+<div gn4id="GN4_ART_8531354">
+  <li class="list-item">
+  <a class="list-link bullet-Opinion/Editorials" href="/Republican-attack-on-the-planet-8531354"><span class="list-hed">Editorial: GOP owns Trump attack on the Earth</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8398862">
+  <li class="list-item">
+  <a class="list-link bullet-Opinion/Columns" href="/Understanding-fascism-8398862"><span class="list-hed">My Turn: Calling left ‘fascists’ is absurd</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8300200">
+  <li class="list-item">
+  <a class="list-link bullet-Opinion/Columns" href="/Trump-and-pineapple-pizza-8300200"><span class="list-hed">Katy Burns: Pineapple pizza presidency</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8474993">
+  <li class="list-item">
+  <a class="list-link bullet-News/Local" href="/Gun-rights-activists-celebrate-constitutional-carry-8474993"><span class="list-hed">Gun rights activists celebrate constitutional carry</span></a>
+  </li>
+</div>
+<div gn4id="GN4_ART_8446648">
+  <li class="list-item">
+  <a class="list-link bullet-Opinion/Columns" href="/Endangering-women-and-children-in-NH-8446648"><span class="list-hed">Rep. JR Hoell: HB 478 is a danger to women and children</span></a>
+  </li>
+</div>
+
+              </div>
+              <div id="mostRead" class="tab-pane fade">
+                <div gn4id="GN4_ART_8605799">
+  <li class="list-item">
+  <a class="list-link bullet-News/Local" href="/Bow-school-board-nominates-Brian-O-Connell-for-Bow-High-School-principal-position-8605799"><span class="list-hed">School board hires new Bow High School principal</span></a>
+  </li>
+</div><div gn4id="GN4_ART_8581515">
+  <li class="list-item">
+  <a class="list-link bullet-Politics/State-House" href="/bill-on-whether-minors-can-marry-8581515"><span class="list-hed">N.H. House kills bill that would raise minimum marriage age to 18</span></a>
+  </li>
+</div><div gn4id="GN4_ART_8453234">
+  <li class="list-item">
+  <a class="list-link bullet-News/Local" href="/Bow-town-meeting-recap-8453234"><span class="list-hed">Bow residents pass $27.7 million school budget</span></a>
+  </li>
+</div><div gn4id="GN4_ART_8574862">
+  <li class="list-item">
+  <a class="list-link bullet-News/State" href="/corrections-standards-may-be-suspended-to-hire-more-guards-8574862"><span class="list-hed">To attract more prison guards, state wants to suspend fitness requirements</span></a>
+  </li>
+</div><div gn4id="GN4_ART_8604650">
+  <li class="list-item">
+  <a class="list-link bullet-News/Local" href="/Mother-Son-Game-Night-in-Franklin-8604650"><span class="list-hed">PHOTOS: Mother-son game night in Franklin</span></a>
+  </li>
+</div> 
+              </div>
+  
+            </div>
+          </div>
+           <div class="right-column"><div class="sidebar-item"><div class="adunit 300x600" id="V2-Article-300x600-Top" data-dimensions="300x600" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div></div><div class="sidebar-item"><div class="adunit 300x250" id="V2-Article-Bottom-300x250" data-dimensions="300x250" data-targeting='{"page_name":"Its okay that Ainge didnt create","section":"Sports/Columns"}'></div></div><div class="ad_banner">
+<script id="rm_Source" type="text/javascript" src="http://jobs.thejobnetwork.com/Widgets/js/FeaturedJob/TJN.js"></script><script type="text/javascript">var rm_FeaturedJobWidgetId = 6977;</script>
+	</div></div>
+         </div>
+     </div>
+     <hr>
+</div>
+
+<!-- FlexSlider image slider and thumbnail carousel javascript init and lib -->
+<script src="/CMSScripts/Custom/flexslider/jquery.flexslider.js"></script>
+<script>
+  $(window).load(function() {
+  // The slider being synced must be initialized first
+  $('#carousel').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    itemWidth: 210,
+    itemMargin: 5,
+    asNavFor: '#slider'
+  });
+ 
+  $('#slider').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    sync: "#carousel",
+    smoothHeight: true
+  });
+});
+  </script><div class="row footer">
+<div class="footer_container">
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4"><img class="img-responsive footer_logo" src="/App_Themes/ConcordMonitor/logos/CM-logo-small.png" />
+<p><span class="footer_address">Concord Monitor Office</span><br />
+1 Monitor Drive<br />
+Concord,NH 03301<br />
+603-224-5301</p>
+
+<ul class="footer_social">
+	<li class="fbicon"><a href="https://www.facebook.com/ConcordMonitor"><img src="/App_Themes/Branding-recorder/icons-fb.png" /></a></li>
+	<li class="twicon"><a href="https://twitter.com/ConMonitorNews"><img src="/App_Themes/Branding-recorder/icons-twitter.png" /></a></li>
+	<li class="liicon"><a href="https://www.youtube.com/user/ConcordMonitorOnline"><img src="/App_Themes/Branding-recorder/youtubeicon.png" /></a></li>
+</ul>
+
+<p>&copy; 2016 Concord Monitor</p>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2">
+<h5>Reader Services</h5>
+
+<ul>
+	<li><a href="/Reader-Services/Subscribe">Subscribe</a></li>
+	<li><a href="https://2.dat-e-baseonline.com/front/deb.asp?Action=reg&amp;zx=425">Manage Newsletters</a></li>
+	<li><a href="/Reader-Services/Contact-Us">Contact Us</a></li>
+	<li><a href="/Reader-Services/Discussion-FAQ">Discussion FAQ</a></li>
+	<li><a href="/Reader-Services/Archive">Archive</a></li>
+	<li><a href="/Reader-Services/Advertise">Advertise</a></li>
+	<li><a href="http://store.concordmonitor.com/products/pay-my-bill">Pay My Bill</a></li>
+	<li><a href="http://www.conmon.com/nie/index.htm">Newspaper in Education</a></li>
+	<li><a href="/Reader-Services/Terms-of-Service">Terms of Service</a></li>
+	<li><a href="/Reader-Services/Privacy-Notice">Privacy Policy</a></li>
+	<li><a href="/Reader-Services/Copyright-Policy">Copyright Notice</a></li>
+	<li><a href="/Reader-Services/RSS-Feeds">RSS Feeds</a></li>
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2">
+<h5>Advertise</h5>
+
+<ul>
+	<li><a href="/Reader-Services/Advertise">Advertise With Us</a></li>
+	<li><a href="http://concordmonitor.adperfect.com">Place Classified Ad</a></li>
+	<li><a href="/Reader-Services/Advertise/Contests">Contests</a></li>
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2">
+<h5>Categories</h5>
+
+<ul>
+	<li><a href="/News">News</a></li>
+	<li><a href="/sports">Sports</a></li>
+	<li><a href="http://www.legacy.com/obituaries/concordmonitor/">Obituaries</a></li>
+	<li><a href="/opinion">Opinion</a></li>
+	<li><a href="/politics">Politics</a></li>
+	<li><a href="/arts-life">Arts &amp; Life</a></li>
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2">
+<h5>Contribute</h5>
+
+<ul>
+	<li><a href="/Reader-Services/Contribute/Send-a-Correction">Correction</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-Photo">Photo</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-News-Tip">News Tip</a></li>
+	<li><a href="/Opinion/Submit-a-Letter">Letter to the Editor</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-HS-Varsity-Results">High School Sports Score</a></li>
+	<li><a href="/Reader-Services/Contribute/Send-a-Birth-Announcement">Birth</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-an-Engagement-Announcement">Engagement</a>&nbsp;</li>
+	<li><a href="/Reader-Services/Contribute/Submit-a-Wedding-Announcement">Wedding</a></li>
+	<li><a href="/Reader-Services/Contribute/Submit-an-Anniversary-Announcement">Anniversary</a></li>
+	<li><a href="/Reader-Services/Contribute/Business-Bio">New Business Bio</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://concordmonitor.nh.pw.newsmemory.com/include15.php"></script>
+
+<script src="/CMSScripts/Custom/dfp/dfp-jquery-cm.js"></script>
+
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=650098765059090";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<meta property="fb:app_id" content="650098765059090" />
+
+<script src="//load.sumome.com/" data-sumo-site-id="1f4a919b4da7071cd390f46abcc4ebb1440ad92a88992ef97c924ea1d31e96d7" async="async"></script>
+
+<!-- Chartbeat -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 62369;
+    _sf_async_config.domain = 'concordmonitor.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'Sports/Columns';  //CHANGE THIS
+    _sf_async_config.authors = 'TIM O’SULLIVAN';    //CHANGE THIS
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<script>
+$(window).load(function(){
+$('.thumbnail').find('img').each(function(){
+if (this.width/this.height != 1) {
+$(this).addClass('nocrop');
+}
+})
+})
+</script>
+
+<!-- Begin Taboola End -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<!-- End Taboola End --><!-- Large modal -->
+<div aria-labelledby="myLargeModalLabel" class="modal fade bs-example-modal-sm" role="dialog" style="display: none;" tabindex="-1" id="pulseresearchmodal">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="gridSystemModalLabel">Concord Monitor Reader Survey</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-center">
+                            <h1 class="pulseheader">
+                        <a href="http://www.pulseresearch.com/concordmonitor" target="_blank" class="pulseclick">Tell Us How You Like To Shop for A Chance to Win $500</a>
+                    </h1></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-center">
+                            <a href="http://www.pulseresearch.com/concordmonitor" target="_blank" class="pulseclick"> <img src="/getattachment/Development/CRTest/SHOPPING-SPREE-4COLc.jpg" class="img-responsive text-center pulseimage" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-center">
+                            <a href="http://www.pulseresearch.com/concordmonitor" target="_blank" class="btn btn-primary btn-lg pulsebutton pulseclick" role="button">Click Here to Enter Now!</a>
+                            <button type="button" class="btn btn-default btn-lg pulsebutton" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    if ($.cookie('pulse_modal_shown_cm') == null) {
+        $.cookie('pulse_modal_shown_cm', 'yes', {
+            expires: 1,
+            path: '/'
+        });
+        setTimeout(function() {
+            $('#pulseresearchmodal').modal();
+            dataLayer.push({'event': 'PulsePopup'});
+        }, 10000);
+    }
+});
+</script>
+<style>
+.pulseheader {
+    margin-top: 0px;
+    font-size: 26px;
+}
+
+.pulseimage {
+    max-width: 350px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.pulsebutton {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 632px) {
+    .pulseheader {
+        font-size: 15px;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .pulseimage {
+        max-width: 200px !important;
+    }
+}
+</style>
+
+</div>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/CMSPages/WebAnalyticsService.asmx', 'LogHits', '{"parameters":{"pageGUID":"c3d8f488-42fe-432e-b595-e835b70a0fc1","pagesiteId":"1","referrer":""}}')
+//]]>
+</script></form>
+</body>
+</html>

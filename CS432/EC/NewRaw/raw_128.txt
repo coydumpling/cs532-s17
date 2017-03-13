@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://azcapitoltimes.com/xmlrpc.php" />
+<title>Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent &#8211; Arizona Capitol Times</title>
+
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+</script>
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//a.optnmnstr.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Arizona Capitol Times &raquo; Feed" href="http://azcapitoltimes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Arizona Capitol Times &raquo; Comments Feed" href="http://azcapitoltimes.com/comments/feed/" />
+<meta name="apple-mobile-web-app-title" content="  Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent">
+<link rel="apple-touch-icon" sizes="57x57" href="http://azcapitoltimes.com/files/2013/12/az57.jpg" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://azcapitoltimes.com/files/2013/12/az72.jpg" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://azcapitoltimes.com/files/2013/12/az114.jpg" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://azcapitoltimes.com/files/2013/12/az144.jpg" />
+<link rel="alternate" type="application/rss+xml" title="Arizona Capitol Times &raquo; Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent Comments Feed" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/feed/" />
+<link rel='stylesheet' id='portfolio_slideshow-css'  href='http://azcapitoltimes.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow.min.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://azcapitoltimes.com/wp-content/plugins/wp-polls/polls-css.css' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://azcapitoltimes.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='tie-style-css'  href='http://azcapitoltimes.com/wp-content/themes/jarida/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mobilemenu-css'  href='http://azcapitoltimes.com/wp-content/themes/jarida/css/mobilemenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Open+Sans+Condensed-css'  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C300italic%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3Aregular%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://azcapitoltimes.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://azcapitoltimes.com/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dmcssStylesheet-css'  href='http://azcapitoltimes.com/wp-content/plugins/tdc-paywall/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/mu-plugins/mkt/mkt_header.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/tdc-paywall/login_form.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js'></script>
+<script type='text/javascript' data-cfasync="false" id="omapi-script" src='//a.optnmnstr.com/app/js/api.min.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/google-analyticator/external-tracking.min.js'></script>
+<link rel='https://api.w.org/' href='http://azcapitoltimes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://azcapitoltimes.com/xmlrpc.php?rsd" />
+<link rel='prev' title='Douglas wants more than Ducey’s funding assurances for unfinished IT work&nbsp;' href='http://azcapitoltimes.com/news/2017/02/22/douglas-wants-more-than-duceys-funding-assurances-for-unfinished-it-work/' />
+<link rel='next' title='Republican lawmaker: ‘Biased’ videos from police body cameras create ‘altered version’ of reality' href='http://azcapitoltimes.com/news/2017/02/23/republican-lawmaker-biased-videos-from-police-body-cameras-create-altered-version-of-reality/' />
+<link rel="canonical" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/" />
+<link rel='shortlink' href='http://wp.me/p2XCnJ-qLO' />
+<link rel="alternate" type="application/json+oembed" href="http://azcapitoltimes.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazcapitoltimes.com%2Fnews%2F2017%2F02%2F22%2Farizona-senate-crackdown-on-protests%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://azcapitoltimes.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazcapitoltimes.com%2Fnews%2F2017%2F02%2F22%2Farizona-senate-crackdown-on-protests%2F&#038;format=xml" />
+
+<meta name='google-site-verification' content='yBUjZkZhQp3gSLHDjf3ORiAV2B17Yp4XZVxbpx8h4_M' />
+<meta name='y_key' content='7be161f96cdbc5bc' />
+<meta name='msvalidate.01' content='3999BB2D894623F4AF6815FACA6133D9' />
+<meta name="generator" content="WordPress" />
+<!-- Portfolio Slideshow-->
+<noscript><link rel="stylesheet" type="text/css" href="http://azcapitoltimes.com/wp-content/plugins/portfolio-slideshow/css/portfolio-slideshow-noscript.css?ver=1.5.1" /></noscript><script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array();  var psAutoplay = new Array();  var psFluid = new Array(); var psTrans = new Array(); var psSpeed = new Array(); var psLoop = new Array();/* ]]> */</script>
+<!--//Portfolio Slideshow-->
+<!-- START Quantcast By WP-Plugin: Quantcast-Quantifier http://wordpress.org/extend/plugins/quantcast-quantifier/ -->
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-29W-admf9poxY", 
+labels:"Politics" 
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-29W-admf9poxY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+    __compete_code = '0406a660fcef05313cf19e49a64a9f9b';
+    (function () {
+        var s = document.createElement('script'),
+            e = document.getElementsByTagName('script')[0],
+            t = document.location.protocol.toLowerCase() === 'https:' ?
+                'https://c.compete.com/bootstrap/' :
+                'http://c.compete.com/bootstrap/';
+            s.src = t + __compete_code + '/bootstrap.js';
+            s.type = 'text/javascript';
+            s.async = true;
+            if (e) { e.parentNode.insertBefore(s, e); }
+        }());
+</script>
+
+
+<!-- END Quantcast-Quantifier --><style>.post-thumbnail img[src$='.svg'] { width: 100%; height: auto; }</style>
+<meta name="author" content="Howard Fischer, Capitol Media Services" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" href="/files/2013/12/az17.jpg" title="Favicon" />	<meta property="og:title" content="Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="
+(UPDATE: Arizona House Speaker J.D. Mesnard said his chamber will not consider SB1142, meaning the..."/>
+	<meta property="og:url" content="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/"/>
+	<meta property="og:site_name" content="Arizona Capitol Times"/>
+	<meta property="og:image" content="http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB.jpg" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://azcapitoltimes.com/wp-content/themes/jarida/js/html5.js"></script>
+<script src="http://azcapitoltimes.com/wp-content/themes/jarida/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://azcapitoltimes.com/wp-content/themes/jarida/css/ie8.css" />
+<![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style type="text/css" media="screen">
+
+body{
+}
+
+body{
+	font-size : 13px !important;
+	font-weight: 400 !important;
+	font-style: normal !important;
+}
+
+.top-nav, .top-nav ul li a, .breaking-news span {
+	color :#ffffff !important;
+	font-size : 12px !important;
+	font-weight: normal !important;
+	font-style: normal !important;
+}
+
+#main-nav, #main-nav ul li a{
+	font-family: 'Open Sans Condensed';
+	color :#ffffff !important;
+	font-size : 15px !important;
+	font-weight: 900 !important;
+}
+
+.page-title{
+	color :#333333 !important;
+	font-weight: 400 !important;
+}
+
+.post-title{
+	color :#333333 !important;
+	font-weight: 400 !important;
+}
+
+h2.post-box-title, h2.post-box-title a{
+	font-family: 'Open Sans Condensed';
+	font-size : 24px !important;
+	font-weight: 900 !important;
+}
+
+h3.post-box-title, h3.post-box-title a{
+	font-size : 13px !important;
+	font-weight: 600 !important;
+	font-style: normal !important;
+}
+
+.ei-title h2 , .slider-caption h2 a, .content .slider-caption h2 a, .slider-caption h2, .content .slider-caption h2, .content .ei-title h2{
+	font-weight: normal !important;
+}
+
+p.post-meta, p.post-meta a{
+	color :#555555 !important;
+	font-weight: 400 !important;
+}
+
+body.single .entry, body.page .entry{
+	font-weight: 400 !important;
+}
+
+.widget-top h4, .widget-top h4 a{
+	font-family: 'Open Sans Condensed';
+	font-weight: 700 !important;
+}
+
+.footer-widget-top h4, .footer-widget-top h4 a{
+	font-family: 'Open Sans Condensed';
+	font-weight: 700 !important;
+}
+
+h2.cat-box-title, h2.cat-box-title a, .block-head h3, #respond h3, #comments-title, h2.review-box-header  {
+	font-family: 'Open Sans Condensed';
+	font-weight: 700 !important;
+}
+	#main-nav ul li.current-menu-item a,
+	#main-nav ul li.current-menu-item a:hover,
+	#main-nav ul li.current-menu-parent a,
+	#main-nav ul li.current-menu-parent a:hover,
+	#main-nav ul li.current-page-ancestor a,
+	#main-nav ul li.current-page-ancestor a:hover,
+	.pagination span.current,
+	.ei-slider-thumbs li.ei-slider-element,
+	.breaking-news span,
+	.ei-title h2,h2.cat-box-title,
+	a.more-link,.scroll-nav a,
+	.flex-direction-nav a,
+	.tagcloud a:hover,
+	#tabbed-widget ul.tabs li.active a,
+	.slider-caption h2, .full-width .content .slider-caption h2,
+	.review-percentage .review-item span span,.review-final-score,
+	.woocommerce span.onsale, .woocommerce-page span.onsale ,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+	.button,a.button,#main-content input[type="submit"],#main-content input[type="submit"]:focus, span.onsale,
+	.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+	#reading-position-indicator {
+		background-color:#b30909 !important;
+	}
+	::-webkit-scrollbar-thumb{background-color:#b30909 !important;}
+	#main-nav,.top-nav {border-bottom-color: #b30909;}
+	.cat-box , .footer-bottom .container{border-top-color: #b30909;}
+	.page-head.category-template{border-color: #b30909 !important;}
+a {
+	color: #000000;	}
+a:hover {
+	color: #b30909;	text-decoration: underline;}
+::-moz-selection { background: #b30909;}
+::selection { background: #b30909; }
+#main-nav, #main-nav ul ul, #main-nav ul li.mega-menu .mega-menu-block {background-color:#ddd !important;;}
+#main-nav ul li a , #main-nav ul ul a , #main-nav ul.sub-menu a {
+	color: #000 !important;	text-shadow: 0 1px 1px transparent !important;}
+#main-nav ul li a:hover, #main-nav ul li:hover > a, #main-nav ul :hover > a , #main-nav  ul ul li:hover > a, #main-nav  ul ul :hover > a  {
+	color: #ffffff !important;	}
+#main-nav ul li.current-menu-item a  {
+	color: #ffffff !important;	text-shadow: 0 1px 1px #6e6e6e !important;}
+#main-nav ul li {
+	border-color: #a3a3a3;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-top-color: #a3a3a3;
+}
+#main-nav ul li a {
+	border-left-color: #6e6e6e;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-bottom-color: #6e6e6e;
+}
+
+body.single .post .entry a, body.page .post .entry a {
+	color: #b30909;	}
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #660000;	text-decoration: underline;}
+#text-html-widget-14{margin-top:20px;}
+
+</style>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,300|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent" />
+<meta property="og:url" content="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/" />
+<meta property="og:description" content="Claiming people are being paid to riot, Republican state senators voted Wednesday to give police new power to arrest anyone who is involved in a peaceful demonstration that may turn bad &#8212; eve…" />
+<meta property="article:published_time" content="2017-02-23T00:11:40+00:00" />
+<meta property="article:modified_time" content="2017-02-28T23:57:48+00:00" />
+<meta property="og:site_name" content="Arizona Capitol Times" />
+<meta property="og:image" content="http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB.jpg" />
+<meta property="og:image:width" content="620" />
+<meta property="og:image:height" content="330" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<!-- Start of Act On Beacon Code -->
+<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//news.azcapitoltimes.com/cdnr/50/acton/bn/tracker/22716';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+<!-- End of Act On Beacon Code -->
+<!-- Google Analytics Tracking by Google Analyticator 6.5.0: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-141441-7', 'auto');
+ 
+	ga('send', 'pageview');
+	//pageTracker._setDomainName(".azcapitoltimes.com");
+_gaq.push(['_setDomainName', '.azcapitoltimes.com']);
+</script>
+
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script data-cfasync="false" type="text/javascript">
+	dataLayer.push({"pagePostType":"post","pagePostType2":"single-post","pageCategory":["capitol-insidersart","legislature"],"pageAttributes":["andrea-dalessandro","arizona-senate","assets","chilling-effect","democrats","demonstration","first-amendment","john-kavanagh","katie-hobbs","martin-quezada","protest","protesters","protests","riot","sen-steve-farley","sen-sylvia-allen"],"pagePostAuthor":"Howard Fischer, Capitol Media Services"});
+</script><!--
+	generated in 1.085 seconds
+	117746 bytes batcached for 300 seconds
+-->
+</head>
+<body id="top" class="single single-post postid-102908 single-format-standard capitol-insidersart legislature always_free ">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9LNSK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N9LNSK');</script>
+<!-- End Google Tag Manager --><br style="display:none;">
+	<div class="background-cover"></div>
+	<div class="wrapper full-site">
+				<div class="top-nav fade-in animated1 head_brnews">
+			<div class="container">
+				<div class="search-block">
+					<form method="get" id="searchform" action="http://azcapitoltimes.com/">
+						<button class="search-button" type="submit" value="Search"></button>
+						<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}"  />
+					</form>
+				</div><!-- .search-block /-->
+					<div class="social-icons icon_flat">
+		<a class="tooldown" title="Rss" href="/rss/" target="_blank"><i class="tieicon-rss"></i></a><a class="tooldown" title="Facebook" href="https://www.facebook.com/azcapitoltimes?ref=ts" target="_blank"><i class="tieicon-facebook"></i></a><a class="tooldown" title="Twitter" href="https://twitter.com/azcapitoltimes" target="_blank"><i class="tieicon-twitter"></i></a><a class="tooldown" title="LinkedIn" href="http://www.linkedin.com/groups?gid=1368747" target="_blank"><i class="tieicon-linkedin"></i></a><a class="tooldown" title="cart" href="https://store.azcapitoltimes.com/" target="_blank"><i class="tieicon-cart"></i></a>	</div>
+
+	
+				<div class="top-menu"><ul id="menu-top-header" class="menu"><li id="menu-item-65607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65607"><a href="http://azcapitoltimes.com/subscribe/?source=wp_head">Subscribe</a></li>
+<li id="menu-item-65608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65608"><a href="https://subscribe.azcapitoltimes.com/index.cfm?display=login">Manage Account</a></li>
+<li><a href="/news/2017/02/22/arizona-senate-crackdown-on-protests/?dmcss=login">LOG IN</a></li></ul></div>	
+	<div class="breaking-news">
+		<span>Don't Miss</span>
+				
+					<ul>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/" title="Giant utility drops lawsuit against ACC commissioner to stop records production">Giant utility drops lawsuit against ACC commissioner to stop records production</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/mayors-say-duceys-borrowing-plan-for-pits-universities-against-cities/" title="Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;">Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/ducey-supports-extending-prop-301-sales-tax/" title="Ducey supports extending Prop 301 sales tax">Ducey supports extending Prop 301 sales tax</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/rising-mineral-demand-must-spur-new-mining-approach-in-u-s/" title="Rising Mineral Demand Must Spur New Mining Approach in U.S.">Rising Mineral Demand Must Spur New Mining Approach in U.S.</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/expanding-school-choice-in-arizona-si-se-puede/" title="Expanding school choice in Arizona: ¡Sí, se puede!">Expanding school choice in Arizona: ¡Sí, se puede!</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/the-execution-of-james-malone/" title="The Execution of James Malone&nbsp;">The Execution of James Malone&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/103312/" title="Arizona&#8217;s employment to grow slower in next two years compared to the last two">Arizona&#8217;s employment to grow slower in next two years compared to the last two</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/u-s-supreme-court-brings-down-gavel-on-oconnor-workout-class/" title="U.S. Supreme Court brings down gavel on O&#8217;Connor workout class">U.S. Supreme Court brings down gavel on O&#8217;Connor workout class</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/corporation-commission-sets-hearings-aps-rate-increase/" title="Corporation Commission sets hearings for APS rate increase">Corporation Commission sets hearings for APS rate increase</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/house-republicans-join-dems-in-killing-adot-omnibus-bill-for-now/" title="House Republicans join Dems in killing ADOT omnibus bill — for now&nbsp;">House Republicans join Dems in killing ADOT omnibus bill — for now&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></li>
+						</ul>
+					
+						<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('.breaking-news ul').innerfade({animationtype: 'fade', speed: 750 , timeout: 3500});
+							});
+		</script>
+	</div> <!-- .breaking-news -->				
+								<div class="top-menu-liney" style="display:none;">
+					<a class="top-menu-footer-liney"  href="javascript:;" onclick="toggleMobileMenu();" >
+											</a>
+				</div>
+								
+				
+			</div>
+		</div><!-- .top-menu /-->
+		
+		<div class="container">
+		<header id="theme-header">
+		<div class="header-content fade-in animated1">
+			<div class="logo" style="margin-top:10px">
+			<h2>
+																<a title="Arizona Capitol Times" href="http://azcapitoltimes.com/">
+					<img onerror="this.src='http://azcapitoltimes.com/files/2016/09/ACTflag.png';this.onerror=null;" src="http://azcapitoltimes.com/files/2016/09/ACTflag.png" alt="Arizona Capitol Times" /><strong>Arizona Capitol Times Your Inside Track to Arizona Politics</strong>
+				</a>
+			</h2>			</div><!-- .logo /-->
+				<div class="overlay" id="mobilemenu" >
+			<div class="mobile-menu-container">
+		<div class="mobile_menu"><ul id="mobile_menu" class="menu"><li id="menu-item-65548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65548"><a href="#">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-65549" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-65549"><a href="http://azcapitoltimes.com/news/category/legislature/">Legislature</a></li>
+	<li id="menu-item-65550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65550"><a href="http://azcapitoltimes.com/news/category/governors-office/">Governor&#8217;s Office</a></li>
+	<li id="menu-item-65551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65551"><a href="http://azcapitoltimes.com/news/category/courts/">Courts</a></li>
+	<li id="menu-item-65552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65552"><a href="http://azcapitoltimes.com/news/category/agencies/">Agencies</a></li>
+</ul>
+</li>
+<li id="menu-item-65554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-65554"><a href="http://azcapitoltimes.com/news/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-65555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65555"><a href="http://azcapitoltimes.com/news/category/opinion/commentary/">Commentary</a></li>
+	<li id="menu-item-65556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65556"><a href="http://azcapitoltimes.com/news/category/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+	<li id="menu-item-101736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101736"><a href="http://azcapitoltimes.com/submit-opinions/">Submit opinions</a></li>
+</ul>
+</li>
+<li id="menu-item-65559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65559"><a href="/about-us/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-65560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65560"><a href="/staff-contacts/">Contact Us</a></li>
+	<li id="menu-item-65561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65561"><a href="/arizona-capitol-times-staff/">Newsroom Bios</a></li>
+	<li id="menu-item-65562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65562"><a href="/frequently-asked-questions/">FAQ</a></li>
+	<li id="menu-item-65563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65563"><a href="/subscriptions/">Subscriptions</a></li>
+	<li id="menu-item-65565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65565"><a href="/capitol-careers/">Capitol Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-65557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65557"><a href="/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-102122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102122"><a href="http://azcapitoltimes.com/2017-events-at-a-glance/">2017 Events at a Glance</a></li>
+	<li id="menu-item-102098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-102098"><a href="http://azcapitoltimes.com/2017-morning-scoop/">2017 Morning Scoop</a>
+	<ul class="sub-menu">
+		<li id="menu-item-102099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102099"><a href="http://azcapitoltimes.com/feb-7-water/">Feb. 7 – Water</a></li>
+		<li id="menu-item-102095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102095"><a href="http://azcapitoltimes.com/may-9-education/">May 9 – Education</a></li>
+		<li id="menu-item-102094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102094"><a href="http://azcapitoltimes.com/aug-15-transpo/">Aug. 15 – Transpo</a></li>
+		<li id="menu-item-102093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102093"><a href="http://azcapitoltimes.com/oct-10-health-care/">Oct. 10 – Health care</a></li>
+	</ul>
+</li>
+	<li id="menu-item-102096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102096"><a href="http://azcapitoltimes.com/2017-best-of-the-capitol/">2017 Best of the Capitol</a></li>
+	<li id="menu-item-102097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102097"><a href="http://azcapitoltimes.com/women-in-public-policy/">Women in Public Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-65568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65568"><a href="http://publicnotices.azcapitoltimes.com/">Public Notices</a>
+<ul class="sub-menu">
+	<li id="menu-item-65569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65569"><a href="http://publicnotices.azcapitoltimes.com/info.aspx?page=about">Public Notice Ad Info</a></li>
+	<li id="menu-item-65570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65570"><a href="http://publicnotices.azcapitoltimes.com/">Public Notices Current</a></li>
+	<li id="menu-item-65571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65571"><a href="http://www.publicnoticeads.com/AZ">Public Notices Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-65572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65572"><a href="/advertising/">Advertising</a>
+<ul class="sub-menu">
+	<li id="menu-item-65573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65573"><a href="/advertising/">Advertising Info</a></li>
+	<li id="menu-item-65574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65574"><a href="/custom-publishing/">Custom Publishing</a></li>
+	<li id="menu-item-65575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65575"><a href="http://classifieds.azcapitoltimes.com/CategoryGroups.aspx?site=AZN01">Az Marketplace</a></li>
+	<li id="menu-item-65576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65576"><a href="/reader-demographics/">Reader Demographics</a></li>
+</ul>
+</li>
+<li id="menu-item-65577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65577"><a href="http://store.azcapitoltimes.com">Capitol Store</a></li>
+</ul></div>	
+	<div class="mobile_footer_menu"><ul id="mobile_footer_menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65607"><a href="http://azcapitoltimes.com/subscribe/?source=wp_head">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65608"><a href="https://subscribe.azcapitoltimes.com/index.cfm?display=login">Manage Account</a></li>
+</ul></div>	<div id="mobile-menu-footer-close-container">
+		<a href="javascript:;" id="mobile-menu-footer-close" onclick="toggleMobileMenu();"></a>
+	</div>
+</div> <!-- .mobile-menu-container -->		</div>
+					<div class="e3lan-top">					<!--/* OpenX Javascript Tag v2.8.10 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://ad2.dolanadserver.com/az/www/delivery/...'
+  * to
+  *   'https://ad2.dolanadserver.com/az/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<div id="top-ad-inner">
+<img class="close-ad-image" src="/wp-content/themes/jarida/images/solid-close-square.png" />
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad2.dolanadserver.com/az/www/delivery/ajs.php':'http://ad2.dolanadserver.com/az/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=71");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad2.dolanadserver.com/az/www/delivery/ck.php?n=ab2544c6&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad2.dolanadserver.com/az/www/delivery/avw.php?zoneid=71&cb=INSERT_RANDOM_NUMBER_HERE&n=ab2544c6' border='0' alt='' /></a></noscript>
+</div>				</div>			<div class="clear"></div>
+		</div>
+									<nav id="main-nav" class="fade-in animated2 fixed-enabled">
+				<div class="container">
+				<div class="main-menu"><ul id="menu-main-navigation" class="menu"><li id="menu-item-65548" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a href="#">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-65549" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  current-post-ancestor  current-menu-parent  current-post-parent"><a href="http://azcapitoltimes.com/news/category/legislature/">Legislature</a></li>
+	<li id="menu-item-65550" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://azcapitoltimes.com/news/category/governors-office/">Governor&#8217;s Office</a></li>
+	<li id="menu-item-65551" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://azcapitoltimes.com/news/category/courts/">Courts</a></li>
+	<li id="menu-item-65552" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://azcapitoltimes.com/news/category/agencies/">Agencies</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65554" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://azcapitoltimes.com/news/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-65555" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://azcapitoltimes.com/news/category/opinion/commentary/">Commentary</a></li>
+	<li id="menu-item-65556" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://azcapitoltimes.com/news/category/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+	<li id="menu-item-101736" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/submit-opinions/">Submit opinions</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65559" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a href="/about-us/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-65560" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/staff-contacts/">Contact Us</a></li>
+	<li id="menu-item-65561" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/arizona-capitol-times-staff/">Newsroom Bios</a></li>
+	<li id="menu-item-65562" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/frequently-asked-questions/">FAQ</a></li>
+	<li id="menu-item-65563" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/subscriptions/">Subscriptions</a></li>
+	<li id="menu-item-65565" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/capitol-careers/">Capitol Careers</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65557" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a href="/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-102122" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/2017-events-at-a-glance/">2017 Events at a Glance</a></li>
+	<li id="menu-item-102098" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://azcapitoltimes.com/2017-morning-scoop/">2017 Morning Scoop</a>
+	<ul class="sub-menu">
+		<li id="menu-item-102099" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/feb-7-water/">Feb. 7 – Water</a></li>
+		<li id="menu-item-102095" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/may-9-education/">May 9 – Education</a></li>
+		<li id="menu-item-102094" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/aug-15-transpo/">Aug. 15 – Transpo</a></li>
+		<li id="menu-item-102093" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/oct-10-health-care/">Oct. 10 – Health care</a></li>
+	</ul> <!--End Sub Menu -->
+</li>
+	<li id="menu-item-102096" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/2017-best-of-the-capitol/">2017 Best of the Capitol</a></li>
+	<li id="menu-item-102097" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://azcapitoltimes.com/women-in-public-policy/">Women in Public Policy</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65568" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a href="http://publicnotices.azcapitoltimes.com/">Public Notices</a>
+<ul class="sub-menu">
+	<li id="menu-item-65569" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://publicnotices.azcapitoltimes.com/info.aspx?page=about">Public Notice Ad Info</a></li>
+	<li id="menu-item-65570" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://publicnotices.azcapitoltimes.com/">Public Notices Current</a></li>
+	<li id="menu-item-65571" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://www.publicnoticeads.com/AZ">Public Notices Archives</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65572" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a href="/advertising/">Advertising</a>
+<ul class="sub-menu">
+	<li id="menu-item-65573" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/advertising/">Advertising Info</a></li>
+	<li id="menu-item-65574" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/custom-publishing/">Custom Publishing</a></li>
+	<li id="menu-item-65575" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://classifieds.azcapitoltimes.com/CategoryGroups.aspx?site=AZN01">Az Marketplace</a></li>
+	<li id="menu-item-65576" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/reader-demographics/">Reader Demographics</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-65577" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://store.azcapitoltimes.com">Capitol Store</a></li>
+</ul></div>				</div>
+			</nav><!-- .main-nav /-->
+		</header><!-- #header /-->
+
+	<div id="main-content" class="container fade-in animated3 sidebar-narrow-left">
+		<div id="content-background-cover" class="mobile-menu-background-cover"></div><div class="content-wrap">
+	<div class="content">
+        <div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" class="crumbs-home" href="http://azcapitoltimes.com"><i class="tieicon-home"></i>Home</a></span> / <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://azcapitoltimes.com/news/category/capitol-insidersart/">Featured News</a></span> / <span class="current">Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent</span></div>		
+		
+				
+						
+		<article id="the-post" class="post-listing hnews hentry item post-102908 post type-post status-publish format-standard has-post-thumbnail category-capitol-insidersart category-legislature tag-andrea-dalessandro tag-arizona-senate tag-assets tag-chilling-effect tag-democrats tag-demonstration tag-first-amendment tag-john-kavanagh tag-katie-hobbs tag-martin-quezada tag-protest tag-protesters tag-protests tag-riot tag-sen-steve-farley tag-sen-sylvia-allen always_free">
+				
+
+			<div class="post-inner">
+             				<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">Arizona Senate votes to seize assets of those who plan, participate in protests that turn violent</span></h1>
+                             
+						
+<p class="post-meta">
+		
+	<span class="post-meta-author">By:  <a href="http://azcapitoltimes.com/news/author/howiefischer/" title="">Howard Fischer, Capitol Media Services </a></span>
+    	
+		
+	 <span class="tie-date">February 22, 2017 , 5:11 pm</span>	
+</p>
+<div class="clear"></div>
+	
+				<div class="entry entry-content">
+					
+					<p><a href="http://azcapitoltimes.com/anti-trump-protest-web/"><img class="alignnone size-full wp-image-102013" src="http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB.jpg" alt="anti-trump-protest-web" width="620" height="330" srcset="http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB.jpg 620w, http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB-100x53.jpg 100w, http://azcapitoltimes.com/files/2017/01/anti-trump-protest-WEB-300x160.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
+<p class="Default"><em>(UPDATE: Arizona House Speaker J.D. Mesnard said his chamber <a href="http://azcapitoltimes.com/news/2017/02/27/arizona-house-speaker-wont-hear-rioting-bill/">will not consider SB1142</a>, meaning the bill is effectively dead.)</em></p>
+<p class="Default">Claiming people are being paid to riot, Republican state senators voted Wednesday to give police new power to arrest anyone who is involved in a peaceful demonstration that may turn bad &#8212; even before anything actually happened.</p>
+<p class="Default">SB1142 expands the state’s racketeering laws, now aimed at organized crime, to also include rioting. And it redefines what constitutes rioting to include actions that result in damage to the property of others.</p>
+<p class="Default">But the real heart of the legislation is what Democrats say is the guilt by association &#8212; and giving the government the right to criminally prosecute and seize the assets of everyone who planned a protest and everyone who participated. And what’s worse, said Sen. Steve Farley, D-Tucson, is that the person who may have broken a window, triggering the claim there was a riot, might actually not be a member of the group but someone from the other side.</p>
+<p class="Default">Sen. Martin Quezada, D-Phoenix, acknowledged that sometimes what’s planned as a peaceful demonstration can go south.</p>
+<p class="Default">“When people want to express themselves as a group during a time of turmoil, during a time of controversy, during a time of high emotions, that’s exactly when people gather as a community,’’ he said. “Sometimes they yell, sometimes they scream, sometimes they do go too far.’’</p>
+<p class="Default">Quezada said, though, that everything that constitutes rioting already is a crime, ranging from assault to criminal damage, and those responsible can be individually prosecuted. He said the purpose of this bill appears to be designed to chill the First Amendment rights of people to decide to demonstrate in the first place for fear something could wrong.</p>
+<p class="Default">But Sen. John Kavanagh, R-Fountain Hills, said that chilling effect is aimed at a very specific group of protesters.</p>
+<p class="Default">“You now have a situation where you have full-time, almost professional agent-provocateurs that attempt to create public disorder,’’ he said.</p>
+<p class="Default">“A lot of them are ideologues, some of them are anarchists,’’ Kavanagh continued. “But this stuff is all planned.’’</p>
+<p class="Default">There’s something else: By including rioting in racketeering laws, it actually permits police to arrest those who are planning events. And Kavanagh, a former police officer, said if there are organized groups, “I should certainly hope that our law enforcement people have some undercover people there.’’</p>
+<p class="Default">“Wouldn’t you rather stop a riot before it starts?’’ Kavanagh asked colleagues during debate. “Do you really want to wait until people are injuring each other, throwing Molotov cocktails, picking up barricades and smashing them through businesses in downtown Phoenix?’’</p>
+<p class="Default">Sen. Sylvia Allen, R-Snowflake, said the new criminal laws are necessary.</p>
+<p class="Default">“I have been heartsick with what’s been going on in our country, what young people are being encouraged to do,’’ she said.</p>
+<p class="Default">She agreed with Quezada that there already are laws that cover overt acts. But Allen said they don’t work.</p>
+<p class="Default">“If they get thrown in jail, somebody pays to get them out,’’ she said. “There has to be something to deter them from that.’’</p>
+<p class="Default">Farley, however, said the legislation does far more than simply going after those who might incite people to riot, something which actually already is a crime. And he warned Republicans that such a broad law could end up being used against some of their allies.</p>
+<p class="Default">For example, he said, a “Tea Party’’ group wanting to protest a property tax hike might get permits, publicize the event and have a peaceful demonstration.</p>
+<p class="Default">“And one person, possibly from the other side, starts breaking the windows of a car,’’ Farley said.</p>
+<p class="Default">“And all of a sudden the organizers of that march, the local Tea Party, are going to be under indictment from the county attorney in the county that raised those property taxes,’’ he said. “That will have a chilling effect on anybody, right or left, who wants to protest something the government has done.’’</p>
+<p class="Default">Sen. Katie Hobbs, D-Phoenix, said the whole legislation is based on a false premise of how disturbances happen.</p>
+<p class="Default">“This idea that people are being paid to come out and do that?’’ she said. “I’m sorry, but I think that is fake news.’’</p>
+<p class="Default">Sen. Andrea Dalessandro, D-Green Valley, had her own concerns.</p>
+<p class="Default">“I’m fearful that ‘riot’ is in the eyes of the beholder and that this bill will apply more strictly to minorities and people trying to have their voice heard,’’ she said.</p>
+<p class="Default">The 17-13 party-line vote sends the bill to the House.</p>
+<table style="background-color: #e3a718;">
+<tbody>
+<tr>
+<td style="font-size: 15px; font-weight: bold;">Subscribe to Arizona Capitol Times for as little as $19.99 &#8211; <a href="https://subscribe.azcapitoltimes.com/?source=AZsenatestory">click here</a></td>
+</tr>
+</tbody>
+</table>
+<p><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Save</span></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-102908" class="share-facebook sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-102908" class="share-linkedin sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-102908" class="share-twitter sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-102908" class="share-google-plus-1 sd-button share-icon" href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>										
+					
+									</div><!-- .entry /-->
+				<span style="display:none"><a href="http://azcapitoltimes.com/news/tag/andrea-dalessandro/" rel="tag">Andrea Dalessandro</a> <a href="http://azcapitoltimes.com/news/tag/arizona-senate/" rel="tag">Arizona Senate</a> <a href="http://azcapitoltimes.com/news/tag/assets/" rel="tag">assets</a> <a href="http://azcapitoltimes.com/news/tag/chilling-effect/" rel="tag">chilling effect</a> <a href="http://azcapitoltimes.com/news/tag/democrats/" rel="tag">Democrats</a> <a href="http://azcapitoltimes.com/news/tag/demonstration/" rel="tag">demonstration</a> <a href="http://azcapitoltimes.com/news/tag/first-amendment/" rel="tag">first amendment</a> <a href="http://azcapitoltimes.com/news/tag/john-kavanagh/" rel="tag">John Kavanagh</a> <a href="http://azcapitoltimes.com/news/tag/katie-hobbs/" rel="tag">Katie Hobbs</a> <a href="http://azcapitoltimes.com/news/tag/martin-quezada/" rel="tag">Martin Quezada</a> <a href="http://azcapitoltimes.com/news/tag/protest/" rel="tag">protest</a> <a href="http://azcapitoltimes.com/news/tag/protesters/" rel="tag">protesters</a> <a href="http://azcapitoltimes.com/news/tag/protests/" rel="tag">protests</a> <a href="http://azcapitoltimes.com/news/tag/riot/" rel="tag">riot</a> <a href="http://azcapitoltimes.com/news/tag/sen-steve-farley/" rel="tag">Sen. Steve Farley</a> <a href="http://azcapitoltimes.com/news/tag/sen-sylvia-allen/" rel="tag">Sen. Sylvia Allen</a></span>                <span style="display:none" class="updated" title="2017-02-22T17:11:40Z">5:11 pm Wed, February 22, 2017</span>
+                <span class="source-org vcard" style="display:none;"><a class="org fn" href="http://azcapitoltimes.com">Arizona Capitol Times</a></span>								<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://azcapitoltimes.com/news/author/howiefischer/" title="Posts by Howard Fischer, Capitol Media Services" rel="author">Howard Fischer, Capitol Media Services</a></strong></div>
+								
+								
+			</div><!-- .post-inner -->
+		</article><!-- .post-listing -->
+		        
+		
+				
+				
+		
+			<section id="related_posts">
+		<div class="block-head">
+			<h3>You might also like</h3><div class="stripe-line"></div>
+		</div>
+		<div class="post-listing">
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/10/ducey-supports-extending-prop-301-sales-tax/" title="Permalink to Ducey supports extending Prop 301 sales tax" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2015/01/Doug-Ducey-SOS6-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Arizona Gov. Doug Ducey presents his first State of the State speech to a joint session of the Arizona Legislature on Jan. 12. (Photo by Ryan Cook/RJ Cook Photography)" srcset="http://azcapitoltimes.com/files/2015/01/Doug-Ducey-SOS6-300x160.jpg 300w, http://azcapitoltimes.com/files/2015/01/Doug-Ducey-SOS6-100x53.jpg 100w, http://azcapitoltimes.com/files/2015/01/Doug-Ducey-SOS6.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/10/ducey-supports-extending-prop-301-sales-tax/" title="Permalink to Ducey supports extending Prop 301 sales tax" rel="bookmark">Ducey supports extending Prop 301 sales tax</a></h3>
+				<p class="post-meta"><span class="tie-date">March 10, 2017 , 12:35 pm</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/10/thorpe-answers-question-of-where-hes-at-a-radio-town-hall/" title="Permalink to Thorpe answers question of where he’s at — a radio town hall&nbsp;" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2015/04/Bob-Thorpe620-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Rep. Bob Thorpe, R-Flagstaff. (Photo by Kelcia Grega/Cronkite News)" srcset="http://azcapitoltimes.com/files/2015/04/Bob-Thorpe620-300x160.jpg 300w, http://azcapitoltimes.com/files/2015/04/Bob-Thorpe620-100x53.jpg 100w, http://azcapitoltimes.com/files/2015/04/Bob-Thorpe620.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/10/thorpe-answers-question-of-where-hes-at-a-radio-town-hall/" title="Permalink to Thorpe answers question of where he’s at — a radio town hall&nbsp;" rel="bookmark">Thorpe answers question of where he’s at — a radio town hall&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></h3>
+				<p class="post-meta"><span class="tie-date">March 10, 2017 , 4:14 am</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/10/ducey-determined-to-pass-university-bond-plan-lawmakers-dislike/" title="Permalink to Ducey determined to pass university bond plan lawmakers dislike&nbsp;" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2017/03/3-10-17-web-cover-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="3-10-17-web-cover" srcset="http://azcapitoltimes.com/files/2017/03/3-10-17-web-cover-300x160.png 300w, http://azcapitoltimes.com/files/2017/03/3-10-17-web-cover-100x53.png 100w, http://azcapitoltimes.com/files/2017/03/3-10-17-web-cover.png 620w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/10/ducey-determined-to-pass-university-bond-plan-lawmakers-dislike/" title="Permalink to Ducey determined to pass university bond plan lawmakers dislike&nbsp;" rel="bookmark">Ducey determined to pass university bond plan lawmakers dislike&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></h3>
+				<p class="post-meta"><span class="tie-date">March 10, 2017 , 4:00 am</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/09/senator-tries-to-embarrass-gop-colleagues-into-voting-for-immigration-bill/" title="Permalink to Senator tries to embarrass GOP colleagues into voting for immigration bill" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2016/05/Worsley-Smith-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Sens. Bob Worsley, R-Mesa, and Steve Smith, R-Maricopa, chat during budget debate in the Senate May 3. (Photo by Gary Grado/Arizona Capitol Times)" srcset="http://azcapitoltimes.com/files/2016/05/Worsley-Smith-300x160.jpg 300w, http://azcapitoltimes.com/files/2016/05/Worsley-Smith-100x53.jpg 100w, http://azcapitoltimes.com/files/2016/05/Worsley-Smith.jpg 619w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/09/senator-tries-to-embarrass-gop-colleagues-into-voting-for-immigration-bill/" title="Permalink to Senator tries to embarrass GOP colleagues into voting for immigration bill" rel="bookmark">Senator tries to embarrass GOP colleagues into voting for immigration bill</a></h3>
+				<p class="post-meta"><span class="tie-date">March 9, 2017 , 6:05 pm</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/09/az-supreme-court-skeptical-of-minimum-wage-challenger-arguments/" title="Permalink to AZ Supreme Court skeptical of minimum wage challenger arguments&nbsp;" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2016/01/court-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="court" srcset="http://azcapitoltimes.com/files/2016/01/court-300x160.jpg 300w, http://azcapitoltimes.com/files/2016/01/court-100x53.jpg 100w, http://azcapitoltimes.com/files/2016/01/court.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/09/az-supreme-court-skeptical-of-minimum-wage-challenger-arguments/" title="Permalink to AZ Supreme Court skeptical of minimum wage challenger arguments&nbsp;" rel="bookmark">AZ Supreme Court skeptical of minimum wage challenger arguments&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></h3>
+				<p class="post-meta"><span class="tie-date">March 9, 2017 , 5:05 pm</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="http://azcapitoltimes.com/news/2017/03/09/former-glendale-mayor-to-arizona-coyotes-blame-your-management-not-the-city/" title="Permalink to Former Glendale Mayor to Arizona Coyotes: Blame your management, not the city&nbsp;" rel="bookmark">
+						<img width="300" height="160" src="http://azcapitoltimes.com/files/2017/03/coyote-ice-WEB-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="coyote-ice-web" srcset="http://azcapitoltimes.com/files/2017/03/coyote-ice-WEB-300x160.jpg 300w, http://azcapitoltimes.com/files/2017/03/coyote-ice-WEB-100x53.jpg 100w, http://azcapitoltimes.com/files/2017/03/coyote-ice-WEB.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />											</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="http://azcapitoltimes.com/news/2017/03/09/former-glendale-mayor-to-arizona-coyotes-blame-your-management-not-the-city/" title="Permalink to Former Glendale Mayor to Arizona Coyotes: Blame your management, not the city&nbsp;" rel="bookmark">Former Glendale Mayor to Arizona Coyotes: Blame your management, not the city&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a></h3>
+				<p class="post-meta"><span class="tie-date">March 9, 2017 , 4:41 pm</span></p>
+			</div>
+						<div class="clear"></div>
+		</div>
+	</section>
+		
+
+		
+                		<div id="comments">
+
+			<h3 id="comments-title">
+			313 comments			</h3>
+
+			<div class="navigation">
+				<div class="nav-previous"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-6/#comments" ><span class="meta-nav">&larr;</span> Older Comments</a></div>
+				<div class="nav-next"></div>
+			</div> <!-- .navigation -->
+										<ol class="commentlist">	<li id="comment-2485025">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/29691bbb1a92b2d4f388d81289612e6c?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/29691bbb1a92b2d4f388d81289612e6c?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Pete Clark</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485025">	February 27, 2017 , 11:55 am at 11:55 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>Try the REAL Headline..Arizona cracks down on terrorist violence.. If you are violent, or block my way to work, you a f-ing TERRORIST..not a protester..</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485026">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/20e18d8de71131766ad7854189e7b18e?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/20e18d8de71131766ad7854189e7b18e?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Anti Trump</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485026">	February 27, 2017 , 11:59 am at 11:59 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>And the Trump regime begins.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485036">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/86b08f4eb1875d84a7f7d53b89f2d2ad?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/86b08f4eb1875d84a7f7d53b89f2d2ad?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Steve Harrington</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485036">	February 27, 2017 , 12:22 pm at 12:22 pm</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>If we let Arizona Senate Bill SB1142 pass, we deserve to live in the TOTALITARIAN STATE this is all leading up to!  </p>
+<p>The idea of hordes of &#8220;paid for&#8221; professional agitators and troublemakers that we need to protect ourselves against is totally ridiculous &#8230; just like the 3 million illegal votes that were ALL cast for Hillary in the last election, and all the &#8220;fake news&#8221; which is anything and everything that is critical of Trump.  Yes, group-think &#8220;newspeak&#8221; is very much alive and well in post-truth America.  For this reason, NOW is the time for all of us to stand up and aggressively defend our 1st amendment right to unfettered FREE Speech (one of the core founding principals of our democracy)!  So if you really care about our country and keeping America FREE, please forward this article on to everyone you know and ask them to call or email their AZ State Representatives (2) and Senators (1) and tell them to vote &#8220;NO&#8221; on SB1142 or suffer the consequences of NOT getting re-elected in the next election cycle.  </p>
+<p>If you don&#8217;t know who your AZ state senator and representatives are, you should first go to <a href="http://www.azleg.gov/findmylegislator/to" rel="nofollow">http://www.azleg.gov/findmylegislator/to</a> find out what Legislative District you&#8217;re in, then look up your state senator and representatives and call and/or email them TODAY to tell them EXACTLY how you feel!!</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485220">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://1.gravatar.com/avatar/aed2eae0e6d0bb1428422b14d79780de?s=45&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/aed2eae0e6d0bb1428422b14d79780de?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Concerned Citizen</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485220">	February 27, 2017 , 4:21 pm at 4:21 pm</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>It now looks like not only did Russia hack the elections, but it also looks like they infiltrated Arizona disguised as democratically elected politicians.  Sorry folks, but Arizona now seems to be within the sphere of Russian control.</p>
+<p>What is very clear is that those politicians who are supporting this attack against First Amendment Rights, which include; peaceful assembly and free speech, are not individuals  who hold true American democratic values.  What is also clear, is that the only purpose of this law is to silence the opposition, so that only one voice will be heard.</p>
+<p>Come on Arizona, do you mean to tell us that you  don&#8217;t already have laws on the books that deal such crimes as rioting and property damage?  Maybe it is time that Arizona get rid of the Politburo and elect members democrat state House and Senate.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485304">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://0.gravatar.com/avatar/f7eb8e3ac3d061c1eeb5c269e095e7ff?s=45&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f7eb8e3ac3d061c1eeb5c269e095e7ff?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn"><a href='https://twitter.com/ritchiepage2001' rel='external nofollow' class='url'>RICHARD C MAENPAA</a></cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485304">	February 27, 2017 , 6:33 pm at 6:33 pm</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>I used my Soros money to go to Disneyland&#8230; On my unicorn&#8230;</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485553">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/bf874e40a3c047a6bd43f0d538fa4d75?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/bf874e40a3c047a6bd43f0d538fa4d75?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Aletha Morden</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485553">	February 28, 2017 , 12:15 am at 12:15 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>I agree completely with &#8220;Concerned Citizen&#8217;s&#8221; comments above.  </p>
+<p>We have 1st amendment rights to protest.  The Women&#8217;s March (es) all across the U.S. were peaceful.  They scared the establishment because of the sheer numbers who showed up to attempt to make their feelings &amp; priorities known.  </p>
+<p>So, now, our country is truly moving toward a Putin-like dictatorship.  Unfortunately, the majority of our elected officials are in &#8220;lock step&#8221; (notably Republicans).  Is this what people really wanted when they voted for #45?  I don&#8217;t think that the majority of those who voted for him wanted our country to become &#8220;Russia #2.&#8221;  Shame on you, Arizona Republicans.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485903">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://1.gravatar.com/avatar/42c17c7c222d47e36a8df3e03ef39e59?s=45&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/42c17c7c222d47e36a8df3e03ef39e59?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Karen Scofield</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485903">	February 28, 2017 , 8:00 am at 8:00 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>First of all, let me make myself clear that I stand against violent rioting. This plan, however, isn&#8217;t only about cracking down on that, if one plays attention to their proposal. To understand , we have to back up a little. Logic 101: while not all protests are riots, some rioters/provocateurs go to protests. One cannot equivocate all protest planners, protestors, and protests with rioters, rioting, or riots whether or not any violence or property damage occurred. To base asset forfeiture on this morass of bad logic, and possibly a lack of an actual crime being committed in some or many cases, will prove to be rightfully litigious and therefore expensive to both affected individuals and the state. To recap, so far the plan seems to be to &#8220;play pre-cog police&#8221; while conflating all protest planning and protests with rioting and organized violence because violence could take place &#8212; whether it does or doesn&#8217;t. It seems they plan to do this without differentiating who was or wasn&#8217;t involved in any violence or other damages. So I don&#8217;t propose violence and proprty damage shouldn&#8217;t be tolerated but this isn&#8217;t the answer.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485916">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://1.gravatar.com/avatar/42c17c7c222d47e36a8df3e03ef39e59?s=45&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/42c17c7c222d47e36a8df3e03ef39e59?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Karen Scofield</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485916">	February 28, 2017 , 8:14 am at 8:14 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>Correction: the last sentence of my comment, which is awaiting moderation, should read, &#8220;So I don&#8217;t propose violence and proprty damage should be tolerated but this isn&#8217;t the answer.&#8221;</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2485938">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://1.gravatar.com/avatar/a04e6806ae25c6777a1e234809468be1?s=45&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a04e6806ae25c6777a1e234809468be1?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Steve</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2485938">	February 28, 2017 , 8:52 am at 8:52 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>Excellent. The left needs to be held accountable and their property seized. We will no longer tolerate their fascism.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2486623">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/8b3184f2c7fbdf018a97bc7f11b31a10?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8b3184f2c7fbdf018a97bc7f11b31a10?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Joan Denz-Hamillton</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2486623">	February 28, 2017 , 11:50 pm at 11:50 pm</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>If California a nanny state, Arizona is becoming a Mommie Dearest state. Scary.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2487182">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/ec85681ed7a05fff412c2d07cb6646fc?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ec85681ed7a05fff412c2d07cb6646fc?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Dale</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2487182">	March 1, 2017 , 11:42 am at 11:42 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>If people were being paid to riot, and that was the actual reason for this legislation, perhaps there would be some merit to it. But it looks a lot more like an attempt to stifle dissent seeing as how the only people who truly believe people are being paid $1500 a week to protest and riot are those who depend upon Infowars or Breitbart for information instead of news sources. And it is ironic in the extreme that people will support this because they support Trump, mainly because, should legislation like this gain a foothold, when something you don&#8217;t support comes along, your right to protest will be gone. </p>
+<p>It is sometimes enlightening to think things like this all the way through.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2488591">
+		<div  class="comment odd alt thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://2.gravatar.com/avatar/28313614972742348025b77c8194ceec?s=45&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/28313614972742348025b77c8194ceec?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Susan</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2488591">	March 2, 2017 , 11:37 pm at 11:37 pm</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>Yet another reason I&#8217;m not planning to visit, drive through, or move to Arizona.</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-2489522">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='http://0.gravatar.com/avatar/09dbdc9a22d8de6d1e4aa93e566cd52f?s=45&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/09dbdc9a22d8de6d1e4aa93e566cd52f?s=90&amp;d=mm&amp;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+			<div class="author-comment">
+				<cite class="fn">Greg</cite> 				<div class="comment-meta commentmetadata"><a href="http://azcapitoltimes.com/news/2017/02/22/arizona-senate-crackdown-on-protests/comment-page-7/#comment-2489522">	March 4, 2017 , 1:58 am at 1:58 am</a></div><!-- .comment-meta .commentmetadata -->
+			</div>
+			<div class="clear"></div>
+			<div class="comment-content">
+									
+				<p>You are seriously equating inconveniencing you on your way to work with people getting shot/blown up/beheaded?</p>
+<p>Yeah, you&#8217;re a Conservative snowflake&#8230;or should that just be flake?</p>
+<p>Protest is a Constitutionally-protected RIGHT.</p>
+<p>Maybe the Boston Tea Partiers should have just left that tea on the ships?</p>
+			</div>
+			<div class="reply"></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+</ol>
+			    
+							
+
+
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news/2017/02/22/arizona-senate-crackdown-on-protests/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://azcapitoltimes.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='102908' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="0b2dbbdcce" /></p><div class="g-recaptcha" data-sitekey="6Le2xiMTAAAAAFD40x_ZtsDlPGwfRMUy7mVRR2Ki" data-theme="standard"></div><script type="text/javascript"src="https://www.google.com/recaptcha/api.js?hl=en"></script>            <div id="recaptcha-submit-btn-area">&nbsp;</div>
+            <noscript>
+            <style type='text/css'>#submit {display:none;}</style>
+            <input name="submit" type="submit" id="submit-alt" tabindex="6"
+                value="Submit Comment"/> 
+            </noscript><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="7"/></p>				</form>
+					</div><!-- #respond -->
+		
+</div><!-- #comments -->
+        	
+	</div><!-- .content -->
+<aside class="sidebar-narrow">
+<div id="author_post_widget-2" class="widget widget_author_posts"><div class="widget-top"><h4>By Howard Fischer, Capitol Media Services</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<ul>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/" rel="bookmark" title="Giant utility drops lawsuit against ACC commissioner to stop records production">Giant utility drops lawsuit against ACC commissioner to stop records production</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/10/103312/" rel="bookmark" title="Arizona&#8217;s employment to grow slower in next two years compared to the last two">Arizona&#8217;s employment to grow slower in next two years compared to the last two</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/09/senator-tries-to-embarrass-gop-colleagues-into-voting-for-immigration-bill/" rel="bookmark" title="Senator tries to embarrass GOP colleagues into voting for immigration bill">Senator tries to embarrass GOP colleagues into voting for immigration bill</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/09/house-committee-moves-bill-giving-extra-protection-to-businesses-that-allow-guns/" rel="bookmark" title="House committee moves bill giving extra protection to businesses that allow guns">House committee moves bill giving extra protection to businesses that allow guns</a></li>
+							<li><a href="http://azcapitoltimes.com/news/2017/03/08/former-congressman-ron-paul-champions-gold-and-silver-tax-break-bill/" rel="bookmark" title="Former Congressman Ron Paul champions gold and silver tax-break bill">Former Congressman Ron Paul champions gold and silver tax-break bill</a></li>
+						</ul>
+						<a href="http://azcapitoltimes.com/news/author/howiefischer/"> All (865)</a>
+			
+			</div></div><!-- .widget /--><div id="polls-widget-425735347" class="widget widget_polls-widget"><div class="widget-top"><h4>Reader Poll</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div id="polls-157" class="wp-polls">
+	<form id="polls_form_157" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_157_nonce" name="wp-polls-nonce" value="a7af39b9b2" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="157" /></p>
+		<p style="text-align: left; font-size: 13px;"><strong>Which issue do you think will receive the most attention this legislative session?</strong></p><div id="polls-157-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-574" name="poll_157" value="574" /><label for="poll-answer-574" style="font-size: 12px;">&nbsp&nbspK-12 education funding</label></li>
+		<li><input type="radio" id="poll-answer-575" name="poll_157" value="575" /><label for="poll-answer-575" style="font-size: 12px;">&nbsp&nbspFull-day kindergarten</label></li>
+		<li><input type="radio" id="poll-answer-576" name="poll_157" value="576" /><label for="poll-answer-576" style="font-size: 12px;">&nbsp&nbspMinimum wage increase-related costs</label></li>
+		<li><input type="radio" id="poll-answer-577" name="poll_157" value="577" /><label for="poll-answer-577" style="font-size: 12px;">&nbsp&nbsp"Religious freedom" legislation like SB1062</label></li>
+		<li><input type="radio" id="poll-answer-578" name="poll_157" value="578" /><label for="poll-answer-578" style="font-size: 12px;">&nbsp&nbspObamacare’s repeal and its effect on the state budget</label></li>
+		<li><input type="radio" id="poll-answer-579" name="poll_157" value="579" /><label for="poll-answer-579" style="font-size: 12px;">&nbsp&nbspA yet-to-erupt scandal</label></li>
+		</ul><p style="text-align: left;"><input type="button" name="vote" value="  VOTE  " class="Buttons" onclick="poll_vote(157);" onkeypress="poll_result(157);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(157); return false;" onkeypress="poll_result(157); return false;" title="View Results Of This Poll" style="color:#000000;">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-157-loading" class="wp-polls-loading"><img src="http://azcapitoltimes.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+<p style="text-align: center;"><a href="http://azcapitoltimes.com/capitol-times-polls-archive" style="color:#000000;">Polls Archive</a></p></div></div><!-- .widget /--><div id="facebook-widget-2" class="widget facebook-widget"><div class="widget-top"><h4>Find us on Facebook		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="facebook-box">
+				<iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/azcapitoltimes&amp;width=300&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
+			</div>
+	</div></div><!-- .widget /--></aside>
+</div> <!-- .content-wrap -->
+<aside class="sidebar">
+			<div class="widget social-icons-widget">
+				<div class="social-icons icon_32">
+		<a class="ttip" title="Rss" href="/rss/" ><i class="tieicon-rss"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/azcapitoltimes?ref=ts" ><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/azcapitoltimes" ><i class="tieicon-twitter"></i></a><a class="ttip" title="LinkedIn" href="http://www.linkedin.com/groups?gid=1368747" ><i class="tieicon-linkedin"></i></a><a class="ttip" title="cart" href="https://store.azcapitoltimes.com/" ><i class="tieicon-cart"></i></a>	</div>
+
+				</div>
+		<div id="text-html-widget-16" class="widget text-html"><div class="widget-top"><h4>Morning Edition</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div ><!-- ======================================================================================= -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="//news.azcapitoltimes.com/acton/formNegCap.css">
+<script type="text/javascript" src="//news.azcapitoltimes.com/acton/form/22716/0004/form.js">
+</script>
+<!-- ======================================================================================= -->
+<!-- place exactly one copy of everything above these lines in the head section of your page -->
+<!-- place everything below these lines in the body section of your page -->
+<!-- ======================================================================================= -->
+<form id="form_0004" method="post" enctype="multipart/form-data" action="//news.azcapitoltimes.com/acton/forms/userSubmit.jsp" accept-charset="UTF-8" target="_self">
+<input type="hidden" name="ao_a" value="22716" >
+<input type="hidden" name="ao_f" value="0004" >
+<input type="hidden" name="ao_d" value="0004:d-0001" >
+<input type="hidden" name="ao_p" id="ao_p" value="0" >
+<input type="hidden" name="ao_jstzo" id="ao_jstzo" value="" >
+<input type="hidden" name="ao_cuid" value="" >
+<input type="hidden" name="ao_srcid" value="" >
+<input type="hidden" name="ao_bot" id="ao_bot" value="yes" >
+<input type="hidden" name="ao_camp" value="" >
+<link rel="stylesheet" type="text/css" href="//news.azcapitoltimes.com/acton/form/22716/0004/form.css">
+<div id="ao_alignment_container" class="aoFormContainer" align="center">
+<table class="ao_tbl_container" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<div class="formField">
+<div class="formFieldLabel" id="form_0004_fld_0-Label">
+<label for = "form_0004_fld_0">
+Email Address</label>
+<b style="color: #FF0000; cursor: default" title="Required Field">
+*</b>
+</div>
+<input type="text" class="formFieldText formFieldMedium" id="form_0004_fld_0" name="Email" onBlur="singleCheck ('form_0004_fld_0', 'EMAIL', 'form_0004_fld_0-Label')">
+</div>
+<script type="text/javascript">
+if (typeof(addRequiredField) != 'undefined') { addRequiredField ('form_0004_fld_0'); } </script>
+<script type="text/javascript">
+if (typeof(addFieldToValidate) != 'undefined') { addFieldToValidate ('form_0004_fld_0', 'EMAIL'); } </script>
+</div>
+</td>
+</tr>
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<div class="formField">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="formField1Column" style="overflow: hidden">
+<table cellspacing="0" cellpadding="1" class="formField1Column">
+<tr>
+<td width="20" align="left">
+<input type="checkbox" name="Morning Edition" id="form_0004_fld_1-0" value="true" >
+</td>
+<td width="*" align="left" style="padding-top: 3px; padding-right: 10px">
+<label for="form_0004_fld_1-0" class="formFieldLabel checkboxFieldLabel">
+Morning Edition Email</label>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<div class="formField">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="formField1Column" style="overflow: hidden">
+<table cellspacing="0" cellpadding="1" class="formField1Column">
+<tr>
+<td width="20" align="left">
+<input type="checkbox" name="Special Offers & Events" id="form_0004_fld_2-0" value="true" >
+</td>
+<td width="*" align="left" style="padding-top: 3px; padding-right: 10px">
+<label for="form_0004_fld_2-0" class="formFieldLabel checkboxFieldLabel">
+Event Notification</label>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<input type="hidden" id="form_0004_fld_3" name="Alert Source" value="website">
+</div>
+</td>
+</tr>
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<input type="hidden" id="form_0004_fld_4" name="Special Subscription Offers" value="true">
+</div>
+</td>
+</tr>
+<tr>
+<td class="ao_tbl_cell" style="padding-left: 10px; padding-right: 10px" align="center">
+<div align="left">
+<input type="hidden" id="form_0004_fld_5" name="Special Offers from Select Partners" value="true">
+</div>
+</td>
+</tr>
+<!-- BUTTONS -->
+<tr>
+<td>
+ </td>
+</tr>
+<tr>
+<td style="padding-bottom: 10px" align="center" id="form_0004_ao_submit_button">
+<a id="form_0004_ao_submit_href" href="javascript: doSubmit(document.getElementById('form_0004'))">
+<img src="//news.azcapitoltimes.com/cdnr/50/acton/attachment/22716/f-003c/1/-/-/-/-/image.png" border="0">
+</a>
+</td>
+</tr>
+<tr class="formNegCap">
+<td>
+<input type="text" id="ao_form_neg_cap" name="ao_form_neg_cap" value="">
+</td>
+</tr>
+</table>
+</div>
+<img src='//news.azcapitoltimes.com/acton/form/22716/0004:d-0001/pgend.gif' width='1' height='1'>
+</form>
+				</div><div class="clear"></div></div></div><!-- .widget /--><div id="dmc_openx-855917721" class="widget widget_dmc_openx"><div id="open-x" align="left" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="widget-container">
+
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad2.dolanadserver.com/az/www/delivery/ajs.php':'http://ad2.dolanadserver.com/az/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=70");
+   document.write ('&amp;category=Featured News|legislature');
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad2.dolanadserver.com/az/www/delivery/ck.php?n=79bdd9&amp;cb=d4e6b6555e351a258f7518e57421d719' target='_blank'><img src='http://ad2.dolanadserver.com/az/www/delivery/avw.php?zoneid=70&amp;cb=d4e6b6555e351a258f7518e57421d719&amp;n=79bdd9' border='0' alt='' /></a></noscript>
+</div></div></div><!-- .widget /--><div id="dmc_openx-962554653" class="widget widget_dmc_openx"><div id="open-x" align="left" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="widget-container">
+
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad2.dolanadserver.com/az/www/delivery/ajs.php':'http://ad2.dolanadserver.com/az/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=49");
+   document.write ('&amp;category=Featured News|legislature');
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad2.dolanadserver.com/az/www/delivery/ck.php?n=13d3c7&amp;cb=adf55f4fa891f8d44e4f70c448506a3c' target='_blank'><img src='http://ad2.dolanadserver.com/az/www/delivery/avw.php?zoneid=49&amp;cb=adf55f4fa891f8d44e4f70c448506a3c&amp;n=13d3c7' border='0' alt='' /></a></noscript>
+</div></div></div><!-- .widget /-->		<div id="recent-posts-nocache-5" class="widget widget_recent_entries_nocache">		<div class="widget-top"><h4>Recent Posts</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<ul>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/" title="Giant utility drops lawsuit against ACC commissioner to stop records production">Giant utility drops lawsuit against ACC commissioner to stop records production</a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/mayors-say-duceys-borrowing-plan-for-pits-universities-against-cities/" title="Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;&lt;span class=&quot;dmcss_key_icon&quot;&gt;&lt;img alt=&quot;(access required)&quot; src=&quot;http://azcapitoltimes.com/files/2013/12/lock1.png&quot; border=0/&gt;&lt;/span&gt;">Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/ducey-supports-extending-prop-301-sales-tax/" title="Ducey supports extending Prop 301 sales tax">Ducey supports extending Prop 301 sales tax</a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/rising-mineral-demand-must-spur-new-mining-approach-in-u-s/" title="Rising Mineral Demand Must Spur New Mining Approach in U.S.">Rising Mineral Demand Must Spur New Mining Approach in U.S.</a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/expanding-school-choice-in-arizona-si-se-puede/" title="Expanding school choice in Arizona: ¡Sí, se puede!">Expanding school choice in Arizona: ¡Sí, se puede!</a>
+						</li>
+				</ul>
+		</div></div><!-- .widget /--></aside>
+<div class="clear"></div>		<div class="clear"></div>
+	</div><!-- .container /-->
+
+	<div class="e3lan-bottom">					
+			<a href="https://subscribe.azcapitoltimes.com/index.cfm" title="" >
+				<img src="http://azcapitoltimes.com/files/2016/09/728x90-RTA-AZ-copy.jpg" alt="" />
+			</a>
+				</div>	</div><!-- .container -->
+
+	<footer class="fade-in animated4">
+	<div id="footer-widget-area" class="footer-4c container">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="text-html-widget-4" class="footer-widget text-html"><div class="footer-widget-top"><h4>My Account</h4></div>
+						<div class="footer-widget-container"><div ><ul id="footer-top-menu-liney">
+
+<li>
+<a href="/news/2017/02/22/arizona-senate-crackdown-on-protests/?dmcss=login">LOG IN</a>
+</li>
+<li>
+<a href="https://subscribe.azcapitoltimes.com/">SUBSCRIBE</a>
+</li>
+<li>
+<a href="https://subscribe.azcapitoltimes.com/index.cfm?display=login/">MANAGE ACCT</a>
+</li>
+<li>
+<a href="http://bridgetowermedia.com/privacy-policy/">PRIVACY POLICY</a>
+</li>
+<li>
+<a href="http://bridgetowermedia.com/subscriber-agreement/">SUBSCRIBER AGREEMENT</a>
+</li>
+</ul>
+				</div><div class="clear"></div></div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+					<div id="recent-posts-nocache-2" class="footer-widget widget_recent_entries_nocache">		<div class="footer-widget-top"><h4>Recent Posts</h4></div>
+						<div class="footer-widget-container">		<ul>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/" title="Giant utility drops lawsuit against ACC commissioner to stop records production">Giant utility drops lawsuit against ACC commissioner to stop records production</a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/mayors-say-duceys-borrowing-plan-for-pits-universities-against-cities/" title="Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;&lt;span class=&quot;dmcss_key_icon&quot;&gt;&lt;img alt=&quot;(access required)&quot; src=&quot;http://azcapitoltimes.com/files/2013/12/lock1.png&quot; border=0/&gt;&lt;/span&gt;">Mayors say Ducey’s borrowing plan pits universities against cities&nbsp;<span class="dmcss_key_icon"><img alt="(access required)" src="http://azcapitoltimes.com/files/2013/12/lock1.png" border=0/></span></a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/ducey-supports-extending-prop-301-sales-tax/" title="Ducey supports extending Prop 301 sales tax">Ducey supports extending Prop 301 sales tax</a>
+						</li>
+					<li>
+				<a href="http://azcapitoltimes.com/news/2017/03/10/rising-mineral-demand-must-spur-new-mining-approach-in-u-s/" title="Rising Mineral Demand Must Spur New Mining Approach in U.S.">Rising Mineral Demand Must Spur New Mining Approach in U.S.</a>
+						</li>
+				</ul>
+		</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+			<div id="footer-third" class="footer-widgets-box">
+			<div id="text-html-widget-3" class="footer-widget text-html"><div class="footer-widget-top"><h4>ARIZONA NEWS SERVICE PRODUCTS</h4></div>
+						<div class="footer-widget-container"><div ><li>
+<a href="http://yellowsheetreport.com/">YELLOW SHEET REPORT</a>
+</li>
+<li>
+<a href="http://azcapitolreports.com/">LEGISLATION ON LINE ARIZONA (LOLA)</a>
+</li>
+<li>
+<a href="http://www2.azcapitolreports.com">AZ CAPITOL REPORTS</a>
+</li>
+<li>
+<a href="http://azcapitoltimes.com/azlobbyists">AZ LOBBYISTS</a>
+</li>
+<li>
+<a href="https://store.azcapitoltimes.com">CAPITOL STORE</a>
+</li>
+
+</ul>
+<p></p>
+				</div><div class="clear"></div></div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
+	
+			<div id="footer-fourth" class="footer-widgets-box">
+			<div id="text-html-widget-2" class="footer-widget text-html"><div class="footer-widget-top"><h4>Arizona Capitol Times</h4></div>
+						<div class="footer-widget-container"><div ><li>
+<a href="/about-us/">ABOUT</a>
+</li>
+<li>
+<a href="/staff-contacts/">CONTACT US</a>
+</li>
+<li>
+<a href="/events/">EVENTS</a>
+</li>
+<li>
+<a href="/frequently-asked-questions/">FREQUENTLY ASKED QUESTIONS</a>
+</li>
+
+
+</ul>
+<p></p>
+				</div><div class="clear"></div></div></div><!-- .widget /--><div id="social-4" class="footer-widget social-icons-widget"><div class="footer-widget-top"><h4>Social</h4></div>
+						<div class="footer-widget-container">	<div class="social-icons icon_32">
+		<a class="ttip" title="Rss" href="/rss/" ><i class="tieicon-rss"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/azcapitoltimes?ref=ts" ><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/azcapitoltimes" ><i class="tieicon-twitter"></i></a><a class="ttip" title="LinkedIn" href="http://www.linkedin.com/groups?gid=1368747" ><i class="tieicon-linkedin"></i></a><a class="ttip" title="cart" href="https://store.azcapitoltimes.com/" ><i class="tieicon-cart"></i></a>	</div>
+
+	</div></div><!-- .widget /-->		</div><!-- #fourth .widget-area -->
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+	<div class="clear"></div>
+	<div class="footer-bottom fade-in animated4">
+		<div class="container">
+				<div class="social-icons icon_flat">
+		<a class="ttip" title="Rss" href="/rss/" target="_blank"><i class="tieicon-rss"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/azcapitoltimes?ref=ts" target="_blank"><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/azcapitoltimes" target="_blank"><i class="tieicon-twitter"></i></a><a class="ttip" title="LinkedIn" href="http://www.linkedin.com/groups?gid=1368747" target="_blank"><i class="tieicon-linkedin"></i></a><a class="ttip" title="cart" href="https://store.azcapitoltimes.com/" target="_blank"><i class="tieicon-cart"></i></a>	</div>
+
+				<div class="alignleft">
+			<span class="four_fifth">Copyright © 2017 <span class="vcard"><span class="fn n org">Arizona Capitol Times</span> <span class="adr"><span class="street-address">1835 W. Adams Street</span>, <span class="locality">Phoenix</span>, <span class="region">AZ</span> <span class="postal-code">85007</span></span> <a href="tel:(602) 258-7026">(602) 258-7026</a></span></span>
+<span class="one_fifth_last"><a href="http://bridgetowermedia.com" style="max-width:140px;"><img alt="bridge tower media logo" src="http://bridgetowermedia.com/files/2016/08/btmlogo140.svg" onerror="this.onerror=null; this.src='http://bridgetowermedia.com/files/2016/08/btmlogo140.png'" scale="0" data-pin-nopin="true" style="max-width:140px;width:100%;"></a></span>
+			</div>
+		</div><!-- .Container -->
+	</div><!-- .Footer bottom -->
+
+</div><!-- .Wrapper -->
+	<div id="topcontrol" class="tieicon-up-open" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+
+	<section id="check-also-box" class="post-listing fade-in animated3 check-also-right">
+		<a href="#" id="check-also-close">x</a>
+
+		<div class="block-head">
+			<h3>Check Also</h3>
+		</div>
+
+				<div class = "check-also-post">
+						<div class="post-thumbnail">
+				<a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/">
+					<img width="620" height="330" src="http://azcapitoltimes.com/files/2017/01/burnsb03-WEB.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Bob Burns explains Tuesday why he was the lone vote against selecting Tom Forese as new chairman of the Arizona Corporation Commission (Capitol Media Services photo by Howard Fischer)" srcset="http://azcapitoltimes.com/files/2017/01/burnsb03-WEB.jpg 620w, http://azcapitoltimes.com/files/2017/01/burnsb03-WEB-100x53.jpg 100w, http://azcapitoltimes.com/files/2017/01/burnsb03-WEB-300x160.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" />					<span class="fa overlay-icon"></span>
+				</a>
+			</div><!-- post-thumbnail /-->
+						<h2 class="post-title"><a href="http://azcapitoltimes.com/news/2017/03/11/giant-utility-drops-lawsuit-against-acc-commissioner-to-stop-records-production/" rel="bookmark">Giant utility drops lawsuit against ACC commissioner to stop records production</a></h2>
+			<p>The state's largest electric utility may have outmaneuvered a utility regulator in the fight over its records about its campaign spending.</p>
+		</div>
+			</section>
+
+
+	<script type='text/javascript'>/* <![CDATA[ */ var portfolioSlideshowOptions = {  psHash:false, psLoader:false, psFluid:false };/* ]]> */</script>	<div style="display:none">
+	<div class="grofile-hash-map-29691bbb1a92b2d4f388d81289612e6c">
+	</div>
+	<div class="grofile-hash-map-b769b7d66b5019dd288a16ae502a3747">
+	</div>
+	<div class="grofile-hash-map-86b08f4eb1875d84a7f7d53b89f2d2ad">
+	</div>
+	<div class="grofile-hash-map-16714d6efe34894270430cbd4341d123">
+	</div>
+	<div class="grofile-hash-map-f7eb8e3ac3d061c1eeb5c269e095e7ff">
+	</div>
+	<div class="grofile-hash-map-bf874e40a3c047a6bd43f0d538fa4d75">
+	</div>
+	<div class="grofile-hash-map-42c17c7c222d47e36a8df3e03ef39e59">
+	</div>
+	<div class="grofile-hash-map-a04e6806ae25c6777a1e234809468be1">
+	</div>
+	<div class="grofile-hash-map-32740a854e8d9d3d9fc49c05ffecb3e2">
+	</div>
+	<div class="grofile-hash-map-ec85681ed7a05fff412c2d07cb6646fc">
+	</div>
+	<div class="grofile-hash-map-28313614972742348025b77c8194ceec">
+	</div>
+	<div class="grofile-hash-map-09dbdc9a22d8de6d1e4aa93e566cd52f">
+	</div>
+	</div>
+<script type="text/javascript">
+jQuery(".close-ad-image").click(function() {
+    jQuery(this).parent().hide();
+});
+
+jQuery(document).ready(function($){
+  
+	$(".top-menu-footer-liney").click(function(event){
+    
+		event.preventDefault();
+    
+		var offset = $($(this).attr('href')).offset().top;
+	
+		offset = offset - 200;
+    
+		$('html, body').animate({scrollTop:offset}, 3000);
+  
+	});
+
+});
+</script>
+<script type="text/javascript">
+  var _sf_async_config = { uid: 62781, domain: 'azcapitoltimes.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-xtgx5mrmdbzfoomm-holder"></div><script>var xtgx5mrmdbzfoomm,xtgx5mrmdbzfoomm_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){xtgx5mrmdbzfoomm_poll(function(){if(window['om_loaded']){if(!xtgx5mrmdbzfoomm){xtgx5mrmdbzfoomm=new OptinMonsterApp();return xtgx5mrmdbzfoomm.init({"u":"27520.495446","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;xtgx5mrmdbzfoomm=new OptinMonsterApp();xtgx5mrmdbzfoomm.init({"u":"27520.495446","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/azcapitoltimes.com\/news\/2017\/02\/22\/arizona-senate-crackdown-on-protests\/":102908};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/news/2017/02/22/arizona-senate-crackdown-on-protests/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://azcapitoltimes.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		            <script type="text/javascript">
+            var sub = document.getElementById('submit');
+            document.getElementById('recaptcha-submit-btn-area').appendChild (sub);
+            document.getElementById('submit').tabIndex = 6;
+            if ( typeof _recaptcha_wordpress_savedcomment != 'undefined') {
+                document.getElementById('comment').value = 
+                    _recaptcha_wordpress_savedcomment;
+            }
+            </script><script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/akismet/_inc/form.js'></script>
+<link rel='stylesheet' id='site_nonspecific-css'  href='http://azcapitoltimes.com/wp-content/mu-plugins/site_css/common.css' type='text/css' media='all' />
+<link rel='stylesheet' id='j_azcapitoltime-css'  href='http://azcapitoltimes.com/wp-content/mu-plugins/site_css/azcapitoltimes/1/j_azcapitoltimes.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/portfolio-slideshow/js/jquery.cycle.all.min.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/portfolio-slideshow/js/portfolio-slideshow.min.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/mu-plugins/mkt/mkt_footer.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/azcapitoltimes.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/wp-polls/polls-js.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/themes/jarida/js/mobilemenu.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"go_to":"Go to...","ajaxurl":"http:\/\/azcapitoltimes.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","is_singular":"1","reading_indicator":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/themes/jarida/js/tie-scripts.js'></script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://azcapitoltimes.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201710.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'43761567',post:'102908',tz:'-7',srv:'azcapitoltimes.com'} ]);
+	_stq.push([ 'clickTrackerInit', '43761567', '102908' ]);
+</script>
+</body>
+</html>

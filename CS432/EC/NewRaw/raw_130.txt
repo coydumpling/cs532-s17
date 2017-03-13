@@ -1,0 +1,2348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="initial-scale=1.0,width=device-width,height=device-height,user-scalable=no" />
+<meta name="google-site-verification" content="nfPVut3DNEWv3BaV0stQ8yOV3TeBg_TWFdQzQYaG8Qs" />
+<meta name="robots" content="noodp">
+<title>Adam Purinton: 5 Fast Facts You Need to Know | Heavy.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://heavy.com/xmlrpc.php">
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', "UA-1995064-1", 'auto');
+	ga("set", "dimension1", "christopherbucher " );
+ga("set", "dimension2", "news " );
+ga("set", "dimension3", "5-fast-facts breaking-news " );
+	ga('send', 'pageview');
+	</script>
+			<script type="text/javascript" src="//heavy-d.openx.net/w/1.0/jstag?nc=25816858-Heavy"></script>
+				<script type='text/javascript'>
+			var amznads = amznads || {};
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			amznads.asyncParams = {
+				'id': '3372',
+				'callbackFn': function() {
+					try {
+						amznads.setTargetingForGPTAsync('amznslots');
+					} catch (e) { /*ignore*/ }
+					/* No additional DFP actions at this time (optional) */
+				},
+				'timeout': 900
+			};
+			(function() {
+				var a, s = document.getElementsByTagName("script")[0];
+				a = document.createElement("script");
+				a.type = "text/javascript";
+				a.async = true;
+				a.src = "//c.amazon-adsystem.com/aax2/amzn_ads.js";
+				s.parentNode.insertBefore(a, s);
+			})();
+		</script>
+					<script src="//biddr.brealtime.com/52879498-548.js" type="text/javascript"></script>
+			
+<meta name="description" content="Adam Purinton allegedly made racial slurs before shooting three people at a bar in Olathe, Kansas. He was charged with first degree murder February 23." /><meta name="news_keywords" content="adam purinton, olathe shooting, suspect, muslim, islam, veteran" />
+<meta name="keywords" content="adam purinton, olathe shooting, suspect, muslim, islam, veteran" />
+<link rel="canonical" href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" />
+
+<meta name="msvalidate.01" content="6B91908B6DE3C8B1A43FF7106ADE2978" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=heavy.com&amp;id=62957618&amp;t=1489275427&amp;back=http%3A%2F%2Fheavy.com%2Fnews%2F2017%2F02%2Fadam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//heavyeditorial.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Heavy.com &raquo; Feed" href="http://heavy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Heavy.com &raquo; Comments Feed" href="http://heavy.com/comments/feed/" />
+<meta name="author" content="Chris Bucher">
+<!-- rel="image_src" -->
+<link rel="image_src" href="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-0-e1487867090422.jpg?quality=65&#038;strip=all&#038;w=478&#038;h=360&#038;crop=1" />
+<!-- Facebook Open Graph - Custom Tags - single post -->
+<meta property="fb:admins" content="1041016861" />
+<meta property="article:publisher" content="https://www.facebook.com/heavycom" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@heavysan" />
+<meta name="twitter:url" content="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" />
+<meta name="twitter:creator" content="@heavysan" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJx9jtEKwjAMRX/I2DmH6IP4LV0XXLemDU3Kft9u4ItIX0JuOIcbszG4FBWjGirAobx9FBP8imIWVLZuhSOdncjJ/MczBqs4ASfRn9TSXMpY78RWd4Jw8hYDUsVaGvHta+3rXF9s1mxcaRhHzigCdZIvBDrXosN70fMyXPtH3w33bvkAqhhlyw==' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJyFT1sOgkAMvJClGAnqh/Esy1KXmn0QtkC4vatEiRrxo8nMZB4pji3o4IW8oDTkKOLALTakhgmjTJYyHeMG12zJMFvBKfaZS/c3w15ja3vDPs4KdGSVUA2iqggj14YEmw996Wb0QTjVxxf4GnU9PCcMBbBBK+Hg3whcrOJuLdpRZYNJ0DweXeivJ5sCjQ2VsnfD2Z22xSHflcdyn19v8z+IEA==' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_params = {"debug":"","catList":"news","dfpTags":"[null]","isAMP":"","ad_slots":"[[0,\"Heavy_ROS_300x250\",\"div-gpt-ad-1358362797405-0\",\"\\\/25816858\\\/Heavy_ROS_300x250\",\"[[160,600],[300,250],[300,600]]\",\"\",\"on\",\"on\",\"on\",\"\",\"\",\"359015\",\"8805505\",\"\",\"\",\"on\"],[1,\"Heavy_ROS_728x90\",\"div-gpt-ad-1358362848155-0\",\"\\\/25816858\\\/Heavy_ROS_728x90\",\"[[728,90],[970,40],[970,66],[970,90],[970,250],[990,250],[1100,250],[990,90]]\",\"\",\"on\",\"\",\"on\",\"\",\"on\",\"359017\",\"8805507\",\"\",\"\",\"\"],[2,\"Heavy_ROS_300x250_Opslot\",\"div-gpt-ad-1358365320689-0\",\"\\\/25816858\\\/Heavy_ROS_300x250_Opslot\",\"[[160,600],[300, 250],[300, 600]]\",\"\",\"on\",\"on\",\"on\",\"\",\"\",\"359016\",\"8805506\",\"\",\"\",\"on\"],[3,\"MR Infinite Scroll\",\"div-gpt-ad-1423069109512\",\"\\\/25816858\\\/Heavy_mr_infinite_scroll\",\"[300,250]\",\"\",\"on\",\"on\",\"on\",\"Custom code in site_script.js - slot # appended\",\"on\",\"359019\",\"8805509\",\"\",\"\",\"\"],[4,\"MR Infinite Scroll 2\",\"div-gpt-ad-1426522444566\",\"\\\/25816858\\\/Heavy_mr_infinite_scroll_2\",\"[300,250]\",\"\",\"on\",\"on\",\"on\",\"Custom code in site_script.js - slot # appended\",\"on\",\"359020\",\"8805512\",\"\",\"\",\"\"],[5,\"MR Infinite Scroll 3\",\"div-gpt-ad-1426522471869\",\"\\\/25816858\\\/Heavy_mr_infinite_scroll_3\",\"[300,250]\",\"\",\"on\",\"on\",\"on\",\"Custom code in site_script.js - slot # appended\",\"on\",\"359021\",\"8805513\",\"\",\"\",\"\"],[6,\"MR Infinite Scroll 4\",\"div-gpt-ad-1426534906908\",\"\\\/25816858\\\/Heavy_mr_infinite_scroll_4\",\"[300,250]\",\"\",\"on\",\"on\",\"on\",\"Custom code in site_script.js - slot # appended\",\"on\",\"359022\",\"8805514\",\"\",\"\",\"\"],[7,\"Sharethrough - Right Rail\",\"div-gpt-ad-1425670291315-0\",\"\\\/25816858\\\/Heavy_ShareThrough_RightRail\",\"[[1,1],[6,6],[300,250]]\",\"3e88ce15\",\"on\",\"on\",\"on\",\"\",\"\",\"365718\",\"8805511\",\"\",\"\",\"\"],[8,\"Heavy_Action_300x600\",\"div-gpt-ad-1419380184660-0\",\"\\\/25816858\\\/Heavy_Action_300x600\",\"[[160,600],[300, 250], [300, 600],[300, 500]]\",\"\",\"on\",\"on\",\"on\",\"\",\"\",\"359018\",\"8805508\",\"\",\"\",\"\"],[9,\"Heavy_Action_300x600 w\\\/Sharethrough\",\"div-gpt-ad-1234567891234-0\",\"\\\/25816858\\\/Heavy_Action_300x600\",\"[[300,250],[300,600],[300,500]]\",\"\",\"on\",\"on\",\"on\",\"A dual ad that brings in the Sharethrough - Right Rail above it. \",\"\",\"\",\"\",\"\",\"\",\"\"],[10,\"RevContent\",\"rcjsload_e5fbeb\",\"\",\"\",\"\",\"on\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[11,\"RevContent News\",\"rcjsload_e6fbeb\",\"\",\"\",\"\",\"\",\"\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[12,\"RevContent Sports\",\"rcjsload_e8fbeb\",\"\",\"\",\"\",\"\",\"\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[13,\"RevContent Tech\",\"rcjsload_e7fbec\",\"\",\"\",\"\",\"\",\"\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[14,\"RevContent Ent\",\"rcjsload_e7fbeb\",\"\",\"\",\"\",\"\",\"\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[15,\"RevContent Mobile Toaster\",\"RevContentMobileToaster\",\"\",\"\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"\"],[16,\"RevContent RevShifter\",\"RevContentRevShifter\",\"\",\"\",\"\",\"\",\"\",\"on\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[17,\"Mobile Sticky Ad\",\"div-gpt-ad-144174418932-0\",\"\\\/25816858\\\/Mobile_Sticky_Ad\",\"[[728, 90], [320, 50]]\",\"\",\"\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[18,\"Mobile Adhesion 320x50\",\"Mobile_Adhesion_320x50\",\"\\\/25816858\\\/Heavy_Mobile_Adhesion_320x50\",\"[[1,1], [320,50], [320,100], [728,90]]\",\"\",\"\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"\",\"on\"],[19,\"Mobile InPost 1x1\",\"Mobile_InPost_1x1\",\"\\\/25816858\\\/Heavy_Mobile_InPost_1x1\",\"[1,1]\",\"\",\"\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"\",\"on\"],[20,\"Mobile InArticle 300x250\",\"Mobile_InArticle_300x250\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250\",\"[[300, 250],[728, 90]]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"on\"],[21,\"Mobile InArticle 300x250 - 2\",\"Mobile_InArticle_300x250_2\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_2\",\"[[1,1],[300, 250],[728, 90]]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"on\"],[22,\"Mobile InArticle 300x250 - 3\",\"Mobile_InArticle_300x250_3\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_3\",\"[[300, 250],[728, 90]]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"on\"],[23,\"AMP InArticle 300x250\",\"AMP_InArticle_300x250\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250\",\"[300,250]\",\"\",\"on\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[24,\"AMP InArticle 300x250 - 2\",\"AMP_InArticle_300x250_2\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_2\",\"[300,250]\",\"\",\"on\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[25,\"AMP InArticle 300x250 - 3\",\"AMP_InArticle_300x250_3\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_3\",\"[300,250]\",\"\",\"on\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[26,\"AMP Adhesion 320x50\",\"AMP_Adhesion_320x50\",\"\\\/25816858\\\/Heavy_Mobile_Adhesion_320x50\",\"[[1,1], [320,50], [320,100], [728,90]]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"\"],[27,\"AMP InPost 1x1\",\"AMP_InPost_1x1\",\"\\\/25816858\\\/Heavy_Mobile_InPost_1x1\",\"[1,1]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[28,\"AMP Rev Content\",\"rcjsload_3804df\",\"\",\"\",\"\",\"on\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"on\",\"\"],[29,\"AMP Mobile InArticle 300x250\",\"Heavy_AMP_Mobile_InArticle_300x250\",\"\\\/25816858\\\/Heavy_AMP_Mobile_InArticle_300x250\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Restored Old Tag for testing.\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[30,\"AMP Mobile InArticle 300x250 - 2\",\"Heavy_AMP_Mobile_InArticle_300x250\",\"\\\/25816858\\\/Heavy_AMP_Mobile_InArticle_300x250_2\",\"[300,250]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[31,\"AMP Mobile InArticle 300x250 - 3\",\"Heavy_AMP_Mobile_InArticle_300x250_3\",\"\\\/25816858\\\/Heavy_AMP_Mobile_InArticle_300x250_3\",\"[300,250]\",\"\",\"\",\"on\",\"\",\" \",\"\",\"\",\"\",\"\",\"on\",\"on\"],[32,\"RevContent RightRail\",\"rcjsload_fb5ae3\",\"\",\"\",\"\",\"on\",\"\",\"\",\" \",\"\",\"\",\"\",\"\",\"\",\"\"],[33,\"Heavy_Leaderboard_728X90\",\"Heavy_Leaderboard_728X90\",\"\\\/25816858\\\/Heavy_Leaderboard_728X90\",\"[[728, 90], [970,250]]\",\"\",\"on\",\"\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[34,\"Heavy_Scrolling_Display_300x250_3\",\"Heavy_Scrolling_Display_300x250_3\",\"\\\/25816858\\\/Heavy_Scrolling_Display_300x250_3\",\"[300,250]\",\"\",\"on\",\"\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[35,\"Heavy_Scrolling_Display_300x600\",\"Heavy_Scrolling_Display_300x600\",\"\\\/25816858\\\/Heavy_Scrolling_Display_300x600\",\"[[160,600], [300,250], [300,600]]\",\"\",\"on\",\"\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[36,\"Heavy_Static_Display_FlexSize_2\",\"Heavy_Static_Display_FlexSize_2\",\"\\\/25816858\\\/Heavy_Static_Display_FlexSize_2\",\"[[160,600], [300,250], [300,600]]\",\"\",\"on\",\"\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[37,\"Heavy_Static_Display_FlexSize\",\"Heavy_Static_Display_FlexSize\",\"\\\/25816858\\\/Heavy_Static_Display_FlexSize\",\"[[160,600], [300,250], [300,600]]\",\"\",\"on\",\"\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[38,\"Heavy_Amp_InArticle_300x250_6\",\"Heavy_Amp_InArticle_300x250_6\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_6\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[39,\"Heavy_Amp_InArticle_300x250_Bottom_Article\",\"Heavy_Amp_InArticle_300x250_Bottom_Article\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_Bottom_Article\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[40,\"Heavy_Desktop_InArticle_1\",\"Heavy_Desktop_InArticle_1\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_1\",\"[[728, 90], [970, 250]]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[41,\"Heavy_Desktop_InArticle_2\",\"Heavy_Desktop_InArticle_2\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_2\",\"[728, 90]\",\"\",\"\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[42,\"Heavy_Desktop_InArticle_4\",\"Heavy_Desktop_InArticle_4\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_4\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[43,\"Heavy_Desktop_InArticle_5\",\"Heavy_Desktop_InArticle_5\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_5\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[44,\"Heavy_Desktop_InArticle_6\",\"Heavy_Desktop_InArticle_6\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_6\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[45,\"Heavy_Desktop_InArticle_Bottom_Article\",\"Heavy_Desktop_InArticle_Bottom_Article\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_Bottom_Article\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[46,\"Heavy_Mobile_InArticle_300x250_7\",\"Heavy_Mobile_InArticle_300x250_7\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_7\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[47,\"Heavy_Mobile_InArticle_300x250_Bottom_Article\",\"Heavy_Mobile_InArticle_300x250_Bottom_Article\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_Bottom_Article\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[48,\"Heavy_Mobile_InArticle_300x250_4\",\"Heavy_Mobile_InArticle_300x250_4\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_4\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[49,\"Heavy_Mobile_InArticle_300x250_5\",\"Heavy_Mobile_InArticle_300x250_5\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_5\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[50,\"Heavy_Amp_InArticle_300x250_5\",\"Heavy_Amp_InArticle_300x250_5\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_5\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[51,\"Heavy_Amp_InArticle_300x250_4\",\"Heavy_Amp_InArticle_300x250_4\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_4\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[52,\"Heavy_Amp_InArticle_300x250_7\",\"Heavy_Amp_InArticle_300x250_7\",\"\\\/25816858\\\/Heavy_Amp_InArticle_300x250_7\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"on\",\"on\"],[53,\"Heavy_Desktop_InArticle_6\",\"Heavy_Desktop_InArticle_6\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_6\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[54,\"Heavy_Desktop_InArticle_3\",\"Heavy_Desktop_InArticle_3\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_3\",\"[[728, 90], [970, 250]]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[55,\"Heavy_Mobile_InArticle_300x250_6\",\"Heavy_Mobile_InArticle_300x250_6\",\"\\\/25816858\\\/Heavy_Mobile_InArticle_300x250_6\",\"[300,250]\",\"\",\"\",\"on\",\"\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[56,\"Heavy_Desktop_InArticle_7\",\"Heavy_Desktop_InArticle_7\",\"\\\/25816858\\\/Heavy_Desktop_InArticle_7\",\"[728, 90]\",\"\",\"on\",\"\",\"on\",\"Click Here\",\"\",\"\",\"\",\"\",\"\",\"on\"],[57,\"AMP RevContent\",\"heavy_3804df\",\"\",\"\",\"\",\"on\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"on\",\"\"],[58,\"AMP A4A RevContent\",\"heavy_3804df\",\"\",\"\",\"\",\"on\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"on\",\"\"],[59,\"AMP A4A Ahora RevContent\",\"heavy_3804df\",\"\",\"\",\"\",\"on\",\"on\",\"on\",\" \",\"\",\"\",\"\",\"\",\"on\",\"\"]]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyNkOsOwiAMhV9IRM2M/jE+C7LKiuMihS369HbGmaiLmpAU2q8nhyP7KNDrttRA0vI5F0iXR5lbmslvgHBoksowd+hHWAefweeBdeGALYhCkJThHgsdwwQXA2UHRAxNTF8toe8Q+p+YhRyVPokEhNcPVVdEbItBTzJByx+oxeDh7fW+lRtgl7LDKBtQ3UVyLnLUuXeEUc/LVCYfCuyb+mM4WND53wUTguFUszKDw73bLavtZrVdrquFvQGzlqzl'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://heavyeditorial.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fheavy.com%2Fnews%2F2017%2F02%2Fadam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fheavy.com%2Fnews%2F2017%2F02%2Fadam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/6e68a7d5b8fce58735ab84f887ee5981?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/6e68a7d5b8fce58735ab84f887ee5981?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/6e68a7d5b8fce58735ab84f887ee5981?s=114" />
+<link rel='openid.server' href='http://heavyeditorial.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://heavyeditorial.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://heavy.com/osd.xml" title="Heavy.com" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+		<meta name="application-name" content="Heavy.com" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Breaking News, Sports, Entertainment, TV, Tech, Gaming &amp; Health." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://heavy.com/feed/;icon-uri=http://0.gravatar.com/blavatar/6e68a7d5b8fce58735ab84f887ee5981?s=16" /><meta property="og:site_name" content="Heavy.com" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="1103740676351644" />
+<meta property="og:url" content="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" />
+<meta property="og:title" content="Adam Purinton: 5 Fast Facts You Need to Know" />
+<meta property="og:description" content="Adam Purinton allegedly made racial slurs before shooting three people at a bar in Olathe, Kansas. He was charged with&hellip;" />
+<meta property="article:published_time" content="2017-02-23T16:28:18+00:00" />
+<meta property="article:modified_time" content="2017-02-23T22:24:55+00:00" />
+<meta property="article:author" content="http://heavy.com/author/christopherbucher/" />
+<meta property="article:section" content="News" />
+<meta property="article:tag" content="5 Fast Facts" />
+<meta property="article:tag" content="Breaking News" />
+<meta property="og:image" content="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-0-e1487867090422.jpg?quality=65&amp;strip=all" />
+<meta property="og:image:width" content="478" />
+<meta property="og:image:height" content="464" />
+<link rel="amphtml" href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=4ga9s&#038;cscache=6&#038;csrev=4" />
+			<script>var mobile = ( /Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test( navigator.userAgent.toLowerCase() ) );</script>
+	
+<script>jQuery(document).ready(function($){$(".hvy-tabs").tabs();$(".hvy-tabs").show()});</script>
+<!--[if lt IE 9]>
+  <script src="https://s0.wp.com/wp-content/themes/vip/heavy/js/html5shiv.js"></script>
+  <script src="https://s0.wp.com/wp-content/themes/vip/heavy/js/respond.js"></script>
+  <link type="text/css" rel="stylesheet" id="ie" href="https://s0.wp.com/wp-content/themes/vip/heavy/ie.css" media="all" />
+<![endif]-->
+</head>
+<body class="post-template-default single single-post postid-1399904 single-format-standard mp6 customizer-styles-applied group-blog highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+<div class='pushdown-container'>
+  			<div id='Heavy_Leaderboard_728X90' class = 'heavy_leaderboard_728x90 heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Leaderboard_728X90', [[728, 90], [970,250]], 'Heavy_Leaderboard_728X90').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Leaderboard_728X90');
+					});
+				</script>
+			</div> 
+  
+  <div class="header main-navigation">
+    <div class="logo-bar">
+      <a href="http://heavy.com" title="Heavy"><img src="https://s0.wp.com/wp-content/themes/vip/heavy/images/heavy-logo.png" width="154" height="51" title="Heavy" class="Heavy"></a>
+    </div>
+    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-612566" class="menu-item-news menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children item-news first-menu-item current-post-ancestor current-menu-parent current-post-parent menu-item-has-children current-menu-ancestor item-news first-menu-item menu-item-612566"><a href="http://heavy.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-619795" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-breaking-news first-menu-item item-breaking-news first-menu-item menu-item-619795"><a href="http://heavy.com/tag/breaking-news/">Breaking News</a></li>
+	<li id="menu-item-619796" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-5-fast-facts menu-item-619796"><a href="http://heavy.com/tag/5-fast-facts/">5 Fast Facts</a></li>
+	<li id="menu-item-1017248" class="menu-item menu-item-type-custom menu-item-object-custom item-crime menu-item-1017248"><a href="http://heavy.com/tag/crime/">Crime</a></li>
+	<li id="menu-item-1017251" class="menu-item menu-item-type-custom menu-item-object-custom item-politics menu-item-1017251"><a href="http://heavy.com/tag/politics">Politics</a></li>
+	<li id="menu-item-619797" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-celebrities item-celebrities last-menu-item menu-item-619797"><a href="http://heavy.com/tag/celebrities/">Celebrities</a></li>
+</ul>
+</li>
+<li id="menu-item-775868" class="menu-item-sports menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children item-sports current-post-ancestor current-menu-parent current-post-parent current-menu-ancestor menu-item-has-children item-sports menu-item-775868"><a href="http://heavy.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-1016915" class="menu-item menu-item-type-post_type menu-item-object-page item-odds first-menu-item menu-item-1016915"><a href="http://heavy.com/nfl-odds/">Odds</a></li>
+	<li id="menu-item-849791" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-betting item-betting menu-item-849791"><a href="http://heavy.com/tag/sports-betting/">Betting</a></li>
+	<li id="menu-item-775871" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-nfl menu-item-775871"><a href="http://heavy.com/tag/nfl/">NFL</a></li>
+	<li id="menu-item-775875" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-college-football menu-item-775875"><a href="http://heavy.com/tag/college-football/">College Football</a></li>
+	<li id="menu-item-775879" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-soccer item-soccer menu-item-775879"><a href="http://heavy.com/tag/soccer/">Soccer</a></li>
+	<li id="menu-item-775881" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-baseball menu-item-775881"><a href="http://heavy.com/tag/baseball/">Baseball</a></li>
+	<li id="menu-item-775884" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-golf item-golf menu-item-775884"><a href="http://heavy.com/tag/golf/">Golf</a></li>
+	<li id="menu-item-775877" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-basketball item-basketball menu-item-775877"><a href="http://heavy.com/tag/basketball/">Basketball</a></li>
+	<li id="menu-item-777280" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-wags last-menu-item item-wags menu-item-777280"><a href="http://heavy.com/tag/wags/">WAGs</a></li>
+	<li id="menu-item-867843" class="menu-item menu-item-type-custom menu-item-object-custom item-ufc last-menu-item menu-item-867843"><a href="http://heavy.com/tag/mma">UFC</a></li>
+</ul>
+</li>
+<li id="menu-item-612565" class="menu-item-entertainment menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children item-entertainment menu-item-612565"><a href="http://heavy.com/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-696644" class="menu-item menu-item-type-custom menu-item-object-custom item-television first-menu-item menu-item-696644"><a href="http://heavy.com/tag/tv/">Television</a></li>
+	<li id="menu-item-619772" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-celebs menu-item-619772"><a href="http://heavy.com/tag/celebrities/">Celebs</a></li>
+	<li id="menu-item-1390025" class="menu-item menu-item-type-custom menu-item-object-custom item-music menu-item-1390025"><a href="http://heavy.com/tag/music/">Music</a></li>
+	<li id="menu-item-619774" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-movies first-menu-item item-movies menu-item-619774"><a href="http://heavy.com/tag/movies/">Movies</a></li>
+	<li id="menu-item-741731" class="menu-item menu-item-type-custom menu-item-object-custom item-5-fast-facts menu-item-741731"><a href="http://heavy.com/tag/5-fast-facts/">5 Fast Facts</a></li>
+	<li id="menu-item-619778" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-funny-videos menu-item-619778"><a href="http://heavy.com/tag/funny-videos/">Funny Videos</a></li>
+	<li id="menu-item-619790" class="menu-item menu-item-type-taxonomy menu-item-object-category item-web-social last-menu-item menu-item-619790"><a href="http://heavy.com/social/">Web &amp; Social</a></li>
+</ul>
+</li>
+<li id="menu-item-612568" class="menu-item-tech menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children item-tech menu-item-has-children item-tech menu-item-612568"><a href="http://heavy.com/tech/">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-619785" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-google first-menu-item menu-item-619785"><a href="http://heavy.com/tag/google/">Google</a></li>
+	<li id="menu-item-619786" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-apple menu-item-619786"><a href="http://heavy.com/tag/apple/">Apple</a></li>
+	<li id="menu-item-619787" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-android menu-item-619787"><a href="http://heavy.com/tag/android/">Android</a></li>
+	<li id="menu-item-699211" class="menu-item menu-item-type-custom menu-item-object-custom item-games item-games menu-item-699211"><a href="http://heavy.com/games">Games</a></li>
+	<li id="menu-item-619788" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-microsoft item-microsoft menu-item-619788"><a href="http://heavy.com/tag/microsoft/">Microsoft</a></li>
+	<li id="menu-item-619791" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-apps menu-item-619791"><a href="http://heavy.com/tag/apps/">Apps</a></li>
+	<li id="menu-item-619793" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-tablets menu-item-619793"><a href="http://heavy.com/tag/tablets/">Tablets</a></li>
+	<li id="menu-item-619792" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-smartphones item-smartphones last-menu-item menu-item-619792"><a href="http://heavy.com/tag/smartphones/">Smartphones</a></li>
+</ul>
+</li>
+<li id="menu-item-804938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children item-gaming menu-item-804938"><a href="http://heavy.com/games/">Gaming</a>
+<ul class="sub-menu">
+	<li id="menu-item-821647" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-news item-news first-menu-item menu-item-821647"><a href="http://heavy.com/tag/gaming-news/">News</a></li>
+	<li id="menu-item-821638" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-xbox-one menu-item-821638"><a href="http://heavy.com/tag/xbox-one/">Xbox One</a></li>
+	<li id="menu-item-821641" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-ps4 item-ps4 menu-item-821641"><a href="http://heavy.com/tag/ps4/">PS4</a></li>
+	<li id="menu-item-821640" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-xbox-360 item-xbox-360 menu-item-821640"><a href="http://heavy.com/tag/xbox-360/">Xbox 360</a></li>
+	<li id="menu-item-821643" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-wii-u menu-item-821643"><a href="http://heavy.com/tag/wii-u/">Wii U</a></li>
+	<li id="menu-item-821645" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-3ds item-3ds menu-item-821645"><a href="http://heavy.com/tag/3ds/">3DS</a></li>
+	<li id="menu-item-821642" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-ps3 item-ps3 menu-item-821642"><a href="http://heavy.com/tag/ps3/">PS3</a></li>
+	<li id="menu-item-821646" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-mobile menu-item-821646"><a href="http://heavy.com/tag/mobile-games/">Mobile</a></li>
+	<li id="menu-item-864419" class="menu-item menu-item-type-custom menu-item-object-custom item-pc-games menu-item-864419"><a href="http://heavy.com/tag/pc-games/">PC Games</a></li>
+	<li id="menu-item-821664" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-trailers menu-item-821664"><a href="http://heavy.com/tag/game-trailers/">Trailers</a></li>
+	<li id="menu-item-821677" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag item-accessories last-menu-item menu-item-821677"><a href="http://heavy.com/tag/gaming-accessories/">Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-853395" class="menu-item menu-item-type-custom menu-item-object-custom item-shopping last-menu-item menu-item-has-children item-shopping menu-item-853395"><a href="http://heavy.com/tag/shopping/">Shopping</a>
+<ul class="sub-menu">
+	<li id="menu-item-1231919" class="menu-item menu-item-type-custom menu-item-object-custom item-gifts-for-women first-menu-item menu-item-1231919"><a href="http://heavy.com/social/2015/03/best-gifts-for-women-gift-ideas-mom-girlfriend-wife-friend-sister-her-woman/">Gifts for Women</a></li>
+	<li id="menu-item-1231920" class="menu-item menu-item-type-custom menu-item-object-custom item-gifts-for-men menu-item-1231920"><a href="http://heavy.com/social/2015/06/best-gifts-for-men-guys-gift-ideas-him-fathers-husband-boyfriend-guide-presents/">Gifts for Men</a></li>
+	<li id="menu-item-1228960" class="menu-item menu-item-type-taxonomy menu-item-object-category item-baby menu-item-1228960"><a href="http://heavy.com/baby/">Baby</a></li>
+	<li id="menu-item-1256737" class="menu-item menu-item-type-taxonomy menu-item-object-category item-wedding menu-item-1256737"><a href="http://heavy.com/weddings/">Wedding</a></li>
+	<li id="menu-item-1228962" class="menu-item menu-item-type-taxonomy menu-item-object-category item-pets menu-item-1228962"><a href="http://heavy.com/pets/">Pets</a></li>
+	<li id="menu-item-1228961" class="menu-item menu-item-type-taxonomy menu-item-object-category item-garden menu-item-1228961"><a href="http://heavy.com/garden/">Garden</a></li>
+	<li id="menu-item-1231924" class="menu-item menu-item-type-custom menu-item-object-custom item-audio menu-item-1231924"><a href="http://heavy.com/tag/audio/">Audio</a></li>
+	<li id="menu-item-1256734" class="menu-item menu-item-type-custom menu-item-object-custom item-boys-toys menu-item-1256734"><a href="http://heavy.com/social/2015/06/top-50-best-cool-toys-for-boys-sale-new-2015-batman-cars-guns-tinker/">Boys&#8217; Toys</a></li>
+	<li id="menu-item-1256735" class="menu-item menu-item-type-custom menu-item-object-custom item-girls-toys last-menu-item menu-item-1256735"><a href="http://heavy.com/social/2015/09/top-best-new-cool-toys-for-girls-gifts-toy-list-barbies-dolls-games/">Girls&#8217; Toys</a></li>
+</ul>
+</li>
+<li id="menu-item-1329634" class="menu-item menu-item-type-taxonomy menu-item-object-category item-cars last-menu-item menu-item-1329634"><a href="http://heavy.com/cars/">Cars</a></li>
+<li id="menu-search" class="menu-item menu-item-search"><form action="http://heavy.com/" id="header-search-form" class="search-form"><input type="search" class="search-field" name="s" value="" placeholder="Search &hellip;"><input type="submit" class="search-submit" value="Search"></form></li></ul></div>    <div class="clear-ie7"></div>
+  </div><!-- .header -->
+
+  </div><!-- .pushdown-container -->
+
+  <div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<h1 class="title-category"><a href="/news">News</a></h1>
+			<div id="secondary" class="widget-area masonry-stamped" role="complementary">
+								<div id="non-scrolling-ad-div" class="widget-area masonry-stamped" role="complementary"> 
+							<div id='Heavy_Static_Display_FlexSize' class = 'heavy_static_display_flexsize heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Static_Display_FlexSize', [[160,600], [300,250], [300,600]], 'Heavy_Static_Display_FlexSize').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Static_Display_FlexSize');
+					});
+				</script>
+			</div> 			<div id='Heavy_Static_Display_FlexSize_2' class = 'heavy_static_display_flexsize_2 heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Static_Display_FlexSize_2', [[160,600], [300,250], [300,600]], 'Heavy_Static_Display_FlexSize_2').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Static_Display_FlexSize_2');
+					});
+				</script>
+			</div> 				</div>
+				<script type="text/javascript">
+					window.top.jQuery(window).load(function() {
+						var scrollingAdDiv = window.top.jQuery('#scrolling-ad-div');
+						var nonscrollingAdDiv = window.top.jQuery('#non-scrolling-ad-div');
+						window.top.jQuery(window).scroll(moveScroller);
+						moveScroller();
+						function moveScroller() {
+							var scroll_gutter = 80; // Height of the top drop down title/menu + an arbitrary margin
+							var scroller_div_offset = scrollingAdDiv.offset();
+							if (scroller_div_offset == undefined) return;
+							var scroller_div_height = scrollingAdDiv.height();
+							var nonscroller_div_offset = nonscrollingAdDiv.offset();
+							if (nonscroller_div_offset == undefined) return;
+							var nonscroller_div_height = nonscrollingAdDiv.height();
+							var bottom_of_nonscrolldiv = nonscroller_div_offset.top + nonscroller_div_height;
+							var full_width_region_offset = window.top.jQuery('#adstop').offset();
+							if (full_width_region_offset == undefined) return;
+							var sidebar_hardstopY = full_width_region_offset.top;
+							var scroll_no_more_position = sidebar_hardstopY - ( scroller_div_height + scroll_gutter );				
+							var scrollYPosition = window.top.jQuery(window).scrollTop();
+							if (scrollYPosition >= scroll_no_more_position) {
+								// The scrolling ad stops scrolling when it would overwrite the comments.
+								// It scrolls up with the bottom of the box stuck to the top of the comment area
+								scrollingAdDiv.css({
+									'position': 'fixed',
+									'top': (scroll_no_more_position - scrollYPosition) + 'px'
+									});
+							} else if ((scrollYPosition >= (scroller_div_offset.top - scroll_gutter)) && (scrollYPosition > bottom_of_nonscrolldiv - (scroll_gutter/2) ) ) {
+								// When the scrolling ad arrives at the top of the screen, it sticks there.
+								scrollingAdDiv.css({
+									'position': 'fixed',
+									'top': (scroll_gutter) + 'px'
+									});
+							} else {
+								// When other ads are still visible above the scrolling ad div, behave like a normal page
+								scrollingAdDiv.css({
+									'position': 'static',
+									'top': 'auto'
+									});
+							}
+						}
+					});
+				</script>
+
+				<div id="scrolling-ad-div" class="widget-area masonry-stamped" role="complementary"> 
+				<aside id="heavy-mailing-widget-sidebar-23" class="widget heavy-mailing-widget-sidebar"><h3 class="widget-title"><span>Get Heavy&#039;s Top 5 News Stories Every Day</span></h3><div class="heavy-mailing-list"><form action="http://heavy.us1.list-manage.com/subscribe/post?u=22b35497f7500700ff5fbd111&#038;id=a87c195cae" method="post" id="mc-embedded-subscribe-form-http://heavy-mailing-widget-sidebar-23" name="mc-embedded-subscribe-form" class="validate mc-embedded-subscribe-form"><input type="email" name="EMAIL" class="mce-EMAIL" id="mce-EMAIL-heavy-mailing-widget-sidebar-23" placeholder=" Email Address"  required><input type="submit" value="Sign Me Up!" name="subscribe" class="mc-embedded-subscribe" id="mc-embedded-subscribe-heavy-mailing-widget-sidebar-23"><p>We will never share your email address.</p></form></div></aside>			<div id='Heavy_Scrolling_Display_300x250_3' class = 'heavy_scrolling_display_300x250_3 heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Scrolling_Display_300x250_3', [300,250], 'Heavy_Scrolling_Display_300x250_3').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Scrolling_Display_300x250_3');
+					});
+				</script>
+			</div> 			<div id='Heavy_Scrolling_Display_300x600' class = 'heavy_scrolling_display_300x600 heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Scrolling_Display_300x600', [[160,600], [300,250], [300,600]], 'Heavy_Scrolling_Display_300x600').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Scrolling_Display_300x600');
+					});
+				</script>
+			</div> 				</div>
+					</div><!-- #secondary -->		<main id="main" class="site-single" role="main">
+
+		
+			
+<div id="post-1399904" class="vcard post-1399904 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-5-fast-facts tag-breaking-news regions-anz regions-can regions-uk regions-us regions-world">
+
+	<!-- Post Top sidebar -->
+	
+	<div class="entry-header">
+
+		<h1 class="entry-title">Adam Purinton: 5 Fast Facts You Need to Know</h1>
+
+		<div class="entry-meta">
+			
+		<span class="posted-on">
+			<strong>Published</strong> <time class="entry-date published" datetime="">11:28 am EST, February 23, 2017</time>
+		</span>
+					<span class="modified-on">
+				<strong>Updated</strong> 5:24 pm EST, February 23, 2017			</span>
+				<span class="comment-count">
+			<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comments" class="comments-link" >51 Comments</a>		</span>
+		<span class="byline">
+							By <span class="author"><a href="http://heavy.com/author/christopherbucher/" title="Posts by Chris Bucher" class="author url fn" rel="author">Chris Bucher</a></span>
+					</span>
+		<div class="share-trending">
+			<span class="hot"></span>37.6k		</div>
+								<div class="sharing-area">
+		<div class="inline-share">
+			<a class="inline-share-fb" rel="nofollow" href="http://www.facebook.com/share.php?u=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=70&amp;appId=227147837348982" onclick="return fbs_click()" target="_blank">Share <span class="fb-counts"></span></a>
+			<a class="inline-share-tw" href="https://twitter.com/share?url=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/&amp;text=Adam Purinton: 5 Fast Facts You Need to Know" data-via="heavysan" data-related="heavysan" target="_blank">Tweet <span class="tw-counts"></span></a>
+			<a class="inline-share-c" href="https://plus.google.com/share?url=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" target="_blank">Share <span class="gplus-counts"></span></a>
+			<a class="inline-share-e" href="mailto:?subject=Adam Purinton: 5 Fast Facts You Need to Know&amp;body=Adam Purinton allegedly made racial slurs before shooting three people at a bar in Olathe, Kansas. He was charged with first degree murder February 23.%0D%0Ahttp://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?ref=emailshare%0D%0A%0D%0A-----------------------------------%0D%0A%0D%0AWant more great stuff from Heavy? Sign up for our daily email: http://heavy.com/subscribe/">Email</a>
+			<a class="inline-share-follow" rel="nofollow" href="https://www.facebook.com/heavycom" target="_blank">Follow</a>
+					</div>
+	</div>
+		</div><!-- .entry-meta -->
+	</div><!-- .entry-header -->
+
+	<div class="entry-content">
+		<body>
+<p><div id="attachment_1400234" style="width: 490px" class="wp-caption alignnone"><img data-attachment-id="1400234" data-permalink="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/bookingimportszzz2017_02zzz8947-0-2/" data-orig-file="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-01.jpg?quality=65&amp;strip=all" data-orig-size="480,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="adam purinton" data-image-description="" data-medium-file="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-01.jpg?quality=65&amp;strip=all&amp;w=225" data-large-file="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-01.jpg?quality=65&amp;strip=all&amp;w=480" src="https://heavyeditorial.files.wordpress.com/2017/02/bookingimportszzz2017_02zzz8947-01.jpg?quality=65&amp;strip=all&amp;strip=all" alt="Adam Purinton mug shot "   class="size-full wp-image-1400234"><p class="wp-caption-text">Adam Purinton mug shot (<a href="https://omsweb.public-safety-cloud.com/jtclientweb/(S(r4tjxzcrrvxq1bwmngtd2dt2))/jailtracker/index/Henry_County_MO" target="_blank">Henry County Jail</a>)</p></div>
+</p>
+<p>A man reportedly walked into a bar in Olathe, Kansas and opened fire after shouting racial slurs, killing at least one and injuring two the evening of February 22. </p>
+<p>The <a href="https://twitter.com/gregfarmerKC/status/834803674333462533" target="_blank">suspect is </a> 51-year-old Adam Purinton of Olathe. He allegedly opened fire and shot the three patrons at Austins Bar and Grill in Olathe. A motive is not yet known at this time, though witness accounts say he got into a confrontation with other customers after he said racial remarks. </p>
+<p><a href="https://twitter.com/41actionnews/status/834887271014891521" target="_blank">Olathe Police said</a> that the FBI will investigate the situation if it’s proven that the shooting was a result of a hate crime.</p>
+<p>Of the three victims, one is dead, one remains in critical condition while one is listed as being “stable.”</p>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">News release on Shooting at Austin's Bar and Grill. <a href="https://t.co/vrjwofdz06">pic.twitter.com/vrjwofdz06</a></p>
+<p>— Olathe Police (@OlathePolice) <a href="https://twitter.com/OlathePolice/status/834670772287393792">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>Purinton <a href="https://omsweb.public-safety-cloud.com/jtclientweb/(S(r4tjxzcrrvxq1bwmngtd2dt2))/jailtracker/index/Henry_County_MO" target="_blank">is listed as booked in the Henry County Jail</a> at 9:58 a.m. on February 23. He was reportedly charged with first-degree murder and remains at the jail on $100,000 bond.</p>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Suspect in deadly Olathe shooting, Adam Purinton, booked,  first degree murder. $100,000 bond in Henry County. <a href="https://twitter.com/KCTV5">@KCTV5</a> <a href="https://t.co/VTf3GBOoXa">pic.twitter.com/VTf3GBOoXa</a></p>
+<p>— Emily Sinovic (@EmilySinovic) <a href="https://twitter.com/EmilySinovic/status/834815550257844224">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>Another report from NBC Action News 41, said that the Olathe Police Department and Johnson County DA <a href="https://twitter.com/41actionnews/status/834886804121747456" target="_blank">charged Purinton with premeditated murder</a>.</p>
+<p>Police also said the the FBI</p>
+<p>First reports to officials said that Purinton was wearing a black-and-white scarf over his head at the time of the shooting. Listen to the audio of the police scanner in Olathe below:</p>
+		<form id="wpcom-iframe-form-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb" target="wpcom-iframe-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb" method="post" action="//wpcomwidgets.com/?wpcom_origin=https%3A%2F%2Fheavyeditorial.wordpress.com" style="display: none">
+							<input type="hidden" name="width" value="100%" />
+							<input type="hidden" name="height" value="160" />
+							<input type="hidden" name="frameborder" value="0" />
+							<input type="hidden" name="style" value="" />
+							<input type="hidden" name="class" value="" />
+							<input type="hidden" name="scrolling" value="no" />
+							<input type="hidden" name="webkitallowfullscreen" value="" />
+							<input type="hidden" name="mozallowfullscreen" value="" />
+							<input type="hidden" name="allowfullscreen" value="" />
+							<input type="hidden" name="resize" value="0" />
+							<input type="hidden" name="replace_attributes" value="1" />
+							<input type="hidden" name="fallback" value="&lt;p class=&quot;protected-embed-fallback&quot;&gt;This embed is invalid&lt;/p&gt;" />
+							<input type="hidden" name="_data" value="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNjAiIHNyYz0iaHR0cHM6Ly9jbHlwLml0L3lkMDQyZHg0L3dpZGdldCIgZnJhbWVib3JkZXI9IjAiIGNsYXNzPSIiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbj0iIiByZXNpemU9IjAiIHJlcGxhY2VfYXR0cmlidXRlcz0iMSI+PC9pZnJhbWU+,cd91a0f63ccb6e27fc5423a1e73f7bd68d2a398d" />
+							<input type="hidden" name="_tag" value="protected-iframe" />
+							<input type="hidden" name="_hash" value="22a3f5b58d95883127744ac0a38756ce" />
+					</form>
+		
+				<iframe
+						name="wpcom-iframe-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb"
+			id="wpcom-iframe-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb"
+			frameborder="0"
+			scrolling="no"
+			width="100%" 			height="160" 			webkitallowfullscreen mozallowfullscreen allowfullscreen			class="wpcom-protected-iframe "
+		></iframe>
+		
+		<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb');
+				var iframe = document.getElementById('wpcom-iframe-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-22a3f5b58d95883127744ac0a38756ce-58c48a2369feb'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		</script>
+		
+<p>Police responded to initial reports of an active shooter at the bar and noted that the suspect had fled the scene into a neighborhood nearby. Responding units surrounded his home in Olathe, but came up empty. Purinton was apprehended in a Missouri bar hours later.</p>
+<p>Here’s what you need to know about Purinton and the shooting:</p>
+<div class="heavysidebar" id="in-article-1"></div>
+<hr>
+<h2>1. Purinton Allegedly Said Racial Remarks Before Shooting</h2>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Multiple people here saying man was saying racial words inside Austins. Was asked to leave. Came back in w/gun <a href="https://t.co/xqNOwTu28k">pic.twitter.com/xqNOwTu28k</a></p>
+<p>— Tom Dempsey (@KCTomDempsey) <a href="https://twitter.com/KCTomDempsey/status/834595465018609666">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>According to a report, multiple people on the scene said that the man, believed to be Purinton, was saying racial slurs inside the bar and was asked to leave. He reportedly came back with a gun. </p>
+<p>A later report said that two of the three victims in the shooting were of Indian descent and Purinton was overheard making remarks about their race before he shot them.</p>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Sources say that two of the three victims were of Middle Eastern or Indian descent. Suspect was heard making racial slurs before shooting.</p>
+<p>— Laura Bauer (@kclaurab) <a href="https://twitter.com/kclaurab/status/834633089636827138">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>Witnesses <a href="https://twitter.com/gregfarmerKC/status/834627403456589824" target="_blank">said that a confrontation started</a> in the bar when Purinton made slurs and a man at the establishment “stood up to him.”</p>
+<p><a href="http://www.kansascity.com/news/local/crime/article134459444.html" target="_blank">The Kansas City Star reported</a> that two of the victims in the shooting are employees at the Aviation Systems Engineering department for Garmin, headquartered in Olath. Their names are Srinivas Kuchibhotla and Alok Madasani. Kuchibhotla is the fatal victim in the shooting and Madasani was injured. </p>
+<p>The company released a statement February 23 that said:</p>
+<blockquote><p>We’re saddened that two Garmin associates were involved in last night’s incident, and we express our condolences to the family and friends of our co-workers involved. Garmin will have grievance counselors on-site and available for its associates today and tomorrow.</p></blockquote>
+<p>The man who allegedly “stood up” for the two men and remains injured as a result of the shooting is Ian Grillot. His sister, Maggie, set up a Go Fund Me page for to raise money for his injuries. In the description, she said her brother “thought all rounds were done and tried to go after the man.” But Purinton still had rounds left and shot Grillot.</p>
+<p>Despite the reports online, a confirmed motive is unknown at this time.</p>
+<div class="heavysidebar" id="in-article-2"></div>
+<hr>
+<h2>2. Purinton Is Employed at a Kansas City Business</h2>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Olathe PD investigating triple shooting @ Austin's Bar &amp; Grill <a href="https://twitter.com/41actionnews">@41actionnews</a> <a href="https://t.co/6E0EYlnYsx">pic.twitter.com/6E0EYlnYsx</a></p>
+<p>— Al Miller (@NewsPhotogAl) <a href="https://twitter.com/NewsPhotogAl/status/834587097080197120">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>According to his LinkedIn Page, Purinton is a desktop support specialist for GEN3RATION, an information technology company in the Kansas City area. </p>
+<p>GEN3RATION’s website says that the company employs about 50 people and works to “eliminate problem areas by providing full-service IT monitoring, proactive maintenance, and a help desk solution for your company.”</p>
+<div class="heavysidebar" id="in-article-3">			<div id="Heavy_Desktop_InArticle_3" class="heavy_desktop_inarticle_3 heavy_ad">
+				<script type="text/javascript">
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Desktop_InArticle_3', [[728, 90], [970, 250]], 'Heavy_Desktop_InArticle_3').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Desktop_InArticle_3');
+					});
+				</script>
+			</div> </div>
+<hr>
+<h2>3. Witnesses &amp; Scanner Traffic Indicated Purinton Is a Military Veteran
+<h2>
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:8px;">
+<div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;">
+<div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div>
+<p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BQ1rSTwhpsh/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Here is some pictues  off cops  in olathe ks  by Austin Bar</a></p>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by jorden (@jordenreed20gmailjordenreed20g) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-02-23T03:16:32+00:00">Feb 22, 2017 at 7:16pm PST</time></p>
+</div>
+</blockquote>
+</h2>
+</h2>
+<p>Kansas City Star Managing Editor Greg Farmer <a href="https://twitter.com/gregfarmerKC/status/834628051807899648" target="_blank">reported that Purinton’s neighbors told him</a> that he is a military veteran who suffers from PTSD. He added that neighbors believed he had just been diagnosed with a “serious illness.”</p>
+<p>Chatter over the police scanner while Olathe Police pursued the suspect said that he drove a 2000 Chevrolet Silverado 1500 and the vehicle’s license-plate tags were veteran tags.</p>
+		<form id="wpcom-iframe-form-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb" target="wpcom-iframe-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb" method="post" action="//wpcomwidgets.com/?wpcom_origin=https%3A%2F%2Fheavyeditorial.wordpress.com" style="display: none">
+							<input type="hidden" name="width" value="100%" />
+							<input type="hidden" name="height" value="160" />
+							<input type="hidden" name="frameborder" value="0" />
+							<input type="hidden" name="style" value="" />
+							<input type="hidden" name="class" value="" />
+							<input type="hidden" name="scrolling" value="no" />
+							<input type="hidden" name="webkitallowfullscreen" value="" />
+							<input type="hidden" name="mozallowfullscreen" value="" />
+							<input type="hidden" name="allowfullscreen" value="" />
+							<input type="hidden" name="resize" value="0" />
+							<input type="hidden" name="replace_attributes" value="1" />
+							<input type="hidden" name="fallback" value="&lt;p class=&quot;protected-embed-fallback&quot;&gt;This embed is invalid&lt;/p&gt;" />
+							<input type="hidden" name="_data" value="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNjAiIHNyYz0iaHR0cHM6Ly9jbHlwLml0LzBmYXFtbmxnL3dpZGdldCIgZnJhbWVib3JkZXI9IjAiIGNsYXNzPSIiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbj0iIiByZXNpemU9IjAiIHJlcGxhY2VfYXR0cmlidXRlcz0iMSI+PC9pZnJhbWU+,1a80bbed5362897b90e519382364beff24570cb4" />
+							<input type="hidden" name="_tag" value="protected-iframe" />
+							<input type="hidden" name="_hash" value="44834e8c9ff352674aa152ff0ac7b808" />
+					</form>
+		
+				<iframe
+						name="wpcom-iframe-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb"
+			id="wpcom-iframe-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb"
+			frameborder="0"
+			scrolling="no"
+			width="100%" 			height="160" 			webkitallowfullscreen mozallowfullscreen allowfullscreen			class="wpcom-protected-iframe "
+		></iframe>
+		
+		<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb');
+				var iframe = document.getElementById('wpcom-iframe-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-44834e8c9ff352674aa152ff0ac7b808-58c48a236a1bb'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		</script>
+		
+<div class="heavysidebar" id="in-article-4">			<div id="Heavy_Desktop_InArticle_4" class="heavy_desktop_inarticle_4 heavy_ad">
+				<script type="text/javascript">
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Desktop_InArticle_4', [728, 90], 'Heavy_Desktop_InArticle_4').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Desktop_InArticle_4');
+					});
+				</script>
+			</div> </div>
+<hr>
+<h2>4. Purinton Was Apprehended At a Missouri Applebee’s</h2>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Olathe PD has a suspect in custody in the Wed night triple shooting at Austin's Bar &amp; Grill. <a href="https://t.co/WFWtPoVjxl">pic.twitter.com/WFWtPoVjxl</a></p>
+<p>— Jason Gould (@OvernightPhotog) <a href="https://twitter.com/OvernightPhotog/status/834650055286091776">February 23, 2017</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+<p>A manhunt was on for Purinton after reports said he fled the scene. Police closed in on a home in a nearby neighborhood believed to be Purintons, and SWAT teams and officers in camouflage gear were seen responding to the scene. However, it turned out that Purinton wasn’t there after all. </p>
+<p>Instead, he was at an Applebee’s in Clinton, Missouri, about 82 miles southeast of Olathe, <a href="http://www.kansascity.com/news/local/crime/article134459444.html" target="_blank">the Kansas City Star reported</a>.</p>
+<p>Assistant Clinton Police Chief Sonny Lynch said that a bartender at the restaurant called police after a man at the bar spoke about being involved in a shooting. <a href="http://www.kansascity.com/news/local/crime/article134459444.html" target="_blank">The Kansas City Star reported</a> that Purinton told the bartender that “he had killed two Middle Eastern Men.”</p>
+<p>Police took Purinton into custody “without incident,” and he wasn’t armed when arrested.</p>
+<p>The alleged suspect <a href="https://twitter.com/EllenKCTV5/status/834583787803656192" target="_blank">was reported as being seen running</a> west near 151st Terrace and Scarborough Street.</p>
+<div class="heavysidebar" id="in-article-5">			<div id="Heavy_Desktop_InArticle_5" class="heavy_desktop_inarticle_5 heavy_ad">
+				<script type="text/javascript">
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Desktop_InArticle_5', [728, 90], 'Heavy_Desktop_InArticle_5').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Desktop_InArticle_5');
+					});
+				</script>
+			</div> </div>
+<hr>
+<h2>5. Purinton Was Described As a ‘Disgruntled Customer’</h2>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" width="780" height="469" src="http://www.youtube.com/embed/qoWR2PL7HVU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true" style="border:0;"></iframe></span></p>
+<p>Firsthand accounts from witnesses label Purinton as a “disgruntled customer” who entered Austins, a sports bar, during the Kansas Jayhawks’ victory against TCU February 22. The bar was filled with local college basketball fans taking in the game.</p>
+<p>Witness accounts flooded social media, with one man writing <a href="https://twitter.com/xspencerrr/status/834577051852087296" target="_blank">on Twitter that his mother saw one of the victims</a> being shot at a close distance.</p>
+<p>NBC 41 Action News reported that the first shots were fired around 7:15 p.m. February 22 and was initially described as a “disgruntled customer.”</p>
+<div class="heavysidebar" id="in-article-6">			<div id="Heavy_Desktop_InArticle_6" class="heavy_desktop_inarticle_6 heavy_ad">
+				<script type="text/javascript">
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Desktop_InArticle_6', [728, 90], 'Heavy_Desktop_InArticle_6').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Desktop_InArticle_6');
+					});
+				</script>
+			</div> </div>
+<hr>
+<p><em>This post will be updated.</em></p>
+<div class="inline-post"><div class="wrap-image"><a class="link" href="http://heavy.com/news/2017/02/olathe-shooting-austins-bar-and-grill-kansas-manhunt-suspect-triple-dead-update-photos/"><img class="image" src="http://heavyeditorial.files.wordpress.com/2017/02/c5uhzlfvyaakjva-e1487815197564.jpg?quality=65&#038;resize=200%2C112&#038;strip=all&#038;ssl=1#038;strip=all&#038;w=780&#038;h=360&#038;crop=1" /></a></div><div class="wrap-content"><h4 class="title"><a class="link" href="http://heavy.com/news/2017/02/olathe-shooting-austins-bar-and-grill-kansas-manhunt-suspect-triple-dead-update-photos/">Olathe Shooting at Sports Bar: 5 Fast Facts You Need to Know</a></h4><p class="content">One suspect is in police custody after a triple shooting at Austin's Bar in Olathe, Kansas. Adam Purinton allegedly shouted racial slurs before shooting.</p><a class="link" href="http://heavy.com/news/2017/02/olathe-shooting-austins-bar-and-grill-kansas-manhunt-suspect-triple-dead-update-photos/">Click here to read more</a></div></div>
+</body><div class="post_author_box"><img alt='' src='http://1.gravatar.com/avatar/d8c5623c467747f597a8b8879fbaeb16?s=96&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&#038;r=PG' class='avatar avatar-96' height='96' width='96' />
+<span class="author vcard" style="font-size: 12px;font-weight:bold;" ><span class="fn">Chris Bucher</span></span>
+<span style="font-size: 12px;">is a sports, politics and general news contributor to Heavy. A University of Wisconsin-Oshkosh graduate, Bucher is the business editor at The Waukesha Freeman and the former sports assistant editor. You can follow him on Twitter @Buchage and reach him at chris.bucher@heavy.com.</span>
+<br>
+<span class="updated" style="font-size: 12px;color: #eee;">February 23, 2017 5:24 pm</span></div>			</div><!-- .entry-content -->
+	<!-- Article Bottom Sidebar -->
+				<div id='Heavy_Desktop_InArticle_Bottom_Article' class = 'heavy_desktop_inarticle_bottom_article heavy_ad' >
+				<script type='text/javascript'>
+					googletag.cmd.push(function() {
+													definedSlot = googletag.defineSlot('/25816858/Heavy_Desktop_InArticle_Bottom_Article', [728, 90], 'Heavy_Desktop_InArticle_Bottom_Article').addService(googletag.pubads());
+							definedSlots.push( definedSlot );
+													googletag.display('Heavy_Desktop_InArticle_Bottom_Article');
+					});
+				</script>
+			</div> 	<div class="entry-meta">
+			<div class="sharing-area">
+		<div class="inline-share">
+			<a class="inline-share-fb" rel="nofollow" href="http://www.facebook.com/share.php?u=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=70&amp;appId=227147837348982" onclick="return fbs_click()" target="_blank">Share <span class="fb-counts"></span></a>
+			<a class="inline-share-tw" href="https://twitter.com/share?url=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/&amp;text=Adam Purinton: 5 Fast Facts You Need to Know" data-via="heavysan" data-related="heavysan" target="_blank">Tweet <span class="tw-counts"></span></a>
+			<a class="inline-share-c" href="https://plus.google.com/share?url=http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" target="_blank">Share <span class="gplus-counts"></span></a>
+			<a class="inline-share-e" href="mailto:?subject=Adam Purinton: 5 Fast Facts You Need to Know&amp;body=Adam Purinton allegedly made racial slurs before shooting three people at a bar in Olathe, Kansas. He was charged with first degree murder February 23.%0D%0Ahttp://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?ref=emailshare%0D%0A%0D%0A-----------------------------------%0D%0A%0D%0AWant more great stuff from Heavy? Sign up for our daily email: http://heavy.com/subscribe/">Email</a>
+			<a class="inline-share-follow" rel="nofollow" href="https://www.facebook.com/heavycom" target="_blank">Follow</a>
+					</div>
+	</div>
+		<ul class="tags"><li class="tag tag-related">Related Items</li><li class="tag"><a href="http://heavy.com/tag/5-fast-facts/" rel="tag">5 Fast Facts</a></li><li class="tag"><a href="http://heavy.com/tag/breaking-news/" rel="tag">Breaking News</a></li></ul>	</div><!-- .entry-meta -->
+
+</div><!-- #post-## -->
+
+					<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Related posts from this category</h1>
+		<div class="nav-links">
+			<div><a class="more-from-category" href="http://heavy.com/news/">More Posts</a></div>
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+			<!--  above comments -->
+					<div id="rcjsload_2c7ccf" class='heavy_ad'></div><script type="text/javascript">(function() {var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);var rcel = document.createElement("script");rcel.id = 'rc_' + Math.floor(Math.random() * 1000);rcel.type = 'text/javascript';rcel.src = "http://trends.revcontent.com/serve.js.php?w=3204&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;rcel.async = true;var rcds = document.getElementById("rcjsload_2c7ccf"); rcds.appendChild(rcel);})();</script>
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="adstop"><div>
+	<div class="respond-intro">
+		<p>Leave a comment</p>
+	</div>
+	
+<div id="comments" class="comments-area">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://heavy.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e88f5421e1" /><input type="hidden" name="_wp_http_referer" value="/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name</label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1399904' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b4513270cc" /></p>
+<input type="hidden" name="genseq" value="1489275427" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="175"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+	
+			<h2 class="comments-title">
+			51 comments		</h2>
+
+		
+		<ol class="comment-list">
+			
+	<li id="comment-2884126" class="comment even thread-even depth-1 parent highlander-comment">
+		<article id="div-comment-2884126" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884126">
+						<time datetime="2017-02-23T12:16:28+00:00">
+							February 23, 2017 at 12:16 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Yes, they were making the racial slurs against him. Sources say ; Adam couldn&#8217;t take the Discrimination any longer ,he was a good man that just couldn&#8217;t take the hatred any longer because he was white. So sad !</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884126#respond' onclick='return addComment.moveForm( "div-comment-2884126", "2884126", "respond", "1399904" )' aria-label='Reply to Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2884249" class="comment odd alt depth-2 parent highlander-comment">
+		<article id="div-comment-2884249" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/812397fa2899d47d4115abe79ebdd46f?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Louis</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884249">
+						<time datetime="2017-02-23T13:31:51+00:00">
+							February 23, 2017 at 1:31 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>That sounds highly unlikely. Got a source?</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884249#respond' onclick='return addComment.moveForm( "div-comment-2884249", "2884249", "respond", "1399904" )' aria-label='Reply to Louis'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2884330" class="comment even depth-3 parent highlander-comment">
+		<article id="div-comment-2884330" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884330">
+						<time datetime="2017-02-23T14:31:51+00:00">
+							February 23, 2017 at 2:31 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Why do you say it&#8217;s highly unlikely ?</p>
+<p>You must be a Democrat and think that only white people can be a racist ; and that white people cannot be discriminated against . And that white people are the only ones that show hate, highly unlikely !</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884330#respond' onclick='return addComment.moveForm( "div-comment-2884330", "2884330", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2886060" class="comment odd alt depth-4 highlander-comment">
+		<article id="div-comment-2886060" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/ab17ccd11e2b41e62cef06fcb1900d58?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">ingersol</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886060">
+						<time datetime="2017-02-24T15:26:09+00:00">
+							February 24, 2017 at 3:26 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Why would these young engineers who were described as being friendly and non-confrontational start making racial slurs to some old white guy?  Yes. white people can be the object of hatred, but there is no evidence that it happened in this case and no logical reason why these young professionals would do that.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886060#respond' onclick='return addComment.moveForm( "div-comment-2886060", "2886060", "respond", "1399904" )' aria-label='Reply to ingersol'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2886278" class="comment even depth-4 highlander-comment">
+		<article id="div-comment-2886278" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/62ad62aa08f0d52be7abe4a1b47031c8?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">MSgt Steven Griffin</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886278">
+						<time datetime="2017-02-24T20:24:48+00:00">
+							February 24, 2017 at 8:24 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>yes white people are the only ones that show hate!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886278#respond' onclick='return addComment.moveForm( "div-comment-2886278", "2886278", "respond", "1399904" )' aria-label='Reply to MSgt Steven Griffin'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2887315" class="comment odd alt depth-4 highlander-comment">
+		<article id="div-comment-2887315" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://i2.wp.com/pbs.twimg.com/profile_images/825772943443533824/Dkdv6lbS_normal.jpg?resize=48%2C48&#038;quality=65&#038;strip=all' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='http://twitter.com/TerribleOne247' rel='external nofollow' class='url'>Terrible-One (@TerribleOne247)</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887315">
+						<time datetime="2017-02-25T15:08:41+00:00">
+							February 25, 2017 at 3:08 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Only white privilege conservatives actually believe that white people can be the victims of &#8220;reverse racism&#8221; because that does not exist.<br />
+Go back to your safe white place snowglobe where you can trash on minorities from the safety of your keyboard.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887315#respond' onclick='return addComment.moveForm( "div-comment-2887315", "2887315", "respond", "1399904" )' aria-label='Reply to Terrible-One (@TerribleOne247)'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2887057" class="comment even depth-3 highlander-comment">
+		<article id="div-comment-2887057" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/cc531eaa07539965406ba3e09d44c57d?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">David C</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887057">
+						<time datetime="2017-02-25T11:13:44+00:00">
+							February 25, 2017 at 11:13 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Typical!!  &#8220;GET A SOURCE&#8221; to dispute it.  GOOGLE is your friend.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887057#respond' onclick='return addComment.moveForm( "div-comment-2887057", "2887057", "respond", "1399904" )' aria-label='Reply to David C'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2884347" class="comment odd alt depth-2 parent highlander-comment">
+		<article id="div-comment-2884347" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884347">
+						<time datetime="2017-02-23T14:44:18+00:00">
+							February 23, 2017 at 2:44 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Poor white people. So abused. :/</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884347#respond' onclick='return addComment.moveForm( "div-comment-2884347", "2884347", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2884372" class="comment even depth-3 highlander-comment">
+		<article id="div-comment-2884372" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884372">
+						<time datetime="2017-02-23T15:01:17+00:00">
+							February 23, 2017 at 3:01 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>You ! Have clearly proven the point .</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884372#respond' onclick='return addComment.moveForm( "div-comment-2884372", "2884372", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2884501" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2884501" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884501">
+						<time datetime="2017-02-23T16:36:18+00:00">
+							February 23, 2017 at 4:36 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>You serious? If so, you are severely misinformed about Indian people. They are among the most decent and well-behaved of any foreign nationals. Not once have I ever heard an Indian national use a racial slur, or say &#8220;white people&#8221;. You are clearly creating &#8220;alternative facts&#8221;, to minimize the the actual propensity of white, right wing men to violence.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884501#respond' onclick='return addComment.moveForm( "div-comment-2884501", "2884501", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2884629" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2884629" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884629">
+						<time datetime="2017-02-23T18:42:58+00:00">
+							February 23, 2017 at 6:42 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Bill, you have it backwards, Adam was the agitator.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884629#respond' onclick='return addComment.moveForm( "div-comment-2884629", "2884629", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2884633" class="comment odd alt depth-2 parent highlander-comment">
+		<article id="div-comment-2884633" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884633">
+						<time datetime="2017-02-23T18:47:10+00:00">
+							February 23, 2017 at 6:47 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Source or STFU</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884633#respond' onclick='return addComment.moveForm( "div-comment-2884633", "2884633", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2884670" class="comment even depth-3 parent highlander-comment">
+		<article id="div-comment-2884670" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884670">
+						<time datetime="2017-02-23T19:23:38+00:00">
+							February 23, 2017 at 7:23 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>I find it remarkably funny,that no other race in the world ; but ,whites are the racist and the bigots.<br />
+That is a mathematical improbability.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884670#respond' onclick='return addComment.moveForm( "div-comment-2884670", "2884670", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2884739" class="comment odd alt depth-4 highlander-comment">
+		<article id="div-comment-2884739" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2884739">
+						<time datetime="2017-02-23T20:05:08+00:00">
+							February 23, 2017 at 8:05 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Adam is a perfect example ,of the hatred and the bigotry,coming from other races. Apparently he could not handle the hatred any longer, he did make a bad decision . So sad!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2884739#respond' onclick='return addComment.moveForm( "div-comment-2884739", "2884739", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2886131" class="comment even depth-4 highlander-comment">
+		<article id="div-comment-2886131" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/f9e6626911293af52c599473b0b036e7?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Al Boogie</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886131">
+						<time datetime="2017-02-24T16:48:42+00:00">
+							February 24, 2017 at 4:48 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>clearly you failed math.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886131#respond' onclick='return addComment.moveForm( "div-comment-2886131", "2886131", "respond", "1399904" )' aria-label='Reply to Al Boogie'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2891919" class="comment odd alt depth-4 highlander-comment">
+		<article id="div-comment-2891919" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://i2.wp.com/graph.facebook.com/v2.2/1566109770084220/picture?q=type%3Dlarge%26_md5%3Dda41706a05f5193eaf12cd1e9b63af14&#038;resize=48%2C48&#038;quality=65&#038;strip=all' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/1566109770084220/' rel='external nofollow' class='url'>Jade Lara Abudia</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2891919">
+						<time datetime="2017-02-28T06:42:19+00:00">
+							February 28, 2017 at 6:42 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>But they sure own more guns than any other skin color.  So assuming your absurd claim is true, that Indians were making racist remarks about a white guy, and he didn&#8217;t get their race right and shot and killed one of them.  This is an appropriate, Jesus-like response?  Hell, an appropriate, sane person response?  If I&#8217;ve learned anything from Trump, it&#8217;s that you can say whatever you want without consequence.  Can&#8217;t have it both ways.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2891919#respond' onclick='return addComment.moveForm( "div-comment-2891919", "2891919", "respond", "1399904" )' aria-label='Reply to Jade Lara Abudia'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885148" class="comment even depth-2 parent highlander-comment">
+		<article id="div-comment-2885148" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885148">
+						<time datetime="2017-02-24T00:30:08+00:00">
+							February 24, 2017 at 12:30 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>I bet this guy has low iq. Has trouble relating to women. Has low self esteem. Unfortunately why should any one put up a tech  company in Kansas. Is that we&#8217;re all the backward lazy uneducated, low iq  people live</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885148#respond' onclick='return addComment.moveForm( "div-comment-2885148", "2885148", "respond", "1399904" )' aria-label='Reply to Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2887278" class="comment odd alt depth-3 highlander-comment">
+		<article id="div-comment-2887278" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/0f35215e7aa6249c0ce927b99bf66e24?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Dee</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887278">
+						<time datetime="2017-02-25T14:34:41+00:00">
+							February 25, 2017 at 2:34 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>And he probably has a tiny penis, too.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887278#respond' onclick='return addComment.moveForm( "div-comment-2887278", "2887278", "respond", "1399904" )' aria-label='Reply to Dee'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885810" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2885810" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/16112c4039ae5543d79c309630c3ce22?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">joseph morehead</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885810">
+						<time datetime="2017-02-24T11:09:53+00:00">
+							February 24, 2017 at 11:09 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>You moron. DO you really believe that  this demented white man was being discriminated against? He is a hateful white racist who should get the death penalty</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885810#respond' onclick='return addComment.moveForm( "div-comment-2885810", "2885810", "respond", "1399904" )' aria-label='Reply to joseph morehead'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2885916" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2885916" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/18e4bda476e157c907e4d1b8ee8cf79f?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">rr</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885916">
+						<time datetime="2017-02-24T12:12:13+00:00">
+							February 24, 2017 at 12:12 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Quiet, you lying sack of shit.  Witnesses say that this man was the one yelling slurs.  Disgusting how shameless and ugly some people like you are nowadays.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885916#respond' onclick='return addComment.moveForm( "div-comment-2885916", "2885916", "respond", "1399904" )' aria-label='Reply to rr'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2885917" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2885917" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/18e4bda476e157c907e4d1b8ee8cf79f?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885917">
+						<time datetime="2017-02-24T12:13:48+00:00">
+							February 24, 2017 at 12:13 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Don&#8217;t mind me guys &#8212; I&#8217;m just a tiny-dicked piece of shit that loves right-wig propaganda.  I have a crappy life and suck dick for crack.  That&#8217;s why I make no sense.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885917#respond' onclick='return addComment.moveForm( "div-comment-2885917", "2885917", "respond", "1399904" )' aria-label='Reply to Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2885995" class="comment odd alt depth-2 parent highlander-comment">
+		<article id="div-comment-2885995" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/256bcdd977ddc43d55fc321221484f52?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Jim</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885995">
+						<time datetime="2017-02-24T13:54:47+00:00">
+							February 24, 2017 at 1:54 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Basically, Purinton is the face of people like Bill: old, ugly, stupid, and dying off quickly. That&#8217;s why Bill feels the need to defend a racist murderer. Literally, we are looking at a situation where 20% of that nation&#8217;s population will defend actual racist murderers because they identify with them.</p>
+<p>It&#8217;s a good thing we outnumber them vastly, but it&#8217;s going ot be a long slog until they all eventually die off. They know nobody wants them anymore, they know they are obsolete, and they are going absolutely insane. Literally. Protect yourselves and your neighbors, folks, and be prepared to stand up to them like our good Samaritan did in this instance. These people won;t win and they know it. let&#8217;s make it harder for them to do more damage on their way out.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885995#respond' onclick='return addComment.moveForm( "div-comment-2885995", "2885995", "respond", "1399904" )' aria-label='Reply to Jim'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2900924" class="comment even depth-3 highlander-comment">
+		<article id="div-comment-2900924" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2900924">
+						<time datetime="2017-03-05T05:36:40+00:00">
+							March 5, 2017 at 5:36 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>I couldn&#8217;t agree with you more sir!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2900924#respond' onclick='return addComment.moveForm( "div-comment-2900924", "2900924", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2887275" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2887275" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">anand</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887275">
+						<time datetime="2017-02-25T14:33:07+00:00">
+							February 25, 2017 at 2:33 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>You are talking about 2 Indian highly qualified Engineers. They are from the same town as I am and speak the language. We come to the US spend thousands of dollars to complete our education take up a job pay taxes . Show me incidents in the past 10 years an Indian was involved in a crime. You will probably find very few and these people coming from south India are even passive. Knowing the people where I come from there is a 0% chance that they would make racial slurs against a white man. Even for fun i have never heard my friends speak such a way and I have a lot of friends. So yeah please get a source and don&#8217;t change the topic and even if you consider the worst case scenario lets say these guys passed comments. Killing them doesn&#8217;t make him any less bad.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887275#respond' onclick='return addComment.moveForm( "div-comment-2887275", "2887275", "respond", "1399904" )' aria-label='Reply to anand'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2887798" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2887798" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://i2.wp.com/pbs.twimg.com/profile_images/794946178257448960/RskKidW9_normal.jpg?resize=48%2C48&#038;quality=65&#038;strip=all' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='http://twitter.com/KESmith07' rel='external nofollow' class='url'>Kevin Smith (@KESmith07)</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887798">
+						<time datetime="2017-02-25T22:38:14+00:00">
+							February 25, 2017 at 10:38 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>BLAHAHAHA, okay Bill, whatever man! Dude, you just made that up!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887798#respond' onclick='return addComment.moveForm( "div-comment-2887798", "2887798", "respond", "1399904" )' aria-label='Reply to Kevin Smith (@KESmith07)'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2892166" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2892166" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/45b1e06dac527161a3527685b46e9dff?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/225146747878808/' rel='external nofollow' class='url'>Freida Peeples</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2892166">
+						<time datetime="2017-02-28T10:25:18+00:00">
+							February 28, 2017 at 10:25 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>It&#8217;s The Bowling Green Massacre all over again. Three innocent white men shot by a muslim terrorist who entered our country illegally from Mexico.(SARCASM)</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2892166#respond' onclick='return addComment.moveForm( "div-comment-2892166", "2892166", "respond", "1399904" )' aria-label='Reply to Freida Peeples'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2893018" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2893018" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ce947e6534602255b08b7990bb12c965?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2893018">
+						<time datetime="2017-02-28T19:31:56+00:00">
+							February 28, 2017 at 7:31 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>White trash always innocent they do no mistakes (Typical lire), black , Latinos, Muslims and Asian.only the bad ones, the guy who got killed was an engineer not a loser and never lived in a trailer home.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2893018#respond' onclick='return addComment.moveForm( "div-comment-2893018", "2893018", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885140" class="comment odd alt thread-odd thread-alt depth-1 parent highlander-comment">
+		<article id="div-comment-2885140" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885140">
+						<time datetime="2017-02-24T00:24:56+00:00">
+							February 24, 2017 at 12:24 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Why would any one invest ina technology company in Kansas.  Is that we&#8217;re all the low life&#8217;s live. Look at the guy. He looks like he is living off other people&#8217;s tax dollars</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885140#respond' onclick='return addComment.moveForm( "div-comment-2885140", "2885140", "respond", "1399904" )' aria-label='Reply to Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885188" class="comment even depth-2 parent highlander-comment">
+		<article id="div-comment-2885188" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885188">
+						<time datetime="2017-02-24T01:34:33+00:00">
+							February 24, 2017 at 1:34 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>It is my observation a racist bigot was laughing at Adam and he just could not take it any longer.<br />
+ I too have heard the racist bigotry coming out of the mouths of those who claim they love this country .<br />
+But they don&#8217;t love this country they&#8217;re here for the Free Ride ; sources say ,he couldn&#8217;t handle the Discrimination and racial insults. So sad</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885188#respond' onclick='return addComment.moveForm( "div-comment-2885188", "2885188", "respond", "1399904" )' aria-label='Reply to bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885278" class="comment odd alt depth-3 parent highlander-comment">
+		<article id="div-comment-2885278" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8eb805275194c8c3f35f41a2a6f8a8f0?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Real Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885278">
+						<time datetime="2017-02-24T03:28:05+00:00">
+							February 24, 2017 at 3:28 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Sources say you&#8217;re an idiot spreading alt facts.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885278#respond' onclick='return addComment.moveForm( "div-comment-2885278", "2885278", "respond", "1399904" )' aria-label='Reply to Real Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885289" class="comment even depth-4 highlander-comment">
+		<article id="div-comment-2885289" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">the real Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885289">
+						<time datetime="2017-02-24T03:41:27+00:00">
+							February 24, 2017 at 3:41 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>So sad !</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885289#respond' onclick='return addComment.moveForm( "div-comment-2885289", "2885289", "respond", "1399904" )' aria-label='Reply to the real Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885825" class="comment byuser comment-author-saddingo odd alt depth-3 parent highlander-comment">
+		<article id="div-comment-2885825" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/d59e2502d6d9456072e47f479696510f?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='http://clupercus.wordpress.com' rel='external nofollow' class='url'>saddingo</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885825">
+						<time datetime="2017-02-24T11:18:23+00:00">
+							February 24, 2017 at 11:18 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>“Bill” the bigot, has no source because his claim is bull manure. ALL of the witnesses say the same thing – Adam Purinton was the instigator of the racial slurs and and nasty comments.<br />
+ALSO, please note, Ian Grillot (who is a white guy), was sitting nearby when Adam Purinton started with the racist comments. Ian stood up to Adam’s bullying of the East Indian men.<br />
+This is a quote from Ian Grillot (Ian was ALSO shot by Adam Purinton and is now in hospital recovering from the gun shot wounds he sustained): “I was just doing what anyone should have done,” Grillot told the newspaper. “It’s not about where he’s from, or ethnicity. We’re all humans.”<br />
+This story is heartbreaking but what good can be found in this horrible story is this: A decent 24 year old man (who happens to be white) stood up to a vicious, racist bully.<br />
+I, for one, am very proud of Ian’s actions. I wish both him and the other survivor, lok Madasani, a speedy recovery.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885825#respond' onclick='return addComment.moveForm( "div-comment-2885825", "2885825", "respond", "1399904" )' aria-label='Reply to saddingo'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885918" class="comment even depth-4 highlander-comment">
+		<article id="div-comment-2885918" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/18e4bda476e157c907e4d1b8ee8cf79f?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Bill</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885918">
+						<time datetime="2017-02-24T12:15:34+00:00">
+							February 24, 2017 at 12:15 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Don’t mind me guys — I’m just a tiny-dicked piece of shit that loves right-wig propaganda. I have a crappy life and suck dick for crack. I&#8217;d suck trump&#8217;s D if I could, cuz I&#8217;m a brainwashed, moronic tool that loves being a shameless obedient dog.  That’s why I make no sense.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885918#respond' onclick='return addComment.moveForm( "div-comment-2885918", "2885918", "respond", "1399904" )' aria-label='Reply to Bill'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885484" class="comment odd alt thread-even depth-1 parent highlander-comment">
+		<article id="div-comment-2885484" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://i1.wp.com/graph.facebook.com/v2.2/10209876996379329/picture?q=type%3Dlarge%26_md5%3Da0b8c722bb2555d84f455789d8af9ce1&#038;resize=48%2C48&#038;quality=65&#038;strip=all' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/10209876996379329/' rel='external nofollow' class='url'>Tran Trong</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885484">
+						<time datetime="2017-02-24T07:47:20+00:00">
+							February 24, 2017 at 7:47 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>trump just found his interior secretary.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885484#respond' onclick='return addComment.moveForm( "div-comment-2885484", "2885484", "respond", "1399904" )' aria-label='Reply to Tran Trong'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2891929" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2891929" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://i2.wp.com/graph.facebook.com/v2.2/1566109770084220/picture?q=type%3Dlarge&#038;resize=48%2C48&#038;quality=65&#038;strip=all' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/1566109770084220/' rel='external nofollow' class='url'>Jade Lara Abudia</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2891929">
+						<time datetime="2017-02-28T06:45:34+00:00">
+							February 28, 2017 at 6:45 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Tran Trong, I wish I could &#8220;love&#8221; comments on here; you made my day with that one.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2891929#respond' onclick='return addComment.moveForm( "div-comment-2891929", "2891929", "respond", "1399904" )' aria-label='Reply to Jade Lara Abudia'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885572" class="comment odd alt thread-odd thread-alt depth-1 parent highlander-comment">
+		<article id="div-comment-2885572" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Anonymous</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885572">
+						<time datetime="2017-02-24T08:47:30+00:00">
+							February 24, 2017 at 8:47 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Hard to be understanding of the concept of discrimation against whites as an etiology for this event. Doubt that Poor Adam was intimidated by these guys. Suspect that it is difficult to be sell dicrimination against whites in view of the documented history of hate of non whites always expressed violently in murder , rape , etc.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885572#respond' onclick='return addComment.moveForm( "div-comment-2885572", "2885572", "respond", "1399904" )' aria-label='Reply to '>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885942" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2885942" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">black man</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885942">
+						<time datetime="2017-02-24T12:48:46+00:00">
+							February 24, 2017 at 12:48 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Racism comes in all colors !<br />
+With  all of your post, it&#8217;s clear; and the point was made !</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885942#respond' onclick='return addComment.moveForm( "div-comment-2885942", "2885942", "respond", "1399904" )' aria-label='Reply to black man'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2885964" class="comment odd alt thread-even depth-1 parent highlander-comment">
+		<article id="div-comment-2885964" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/76924ff41084c644e6ced2d6c78eed1a?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">knough way</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885964">
+						<time datetime="2017-02-24T13:09:12+00:00">
+							February 24, 2017 at 1:09 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Um, did anyone consider that this dude just went plain ol&#8217; crazy and this really has no basis in *actual* &#8220;racism?&#8221; But even if this guy has been racist since birth, what difference does that make to the majority of good decent people of all races? There are members of all races that think their own race is superior to others, just like there are people of all races who think the earth is flat or their cat is telling them to put whipped cream on their head and run down the street yelling, &#8220;I&#8217;m on the good ship lollipop&#8230;&#8221; (or whatever goofy shit lunatics think their cats are telling them). So what? They are clearly wrong &#8211; what is the point of arguing with them?</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885964#respond' onclick='return addComment.moveForm( "div-comment-2885964", "2885964", "respond", "1399904" )' aria-label='Reply to knough way'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2885997" class="comment even depth-2 highlander-comment">
+		<article id="div-comment-2885997" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/256bcdd977ddc43d55fc321221484f52?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Jim</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2885997">
+						<time datetime="2017-02-24T13:57:33+00:00">
+							February 24, 2017 at 1:57 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Well, to be fair, basically anyone that goes around screaming racial insults and killing people is &#8220;crazy&#8221;. The thing is, this man was an employed person living  a functional life  who happens to be a right wing racist, and values the lives of minorities less than his own. One of those things caused this issue, and it&#8217;s the reason he gave right before he  shot these men.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2885997#respond' onclick='return addComment.moveForm( "div-comment-2885997", "2885997", "respond", "1399904" )' aria-label='Reply to Jim'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2896522" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2896522" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 avatar-default' height='48' width='48' />					<cite class="fn">Craig</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2896522">
+						<time datetime="2017-03-03T00:50:44+00:00">
+							March 3, 2017 at 12:50 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Something baffles me.  The news media have been talking about &#8220;racial motivation&#8221;; people in general have been talking about &#8220;racial motivation&#8221;.  In my view, there was nothing racial about this incident at all!  In my view, Adam Purinton&#8217;s motivation was religious, not racial.  When he walked into that bar and saw these two Indian guys, he mistook them for Middle Eastern Muslims!  When he shot them, he was convinced that he was shooting two Muslims!  I am sure that their skin color played no role at all in Adam Purinton&#8217;s mind.  All that mattered to him was that they were Muslims, mistaken as he was about that.  If when he walked into that bar, he had realized that those two guys were Indians and that their religion was not Islam, I honestly don&#8217;t think anything would have happened.  I really don&#8217;t.  Adam Purinton was not out to get brown-skinned people!  He was out to get Muslims!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2896522#respond' onclick='return addComment.moveForm( "div-comment-2896522", "2896522", "respond", "1399904" )' aria-label='Reply to Craig'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2886113" class="comment even thread-odd thread-alt depth-1 parent highlander-comment">
+		<article id="div-comment-2886113" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/e55470a48fe32626ad63b9b3315d5628?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='http://yahoo.com' rel='external nofollow' class='url'>Shane</a></cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886113">
+						<time datetime="2017-02-24T16:34:46+00:00">
+							February 24, 2017 at 4:34 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Is it not terrorism to specifically target innocent people because of xenophobic ideology?<br />
+What are the parameters missing in this case?<br />
+ No one is calling this guy a terrorist.<br />
+Imagine if it was the other way around.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886113#respond' onclick='return addComment.moveForm( "div-comment-2886113", "2886113", "respond", "1399904" )' aria-label='Reply to Shane'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2887282" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2887282" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/0f35215e7aa6249c0ce927b99bf66e24?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Dee</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887282">
+						<time datetime="2017-02-25T14:37:21+00:00">
+							February 25, 2017 at 2:37 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Exactly!  Terrorists are always Brown, thugs are always Black, and the mentally ill are white.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887282#respond' onclick='return addComment.moveForm( "div-comment-2887282", "2887282", "respond", "1399904" )' aria-label='Reply to Dee'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2886129" class="comment even thread-even depth-1 parent highlander-comment">
+		<article id="div-comment-2886129" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/f9e6626911293af52c599473b0b036e7?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Al Boogie</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886129">
+						<time datetime="2017-02-24T16:48:07+00:00">
+							February 24, 2017 at 4:48 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>BILL You&#8217;re a misdirection technique using racist, and a dying breed of morons who should have been exterminated with Eugenics long ago. Your tricks won&#8217;t work here</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886129#respond' onclick='return addComment.moveForm( "div-comment-2886129", "2886129", "respond", "1399904" )' aria-label='Reply to Al Boogie'>Reply</a></div>		</article><!-- .comment-body -->
+
+	<ul class="children">
+
+	<li id="comment-2890644" class="comment odd alt depth-2 highlander-comment">
+		<article id="div-comment-2890644" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/8caf61671a756a84d10c67378c69d387?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">black man</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2890644">
+						<time datetime="2017-02-27T16:48:11+00:00">
+							February 27, 2017 at 4:48 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>No !! It did work here ,and you&#8217;re a perfect example of the experiment . So how&#8217;s it feel to be the rat !  And a racist,bigot that you are !<br />
+Have some cheese of RAT !</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2890644#respond' onclick='return addComment.moveForm( "div-comment-2890644", "2890644", "respond", "1399904" )' aria-label='Reply to black man'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+
+	<li id="comment-2886133" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+		<article id="div-comment-2886133" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/f9e6626911293af52c599473b0b036e7?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Al Boogie</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886133">
+						<time datetime="2017-02-24T16:49:35+00:00">
+							February 24, 2017 at 4:49 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>He should get the electric chair ASAP. What a loser.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886133#respond' onclick='return addComment.moveForm( "div-comment-2886133", "2886133", "respond", "1399904" )' aria-label='Reply to Al Boogie'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2886283" class="comment odd alt thread-even depth-1 highlander-comment">
+		<article id="div-comment-2886283" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://1.gravatar.com/avatar/4975e28a79e5353023d1abdc36e1c81c?s=48&#038;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">jj</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886283">
+						<time datetime="2017-02-24T20:32:54+00:00">
+							February 24, 2017 at 8:32 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Other sources say he is a US Navy veteran. Interesting how many of these high profile shootings have a connection with the U.S. military.<br />
+Also, people from India are not usually Muslims, but Hindu or Buddhist. But it looks like Muslims will take &#8220;victim credit&#8221; for this like how after the 9-11 World Trade Center demolitions<br />
+you had some attacks against Indians and other foreign non-Muslims but the media was going on about Muslim victims when there weren&#8217;t any or they were very, very few.</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886283#respond' onclick='return addComment.moveForm( "div-comment-2886283", "2886283", "respond", "1399904" )' aria-label='Reply to jj'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2886956" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+		<article id="div-comment-2886956" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/ef5d38174d7c47ffab5edeacc201f58a?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">San C</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2886956">
+						<time datetime="2017-02-25T10:12:35+00:00">
+							February 25, 2017 at 10:12 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>By the way, Amerikan asking someone get out of my country itself big insult of native Red Indian or original Amerikan. immigrants comes to usa and killed most of native people</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2886956#respond' onclick='return addComment.moveForm( "div-comment-2886956", "2886956", "respond", "1399904" )' aria-label='Reply to San C'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2887061" class="comment odd alt thread-even depth-1 highlander-comment">
+		<article id="div-comment-2887061" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/cc531eaa07539965406ba3e09d44c57d?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">David C</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887061">
+						<time datetime="2017-02-25T11:19:18+00:00">
+							February 25, 2017 at 11:19 am						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Another Trumpladite heads the call of his Cheeto Jesus. Just the beginning of more to come!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887061#respond' onclick='return addComment.moveForm( "div-comment-2887061", "2887061", "respond", "1399904" )' aria-label='Reply to David C'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2887425" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+		<article id="div-comment-2887425" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/2b719527e604ccd95f6e3ffaf0462127?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Hamid</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887425">
+						<time datetime="2017-02-25T16:47:33+00:00">
+							February 25, 2017 at 4:47 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>This is not a hate crime. I call it terrorism</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887425#respond' onclick='return addComment.moveForm( "div-comment-2887425", "2887425", "respond", "1399904" )' aria-label='Reply to Hamid'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2887762" class="comment odd alt thread-even depth-1 highlander-comment">
+		<article id="div-comment-2887762" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://0.gravatar.com/avatar/3259b9c65ec6e76ac4124c6431cf7573?s=48&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">Tim J</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2887762">
+						<time datetime="2017-02-25T22:09:34+00:00">
+							February 25, 2017 at 10:09 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Should we put a travel ban on ignorant hillbillies?</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2887762#respond' onclick='return addComment.moveForm( "div-comment-2887762", "2887762", "respond", "1399904" )' aria-label='Reply to Tim J'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+
+	<li id="comment-2897951" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+		<article id="div-comment-2897951" class="comment-body">
+			<footer class="comment-meta">
+				<div class="comment-author">
+					<img alt='' src='http://2.gravatar.com/avatar/bc247fbe9add388b6a4676a500e90058?s=48&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">ElkinOs</cite> <span class="says">says:</span>				</div><!-- .comment-author -->
+
+				<div class="comment-metadata">
+					<a href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/#comment-2897951">
+						<time datetime="2017-03-03T17:37:29+00:00">
+							March 3, 2017 at 5:37 pm						</time>
+					</a>
+									</div><!-- .comment-metadata -->
+
+							</footer><!-- .comment-meta -->
+
+			<div class="comment-content">
+				<p>Bill, dude, believe me, indian guys are very decent people. I have had the opportunity of working with them and they&#8217;re very nice and decent. The  never say bad things about people or things. There is no way to say that they shouted slurs against that ignorant murderer. Never, never, ever!!</p>
+			</div><!-- .comment-content -->
+
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/?replytocom=2897951#respond' onclick='return addComment.moveForm( "div-comment-2897951", "2897951", "respond", "1399904" )' aria-label='Reply to ElkinOs'>Reply</a></div>		</article><!-- .comment-body -->
+
+	</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+</div><!-- #comments -->
+	<div style="background:#fff; position:relative; z-index:100; padding: 10px;">
+		<div class="fb-comments" data-href="http://heavy.com/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+	</div>
+<!--  below comments -->
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="site-info">
+			<div id="sidebar-footer-links">
+	<div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-977131" class="menu-item menu-item-type-post_type menu-item-object-page item-about-heavy first-menu-item menu-item-977131"><a href="http://heavy.com/about/">About Heavy</a></li>
+<li id="menu-item-977130" class="menu-item menu-item-type-post_type menu-item-object-page item-contact-us menu-item-977130"><a href="http://heavy.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-977128" class="menu-item menu-item-type-post_type menu-item-object-page item-privacy-policy menu-item-977128"><a href="http://heavy.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-977129" class="menu-item menu-item-type-post_type menu-item-object-page item-terms-of-service last-menu-item menu-item-977129"><a href="http://heavy.com/terms-of-service/">Terms of Service</a></li>
+</ul></div>	Copyright &copy; 2017 Heavy, Inc. All rights reserved.	Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div>
+	</div><!-- .site-info -->
+</footer><!-- #colophon -->
+	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Related posts from this category</h1>
+		<div class="nav-links">
+			<div><a class="more-from-category" href="http://heavy.com/news/">More Posts</a></div>
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+		<section id="river-area" class="river-area single-post">
+					<article class="river" style="display:none;"></article>
+			</section>
+	</div><!-- #content -->
+
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+	<div style="display:none">
+	<div class="grofile-hash-map-d8c5623c467747f597a8b8879fbaeb16">
+	</div>
+	<div class="grofile-hash-map-d8c5623c467747f597a8b8879fbaeb16">
+	</div>
+	<div class="grofile-hash-map-8caf61671a756a84d10c67378c69d387">
+	</div>
+	<div class="grofile-hash-map-812397fa2899d47d4115abe79ebdd46f">
+	</div>
+	<div class="grofile-hash-map-ab17ccd11e2b41e62cef06fcb1900d58">
+	</div>
+	<div class="grofile-hash-map-62ad62aa08f0d52be7abe4a1b47031c8">
+	</div>
+	<div class="grofile-hash-map-7bb4094a347d6caf2b27b07d78fda17e">
+	</div>
+	<div class="grofile-hash-map-cc531eaa07539965406ba3e09d44c57d">
+	</div>
+	<div class="grofile-hash-map-d41d8cd98f00b204e9800998ecf8427e">
+	</div>
+	<div class="grofile-hash-map-f9e6626911293af52c599473b0b036e7">
+	</div>
+	<div class="grofile-hash-map-a43ccc87612556cdf8ec3e3dd8ebdc01">
+	</div>
+	<div class="grofile-hash-map-0f35215e7aa6249c0ce927b99bf66e24">
+	</div>
+	<div class="grofile-hash-map-16112c4039ae5543d79c309630c3ce22">
+	</div>
+	<div class="grofile-hash-map-18e4bda476e157c907e4d1b8ee8cf79f">
+	</div>
+	<div class="grofile-hash-map-256bcdd977ddc43d55fc321221484f52">
+	</div>
+	<div class="grofile-hash-map-7fad3890e9d1faea619bfb0ea3aaded6">
+	</div>
+	<div class="grofile-hash-map-45b1e06dac527161a3527685b46e9dff">
+	</div>
+	<div class="grofile-hash-map-ce947e6534602255b08b7990bb12c965">
+	</div>
+	<div class="grofile-hash-map-8eb805275194c8c3f35f41a2a6f8a8f0">
+	</div>
+	<div class="grofile-hash-map-d59e2502d6d9456072e47f479696510f">
+	</div>
+	<div class="grofile-hash-map-3a93e4b9d674250a3eae81cda80cd279">
+	</div>
+	<div class="grofile-hash-map-76924ff41084c644e6ced2d6c78eed1a">
+	</div>
+	<div class="grofile-hash-map-e55470a48fe32626ad63b9b3315d5628">
+	</div>
+	<div class="grofile-hash-map-4975e28a79e5353023d1abdc36e1c81c">
+	</div>
+	<div class="grofile-hash-map-ef5d38174d7c47ffab5edeacc201f58a">
+	</div>
+	<div class="grofile-hash-map-2b719527e604ccd95f6e3ffaf0462127">
+	</div>
+	<div class="grofile-hash-map-3259b9c65ec6e76ac4124c6431cf7573">
+	</div>
+	<div class="grofile-hash-map-bc247fbe9add388b6a4676a500e90058">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/heavyeditorial.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/heavyeditorial.wordpress.com\/wp-login.php?action=logout&_wpnonce=32af9ec118","homeURL":"http:\/\/heavy.com\/","postID":"1399904","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="62957618" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://heavy.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Heavy.com" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="09e3a683aa" /><input type="hidden" name="_wp_http_referer" value="/news/2017/02/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??-eJxNjEEKwkAMAD9kDAutehHfssTQpmbTxWQr/t4WKfQ6wwx+KtBswRYYIxd2XKTiyHn5ohhh1TaI+Z9AyaJiA6h4bFrbcy3IHY/mvIITHs6lwf6h/J6bs+LEUTO9YAdb9Cj31N1Sf019d5l+LEA5sA==' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var heavyJS = {"debug":"","isAMP":"","true_base_site":"heavy.com","isSingle":"1","curlink":"\/\/heavy.com\/news\/2017\/02\/adam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas\/","catURL":"\/news\/","the_end":"Congratulations, you've reached the end of the Internets.","ajaxurl":"https:\/\/heavyeditorial.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVkttOwzAMhl+INOOgAReIZwmJ1zpznJBDp7793FWDCm0wbu3v9xfL0YekbOQKXHVoKlHrkYsm3EPRnw0aDIYdQe58udMruA4QBBkx6XMoQ0mRC46gMJheuv5C8TwI2VJzC7R0KBoHrgvIv8gGMOM0Z7y8Lk8d8g4ZKxSbI9E/wzbGPcKtoSIaJR5MdR1ZL2JjCBJXGRJN16BFrhsKnuFv6oCuh6vKb66aj3LTLhL/OtqpIu8lU8GpeYRafHr4Ub80evVlHtQs8CePMmxoqmjna7+Ht/unl83j9nX7vPFHC5jpRg=='></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"https:\/\/heavyeditorial.wordpress.com\/wp-content\/themes\/vip\/plugins\/facebook\/channel.php","xfbml":true,"appId":"1103740676351644"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/en_US\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/heavy.com\/wp-admin\/admin-ajax.php","nonce":"18df0406df","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/heavyeditorial.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Fheavy.com%2Fnews%2F2017%2F02%2Fadam-purinton-olathe-shooter-shooting-suspect-veteran-muslim-islam-slur-who-is-dead-death-applebees-update-austins-bar-kansas%2F","blog_id":"62957618","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=62957618&v=wpcom&tz=-5&user_id=0&subd=heavyeditorial","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJxtjkkOgzAMRS/UYFBZlEXVs7jBAqeZmoGK2xcqEFHFytb7+c+BjxfS2UQ2gcnC6zywjYC9YSueGMBgTBSWTbiJQuCe4sEqFS9QGNJIZskn9jASTjOwlbA7f0QYZM12EJpjWmOdV6NapUfw7y1+FkcXknRbaSEJh4Bmb5TG6NmecfXOFOZtVOWrk3sSg8uRNChKHuVL7GDpPMy9aW9dXbfNtVNfiOF75A=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'62957618','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'62957618','v':'wpcom','tz':'-5','user_id':'0','post':'1399904','subd':'heavyeditorial'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=62957618&v=wpcomvt&tz=-5&user_id=0&post=1399904&subd=heavyeditorial&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdkdHVKK2FXflFbSThKfnEtSUJtLU9VaXlOOHp8fD9ZaE1ZczZ2dVJdMG9lQV1ZMj0sRnAudElhMS5ZdmRaLC52dHhqWDE5Uz9HP1c1QkpxUUhzX1gsT2F4Y2FlLG5zSTVuN11zJnhQSTJtSXhdLiVaZm5xUkd6RElVUSxIJVNCZ2lOaXVsU3FTLzNGODQ5YjFRWSZPZTNMQVtxfDhRLDJSNXMzVz9jWCZHVyxwTUlZeTYlNXBBcX5EUlBRVlMy'}]);
+_stq.push([ 'clickTrackerInit', '62957618', '1399904' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+	<div id="fb-root"></div>
+			<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+		<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1760 @@
+                                            
+   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIDUF9SCRADXVlXBwkDVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+    <title>India to be fastest growing economy among G-20 nations: Moody's  - Moneycontrol.com</title>
+    <meta name="description" content="India will be the fastest growing
+economy among G-20 countries clocking a 7.1 per cent growth in
+2017, Moody's Investors Service said today." />
+    <meta name="news_keywords" content="demonetisation, Economy, G-20, India, Moody, " />
+    <meta name="Keywords" content="demonetisation, Economy, G-20, India, Moody, ">
+    <meta content="NOODP" name="robots">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Last-Modified" content="Sun, 12 Mar 2017 04:58:41 IST"/>
+    <meta name="Last-Modified" content="Sun, 12 Mar 2017 04:58:41 AM">
+    <meta property="og:url" content="http://www.moneycontrol.com/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" />
+    <meta property="og:title" content="India to be fastest growing economy among G-20 nations: Moody's" />
+    <meta property="og:description" content="India will be the fastest growing
+economy among G-20 countries clocking a 7.1 per cent growth in
+2017, Moody's Investors Service said today." />
+    <meta property="og:image" content="http://img-d02.moneycontrol.co.in/news_image_files/2016/356x200/g/GDP_Gross_domestic_price_economy_Growth_inflation_Growth_356x200_5239_356.jpg" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@moneycontrolcom">
+    <meta name="twitter:creator" content="@moneycontrolcom">
+    <meta name="twitter:url" content="http://www.moneycontrol.com/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html">
+    <meta name="twitter:title" content="India to be fastest growing economy among G-20 nations: Moody's">
+    <meta name="twitter:description" content="India will be the fastest growing
+economy among G-20 countries clocking a 7.1 per cent growth in
+2017, Moody's Investors Service said today.">
+    <meta name="twitter:image:src" content="http://img-d02.moneycontrol.co.in/news_image_files/2016/356x200/g/GDP_Gross_domestic_price_economy_Growth_inflation_Growth_356x200_5239_356.jpg">
+    <meta property="fb:pages" content="143902715620459" />
+    <meta name="HandheldFriendly" content="true" />
+    <link rel="canonical" href="http://www.moneycontrol.com/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" />
+    <link rel="amphtml" href="http://www.moneycontrol.com/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html">
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "India to be fastest growing economy among G-20 nations: Moody's",
+        "description": "India will be the fastest growing
+economy among G-20 countries clocking a 7.1 per cent growth in
+2017, Moody's Investors Service said today.",
+        "url" : "http://news.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html",
+        "publisher": {
+            "@type": "Organization",
+            "name": "MoneyControl",
+            "url" : "http://news.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html",
+            "logo" : {
+                    "@type": "ImageObject",
+                    "contentUrl": "http://www.moneycontrol.com/static/logo.jpg"
+            }
+        },
+        "breadcrumb":{
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement":[{
+            "@type": "ListItem",
+            "position": 1,
+            "item":{
+              "@id": "http://www.moneycontrol.com/",
+              "name": "Home"
+              }
+          }, 
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item":{
+            "@id": "http://www.moneycontrol.com/news",
+            "name": "news"
+            }
+        }, 
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item":{
+            "@id": "http://www.moneycontrol.com/news/economy",
+            "name": "economy"
+            }
+        }, 
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item":{
+            "@id": "http://www.moneycontrol.com/news/economy/news",
+            "name": "news"
+            }
+        }, 
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item":{
+            "@id": "http://www.moneycontrol.com/news/economy/news/business",
+            "name": "business"
+            }
+        }, 
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item":{
+            "@id": "http://www.moneycontrol.com/news/economy/news/business/economy",
+            "name": "economy"
+            }
+        }]}
+    }
+    </script>   
+    <link href="http://stat.moneycontrol.co.in/mcnews/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,400i,500,500i,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <link rel="shortcut icon" href="http://img-d02.moneycontrol.co.in/mcnews/images/favicon.ico" type="image/x-icon">
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    <script type='text/javascript'>googletag.cmd.push(function() {googletag.defineSlot('/1039154/Moneycontrol/MC_News/MC_News_Internal_728x90', [728,90], 'Moneycontrol/MC_News/MC_News_Internal_728x90').addService(googletag.pubads()); googletag.defineSlot('/1039154/Moneycontrol/MC_News/MC_News_Internal_300x600', [300,600], 'Moneycontrol/MC_News/MC_News_Internal_300x600').addService(googletag.pubads()); googletag.defineSlot('/1039154/Moneycontrol/MC_News/MC_News_Internal_300x250_Networth', [300,250], 'Moneycontrol/MC_News/MC_News_Internal_300x250_Networth').addService(googletag.pubads()); googletag.defineSlot('/1039154/Moneycontrol/MC_News/MC_News_Internal_Article_Native', [280,86], 'Moneycontrol/MC_News/MC_News_Internal_Article_Native').addService(googletag.pubads()); googletag.defineSlot('/1039154/Moneycontrol/MC_News/MC_News_Internal_Listing_Native', [910,132], 'Moneycontrol/MC_News/MC_News_Internal_Listing_Native').addService(googletag.pubads()); googletag.pubads().enableSingleRequest();
+ 				googletag.pubads().collapseEmptyDivs(true);
+ 				googletag.enableServices(); });</script>
+    <table cellpadding="0" cellspacing="0" border="0">
+    <tr><td><link rel="alternate" TITLE="MoneyControl.com News" HREF="http://www.moneycontrol.com/rss/latestnews.xml" TYPE="application/rss+xml" /></td></tr>
+    </table>
+    
+    <script type="text/javascript"> 
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-156703-1', 'moneycontrol.com');
+      ga('send', 'pageview');
+    
+    function urchinTracker(pa_str) {ga(['_trackPageview', ''+pa_str+'']);}
+    function GAEventTracker(category,action,opt_label) {ga('send', 'event', ''+category+'', ''+action+'', ''+opt_label+'');}
+    </script>
+    
+    <!-- Begin comScore Tag -->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6683813" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+
+    </head>
+    <body>
+<!-- Moneycontrol header start here -->
+
+<!--Common css files in header (Start)-->
+
+<link rel="stylesheet" type="text/css" href="http://stat.moneycontrol.co.in/mccss/common/googlefont.css?v=0.1" />
+<link rel="stylesheet" type="text/css" href="http://stat.moneycontrol.co.in/mccss/common/headfoot.css?v=112" />
+
+<!--Common css files in header (End)-->
+
+<!--Common JS files & code in header (Start)-->
+	<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/jquery-1.12.0.min.js"></script> 
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-1.4.1.min.js' ></script>
+<script type='text/javascript' src='http://stat.moneycontrol.co.in/mcjs/common/jquery.cookie.js' ></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/bootstrap.min.js"></script> 
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/jquery.bxslider-min.js"></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/markets/common.js?ver=11.18"></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/moneycontrol_header.js?v=105"></script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcjs/common/mc_common.js?v=1.8"></script>
+
+<script type="text/javascript">
+  var m_selected = '3';
+	var matrix_adunit=1;
+	var usernnmc = readCookie("nnmc");
+
+	var IE = document.all?true:false;
+	var anychange=0;
+	var bak_price_div;
+	var matrix=0;
+	var cnbc_matrix=0;
+
+	/* Block site in Client IFrame -> Start */
+		// <meta http-equiv="X-Frame-Options" content="deny">
+		if(top.location != window.location) {
+			window.location = 'http://www.moneycontrol.com/mccode/common/iframe_blocker.php';
+		}
+	/* End <- Block site in Client IFrame */
+
+</script>
+<!--Common JS files & code in header (End)-->
+
+<header  class="headinsde" >
+<style>
+/*.headinsde .headTop .topmenublock .subscriptionblock, .headinsde .headTop .topmenublock .appblock, .headinsde .headTop .topmenublock .specialsblock {width: 1263px;}*/
+</style>
+  <div class="headTop">
+    <div class="header-main-wrapper PR clearfix">
+      <div class="FL">
+        <ul class="langblock">
+          <li class="sub1"><a href="http://www.moneycontrol.com/" title="English">English</a><span></span>
+            <ul class="submenus">
+              <li><a href="http://hindi.moneycontrol.com" title="Hindi">Hindi</a></li>
+              <li class="last"><a href="http://gujarati.moneycontrol.com/" title="Gujarati">Gujarati</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="FR clearfix">
+        <div class="topmenublock">
+          <div class="toplinks toptab1">App
+            <div class="appblock">
+              <span class="arwssUp"></span>
+               <div class="drpcnthv">
+                <div class="app_banner">
+                  <img src="http://img-d03.moneycontrol.co.in/images/common/header/app-banner.png" alt="Moneycontrol App" usemap="#Map" width="993" height="124" border="0" />
+                  <map id="Map" name="Map">
+                    <area href="http://www.moneycontrol.com/apps?utm_source=dropdownhp&utm_medium=Web&utm_campaign=AppInstall" target="_blank" coords="570,45,766,96" shape="rect">
+                  </map>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span class="divider"></span>
+          <div class="toplinks toptab2"><a href="javascript:;" title="Subscription">Subscription</a>
+            <div class="subscriptionblock">
+              <span class="arwssUp"></span>
+               <div class="drpcnthv">
+                  <ul class="app_banner">
+                    <li>
+                      <a href="http://www.moneycontrol.com/gamechangers?utm_source=premiumtop" title="Game Changers - Sudarshan Sukhani" target="_blank"><img src="http://img-d03.moneycontrol.co.in/images/common/header/subscr1.png" alt="Game Changers - Sudarshan Sukhani" /></a>
+                    </li>
+                    <li>
+                      <a href="http://www.moneycontrol.com/gamechangers/mecklai?utm_source=premiumtop" title="Game Changers - Mecklai Financial" target="_blank"><img src="http://img-d01.moneycontrol.co.in/images/common/header/subscr2.png" alt="Game Changers - Mecklai Financial" width="238" height="110" /></a>
+                    </li>
+                    <li>
+                      <a href="http://www.moneycontrol.com/gamechangers/ambareeshbaliga?utm_source=premiumtop" title="Game Changers - Ambareesh Baliga" target="_blank"><img src="http://img-d03.moneycontrol.co.in/images/common/header/subscr3.png" alt="Game Changers - Ambareesh Baliga" /></a>
+                    </li>
+                    <li>
+                      <a href="http://www.moneycontrol.com/gamechangers/cknarayan?utm_source=premiumtop" title="Game Changers - C K Narayan" target="_blank"><img src="http://img-d03.moneycontrol.co.in/images/common/header/subscr4.png" alt="Game Changers - C K Narayan" /></a>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+          </div>
+          <span class="divider"></span>
+          <div class="toplinks toptab3">Specials
+            <div class="specialsblock">
+              <span class="arwssUp"></span>
+              <div class="drpcnthv">
+              <ul class="splist clearfix" style="padding-left:75px;">
+                <li>
+                  <a href="http://www.moneycontrol.com/gestepahead/" title="GE Step Ahead" target="_blank"><img src="http://img-d01.moneycontrol.co.in/images/common/header/stepahead.png?v=0.2" alt="GE Step Ahead" /></a>
+                </li>
+                <li>
+                  <a href="http://www.moneycontrol.com/growmymoney/" title="Grow My Money" target="_blank"><img src="http://img-d02.moneycontrol.co.in/images/common/header/GrowMyMoney.jpg?v=0.2" alt="Grow My Money" /></a>
+                </li>
+                               <li>
+                  <a href="http://www.moneycontrol.com/invest-now/?utm_source=specials" title="Invest Now" target="_blank"><img src="http://img-d02.moneycontrol.co.in/images/common/header/logo_transparent_130x118.png?v=0.2" alt="Invest Now" /></a>
+                </li>
+                <li>
+                  <a href="http://www.moneycontrol.com/master-your-money/?utm_source=specials" title="Master Your Money" target="_blank"><img src="http://img-d02.moneycontrol.co.in/images/common/header/MYM.png?v=0.2" alt="Master Your Money" /></a>
+                </li>
+                <li>
+                  <a href="http://www.moneycontrol.com/prosperity-hub/?utm_source=MC&utm_campaign=ProsperityHub&utm_medium=Specials" title="Prosperity Hub" target="_blank"><img src="http://img-d01.moneycontrol.co.in/images/common/header/IMG-20150205-WA0003.png?v=0.2" alt="Prosperity Hub" /></a>
+                </li>
+              </ul>
+              
+              </div>
+            </div>
+          </div>
+          <div class="searchBox clearfix FL">
+            <div class="searchboxInner clearfix PR FL">
+              <form name="form_topsearch" id="form_topsearch" method="get" onsubmit="javascript:return submit_search_txt('#form_topsearch');" action="">
+                <input name="search_data" id="search_data" value="" type="hidden" readonly="readonly" />
+                <input name="cid" id="cid" value="" type="hidden"  readonly="readonly" />
+                <input name="mbsearch_str" id="mbsearch_str" type="hidden" value=""  readonly="readonly" />
+                <input name="topsearch_type" id="topsearch_type" value="1" type="hidden" readonly="readonly" />
+                <input class="txtsrchbox FL" id="search_str" onkeyup="getAutosuggesionHeader('#form_topsearch');" placeholder="Universal Search" name="search_str" value="" type="text" autocomplete="off" />
+                <!-- search category-->
+               
+                <!-- auto suggest box-->
+               <div class="sugBox" id="autosugg_mc1" style="display:none;">
+                  <div class="ausggestleft">
+                    <ul id="ul_srchCat_DDL">
+                        <li class="active" onClick="suggestboxdd('1', 'maintop');" id="tab1"><a rel="1" href="javascript:void(0);" title="Quotes"> Quotes </a></li>
+                        <li onClick="suggestboxdd('2', 'maintop');" id="tab2"><a rel="2" href="javascript:void(0);" title="NAVs"> NAVs</a></li>
+                        <li onClick="suggestboxdd('5', 'maintop');" id="tab5"><a rel="5" href="javascript:void(0);" title="Commodities"> Commodities </a></li>
+                        <li onClick="suggestboxdd('9', 'maintop');" id="tab9"><a rel="9" href="javascript:void(0);" title="Futures">Futures </a></li>
+                        <li onClick="suggestboxdd('3', 'maintop');" id="tab3"><a rel="3" href="javascript:void(0);" title="News"> News </a></li>
+                        <li onClick="suggestboxdd('4', 'maintop');" id="tab4"><a rel="4" href="javascript:void(0);" title="Forum"> Forum </a></li>
+                        <li onClick="suggestboxdd('6', 'maintop');" id="tab6"><a rel="6" href="javascript:void(0);" title="Notices"> Notices </a></li>
+                        <li onClick="suggestboxdd('7', 'maintop');" id="tab7"><a rel="7" href="javascript:void(0);" title="Videos"> Videos </a></li>
+                        <li onClick="suggestboxdd('8', 'maintop');" id="tab8"><a rel="8" href="javascript:void(0);" title="All"> All </a></li>
+                      </ul>
+                  </div>
+                  <div class="top_asugscrl" id="autosuggestlist">
+                    <ul class="suglist scrollBar" >                                          
+                    </ul>
+            
+                    <div class="brdtp CTR PT5">
+                                          </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <a href="javascript:void(0)" title="Submit" onclick="$('#form_topsearch').submit();" class="btn_black btn_search FR"></a> 
+          </div>
+          <div class="toplinks1"><a class="link1" href="http://www.moneycontrol.com/india/stockpricequote/" title="Stocks">Stocks</a></div>
+          <span class="divider"></span>
+          <div class="toplinks1"><a class="link1" href="http://www.moneycontrol.com/cdata/feedback.php?flag=oth" title="Feedback">Feedback</a></div>
+          <span class="divider"></span>
+          <div class="toplinks1 blp dropdown">
+            <a href="#" title="Sign in" class="link1 dropdown-toggle" data-toggle="dropdown"><strong>Sign in</strong></a>
+            <div class="signinblock dropdown-menu">
+              <span class="arwssUp"></span>
+              <div class="signinbox clearfix">
+                <div class="signintop clearfix"> <a class="btn-close" href="javascript:;" title="Close"></a> </div>
+                <div class="signinbottom">
+                  <div class="signinleft">
+                    <form name="signin_mc_frm" id="signin_mc_frm" method="POST" onsubmit="return signInMCUser();">
+                      <div class="signfieldbg"><input type="text" id="signuname" name="signuname" class="textfield" value="" placeholder="User name" /></div>
+                      <div class="signfieldbg MT10"><input type="password" id="signpwd" name="signpwd" class="textfield" value="" placeholder="Password" /></div>
+                      <div class="checkboxblock">
+                        <label>
+                          <input type="checkbox" name="" class="checkbxsn" />
+                          <span class="checkboxtext">Keep me signed in</span>
+                        </label>
+                        <input type="submit" class="blue-btn" value="sign in" />
+                        <br />
+                        <span class="frtpwd">
+                          <a href="http://www3.in.com/sso/forgotpwd.php?ref=MC" target="_blank" rel="nofollow" style="color:#282828;" class="frtpwd" co title="Forgot password?">Forgot password?</a>
+                        </span> 
+                      </div>
+                    </form>
+                  </div>
+                  <div class="signinright">
+                    <div class="socialblocks">
+                      <div class="contenttext">connect with</div>
+                      <div class="sociallinks"> 
+                        <a class="ic_fb" href="javascript:void(0);" title="Facebook Login" onclick="openFacebookLoginRegPopup();"></a> 
+                        <a class="ic_tweet" href="javascript:void(0);" title="Twitter Login" onclick="openTwitterLoginRegPopup();"></a> 
+                        <a class="ic_gplus" href="javascript:void(0);" title="Google Plus Login" onclick="openGoogleLoginRegPopup();"></a> 
+                      </div>
+                    </div>
+                    <div class="divider"></div>
+                    <div class="FL ML15">
+                      <div class="contenttext MT10">Don’t have an account?</div>
+                      <div class="FL MT10">
+                        <input type="button" class="blue-btn" onclick="showLoginRegPopup('signup');" value="create now" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="toplinks1 alp dropdown" style="display:none;">
+            <a href="#" class="link1 dropdown-toggle" data-toggle="dropdown"><strong id="usr_nm"></strong></a>
+            <div class="myaccpop dropdown-menu">
+                <span class="arwssUpLft"></span>
+                <ul>
+                    <li><a href="http://www.moneycontrol.com/bestportfolio/wealth-management-tool/update_profile">My Profile</a></li>
+                    <li><a href="http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool">My Portfolio</a></li>
+                    <li><a href="http://www.moneycontrol.com/bestportfolio/wealth-management-tool/stock_watchlist">My Watchlist</a></li>
+                    <li><a href="http://mmb.moneycontrol.com/">My Messages</a></li>
+                    <li><a href="http://www.moneycontrol.com/alerts/manage-alerts.php">My Alerts</a></li>
+                </ul>
+            </div>
+          </div>
+          <span class="divider"></span>
+          <div class="toplinks1 blp dropdown">
+            <a href="#" title="Register" class="link1 dropdown-toggle" data-toggle="dropdown"><strong>Register</strong></a>
+            <div class="registerblock dropdown-menu">
+              <span class="arwssUp"></span>
+              <div class="registerbox clearfix">
+                <div class="registertop clearfix"> <a class="btn-close" href="javascript:void(0);" title="Close"></a> </div>
+                <div class="registerbottom">
+                  <div class="regtop">
+                    <form name="reg_mc_frm" id="reg_mc_frm" method="POST" onsubmit="return registration_MCUser();">
+                      <div class="blockheading"><strong>New to Moneycontrol</strong> - Sign up now <br />Its easy and FREE!</div>
+                      <div class="registerfieldbg PR">
+                        <input type="text" name="reguname" id="registerName" onblur="checkAvailableMCUserName();" placeholder="User Name" class="textfield" value="" autocomplete="off" />
+                        <div class="text">Username should be atleast 4 characters</div>
+                        <div id="div_user_name_available" class="usravlcnt" style="display:none;">
+                        	<span class="arwssUp"></span>
+                            <div class="grnalrtBx">
+                                <span class="ic_rghtTick"></span>
+                                Username available
+                            </div>
+                        </div>
+                        <div id="div_user_name_not_available" class="password_alert" style="display:none;">
+                        	<span class="paslrCl" onclick="$('#div_user_name_not_available').hide();"> </span>
+ 						<p><img src="http://img-d03.moneycontrol.co.in/images/common/2015/alert_ico.jpg" alt="" style="" width="15" height="13"> Username not available</p>
+ 						Suggested Usernames
+ 						<ul class="userlist">
+ 							<li><label><input name="rdo_btn_username" type="radio"></label></li>
+ 						</ul>
+ 					</div>
+                      </div>
+                      <div class="registerfieldbg MT10 PR">
+                        <input type="password" name="regPwd" id="registerPasword" class="textfield" onblur="$(this).next('label').hide();if($(this).val()==''){$('div#passwordalert').hide();}else{ var patternpw = new RegExp(/((?=.*\d)(?=.*[A-Z])(?=.*\W).{8,})/);if(!patternpw.test($('#registerPasword').val())){$('div#passwordalert').show();}else{$('div#passwordalert').hide(); } }" onclick="$('div#passwordalert').hide();" onfocus="$('div#passwordalert').hide();" value="" placeholder="Password">
+                        <div class="text">Password should be 8 or more characters,atleast 1 number, 1 symbol (except #) &amp; 1 upper case letter</div>
+                        <div id="passwordalert" class="password_alert">
+                          <p class="ale_p"><img src="http://img-d03.moneycontrol.co.in/images/common/2015/alert_ico.jpg" width="15" height="13" alt="" /> Alert</p>
+                          Your Password should contain
+                          <ul>
+                            <li><span> 8 or more characters</span></li>
+                            <li><span>At least 1 number</span></li>
+                            <li><span>At least 1 symbol</span></li>
+                            <li><span>At least 1 upper case letter</span></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="MT10">
+                        <div class="registerfieldbg"><input type="password" name="regConfPwd" id="registerConfPasword" class="textfield" placeholder="Confirm Password" value="" /></div>
+                        <div class="registerfieldbg MT10"><input type="text" class="textfield" name="regemail" id="registerEmail" placeholder="Email" value="" /></div>
+                        <div class="checkboxblock">
+                          <input type="checkbox" />
+                          <span class="checkboxtext">Keep in signed in</span>
+                          <input type="hidden" name="registration" value="newreg" readonly="readonly" />
+                          <input type="hidden" name="src" value="MC" readonly="readonly" />
+                          <input type="submit" class="blue-btn" value="register" />
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                  <div class="regbottom">
+                    <div class="socialblocks">
+                      <div class="contenttext"><strong>OR</strong> connect with</div>
+                      <div class="sociallinks"> 
+                        <a class="ic_fb" href="javascript:void(0);" title="Facebook Login"  onclick="openFacebookLoginRegPopup();"></a> 
+                        <a class="ic_tweet" href="javascript:void(0);" title="Twitter Login" onclick="openTwitterLoginRegPopup();"></a> 
+                        <a class="ic_gplus" href="javascript:void(0);" title="Google Plus Login" onclick="openGoogleLoginRegPopup();"></a> 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="toplinks1 alp" style="display:none;">
+            <a href="http://www.moneycontrol.com/mcplus/portfolio/logout.php?ref=http://www.moneycontrol.com/mcplus/portfolio/loginportfolio.php" title="Logout" class="toptab5 link1"><strong>Logout</strong></a>
+          </div>
+        </div>
+                <ul class="topsocial MT2 FL">
+          <li><a href="http://www.facebook.com/moneycontrolFB" title="Facebook" target="_blank" rel="nofollow" class="ic_topfb"></a></li>
+          <li><a href="http://twitter.com/moneycontrolcom" title="Twitter" target="_blank" rel="nofollow" class="ic_toptweet"></a></li>
+        </ul>
+        <div class="FR ML5 MT1"><a href="http://www.network18online.com/" title="Network18" target="_blank" rel="nofollow" class="icon18"></a></div>
+      </div>
+    </div>
+  </div>
+  <div class="headmid clearfix">
+    <div class="header-main-wrapper"> 
+      <a href="http://www.moneycontrol.com/" title="Moneycontrol"><img src="http://img-d02.moneycontrol.co.in/images/common/header/logo.png" width="247" height="94" alt="Moneycontrol"></a>
+      <div class="rightblock">
+      <!--top header news element start here-->
+ <a href="http://www.moneycontrol.com/news/wheels/video-worth-watching-ferrari-812-superfast-promo_8629961.html" title="Video worth watching: Ferrari 812 Superfast promo" target="_blank"><div class="FR">
+           <div class="righttopimg"><img src="http://img-d02.moneycontrol.co.in//news_image_files/2017/145x82/f/Ferrari-812-Superfast-11.jpg" alt="Video worth watching: Ferrari 812 Superfast promo" width="130" height="72"></div>
+           <span class="MT5">Video worth watching: Ferrari 812 Superfast promo</span></div></a>
+ <!-- crone_market_top_widget -->      </div>
+    </div>
+  </div>
+  <div class="icpancakeblock">
+    <div class="iconpancake"></div>
+    <div class="FL mc_moblogo"><a href="http://m.moneycontrol.com/" title="Moneycontrol"><img src="http://img-d02.moneycontrol.co.in/images/common/header/logo.png" width="120" height="46" alt="Moneycontrol"></a></div>
+    <div class="mc-text FL"></div>
+    <div class="icon-user">
+      <ul class="usermenus blp" id="mc_mobile_usermenus">
+        <li><a href="http://m.moneycontrol.com/login.php" title="Login">Login</a></li>
+        <li class="last"><a href="http://m.moneycontrol.com/mcreg.php" title="Register">Register</a></li>
+      </ul>
+      <ul class="usermenus alp" id="mc_mobile_usermenus">
+        <li><a href="http://m.moneycontrol.com/portfolio.php?type=today" id="mobile_usr_nm"></a></li>
+        <li><a href="http://m.moneycontrol.com/portfolio.php?type=today" title="My Portfolio">My Portfolio</a></li>
+        <li><a href="http://m.moneycontrol.com/watchlist.php">My Watchlist</a></li>
+        <li><a href="http://m.moneycontrol.com/mmb/" title="My Messages">My Messages</a></li>
+        <li class="last"><a href="http://m.moneycontrol.com/logout.php?red_url=index.html" title="Sign out">Sign out</a></li>
+      </ul>
+    </div>
+    <div class="searchblock PR"><span class="ic-search"></span></div>
+    
+    <!-- mobile search start here -->
+
+<div class="searchBox clearfix" id="autosugg_mc_mobile" style="display:none;">
+  <div class="FR">
+  <div class="searchboxInner clearfix PR FL">
+    <form name="form_mobile_topsearch" id="form_mobile_topsearch" method="get" onsubmit="javascript:return submit_search_txt('#form_mobile_topsearch');" action="">
+        <input name="search_data" id="search_data" value="" type="hidden" readonly="readonly" />
+        <input name="cid" id="cid" value="" type="hidden"  readonly="readonly" />
+        <input name="mbsearch_str" id="mbsearch_str" type="hidden" value=""  readonly="readonly" />
+        <input name="topsearch_type" id="topsearch_type" value="1" type="hidden" readonly="readonly" />
+        <input class="txtsrchbox FL" id="search_str" onkeyup="getAutosuggesionHeader('#form_mobile_topsearch');" placeholder="Universal Search" name="search_str" value="" type="text" autocomplete="off" />
+      <!-- auto suggest box-->
+      <div class="sugBox" id="autosugg_mc1" style="display:none;">
+        <div class="ausggestleft">
+          <ul class="nav-tabs" id="ul_srchCat_DDL">
+            <li class="active" onClick="suggestboxdd('1', 'mobile_top');" id="tab1"><a rel="1" href="javascript:void(0);" title="Quotes"> Quotes </a></li>
+            <li onClick="suggestboxdd('2', 'mobile_top');" id="tab2"><a rel="2" href="javascript:void(0);" title="NAVs"> NAVs</a></li>
+            <li onClick="suggestboxdd('5', 'mobile_top');" id="tab5"><a rel="5" href="javascript:void(0);" title="Commodities"> Commodities </a></li>
+            <li onClick="suggestboxdd('9', 'mobile_top');" id="tab9"><a rel="9" href="javascript:void(0);" title="Futures">Futures </a></li>
+            <li onClick="suggestboxdd('3', 'mobile_top');" id="tab3"><a rel="3" href="javascript:void(0);" title="News"> News </a></li>
+            <li onClick="suggestboxdd('4', 'mobile_top');" id="tab4"><a rel="4" href="javascript:void(0);" title="Forum"> Forum </a></li>
+            <li onClick="suggestboxdd('6', 'mobile_top');" id="tab6"><a rel="6" href="javascript:void(0);" title="Notices"> Notices </a></li>
+            <li onClick="suggestboxdd('7', 'mobile_top');" id="tab7"><a rel="7" href="javascript:void(0);" title="Videos"> Videos </a></li>
+            <li onClick="suggestboxdd('8', 'mobile_top');" id="tab8"><a rel="8" href="javascript:void(0);" title="All"> All </a></li>
+          </ul>
+        </div>
+        <div class="top_asugscrl">
+          <div class="tab-content">
+            <div class="tab-pane in active" id="autosuggestlist">
+              <ul class="suglist">
+                <li><a href="#" target="_parent"><span><b>Auri</b>ferous</span> Aqua Farma&nbsp;, 519363</a></li>                
+              </ul>
+            </div>
+          </div>
+          <div class="brdtp CTR PT5"> <a href="http://stgnews.moneycontrol.com/tags/mf-experts.html" title="See More" class="ssMore">View All <span class="ic_seemore"></span></a> </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <a href="#" class="btn_black btn_search FR"></a>
+  </div>
+</div>
+<!-- mobile search END here -->
+
+        
+    
+    <div class="pancakemenu">
+      <div class="pancakScrl">
+        <div class="PA10">
+          <div class="mtxt16 MT10">Select Language</div>
+          <ul class="selectlanguage">
+            <li><label onclick="window.location = 'http://m.moneycontrol.com/'; return false;"><input type="radio" checked="checked" value="" name="rd_select_language" />English </label></li>
+            <li><label onclick="window.location = 'http://m.moneycontrol.com/hi/'; return false;"><input type="radio" value="" name="rd_select_language" /><span class="mmnRadio"></span> हिंदी </label></li>
+            <li><label onclick="window.location = 'http://m.moneycontrol.com/gu/'; return false;"><input type="radio" value="" name="rd_select_language" /><span class="mmnRadio"></span> गुजराती </label></li>            
+          </ul>
+        </div>
+        <ul class="menutable">
+          <li><a href="http://m.moneycontrol.com/" title="Home" class="gd18">Home</a></li>
+          <li><a href="http://m.moneycontrol.com/news" title="News" class="gd18">News</a></li>
+          <li><a href="http://m.moneycontrol.com/stocksmarketsindia/" title="Markets" class="gd18">Markets</a></li>
+          <li><a href="http://m.moneycontrol.com/portfolio.php?type=today" title="Portfolio" class="gd18">Portfolio</a></li>
+          <li><a href="http://m.moneycontrol.com/watchlist.php" title="Watchlist" class="gd18">Watchlist</a></li>
+          <li><a href="http://m.moneycontrol.com/mmb/" title="Forum" class="gd18">Forum</a></li>
+          <li><a href="http://m.moneycontrol.com/live_tv.php" title="Live TV & Shows" class="gd18">Live TV &amp; Shows</a></li>
+          <li><a href="http://m.moneycontrol.com/view_video.php" title="Videos" class="gd18">Videos</a></li>
+          <li>
+            <a id="vdolist_m" style="display:none;" href="http://m.moneycontrol.com/view_video.php?action=showlist" title="Saved Videos" class="gd18">Saved Videos <span id="vdolist_ct"></span></a>
+          </li>
+          <li><a href="http://m.moneycontrol.com/commodity/" title="Commodities" class="gd18">Commodities</a></li>
+          <li><a href="http://m.moneycontrol.com/mccode/currencies/" title="Currencies" class="gd18">Currencies</a></li>
+          <li><a href="http://m.moneycontrol.com/mutualfunds/index.php" title="Mutual Funds" class="gd18">Mutual Funds</a></li>
+          <li><a href="http://m.moneycontrol.com/personal-finance/" title="Personal Finance" class="gd18">Personal Finance</a></li>
+          <li><a href="http://m.moneycontrol.com/property/" title="Property" class="gd18">Property</a></li>
+        </ul>
+        <div class="pretab">
+          <div class="mmtit">Specials</div>
+          <ul class="menutable">
+            <li><a href="http://m.moneycontrol.com/invest-now/" title="Invest Now" class="gd18">Invest Now</a></li>
+            <li><a href="http://m.moneycontrol.com/master-your-money/" title="Master Your Money" class="gd18">Master Your Money</a></li>
+            <li><a href="http://m.moneycontrol.com/sme/sme-special/" title="SME Special" class="gd18">SME Special</a></li>
+            <li><a href="http://m.moneycontrol.com/property/real-assets/" title="Real Assets" class="gd18">Real Assets</a></li>
+            <li><a href="http://m.moneycontrol.com/travelcafe/" title="Travel Cafe" class="gd18">Travel Cafe</a></li>
+            <li><a href="http://m.moneycontrol.com/tech-control/" title="Tech Control" class="gd18">Tech Control</a></li>
+          </ul>
+        </div>
+        <div class="pretab">
+          <div class="mmtit">Subscriptions</div>
+          <ul class="mmSubmenu">
+            <li> <a href="http://m.moneycontrol.com/gamechangers/" title="Game Changers" class="b14"> <strong>Game Changers</strong> </a>
+              <ul>
+                <li><a href="http://m.moneycontrol.com/gamechangers/" title="Game Changers - Sudarshan Sukhani">Sudarshan Sukhani</a></li>
+                <li><a href="http://m.moneycontrol.com/gamechangers/cknarayan" title="Game Changers - C. K. Narayan">C. K. Narayan</a></li>
+                <li><a href="http://m.moneycontrol.com/gamechangers/tgnanasekar" title="Game Changers - T Gnanasekar">T Gnanasekar</a></li>
+                <li><a href="http://m.moneycontrol.com/gamechangers/ambareeshbaliga" title="Game Changers - Ambareesh Baliga">Ambareesh Baliga</a></li>
+                <li><a href="http://m.moneycontrol.com/gamechangers/mecklai" title="Game Changers - Mecklai Financial">Mecklai Financial</a></li>
+              </ul>
+            </li>
+            <li><a href="http://m.moneycontrol.com/investmentwatch/" title="Investment Watch" class="b14"><strong>Investment Watch</strong></a></li>
+            <li><a href="http://m.poweryourtrade.com/" title="Power Your Trade" class="b14"><strong>Power Your Trade</strong></a> </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+	if(readCookie('nnmc')) {
+		var usernnmc = readCookie('nnmc');
+		usernnmc = $.trim(usernnmc);
+		
+		if($.trim(usernnmc) == 'Guest' || $.trim(usernnmc) == 'guest'){
+			$('div.myaccpop').remove();
+		}
+		
+		usernnmc = usernnmc.replace("%40","@");
+		usernnmc = usernnmc.replace(/\+/g, " ");
+		var dispnm = usernnmc;
+
+		if(usernnmc.length > 12) {
+			dispnm = usernnmc.substr(0,9) + '..';
+		  } else {
+			dispnm = usernnmc;
+		  }
+
+		$('strong#usr_nm, a#mobile_usr_nm').text("Hi "+dispnm);
+		
+		if(usernnmc != false && usernnmc != 'false' && usernnmc != ''){
+			$('div.blp, ul.blp').hide();
+			$('div.blp, ul.blp').remove();
+			$('div.alp').show();
+		}else{
+			$('div.alp, ul.alp').remove();
+		}
+	}else{
+		$('div.alp, ul.alp').remove();
+	}
+	</script>
+  <div class="headBotm  PR">
+    <div class="stickymiddle">
+      <div class="mc-text FL"></div>
+      <div class="header-main-wrapper">
+                <ul class="headbotmmenus clearfix nav-tabs">
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/" title="Home">Home</a>
+                              <div class="stickysub db "  style="display:none;" >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/tags/dmart-ipo.html"  title="#DMartIPO">#DMartIPO</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/tags/assembly-elections-2017.html"  title="#AssemblyElections2017">#AssemblyElections2017</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/tags/reliance-jio.html"  title="#RelianceJio">#RelianceJio</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/companies"  title="Companies">Companies</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/economy/"  title="Economy">Economy</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/politics/"  title="Politics">Politics</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/interview"  title="Interviews">Interviews</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/real-estate"  title="Property">Property</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/world/"  title="World">World</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/announcements/"  title="Announcements">Announcements</a>
+                      </li>
+                                          <li>
+                        <a class=" sbmact " href="http://www.moneycontrol.com/gestepahead/"  title="#GEStepAhead">#GEStepAhead</a>
+                      </li>
+                                          <li>
+                        <a class=" sbmact " href="http://www.moneycontrol.com/invest-now/"  title="#InvestNow">#InvestNow</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=" actlink "  href="http://www.moneycontrol.com/news/" title="News">News</a>
+                              <div class="stickysub db  actlink " >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/"  title="Business">Business</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/markets/"  title="Markets">Markets</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/stocks/"  title="Stocks">Stocks</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/economy/"  title="Economy">Economy</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/mutual-funds/"  title="Mutual Funds">Mutual Funds</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/personal-finance/"  title="Personal Finance">Personal Finance</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/ipo/"  title="IPO">IPO</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/politics/"  title="Politics">Politics</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/india/"  title="India">India</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/world/"  title="World">World</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/technology/"  title="Technology">Technology</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/news/business/startups"  title="Startups">Startups</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/stocksmarketsindia/" title="Markets">Markets</a>
+                              <div class="stickysub db "  style="display:none;" >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/stocksmarketsindia/"  title="Home">Home</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/markets/premarket/"  title="Pre-Market">Pre-Market</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/markets/stock-advice/"  title="Advice">Advice</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/markets/technicals/"  title="Technicals">Technicals</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/markets/fno-market-snapshot"  title="F&O">F&O</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/markets/earnings/"  title="Results">Results</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/ipo/"  title="IPO">IPO</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/stocks/marketstats/index.php"  title="All Stats">All Stats</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mccode/globalmarkets/index.html"  title="Global Markets">Global Markets</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mccode/currencies/"  title="Currencies">Currencies</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/fixed-income/bonds/"  title="Bonds">Bonds</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mccode/tools/"  title="Tools">Tools</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://terminal.moneycontrol.com/?utm_source=moneycontrol_top_nav&utm_medium=navigation&utm_campaign=terminal_main_menu"  title="Terminal">Terminal</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/mutualfundindia/" title="Mutual Funds">Mutual Funds</a>
+                              <div class="stickysub db "  style="display:none;" >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/"  title="Home">Home</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/learn/"  title="Learn">Learn</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/evaluate/"  title="Evaluate">Evaluate</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/buy/"  title="Buy">Buy</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/track/"  title="Track">Track</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/tools/"  title="Tools">Tools</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mutualfundindia/interact/"  title="Interact">Interact</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/mf/etf/"  title="ETFs">ETFs</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://investmentwatch.moneycontrol.com/"  title="Investment Watch">Investment Watch</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://poweryourtrade.moneycontrol.com/"  title="PowerYourTrade">PowerYourTrade</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/apps"  title="Apps">Apps</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/commodity/" title="Commodities">Commodities</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/news/startups.html" title="Startups">Startups</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/news/opinion.html" title="Opinion">Opinion</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/property/" title="Property">Property</a>
+                              <div class="stickysub db "  style="display:none;" >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property/"  title="Home">Home</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property-rates/mumbai/sulekha-residential.html?ver=1"  title="Rates">Rates</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property/experts-advice.html"  title="Experts">Experts</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property/tools.html"  title="Tools">Tools</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property/faqs.html"  title="FAQs">FAQs</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/property/real-assets.html"  title="Real Assets">Real Assets</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/personal-finance/" title="Personal Finance">Personal Finance</a>
+                              <div class="stickysub db "  style="display:none;" >
+                  <ul class="headbotmmenus1">
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/"  title="Home">Home</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/planfinance/"  title="Planning">Planning</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/investstockfunds/"  title="Investing">Investing</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/planinsurance/"  title="Insurance">Insurance</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/plantax/"  title="Tax">Tax</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/planretirement/"  title="Retirement">Retirement</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/spendloans/"  title="Loans">Loans</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/spendcreditcard/"  title="Credit Cards">Credit Cards</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/personal-finance/planproperty/"  title="Real Estate">Real Estate</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/fixed-income/"  title="Fixed Income">Fixed Income</a>
+                      </li>
+                                          <li>
+                        <a class="" href="http://www.moneycontrol.com/master-your-money/"  title="Master Your Money">Master Your Money</a>
+                      </li>
+                                      </ul>
+                </div>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool" title="Portfolio">Portfolio</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  target="_blank"  href="http://mmb.moneycontrol.com/" title="Forum">Forum</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  href="http://www.moneycontrol.com/mccode/news/videos.php" title="Gallery">Gallery</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  target="_blank"  href="http://www.moneycontrol.com/tv/" title="Live TV">Live TV</a>
+                          </li>
+                      <li class="activelink">
+              <a class=""  target="_blank"  href="http://www.moneycontrol.com/cnbctv18/" title=" CNBC-TV18"><span class="ic_mencnbc MT2"></span> CNBC-TV18</a>
+                          </li>
+                  </ul>
+                <ul class="res-bottomlinks">
+          <li><a href="javascript:;" title="All Stocks">All Stocks</a></li>
+          <li><a href="javascript:;" title="App">App</a></li>
+          <li><a href="javascript:;" title="Subscriptions">Subscriptions</a></li>
+          <li><a href="javascript:;" title="Specials">Specials</a></li>
+          <li><a href="javascript:;" title="Feedback">Feedback</a></li>
+        </ul>
+      </div>
+      <div class="searchblock PR">
+        <span class="ic-search"></span>
+        <div class="searchbox" style="display: none;"> 
+          <!-- searchbox -->
+          <div class="stickysearchBox clearfix">
+            <div class="searchboxInner clearfix PR FL">
+              <form id="">
+                <input class="txtsrchbox FL" id="sticky_search_string1" placeholder="Universal Search" name="search_string" type="text">
+                <!-- search category-->
+                <div class="searchCategory1 PR FL">
+                  <div id="stickysrchCatSelected1">Qutoes <span class="catDdl_Arrow"></span></div>
+                  <!-- search category dropdown list-->
+                  <div class="srchCat_DDL" id="stickysearch1" style="">
+                    <ul class="qlist">
+                      <li><a class="active" href="javascript:void(0);" title="Quotes">Quotes</a></li>
+                      <li><a href="javascript:void(0);" title="NAVs">NAVs</a></li>
+                      <li><a href="javascript:void(0);" title="Commodities">Commodities</a></li>
+                      <li><a href="javascript:void(0);" title="Futures">Futures</a></li>
+                      <li><a href="javascript:void(0);" title="News">News</a></li>
+                      <li><a href="javascript:void(0);" title="Messages">Messages</a></li>
+                      <li><a href="javascript:void(0);" title="Notices">Notices</a></li>
+                      <li><a href="javascript:void(0);" title="Videos">Videos</a></li>
+                      <li><a href="javascript:void(0);" title="All">All</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- auto suggest box-->
+                <div class="sugBox" id="autosugg_mc3">
+                  <ul class="suglist">
+                    <li><a href="javascript:;" title="" target="_parent"><span>Auriferous</span> Aqua Farma&nbsp;, 519363</a></li>
+                    <li><a href="javascript:;" title="" target="_parent"><span>Farma</span> x India&nbsp;INE890I01035, FARMAXIND, 590094</a></li>
+                    <li><a href="javascript:;" title="" target="_parent"><span>Solar</span> Farma chem&nbsp;, 524360</a></li>
+                    <li><a href="javascript:;" title="More"><span>More »</span></a></li>
+                  </ul>
+                </div>
+              </form>
+            </div>
+            <a href="javascript:;" title="Search" class="btn_black btn_search FR"></a> </div>
+          <!-- searchbox --> 
+        </div>
+      </div>
+      <div class="socialblock">
+        <ul class="sociallinks">
+          <li><a href="javascript:;" title="Facebook" target="_blank" rel="nofollow" class="fb"></a></li>
+          <li><a href="javascript:;" title="Twitter" target="_blank" rel="nofollow" class="twitter"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<div align="center" style="width:940px; margin:12px auto 0px;">
+  <div id="budget_adDiv">
+    </div>
+</div>
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tr><td><link rel="alternate" TITLE="MoneyControl.com News" HREF="http://www.moneycontrol.com/rss/latestnews.xml" TYPE="application/rss+xml" /></td></tr>
+</table>
+
+<script type="text/javascript"> 
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-156703-1', 'moneycontrol.com');
+  ga('send', 'pageview');
+
+function urchinTracker(pa_str) {ga(['_trackPageview', ''+pa_str+'']);}
+function GAEventTracker(category,action,opt_label) {ga('send', 'event', ''+category+'', ''+action+'', ''+opt_label+'');}
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6683813" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->			<img src='http://analytics.moneycontrol.com/anlaytics/track.gif?cid=3&amp;urlref=http://news.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html' />
+<!-- Moneycontrol header END here -->
+
+<!-- Jacket Banner (Start) -->
+<div align="center" id="budget_adDiv"></div>
+<!-- Jacket Banner (End) -->
+
+
+<!-- MAMURAT Trading & sensex nifty updation (Start) -->
+
+<script type="text/javascript">
+	sensex_ajax_auto(1);
+	</script>
+<!-- MAMURAT Trading & sensex nifty updation (End) -->
+<!-- Moneycontrol header's file END here -->  <link href="http://stat.moneycontrol.co.in/mcnews/css/style.css?v=0.2" rel="stylesheet" type="text/css" />
+    <link href="http://stat.moneycontrol.co.in/mcnews/css/mc_news.css?v=201711034567" rel="stylesheet" type="text/css" />
+        <div class="breadcrum-bg">
+    <div class="home-mid-contener">
+    <div class="brad_crum">
+    <div class="FL"><span class="bread-title">you are here: </span><a href="http://www.moneycontrol.com/">Home</a><span class="mc_sprite_img bread-arrow"></span><a href=http://www.moneycontrol.com/news/>News</a><span class="mc_sprite_img bread-arrow"></span><a href=http://www.moneycontrol.com/news/economy/>Economy</a><span class="mc_sprite_img bread-arrow"></span><a href=http://www.moneycontrol.com/news/economy/news/>News</a><span class="mc_sprite_img bread-arrow"></span><a href=http://www.moneycontrol.com/news/news/business/>Business</a><span class="mc_sprite_img bread-arrow"></span><a href=http://www.moneycontrol.com/news/business/economy/>Economy</a></div>
+       <div class="FR arti_icn TAR"> 
+	<a href="javascript:void(0)" id="bookmark" rel="sidebar" class="note 8550381"></a>
+	<a href="http://www.moneycontrol.com/india/newsarticle/news_email.php?autono=8550381" class="mail"></a>
+	<a onclick="javascript:window.open('http://www.moneycontrol.com/india/newsarticle/news_print.php?autono=8550381&amp;sr_no=0','','height=500,width=500,left=10,top=10,scrollbars=1')"   class="print"></a>
+	<a href="javascript:void(0)" id="bigtext" class="aplus"></a>
+        <a href="javascript:void(0)" id="smalltext" style="display:none;" class="aminus"></a>
+      </div>
+      </div>
+    </div>
+</div>
+
+<!--mdi -->
+<section id="mid" class="mid-contener contener clearfix">
+	<!--left -->
+	<div id="left" class="fleft">
+		<article class="article_box">
+			<div class="arttidate">Feb 24, 2017 10:14 AM IST  | Source: <span>PTI</span></div>
+			<h1>India to be fastest growing economy among G-20 nations: Moody's</h1>
+						<h2 class="subhead">India will be the fastest growing
+economy among G-20 countries clocking a 7.1 per cent growth in
+2017, Moody's Investors Service said today.</h2>
+									<div class="share_arti_srevamp">
+				<div class="share_arti_revamp">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" target="_blank" class="fb"><span class="st_facebook_custom" st_processed="yes"></span></a>
+					<a href="https://twitter.com/home?status=http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" target="_blank" class="tw"><span class="st_twitter_custom" st_url="http://t.in.com/e6Fg" st_via="moneycontrolcom" st_processed="yes"></span></a>
+					<a href="https://plus.google.com/share?url=http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" target="_blank" class="gplus"><span class="st_googleplus_custom" st_processed="yes"></span></a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" target="_blank" class="in"><span class="st_linkedin_custom" st_processed="yes"></span></a> 
+					<a href="whatsapp://send?text=http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" data-action="share/whatsapp/share" class="plus"><span class="st_plus_custom" st_processed="yes"></span></a>
+				</div>
+			</div>
+						<div class="img_tagbox clearfix">
+				<figure><img src="http://img-d02.moneycontrol.co.in/news_image_files/2016/356x200/g/GDP_Gross_domestic_price_economy_Growth_inflation_Growth_356x200_5239_356.jpg" alt= "India to be fastest growing economy among G-20 nations: Moody's" title= "India to be fastest growing economy among G-20 nations: Moody's"/></figure>
+							</div>
+			     
+			<div class="arti-flow">
+						    <!-- .CONTENT BODY -->
+			<p>India will be the fastest growing economy among G-20 countries clocking a 7.1 per cent growth in 2017, Moody's Investors Service said today.</p><br />
+<p>The Indian economy had slowed in the fourth quarter of 2016 due to the withdrawal of 86 per cent of the currency in circulation -- without an immediate replacement.</p><br />
+<p>"India is forecast to have the fastest growing economy among all G-20 countries with growth put at 7.1 per cent for 2017, down from a previous expectation of 7.5 per cent because of the effects of demonetisation," Moody's said.</p><br />
+<p>With regard to global growth, Moody's said continuing cyclical recovery in global economic activity with growth in G-20 countries picking up modestly to 3 per cent in 2017 and 2018 from 2.6 per cent in 2016, but potential shifts in US policy add uncertainty to this forecast.</p><br />
+<p>"We note unusually high uncertainty around our global forecasts due to the wide range of outcomes that could arise from significant shifts in US policy on a number of domestic and international issues, including trade and immigration," Moody's VP and Senior Analyst Madhavi Bokil said.</p><br />
+<p>The systemic risks to this forecast may stem from shifts in US trade policies, risks to global financial markets and emerging market economies if US interest rates were to rise faster than anticipated and/or the US dollar were to appreciate sharply.</p><br />
+<p>Also there could be risks of a sudden and sharp deceleration in China and political and fragmentation risks in the EU and the euro area, Moody's said.</p><br />
+<p>In the report titled 'Modest Acceleration in the Global Economy, but Shifting US Policies Inject Uncertainty', Moody's said there is a high risk of a significant protectionist shift in US trade policy and could inflict lasting damage to the global economy.</p><br />
+<p>Regarding Asia, Moody's said China's economy stabilised around the official growth target of 6.7 per cent in 2016, but will likely continue to decelerate to 6.3 per cent and 6 per cent in 2017 and 2018.</p><br />
+<p>Moody's expects that the US economy will get additional lift from a stimulative fiscal policy stance pushing growth above potential. Accordingly, Moody's has revised its real GDP growth forecast to 2.4 per cent in 2017 and 2.5 per cent in 2018, from 2.2 per cent and 2.1 per cent, respectively.</p><br />
+<p>Moody's forecast assumes the US Federal Reserve will raise the federal funds rate by 75-100 basis points in three to four rate hikes in 2017. "We expect the Fed to err on the side of caution and tolerate somewhat above-target inflation in the near term.</p>
+		</article>
+		<div class="ads-320-250 show-moblie"></div>
+		<div class="clearfix">
+						<h3 class="tag_txt">
+				<span class=tag-title>tags</span>
+						    
+				<a href="http://www.moneycontrol.com/news/tags/demonetisation.html" title="demonetisation">#demonetisation</a>
+						    
+				<a href="http://www.moneycontrol.com/news/tags/economy.html" title="Economy">#Economy</a>
+						    
+				<a href="http://www.moneycontrol.com/news/tags/g-20.html" title="G-20">#G-20</a>
+						    
+				<a href="http://www.moneycontrol.com/news/tags/india.html" title="India">#India</a>
+						    
+				<a href="http://www.moneycontrol.com/news/tags/moody.html" title="Moody">#Moody</a>
+							
+			</h3>
+								</div>
+	</div>
+	<!--left -->
+	<!--right -->
+	<aside id="right" class="fright">
+    <div class="add-ban">
+			 <div id='Moneycontrol/MC_News/MC_News_Internal_300x600'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('Moneycontrol/MC_News/MC_News_Internal_300x600'); });
+				</script>
+			</div></div>
+    <!-- news -->
+     <div class="news-widget clearfix">
+            <div class="section-title">
+                <h3>News</h3></div>
+            <div class="tabs-02 clearfix">
+                <ul id="newsTab">
+                        <li><a href="javascript:void(0)" class="active" id="popularLink" title="Popular News" data-title="popularNews">Most Popular</a></li>
+                        <li><a href="javascript:void(0)" id="topLink" title="Top News" data-title="topNews">Top News</a></li>
+                </ul>
+            </div>
+            <div class="tabs-content clearfix">
+                <ul id="popularNews" class="newsTabP">
+                                         <li class="clearfix">
+                        <div class="img-wrap">
+                            <a href="http://www.moneycontrol.com/news/business/stocks-business/copper-to-trade3871-3969-range-achiievers-equities-1001529.html" title="Copper to trade in 387.1-396.9 range: Achiievers Equities" >  <img src="http://img-d02.moneycontrol.co.in/news_image_files/2014/356x200/c/Copper_3504_356.jpg" alt="Copper to trade in 387.1-396.9 range: Achiievers Equities" width="130" height="73" title="Copper to trade in 387.1-396.9 range: Achiievers Equities" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">  <a href="http://www.moneycontrol.com/news/business/stocks-business/copper-to-trade3871-3969-range-achiievers-equities-1001529.html" title="Copper to trade in 387.1-396.9 range: Achiievers Equities" >Copper to trade in 387.1-396.9 range: Achiievers Equities</a></h2>
+                        </div>
+                       
+                    </li>
+                                          <li class="clearfix">
+                        <div class="img-wrap">
+                            <a href="http://www.moneycontrol.com/news/business/economy/preview-rbi-seen-cutting-ratesit-will-beclose-call-1001417.html" title="Preview: RBI seen cutting rates, but it will be a close call" >  <img src="http://img-d02.moneycontrol.co.in/news_image_files/2017/356x200/2/2017-02-07T075950Z_1_LYNXMPED160C7_RTROPTP_2_INDIA-MODI-CORRUPTION_356.JPG" alt="Preview: RBI seen cutting rates, but it will be a close call" width="130" height="73" title="Preview: RBI seen cutting rates, but it will be a close call" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">  <a href="http://www.moneycontrol.com/news/business/economy/preview-rbi-seen-cutting-ratesit-will-beclose-call-1001417.html" title="Preview: RBI seen cutting rates, but it will be a close call" >Preview: RBI seen cutting rates, but it will be a close call</a></h2>
+                        </div>
+                       
+                    </li>
+                                          <li class="clearfix">
+                        <div class="img-wrap">
+                            <a href="http://www.moneycontrol.com/news/business/stocks-business/silver-to-trade41719-42623-range-achiievers-equities-1001530.html" title="Silver to trade in 41719-42623 range: Achiievers Equities" >  <img src="http://img-d02.moneycontrol.co.in/news_image_files/2014/356x200/s/Silver_4537_356.jpg" alt="Silver to trade in 41719-42623 range: Achiievers Equities" width="130" height="73" title="Silver to trade in 41719-42623 range: Achiievers Equities" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">  <a href="http://www.moneycontrol.com/news/business/stocks-business/silver-to-trade41719-42623-range-achiievers-equities-1001530.html" title="Silver to trade in 41719-42623 range: Achiievers Equities" >Silver to trade in 41719-42623 range: Achiievers Equities</a></h2>
+                        </div>
+                       
+                    </li>
+                                          <li class="clearfix">
+                        <div class="img-wrap">
+                            <a href="http://www.moneycontrol.com/news/business/stocks-business/crude-oil-to-trade3534-3662-range-achiievers-equities-1001532.html" title="Crude oil to trade in 3534-3662 range: Achiievers Equities" >  <img src="http://img-d02.moneycontrol.co.in/news_image_files/2015/356x200/c/crude_oil_356_3128_356.jpg" alt="Crude oil to trade in 3534-3662 range: Achiievers Equities" width="130" height="73" title="Crude oil to trade in 3534-3662 range: Achiievers Equities" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">  <a href="http://www.moneycontrol.com/news/business/stocks-business/crude-oil-to-trade3534-3662-range-achiievers-equities-1001532.html" title="Crude oil to trade in 3534-3662 range: Achiievers Equities" >Crude oil to trade in 3534-3662 range: Achiievers Equities</a></h2>
+                        </div>
+                       
+                    </li>
+                                     </ul>
+                <ul id="topNews" style="display:none;" class="newsTabP">
+                                         <li class="clearfix">
+                         <div class="img-wrap">
+                             <a href="http://www.moneycontrol.com/news/politics/assembly-elections-2017-results-live-sp-concedes-defeatup-2071619.html" title="Assembly Elections 2017 Results LIVE: Saffron sweep in UP, Uttarakhand"> <img src="http://static-news.moneycontrol.com/static-mcnews/2017/03/bjp_win_india_election_1280-378x213.jpg" alt="Assembly Elections 2017 Results LIVE: Saffron sweep in UP, Uttarakhand" width="130" height="73" title="Assembly Elections 2017 Results LIVE: Saffron sweep in UP, Uttarakhand" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">   <a href="http://www.moneycontrol.com/news/politics/assembly-elections-2017-results-live-sp-concedes-defeatup-2071619.html" title="Assembly Elections 2017 Results LIVE: Saffron sweep in UP, Uttarakhand">Assembly Elections 2017 Results LIVE: Saffron sweep in UP, Uttarakhand</a></h2>
+                        </div>
+                       
+                        
+                    </li>
+                                          <li class="clearfix">
+                         <div class="img-wrap">
+                             <a href="http://www.moneycontrol.com/news/politics/up-elections-2017-will-the-verdict-pave-way-for-a-bjp-win-in-2019-ls-polls-2149495.html" title="UP Elections 2017: Will the verdict pave way for a BJP win in 2019 LS polls?"> <img src="http://static-news.moneycontrol.com/static-mcnews/2017/03/modishah_1280-378x213.jpg" alt="UP Elections 2017: Will the verdict pave way for a BJP win in 2019 LS polls?" width="130" height="73" title="UP Elections 2017: Will the verdict pave way for a BJP win in 2019 LS polls?" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">   <a href="http://www.moneycontrol.com/news/politics/up-elections-2017-will-the-verdict-pave-way-for-a-bjp-win-in-2019-ls-polls-2149495.html" title="UP Elections 2017: Will the verdict pave way for a BJP win in 2019 LS polls?">UP Elections 2017: Will the verdict pave way for a BJP win in 2019 LS polls?</a></h2>
+                        </div>
+                       
+                        
+                    </li>
+                                          <li class="clearfix">
+                         <div class="img-wrap">
+                             <a href="http://www.moneycontrol.com/news/business/economy/assembly-elections-2017-now-pick-strong-banks-affordable-housing-gst-gainers-2148933.html" title="Election verdict may push Sensex past 30k: Where you should invest now"> <img src="http://img-d02.moneycontrol.co.in/news_image_files/2016/356x200/b/Budget2016_India_GDP_Growth_inflation_rise_down_economy_real_estate_infrastructure_home_house_356x200_1517_356.jpg" alt="Election verdict may push Sensex past 30k: Where you should invest now" width="130" height="73" title="Election verdict may push Sensex past 30k: Where you should invest now" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">   <a href="http://www.moneycontrol.com/news/business/economy/assembly-elections-2017-now-pick-strong-banks-affordable-housing-gst-gainers-2148933.html" title="Election verdict may push Sensex past 30k: Where you should invest now">Election verdict may push Sensex past 30k: Where you should invest now</a></h2>
+                        </div>
+                       
+                        
+                    </li>
+                                          <li class="clearfix">
+                         <div class="img-wrap">
+                             <a href="http://www.moneycontrol.com/news/business/assembly-elections-2017-how-bjp-performed-in-up-when-it-gave-a-cm-face-and-on-saffron-issue-2149491.html" title="UP elections lookback: BJP performs poorly when it has a CM face, well on issues"> <img src="http://static-news.moneycontrol.com/static-mcnews/2017/03/BJP_1280-378x213.jpg" alt="UP elections lookback: BJP performs poorly when it has a CM face, well on issues" width="130" height="73" title="UP elections lookback: BJP performs poorly when it has a CM face, well on issues" /></a>
+                        </div>
+                        <div class="description">
+                            <h2 class="related_des">   <a href="http://www.moneycontrol.com/news/business/assembly-elections-2017-how-bjp-performed-in-up-when-it-gave-a-cm-face-and-on-saffron-issue-2149491.html" title="UP elections lookback: BJP performs poorly when it has a CM face, well on issues">UP elections lookback: BJP performs poorly when it has a CM face, well on issues</a></h2>
+                        </div>
+                       
+                        
+                    </li>
+                                     </ul>
+	     <div class="see-more"> <a href="http://www.moneycontrol.com/news/news-all.html" title="See More">see more <span class="img-seemr"> <img src="http://img-d02.moneycontrol.co.in/mcnews/images/mc_news-seemr.png" alt="See More" title="See More"> </span> </a> </div>
+            </div>
+        </div>
+    <!-- .news -->
+    <!-- video of the day -->
+    <div class="video-widget clearfix">
+            <div class="section-title">
+                    <h3>Video of the day</h3>
+            </div>
+            <div class="clearfix main-vdo">
+                    <a class="vdo" href="http://www.moneycontrol.com/news/business/earnings-business/q1-earnings-which-sectors-will-do-wellwont-936503.html"><img src="http://img-d02.moneycontrol.co.in/news_image_files/2016/356x200/e/Earnings_sensex_up_down_world_global_356x200_0400_356.jpg"  alt="Q1 earnings: Which sectors will do well, which won't?" title="Q1 earnings: Which sectors will do well, which won't?"/></a>
+                    <p><a href="http://www.moneycontrol.com/news/business/earnings-business/q1-earnings-which-sectors-will-do-wellwont-936503.html" title="Q1 earnings: Which sectors will do well, which won't?">Q1 earnings: Which sectors will do well, which won't?</a></p>
+            </div>
+            <div class="clearfix">
+            </div>
+    </div>
+    </div>
+    <!-- .video of the day -->
+</aside>
+	<!--right -->  
+</section>
+<section class="mid-contener clearfix">
+	<div class="comments-foot"></div>
+	<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+		<div class="OUTBRAIN highlight MT30" data-src="http://www.moneycontrol.com/news/economy/news/business/economy/india-to-be-fastest-growing-economy-among-g-20-nations-moodys-1034881.html" data-widget-id="AR_1" data-ob-template="MoneyControl_1"></div>
+	</section>
+<div class="ad ad-940x60">
+			 <div id='Moneycontrol/MC_News/MC_News_Internal_Listing_Native'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('Moneycontrol/MC_News/MC_News_Internal_Listing_Native'); });
+				</script>
+			</div></div>
+<script type="text/javascript">
+	var article_autono ="8550381";
+	if(article_autono!=""){
+	  var postUrl = "http://www.moneycontrol.com/news/ajax_mmb_element.php?autono="+article_autono;
+	  $(document).ready(function() {
+		  //$.get(postUrl,function(e, t) {
+		     // $(".comments-foot").html(e);
+		  //})
+	      });
+	}
+</script>
+<!--mdi -->
+
+<!-- Moneycontrol Footer start here -->
+	<script>
+	var google_ad_code = "MC_180x600_ROS";
+	</script>
+<footer  class="ftinsde" >
+  <div class="main-wrapper">
+    <div class="clearfix">
+      <div class="FL ic_logofooter MT5"> </div>
+      <div class="FL fsoci"> 
+        <a href="http://mmb.moneycontrol.com/" title="Forum" target="_blank" rel="nofollow" class="ic_forum"></a> 
+        <a href="http://www.facebook.com/moneycontrolFB" title="Facebook" target="_blank" rel="nofollow" class="ic_fb"></a> 
+        <a href="http://twitter.com/moneycontrolcom" title="Twitter" target="_blank" rel="nofollow" class="ic_tweet"></a> 
+        <a href="https://plus.google.com/+moneycontrol" title="Google Plus" target="_blank" rel="nofollow" class="ic_gplus"></a> 
+        <a href="https://www.linkedin.com/company/moneycontrol" title="Linkedin" target="_blank" rel="nofollow" class="ic_in"></a>
+        <a href="javascript:;" title="" target="_blank" rel="nofollow" class="ic_pint"></a> 
+        <a href="http://www.moneycontrol.com/india/newsarticle/rssfeeds/rssfeeds.php" title="RSS" target="_blank" class="ic_blg"></a> 
+      </div>
+    </div>
+    <div class="bgwhite clearfix MT15 PR"> <a href="javascript:void(0);" onclick="go_on_top();" title="" class="FR gotop"></a>
+      <div class="FL footleft">
+        <div class="clearfix brd_b PB10">
+          <ul class="flinkl1 FL ">
+            <li><a href="http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool" title="Portfolio">Portfolio</a></li>
+            <li><a href="http://www.moneycontrol.com/stocksmarketsindia/" title="Markets">Markets</a></li>
+            <li><a href="http://www.moneycontrol.com/portfolio_demo/stock_watchlist.php" title="Watchlist">Watchlist</a></li>
+            <li><a href="http://www.moneycontrol.com/tv/" title="Live TV Show">Live TV Show</a></li>
+            <li><a href="http://www.moneycontrol.com/mccode/currencies/" title="Currencies">Currencies</a></li>
+            <li><a href="http://www.moneycontrol.com/commodity/" title="Commodities">Commodities</a></li>
+            <li><a href="http://www.moneycontrol.com/fixed-income/" title="Fixed Income">Fixed Income</a></li>
+            <li><a href="http://www.moneycontrol.com/personal-finance/" title="Personal Finance">Personal Finance</a></li>
+          </ul>
+          <ul class="flinkl1 FL">
+            <li><a href="http://www.moneycontrol.com/mutualfundindia/" title="Mutual Fund">Mutual Fund</a></li>
+            <li><a href="http://www.moneycontrol.com/stocksmarketsindia/" title="Stock Market India">Stock Market India</a></li>
+            <li><a href="http://www.moneycontrol.com/ipo/" title="IPO">IPO</a></li>
+            <li><a href="http://www.moneycontrol.com/markets/global-indices/" title="Global Market">Global Market</a></li>
+            <li><a href="http://www.moneycontrol.com/budget-2017/" title="Budget 2017">Budget 2017</a></li>
+            <li><a href="http://www.moneycontrol.com/sensex/bse/sensex-live" title="BSE Sensex">BSE Sensex</a></li>
+            <li><a href="http://mmb.moneycontrol.com/" title="Forum" target="_blank" rel="nofollow">Forum</a></li>
+          </ul>
+          <div class="flinkl2 FR">
+            <div class="flhd1 PL5">News</div>
+            <ul class="flinkl2">
+              <li><a href="http://www.moneycontrol.com/news/business" title="Business">Business</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/markets" title="Markets">Markets</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/stocks" title="Stocks">Stocks</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/economy" title="Economy">Economy</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/mutual-funds" title="Mutual Funds">Mutual Funds</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/personal-finance" title="Personal Finance">Personal Finance</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/ipo" title="IPO">IPO</a></li>
+              <li><a href="http://www.moneycontrol.com/news/business/startups" title="Startups">Startups</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="PB10 brd_b MT5">
+          <div class="flS2">
+            <span class="tx14_blu"><a href="http://www.moneycontrol.com/india/stockpricequote/" title="Stocks">Stocks</a>:</span> 
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/A" title="A"> A</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/B" title="B"> B</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/C" title="C"> C</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/D" title="D"> D</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/E" title="E"> E</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/F" title="F"> F</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/G" title="G"> G</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/H" title="H"> H</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/I" title="I"> I</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/J" title="J"> J</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/K" title="K"> K</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/L" title="L"> L</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/M" title="M"> M</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/N" title="N"> N</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/O" title="O"> O</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/P" title="P"> P</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/Q" title="Q"> Q</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/R" title="R"> R</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/S" title="S"> S</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/T" title="T"> T</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/U" title="U"> U</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/V" title="V"> V</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/W" title="W"> W</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/X" title="X"> X</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/Y" title="Y"> Y</a> |
+                          <a href="http://www.moneycontrol.com/india/stockpricequote/Z" title="Z"> Z</a> |
+                        <a href="http://www.moneycontrol.com/india/stockpricequote/others" title="Others">Others</a>
+          </div>
+          <div class="flS2"> 
+            <span class="tx14_blu">Mutual Funds:</span> 
+                          <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/A" title="A"> A</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/B" title="B"> B</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/C" title="C"> C</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/D" title="D"> D</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/E" title="E"> E</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/F" title="F"> F</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/G" title="G"> G</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/H" title="H"> H</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/I" title="I"> I</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/J" title="J"> J</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/K" title="K"> K</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/L" title="L"> L</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/M" title="M"> M</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/N" title="N"> N</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/O" title="O"> O</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/P" title="P"> P</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Q" title="Q"> Q</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/R" title="R"> R</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/S" title="S"> S</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/T" title="T"> T</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/U" title="U"> U</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/V" title="V"> V</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/W" title="W"> W</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/X" title="X"> X</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Y" title="Y"> Y</a> 
+             |               <a href="http://www.moneycontrol.com/india/mutualfunds/mutualfundsinfo/snapshot/Z" title="Z"> Z</a> 
+                      </div>
+        </div>
+        <div class="MT10 clearfix">
+          <div class="ic_crn FL"></div>
+          <div class="FL ML15">
+            <div class="tx14_blu">Visit the App Store to see all our apps:</div>
+            <div class="clearfix MT5">
+              <a class="FL ic_apple MR10" href="https://itunes.apple.com/app/apple-store/id408654600?pt=433541&ct=WebAppsPage_Install&mt=8"></a>
+              <a class="FL ic_apGl MR10" href="https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3DWebAppsPage%26utm_medium%3DInstallButton"></a>
+              <a class="FL ic_apwin" href="http://apps.microsoft.com/windows/en-in/app/a4555fed-7225-4159-8569-8cfac5e412e0"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="FR clearfix footright">
+        <div class="FL w170">
+          <div class="flinkl2">
+            <div class="flhd1 PL5">Tools</div>
+            <ul>
+              <li><a href="http://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html" title="Retirement Planning">Retirement Planning</a></li>
+              <li><a href="http://www.moneycontrol.com/personal-finance/tools/emi-calculator.html" title="EMI Calculator">EMI Calculator</a></li>
+              <li><a href="http://www.moneycontrol.com/mf/sipcalculator.php" title="SIP Calculator">SIP Calculator</a></li>
+              <li><a href="http://www.moneycontrol.com/mf/sipplanner.php" title="SIP Planner">SIP Planner</a></li>
+            </ul>
+          </div>
+          <div class="flinkl2 MT20">
+            <div class="flhd1 PL5"> Useful Links</div>
+            <ul>
+              <li><a href="http://www.moneycontrol.com/budget-2016/" title="Budget 2016">Budget 2016</a></li>
+              <li><a href="http://www.moneycontrol.com/sensex/bse/sensex-live" title="Live Sensex">Live Sensex</a></li>
+              <li><a href="http://www.moneycontrol.com/stocks/sectors/banks-public-sector.html" title="Public Sector Banks">Public Sector Banks</a></li>
+              <li><a href="http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool" title="Best Portfolio Manager">Best Portfolio Manager</a></li>
+              <li><a href="http://www.moneycontrol.com/fixed-income/small-savings-schemes/" title="Small Savings Schemes">Small Savings Schemes</a></li>
+              <li><a href="http://www.moneycontrol.com/fixed-income/bonds/listed-bonds/" title="Bonds">Bonds</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="FR w170">
+          <div class="flinkl2">
+            <div class="flhd1 PL5">Specials</div>
+            <ul>
+              <li><a href="http://www.moneycontrol.com/master-your-money/?utm_source=specials" title="Master Your Money" target="_blank">Master Your Money</a></li>
+              <li><a href="http://www.moneycontrol.com/gamechangers/" title="Gamechanger" target="_blank">Gamechanger</a></li>
+              <li><a href="http://www.moneycontrol.com/travelcafe/" title="Travelcafe" target="_blank">Travelcafe</a></li>
+              <li><a href="http://www.moneycontrol.com/sme/sme-special.html" title="SME Special" target="_blank">SME Special</a></li>
+              <li><a href="http://investmentwatch.moneycontrol.com/" title="Investment Watch" target="_blank" rel="nofollow">Investment Watch</a></li>
+              <li><a href="http://poweryourtrade.moneycontrol.com/" title="Power your Ttade" target="_blank" rel="nofollow">Power your Ttade</a></li>
+              <li><a href="http://moneybhai.moneycontrol.com/" title="MoneyBhai" target="_blank" rel="nofollow">MoneyBhai</a></li>
+            </ul>
+          </div>
+          <div class="flinkl2 MT15">
+            <div class="flhd1 PL5">Focus</div>
+            <ul>
+              <li><a href="http://www.moneycontrol.com/growmymoney/" title="Grow My Money" target="_blank">Grow My Money</a></li>
+              <li><a href="http://www.moneycontrol.com/gestepahead/" title="GE Step Ahead" target="_blank">GE Step Ahead</a></li>
+              <li><a href="http://www.moneycontrol.com/sme/" title="SME Step Up" target="_blank">SME Step Up</a></li>
+            </ul>
+          </div>
+          <div class="flinkl2 MT15">
+            <div class="flhd1 PL5"><span class="ic_feed"></span> Feedback &amp; Info</div>
+            <ul><li><a href="mailto:info@moneycontrol.com?Subject=Feedback" title="info@moneycontrol.com">info@moneycontrol.com</a></li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ftCopy">
+      <div class="flastLInk MT10">
+        <a href="http://www.moneycontrol.com/cdata/aboutus.php" title="About us">About us</a> | 
+        <a href="http://www.moneycontrol.com/cdata/contact.php" title="Contact Us">Contact Us</a> | 
+        <a href="http://www.moneycontrol.com/cdata/feedback.php?flag=ot" title="Feedback">Feedback</a> | 
+        <a href="http://www.moneycontrol.com/cdata/disclaim.php" title="Disclaimer">Disclaimer</a> | 
+        <a href="http://www.moneycontrol.com/cdata/prystat.php" title="Privacy Statement">Privacy Statement</a> | 
+        <a href="http://www.moneycontrol.com/cdata/termsofuse.php" title="Terms of Use">Terms of Use</a> | 
+        <a href="http://www.moneycontrol.com/career/" title="Careers">Careers</a> | 
+        <a href="http://www.moneycontrol.com/glossary/" title="Financial Terms (Glossary)">Financial Terms (Glossary)</a> | 
+        <a href="http://www.moneycontrol.com/news/sitemap/sitemap.php" title="Sitemap"> Sitemap</a> | 
+        <a href="http://www.moneycontrol.com/india/newsarticle/rssfeeds/rssfeeds.php" title="RSS Feed">RSS Feed</a>
+      </div>
+      <p class="copyright MT10"> Copyright © e-Eighteen.com Ltd. All rights reserved. Reproduction of news articles, photos, videos or any other content in whole or in part in any form 
+        or medium without express writtern permission of moneycontrol.com is prohibited.</p>
+    </div>
+  </div>
+</footer>
+
+<div class="footerMobile">
+	    
+    <div class="PA10  whbg">
+    	<div class="fresub_title">Sections</div>
+        
+        <div class="footermobilink clearfix">
+        <ul class="flinklist clearfix">
+        	<li><a href="http://www.moneycontrol.com/" title="">&raquo; Home</a></li>
+           <li><a href="http://mmb.moneycontrol.com/" title="Forum" target="_blank" rel="nofollow">&raquo; Forum</a></li>
+            <li><a href="http://www.moneycontrol.com/ipo/" title="IPO">&raquo; IPO</a></li>
+            <li><a href="http://www.moneycontrol.com/stocksmarketsindia/" title="Markets">&raquo; Markets</a></li>
+            <li><a href="http://www.moneycontrol.com/mutualfundindia/" title="Mutual Funds">&raquo; Mutual Funds</a></li>
+            <li><a href="http://www.moneycontrol.com/budget-2017/" title="Budget 2017">&raquo; Budget 2017</a></li>
+            <li><a href="javascript:;" title="Research">&raquo; Research</a></li>
+            <li><a href="http://www.moneycontrol.com/commodity/" title="Commodities">&raquo; Commodities</a></li>
+            <li><a href="http://www.moneycontrol.com/property/real-assets.html" title="Real Asset">&raquo; Real Asset</a></li>
+            <li><a href="http://www.moneycontrol.com/news/" title="News">&raquo; News</a></li>
+            <li><a href="http://www.moneycontrol.com/mccode/currencies/" title="Currencies">&raquo; Currencies</a></li>
+            <li><a href="javascript:;" title="SME Special">&raquo; SME Special</a></li>
+            <li><a href="http://www.moneycontrol.com/india/bestportfoliomanager/investment-tool" title="Portfolio">&raquo; Portfolio</a></li>
+            <li><a href="http://www.moneycontrol.com/fixed-income/" title="Fixed Income">&raquo; Fixed Income</a></li>
+            <li><a href="javascript:;" title="Research">&raquo; Research</a></li>
+            <li><a href="javascript:;" title="Watchlist">&raquo; Watchlist</a></li>
+            <li><a href="http://www.moneycontrol.com/property/" title="Property">&raquo; Property</a></li>
+            <li><a href="javascript:;" title="Stock List">&raquo; Stock List</a></li>
+            <li><a href="javascript:;" title="MF List">&raquo; MF List</a></li>
+            <li><a href="http://www.moneycontrol.com/glossary/" title="Glossary">&raquo; Glossary</a></li>
+            <li><a href="http://www.moneycontrol.com/news/sitemap/sitemap.php" title="Sitemap">&raquo; Sitemap</a></li>
+            <li><a href="http://www.moneycontrol.com/tv/" title="Live TV & Shows">&raquo; Live TV & Shows</a></li>
+            <li><a href="http://www.moneycontrol.com/personal-finance/" title="Personal Finance">&raquo; Personal Finance</a></li>
+            <li><a href="http://poweryourtrade.moneycontrol.com/" title="Power Your Trade">&raquo; Power Your Trade</a></li>
+        </ul>
+        	
+                   
+        </div>
+    </div>
+    
+    <div class="PA10 whbg MT10">
+    	<div class="clearfix brd_b PB10"> 
+        	        	<a href="http://m.moneycontrol.com/gotomcweb.php?url=http%3A%2F%2Fwww.moneycontrol.com%2F%3Fclassic" title="Desktop Version" class="txtlonk_blue FR MT5">Desktop Version &raquo;</a>
+        </div>
+        
+        <div class="PA15 brd_b">
+        	<div class="CTR txt14">Follow us on</div>
+            <div class="CTR MT10">
+              <a href="http://www.facebook.com/moneycontrolFB" title="Facebook" target="_blank" rel="nofollow" class="ic_fbfter"></a>
+              <a href="http://twitter.com/moneycontrolcom" title="Twitter" target="_blank" rel="nofollow" class="ic_twtr"></a>
+              <a href="https://plus.google.com/+moneycontrol" title="Google Plus" target="_blank" rel="nofollow" class="ic_gpls"></a>
+            </div>
+        </div>
+        
+        <div class="PA10">
+        	<div class="CTR txt14">Available On</div>
+            <div class="CTR MT10">
+              <a href="https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3DWebAppsPage%26utm_medium%3DInstallButton" title="Google Play" target="_blank" rel="nofollow" class="ic_fapgpl"></a>
+              <a href="https://itunes.apple.com/app/apple-store/id408654600?pt=433541&ct=WebAppsPage_Install&mt=8" title="App Stoer" target="_blank" rel="nofollow" class="ic_fapapstr"></a>
+              <a href="http://apps.microsoft.com/windows/en-in/app/a4555fed-7225-4159-8569-8cfac5e412e0" title="Windows Phone" target="_blank" rel="nofollow" class="ic_fapwin"></a>
+            </div>
+        </div>
+    </div>
+    <div class="ftCopy CTR">
+      <div class="flastLInk MT10 brd_b PB10 "> 
+        <a href="http://www.moneycontrol.com/cdata/disclaim.php" title="Disclaimer">Disclaimer</a> | 
+        <a href="http://www.moneycontrol.com/cdata/termsofuse.php" title="Terms of Use">Terms of Use</a>  | 
+        <a href="http://www.moneycontrol.com/cdata/prystat.php" title="Privacy Statement">Privacy Statement</a> | 
+        <a href="http://www.moneycontrol.com/news/sitemap/sitemap.php" title="Sitemap"> Sitemap</a> | 
+        <a href="http://www.moneycontrol.com/cdata/feedback.php?flag=ot" title="Feedback">Feedback</a>
+      </div>
+      <p class="copyright MT10"><span class="copymmv"> Copyright &copy; e-Eighteen.com Ltd</span> All rights resderved. Reproduction of news articles, photos, videos or any other content in whole or in part in any form 
+        or medium without express writtern permission of moneycontrol.com is prohibited.</p>
+    </div>
+    
+    
+</div>
+<!-- Moneycontrol Footer end here -->
+<!-- Arjun Tracking - Start -->
+<script>
+	if(readCookie('user_loginid')) {
+		var trckusrid = "mc_" + readCookie("user_loginid");
+	} else {
+		var trckusrid = "";
+	}
+
+	(function() {
+		window._w18hn = "MC";
+
+		window._w18_config={"microsite":"own","sections":"News"};
+		var w18 = document.createElement('script'); w18.type = 'text/javascript'; w18.async = true;
+		w18.src = 'http://s.in.com/common/script_catch.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(w18, s);
+
+	})();
+</script>
+<!-- End - Arjun Tracking -->
+
+<!-- Moneycontrol Footer's file end here -->
+
+
+<!-- Gutter Slot -> Start -->
+<!-- End <- Gutter Slot -->
+<script src="http://stat.moneycontrol.co.in/mcnews/js/owl.carousel.min.js" type="text/jscript"></script>
+<link href="http://stat.moneycontrol.co.in/mcnews/css/mmb-comment.css" rel="stylesheet" type="text/css" />
+<link href="http://stat.moneycontrol.co.in/mcnews/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+<link href="http://stat.moneycontrol.co.in/mcnews/css/owl.theme.css" rel="stylesheet" type="text/css" />
+<script src="http://stat.moneycontrol.co.in/mcnews/js/mcnews-script.js" type="text/jscript"></script>
+<script type="text/javascript">
+	function sector_newsletter(){
+		var email = document.getElementById("email_newsletter").value;
+		emailRe = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*\.(\w{2}|(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum))$/
+
+		if(email=='' || email=='Enter email address'){
+			alert("Enter Email address.");
+			document.getElementById('email_newsletter').focus();
+			return false;
+		}else if(!emailRe.test(email))
+		{
+			alert("Enter Valid Email");
+			document.getElementById('email_newsletter').focus();
+			return false;
+		}else{
+			var emailstr = toHex(email);
+			var str = strrev(emailstr);
+			
+			document.nlfrm.action = 'http://www.moneycontrol.com/alerts/prel-alerts.php';
+			return true;
+		}
+	}
+	
+	function toHex(str) {
+		var hex = '';
+		for(var i=0;i<str.length;i++) {
+			hex += ''+str.charCodeAt(i).toString(16);
+		}
+		return hex;
+	}
+	function strrev(str) {
+	   if (!str) return '';
+	   var revstr='';
+	   for (i = str.length-1; i>=0; i--)
+		   revstr+=str.charAt(i)
+	   return revstr;
+	}
+	
+		
+	$(document).ready(function()  // common scripts are placed here 
+	{
+		get_header_ad_details();
+		
+		$('#bigtext').click(function(){
+			
+			curSize= parseInt($('#mid').css('font-size')) + 2;
+			$('#mid').css('font-size', curSize);
+			$('#bigtext').hide();
+			$('#smalltext').show();
+		});  
+		$('#smalltext').click(function(){	   
+			curSize= parseInt($('#mid').css('font-size')) - 2;
+			$('#mid').css('font-size', curSize);
+			$('#bigtext').show();
+			$('#smalltext').hide();
+		}); 
+		
+		$('#printpage').click(function() {
+			window.print();
+		});
+		$('#bookmark').click(function() {
+			if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
+			  window.sidebar.addPanel(document.title, window.location.href, '');
+			} else if (window.external && ('AddFavorite' in window.external)) { // IE Favorite
+			  window.external.AddFavorite(location.href, document.title);
+			} else if (window.opera && window.print) { // Opera Hotlist
+			  this.title = document.title;
+			  return true;
+			} else { // webkit - safari/chrome
+			  alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != -1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');
+			}
+		});
+	
+		$("#network_all").addClass("active"); // default active on ALL 
+		$('ul.networkTab li').click(function(e) 
+	       {
+		    $('ul.networkTab li a.active').removeClass('active');
+		    $(this).find("a").addClass("active");
+		    var id = $(this).find("a").attr("data-title");
+		    var siteUrl = "http://www.moneycontrol.com/news/";
+		    var postUrl= siteUrl+"services/from_our_network.php";
+		    $.post(postUrl,
+			{
+			    site_name: id,
+			},
+			function(data, status){
+			    $("#network-carousel").html("");
+			    $("#network-carousel").html(data);
+			    $("#network-carousel").data('owlCarousel').reinit();
+		    });
+	       });
+	    //Company Section Code
+		
+		$("#company_all").addClass("active"); // default active on ALL 
+		$('ul.companyTab li').click(function(e) 
+	       {
+		    
+		    $('ul.companyTab a.active').removeClass('active');
+		    $(this).children("a").addClass("active");
+		    var id = $(this).find("a").attr("data-title");
+		    if(id != "More"){
+			$('ul#more-links-panel li a').removeClass('target');
+			$(".company").css("display", "none");
+			$("."+id).fadeIn();
+		    }
+		    //
+	       });
+		
+		$('ul#more-links-panel li').click(function(e) 
+	       {
+		    $('ul#more-links-panel li a').removeClass('target');
+		    $(this).find('a:first').addClass('target');
+		    var id = $(this).find("a").attr("data-title");
+		    $(".company").css("display", "none");
+		    $("."+id).fadeIn();
+	       });
+		
+		$('#popularLink,#topLink').click(function(e) 
+	       {
+		    $(".newsTabP").css("display", "none");
+		    $('ul#newsTab a.active').removeClass('active');
+		    $(this).addClass("active");
+		    var id = $(this).attr("data-title");
+		    
+		    $("#"+id).fadeIn();
+	       });
+		
+		$('.gotop').click(function(){
+			$("html, body").animate({ scrollTop: 0 }, 600);
+			return false;
+		});
+
+	    
+	});
+	
+	function get_header_ad_details(){
+
+		var userAgent=navigator.userAgent.toLowerCase();
+		var deviceName="";
+		var img_mcad="";
+		var downloadLink="";
+		var adstring="";
+		var header_ad_flag=readCookie("header_ad");
+		if ((userAgent.search("iphone") > -1) || (userAgent.search("ipod") > -1)){
+			    deviceName="iPhone";
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/ads/mc_iphone_app_download.png";
+			    downloadLink = 'https://itunes.apple.com/app/apple-store/id408654600?pt=433541&ct=WapPushDown&mt=8';
+		}
+		if ((userAgent.search("ipad") > -1)){
+			    deviceName='iPad';
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/mc_on_ipad.jpg";
+			    downloadLink = 'https://itunes.apple.com/app/apple-store/id474708356?pt=433541&ct=WapPushDown&mt=8';
+		}
+		if ((userAgent.search("nokia") > -1)){
+			    deviceName='Nokia';  
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/ads/mc_nokia_app_download.png";
+			    downloadLink = 'http://store.ovi.mobi/content/79473';
+		}
+		if ((userAgent.search("blackberry") > -1)){
+			    deviceName='Blackberry';  
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/ads/mc_bb_app_download.png";
+			    downloadLink = 'http://appworld.blackberry.com/webstore/content/25706';
+		}
+		if ((userAgent.search("android") > -1) && (userAgent.search("mobile") > -1)){
+			    deviceName='Android';
+			    img_mcad = "http://img.moneycontrol.co.in/images/promo/new_mc_android_devices2_24july.jpg";
+			    downloadLink = 'https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3DAndroidMobile%26utm_medium%3DWapPushDown%26utm_campaign%3DAppDownload';
+		}
+		if ((userAgent.search("android") > -1) && !(userAgent.search("mobile") > -1)){
+			    deviceName='Android';
+			    img_mcad = "http://img.moneycontrol.co.in/images/promo/new_mc_android_devices2_24july.jpg";
+			    downloadLink = 'https://play.google.com/store/apps/details?id=com.moneycontrol&referrer=utm_source%3DAndroidTablet%26utm_medium%3DWapPushDown%26utm_campaign%3DAppDownload';
+		}
+		
+		if ((userAgent.search("windows") > -1) && (userAgent.search("phone") > -1)){
+			    deviceName='Windows';
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/ads/mc_windows_app_download1.png";
+			    downloadLink = 'http://www.windowsphone.com/en-IN/apps/aadeacdd-9c18-41d8-aee8-e5f3b8f76f5d';
+		}
+		if ((userAgent.search("windows") > -1) ){
+			    deviceName='Windows';
+			    img_mcad = "http://xmlns.cricketnext.com/mc-wap/images/ads/mc_windows_app_download1.png";
+			    downloadLink = 'http://www.windowsphone.com/en-IN/apps/aadeacdd-9c18-41d8-aee8-e5f3b8f76f5d';
+		}
+		
+		if(deviceName && !header_ad_flag){
+		
+		adstring+='<style>';
+                                                adstring+='.down_app{ border-top:3px solid #cc3203; background-color:#cdd5da;}';
+                                                adstring+='.apgd20{color:#333333 !important;}';
+                                                adstring+='.apgd120{font:bold 120% Arial, Helvetica, sans-serif;}';
+                                                adstring+='.apor20{color:#ed3a03; font:120% Arial, Helvetica, sans-serif;}';
+                                                adstring+='.PB5{padding-bottom:5px;}';
+                                                adstring+='.PR5{padding-right:5px;}';
+                                                adstring+='.PT7{padding-top:7px;}';
+                                                adstring+='</style>';
+                                                adstring+='<table width="100%" border="0" cellspacing="0" cellpadding="0" class="down_app" >';
+                                                adstring+='      <tr>';
+                                                adstring+='                  <td width="40">';
+                                                adstring+='                              <a href="'+downloadLink+'">';
+                                                adstring+='                                          <img src="http://img-d01.moneycontrol.co.in/images/wap/appicon.png" width="40" height="39" alt="" align="absmiddle" border="0"/>';
+                                                adstring+='                              </a>';
+                                                adstring+='                  </td>';
+                                                adstring+='                  <td align="left" class="PB5 PT5" style="padding-left:5px;">';
+                                                adstring+='                              <a href="'+downloadLink+'" class="apgd20">';
+                                                adstring+='                                          <span class="apgd120">Download the FREE</span> <br>';
+                                                adstring+='                                          <span class="apor20">money<em><strong>control</strong></em></span> ';
+                                                adstring+='                                          <span class="apgd120">'+deviceName+' App!</span> ';
+                                                adstring+='                                          <img src="http://img-d01.moneycontrol.co.in/images/promo/2014/ap_downic.png" width="14" height="16" alt="" align="absmiddle" border="0"/>';
+                                                adstring+='                              </a>';
+                                                adstring+='                  </td>';
+                                                adstring+='                  <td align="right" valign="top" class="PT7 PR5" width="14">';
+            adstring+='      <a href="javascript:void(0);" onclick="javascript:document.getElementById(\'header_ad\').style.display = \'none\';createCookie(\'header_ad\',\'1\',\'1\')">';
+                                                adstring+='                                          <img src="http://img-d01.moneycontrol.co.in/images/promo/2014/ap_close.gif" width="14" height="14" alt="" border="0" />';
+                                                adstring+='                              </a>';
+                                                adstring+='                  </td>';
+                                                adstring+='      </tr>';
+                                                adstring+='</table>';
+									
+			if(document.getElementById('header_ad')){
+			document.getElementById('header_ad').innerHTML=adstring;
+			document.getElementById('header_ad').style.display='block';
+			}
+			
+			}
+				    
+			}
+</script>
+<script type="text/javascript" src="http://stat.moneycontrol.co.in/mcnews/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script src="http://stat.moneycontrol.co.in/mcjs/common/m3_common_elem_js_v2.js?ver=21.5" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"169254e235","applicationID":"39850840","transactionName":"MVNaZ0BRV0RWWkINDAgZbUFbH1pYWU1ECw8KU0ocU0JNXlRVU0oTDkY=","queueTime":0,"applicationTime":178,"atts":"HRRZEQhLREo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>

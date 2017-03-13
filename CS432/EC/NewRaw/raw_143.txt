@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Copeland by-election: Tories deliver historic win over Labour</title>
+    <meta name="description" content="The Conservatives deliver a massive blow to Labour by taking the supposedly ultra-safe Copeland seat by 2,147 votes.">
+    
+    <meta name="news_keywords" content="Conservatives, Labour, UKIP, Politics">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/assets/manifest.json">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <link rel="canonical" href="http://news.sky.com/story/stoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" />
+    <meta name="msapplication-TileColor" content="#d9dce3">
+    <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
+    <meta name="msapplication-config" content="/assets/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+
+    <meta property="fb:app_id" content="744976955573926">
+    <meta property="og:site_name" content="Sky News">
+    <meta property="og:locale" content="en_GB">
+
+    <meta name="apple-itunes-app" content="app-id=316391924">
+
+    
+    <meta property="og:title" content="Tories take historic win over Labour in Copeland">
+    <meta property="og:description" content="The Conservatives deliver a massive blow to Labour by taking the supposedly ultra-safe Copeland seat by 2,147 votes.">
+    <meta property="og:url" content="http://news.sky.com/story/stoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://e3.365dm.com/17/02/1600x900/52a65eb3c7c730c380211cd3a0b9fd06c3bb8da17c4239464903fcf93bb39f0c_3896742.jpg?20170224070636">
+        
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@skynews">
+    <meta name="twitter:title" content="Tories take historic win over Labour in Copeland">
+    <meta name="twitter:description" content="The Conservatives deliver a massive blow to Labour by taking the supposedly ultra-safe Copeland seat by 2,147 votes.">
+    <meta name="twitter:image" content="http://e3.365dm.com/17/02/608x342/52a65eb3c7c730c380211cd3a0b9fd06c3bb8da17c4239464903fcf93bb39f0c_3896742.jpg?20170224070636">
+    <meta name="twitter:image:alt" content="Tory candidate Trudy Harrison (C) smiles after winning the Copeland by-election">
+        
+
+
+    <!--[if gte IE 9]><!-->
+    <link rel="stylesheet" href="/styles/bundle-b7d3a2e792a91898065d28f00b6ac7d4.css"/>
+    <!--<![endif]-->
+
+    <script>
+    var _sf_startpt=(new Date()).getTime();
+    </script>
+</head>
+<body data-sn-base-url="http://news.sky.com" class="">
+    
+        <div class="viewport">
+                <header class="header">
+                    <div class="sdc-news-header callfn " data-component-name="sdc-news-header">
+        
+          <div class="sdc-news-header__body">
+        
+            <a href="/" class="sdc-news-header__logo"><img src="/assets/sky-news-logo.png" alt="Sky News logo" class="sdc-news-header__logo-image"></a>
+        
+            <a href="" class="sdc-news-header__nav-action" data-role="mobile-nav-action">
+              <svg class="sdc-news-header__nav-action-icon" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M447.133 158.427c.098-.84.195-1.777.293-2.812.41-4.18.615-8.438.615-12.734 0-6.504-1.182-11.328-3.232-13.223-2.363-2.188-5.205-3.223-8.926-3.223h-370.937c-.103.84-.205 1.797-.312 2.852-.391 4.199-.596 8.477-.596 12.715 0 6.504 1.172 11.309 3.218 13.223 2.378 2.188 5.21 3.203 8.921 3.203h370.956zM447.133 272.001c.098-.84.195-1.777.293-2.812.41-4.18.615-8.438.615-12.734 0-6.504-1.182-11.328-3.232-13.223-2.363-2.188-5.205-3.223-8.926-3.223h-370.937c-.103.84-.205 1.797-.312 2.852-.391 4.199-.596 8.477-.596 12.715 0 6.504 1.172 11.309 3.218 13.223 2.378 2.188 5.21 3.203 8.921 3.203h370.956zM447.133 385.575c.098-.84.195-1.777.293-2.812.41-4.18.615-8.438.615-12.734 0-6.504-1.182-11.328-3.232-13.223-2.363-2.188-5.205-3.223-8.926-3.223h-370.937c-.103.84-.205 1.797-.312 2.852-.391 4.199-.596 8.477-.596 12.715 0 6.504 1.172 11.309 3.218 13.223 2.378 2.188 5.21 3.203 8.921 3.203h370.956z"/></svg>
+            </a>
+        
+            <div class="sdc-news-header__nav-wrap" data-role="mobile-nav-body">
+        
+        
+              <div class="sdc-news-header__nav" role="navigation" aria-labelledby="main-site-navigation">
+        
+                <div class="sdc-news-header__toolbar">
+        
+        
+        
+                </div>
+        
+                <div class="sdc-news-header__components">
+        
+                  <div class="sdc-news-header__search">
+                        <form action="/search" method="get" class="site-search">
+                            <input type="text" name="q" placeholder="Search" accesskey="q" autocomplete="off" autocorrect="off" autocapitalize="off" value="" class="sdc-news-header__search-input"/>
+                              <input type="hidden" value="date" name="sortby"/>
+                            <button class="sdc-news-header__search-button">
+                                <svg class="sdc-news-header__search-button-icon" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M339.535 303.959c22.91-30.146 36.66-67.632 36.66-108.408 0-99.136-80.361-179.501-179.492-179.501-99.135 0-179.501 80.366-179.501 179.501 0 99.14 80.366 179.501 179.501 179.501 41.03 0 78.73-13.926 108.965-37.09l99.004 99.004c27.655 27.666 65.302 36.953 93.788 25.918l-158.925-158.925zm-290.331-108.408c0-81.333 66.162-147.5 147.499-147.5 81.328 0 147.5 66.167 147.5 147.5 0 81.337-66.172 147.5-147.5 147.5-81.337 0-147.499-66.162-147.499-147.5z"/></svg>
+                                <span class="sdc-news-header__search-button-label">Search</span>
+                            </button>
+                        </form>
+                  </div>
+        
+                      <a class="sdc-news-header__watch-link" href="/watch-live">Watch Live</a>
+        
+                </div>
+        
+                <ul class="sdc-news-header__nav-group" role="menubar"><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/" role="menuitem">Home</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/uk" role="menuitem">UK</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/brexit" role="menuitem">Brexit</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/trump" role="menuitem">Trump</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/world" role="menuitem">World</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/business" role="menuitem">Business</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link  sdc-news-header__nav-item-link--active" href="/politics" role="menuitem">Politics</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/technology" role="menuitem">Tech</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/entertainment" role="menuitem">Entertainment</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/strangenews" role="menuitem">Offbeat</a>
+        
+                  </li><li class="sdc-news-header__nav-item" role="presentation">
+        
+                      <a class="sdc-news-header__nav-item-link " href="/weather" role="menuitem">Weather</a>
+        
+                  </li></ul>
+              </div>
+        
+            </div>
+        
+          </div>
+        
+        </div>
+    </header>
+            
+                    <div class="ad ad--leaderboard">
+                        <div class="ad-inner">
+                            <div class="blackjack-sdc-site-au " data-ad-format="leaderboard" data-type=""><div class="blackjack-sdc-site-au__leaderboard" data-role="ad-container" data-config="{&quot;id&quot;:&quot;leaderboard&quot;,&quot;tag&quot;:&quot;20346936\/skynews\/politics\/content&quot;,&quot;size&quot;:{&quot;mobile&quot;:[[320,50],[300,50]],&quot;tablet&quot;:[[728,90]],&quot;desktop&quot;:[[728,90],[970,250]]},&quot;targeting&quot;:{&quot;platform&quot;:&quot;live&quot;,&quot;artId&quot;:10779400}}" data-targeting-strnativekey="" data-targeting-platform="" data-tag="" data-component-name="blackjack-sdc-site-mpu" aria-label="Advertisement" id="leaderboard" data-tolerance="2"></div></div>
+                        </div>
+                    </div>
+
+            
+                <div class="site-wrapper">
+                    
+
+        
+
+
+        <header class="sdc-news-article-header  sdc-news-article-header--article"  data-component-name="sdc-news-article-header">
+            <h1 class="sdc-news-article-header__headline " aria-label="Copeland by-election: Tories deliver historic win over Labour"><span aria-hidden="true">Copeland by-election: Tories deliver historic win over Labour</span></h1>
+                <p class="sdc-news-article-header__standfirst">The Conservatives deliver a massive blow to Labour by taking the supposedly ultra-safe Copeland seat by 2,147 votes.</p>
+                    <p class="sdc-news-article-header__last-updated">
+                        <time class="sdc-news-article-header__last-updated__timestamp" datetime="2017-02-24T09:41">
+                            <span class="sdc-news-article-header__last-updated__time">09:41, UK,</span>
+                            <span class="sdc-news-article-header__last-updated__day">Friday</span>
+                            <span class="sdc-news-article-header__last-updated__date">24</span>
+                            <span class="sdc-news-article-header__last-updated__month">February</span>
+                            <span class="sdc-news-article-header__last-updated__year">2017</span>
+                        </time>
+                    </p>
+        </header>
+    
+
+        <div class="site-main">
+            
+
+        
+                <div class="sdc-article-widget sdc-article-video" data-component-name="sdc-article-video" data-provider="svl">
+            <div class="sdc-article-video__inner">
+                <figure class="sdc-article-video__content">
+                    <span class="sdc-article-video__media-container">
+                            <img class="sdc-article-video__media" src="http://e3.365dm.com/17/02/536x302/fb23bf7b4c8b4a6ae94b94a8357e7fd410b0ab74a3d3b8031ae4616be943455f_3896725.jpg?20170224033304" alt="Trudy Harrison" />
+        
+                            <div class="sdc-article-video__media">
+                                <video class="sdc-article-video__media-video" data-autoload="true" data-guid="news-1487905283111" data-autoplay="false" data-fwsitesectionid="sky.portal.news:politics:story" preload="metadata" poster="http://e3.365dm.com/17/02/536x302/fb23bf7b4c8b4a6ae94b94a8357e7fd410b0ab74a3d3b8031ae4616be943455f_3896725.jpg?20170224033304">
+                                    <source class="sdc-article-video__source" src="http://video.news.sky.com/video/h264/vod/700/2017/02/DIGITrudyHarrisonOnCopelandWinGrab02551487905283111700.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                    </span>
+                        <figcaption class="sdc-article-video__caption">
+                            <span class="sdc-article-video__visually-hidden">Video:</span> 
+                            <span class="sdc-article-video__caption-text">Trudy Harrison told Sky News: &#x27;People are ready for a change&#x27;</span>
+                        </figcaption>
+                </figure>
+            </div>
+        </div>
+
+        
+        
+        <div class="blackjack-sdc-site-share blackjack-sdc-site-share--article">
+          
+          <ul class="blackjack-sdc-site-share__list">
+            <li class="blackjack-sdc-site-share__item">
+              <a href="https://twitter.com/intent/tweet?text&#x3D;Copeland%20by-election%3A%20Tories%20deliver%20historic%20win%20over%20Labour&amp;url&#x3D;http%3A%2F%2Fnews.sky.com%2Fstory%2Fstoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" class="blackjack-sdc-site-share__link" target="_blank">
+                <span class="blackjack-sdc-site-share__label"></span>
+                <div class="blackjack-sdc-site-share__icon">
+                  <svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Twitter</title><path d='M36.863 10.867c.866-.544 1.596-1.206 2.19-1.985.593-.78 1.064-1.64 1.41-2.58-1.608.94-3.352 1.61-5.233 2.005-.742-.792-1.626-1.41-2.653-1.856-1.027-.444-2.134-.667-3.32-.667-2.327.074-4.256.885-5.79 2.43-1.534 1.547-2.326 3.458-2.375 5.734.025.668.11 1.287.26 1.856-3.415-.223-6.57-1.083-9.463-2.58-2.896-1.496-5.382-3.48-7.46-5.955-.347.593-.613 1.243-.798 1.948-.186.705-.278 1.43-.278 2.17.024 1.436.358 2.74 1 3.916.645 1.175 1.51 2.146 2.6 2.913-.67-.025-1.324-.13-1.968-.316-.643-.186-1.237-.44-1.78-.76v.147c.05 2.03.68 3.773 1.892 5.233 1.212 1.46 2.77 2.375 4.675 2.746-.346.074-.705.136-1.076.185-.37.05-.73.075-1.076.075-.543.025-1.075-.012-1.595-.11.57 1.632 1.534 2.968 2.895 4.007 1.36 1.04 2.932 1.608 4.713 1.707-1.41 1.087-2.98 1.935-4.713 2.54-1.732.607-3.538.922-5.418.947-.668.025-1.336-.025-2.004-.148 1.806 1.162 3.773 2.07 5.9 2.726 2.128.656 4.342.996 6.643 1.02 7.547-.296 13.31-2.838 17.294-7.625 3.983-4.786 6-10.025 6.05-15.715V13.8c1.706-1.238 3.08-2.66 4.118-4.27-1.484.644-3.03 1.09-4.64 1.337z' fill='#000' fill-rule='evenodd'/></svg>
+
+                </div>
+              </a>
+            </li>
+            <li class="blackjack-sdc-site-share__item">
+              <a href="https://www.facebook.com/sharer/sharer.php?u&#x3D;http%3A%2F%2Fnews.sky.com%2Fstory%2Fstoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400&amp;t&#x3D;Copeland%20by-election%3A%20Tories%20deliver%20historic%20win%20over%20Labour" class="blackjack-sdc-site-share__link" target="_blank">
+                <span class="blackjack-sdc-site-share__label"></span>
+                <div class="blackjack-sdc-site-share__icon">
+                  <svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Facebook</title><path d='M30.87 23.633l.89-6.717h-6.717V12.61c-.05-.964.148-1.75.594-2.355.445-.606 1.348-.91 2.71-.91h3.524V3.26c-.345-.074-.988-.136-1.93-.186C29 3.024 27.914 3 26.677 3c-2.623 0-4.725.767-6.31 2.3-1.582 1.535-2.386 3.76-2.41 6.68v4.936h-5.827v6.717h5.825V41h6.977V23.633h5.937z' fill='#000' fill-rule='evenodd'/></svg>
+
+                </div>
+              </a>
+            </li>
+            <li class="blackjack-sdc-site-share__item">
+              <a href="https://plus.google.com/share?url&#x3D;http%3A%2F%2Fnews.sky.com%2Fstory%2Fstoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" class="blackjack-sdc-site-share__link" target="_blank">
+                <span class="blackjack-sdc-site-share__label"></span>
+                <div class="blackjack-sdc-site-share__icon">
+                  <svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Google+</title><path d='M26.268 3h-9.946c-1.336 0-2.758.167-4.267.5-1.51.335-2.97 1.083-4.38 2.246-2.053 2.004-3.08 4.23-3.08 6.68 0 2.028.718 3.797 2.153 5.306 1.385 1.658 3.402 2.5 6.05 2.524.518 0 1.063-.025 1.632-.074l-.334.853c-.124.272-.186.63-.186 1.076 0 .744.155 1.38.464 1.912.31.532.637 1.033.983 1.503-1.162.025-2.622.18-4.378.464-1.758.284-3.44.896-5.048 1.836-1.435.84-2.43 1.83-2.988 2.97-.556 1.137-.835 2.164-.835 3.08 0 1.904.865 3.537 2.597 4.897C6.44 40.233 9.037 40.975 12.5 41c4.156-.074 7.335-1.076 9.537-3.006 2.128-1.855 3.192-3.995 3.192-6.42-.026-1.707-.422-3.08-1.19-4.12-.766-1.038-1.67-1.99-2.708-2.856l-1.707-1.41c-.223-.223-.476-.5-.76-.835-.285-.334-.427-.767-.427-1.3 0-.53.136-.995.408-1.39.272-.397.556-.755.853-1.077.52-.445.995-.885 1.428-1.317.433-.434.835-.91 1.206-1.43.767-1.09 1.163-2.524 1.187-4.305 0-.965-.11-1.818-.332-2.56-.273-.718-.582-1.355-.928-1.912-.347-.556-.71-1.026-1.095-1.41-.383-.383-.736-.66-1.058-.835h3.08L26.267 3zm-5.456 27.2c.817.966 1.225 2.08 1.225 3.34 0 1.56-.606 2.834-1.818 3.823-1.213.99-2.995 1.51-5.345 1.56-2.622-.05-4.676-.632-6.16-1.745-1.583-1.138-2.375-2.586-2.375-4.342 0-.89.167-1.645.5-2.264.335-.618.737-1.132 1.207-1.54.47-.408.928-.71 1.373-.91l1.076-.444c1.09-.322 2.14-.557 3.154-.705 1.064-.1 1.72-.136 1.967-.112.42 0 .792.026 1.113.076 1.856 1.286 3.217 2.375 4.082 3.265zM19.18 15.544c-.1.668-.36 1.31-.78 1.93-.89.89-1.99 1.36-3.302 1.41-1.04 0-1.96-.316-2.765-.946-.804-.63-1.453-1.404-1.948-2.32-1.064-1.954-1.596-3.822-1.596-5.603-.026-1.386.345-2.623 1.112-3.71.89-1.065 2.004-1.622 3.34-1.67 1.015.048 1.91.364 2.69.945.78.58 1.405 1.354 1.875 2.318.99 2.004 1.484 3.984 1.484 5.938 0 .47-.036 1.04-.11 1.707zm22.6 3.006v-.038h-5.233v-5.307h-3.08v5.307h-5.27v3.006h.037v.11h5.233v5.233h3.08v-5.23h5.344v-3.08h-.11z' fill='#000' fill-rule='evenodd'/></svg>
+
+                </div>
+              </a>
+            </li>
+            <li class="blackjack-sdc-site-share__item">
+              <a href="whatsapp://send?text&#x3D;Shared%20from%20Sky%20News%3A%20Copeland%20by-election%3A%20Tories%20deliver%20historic%20win%20over%20Labour%20http%3A%2F%2Fnews.sky.com%2Fstory%2Fstoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" class="blackjack-sdc-site-share__link" target="_blank">
+                <span class="blackjack-sdc-site-share__label"></span>
+                <div class="blackjack-sdc-site-share__icon">
+                  <svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Whats App</title><path d='M22.353 3c-5.245.124-9.612 1.923-13.1 5.4-3.488 3.475-5.294 7.848-5.418 13.118 0 1.756.235 3.438.705 5.046.47 1.61 1.126 3.105 1.967 4.49L3.167 41l10.242-3.266c2.67 1.51 5.652 2.264 8.943 2.264 5.244-.124 9.605-1.923 13.08-5.4 3.477-3.475 5.29-7.836 5.437-13.08-.124-5.27-1.93-9.643-5.418-13.12-3.488-3.475-7.855-5.274-13.1-5.398zm0 33.918c-1.584 0-3.087-.217-4.51-.65-1.422-.432-2.74-1.057-3.95-1.873l-5.94 1.93 1.93-5.753c-.94-1.26-1.663-2.66-2.17-4.193-.507-1.535-.773-3.155-.798-4.862.124-4.38 1.633-8.016 4.527-10.91 2.895-2.895 6.532-4.404 10.91-4.528 4.355.124 7.985 1.633 10.892 4.527 2.907 2.895 4.41 6.532 4.51 10.91-.1 4.355-1.603 7.985-4.51 10.892-2.907 2.906-6.537 4.41-10.89 4.508zm8.683-11.207c-.32-.172-.853-.463-1.596-.87-.742-.41-1.26-.675-1.558-.8-.198-.098-.384-.147-.557-.147-.173 0-.34.117-.5.352-.162.235-.415.538-.762.91l-.742.853c-.147.148-.302.23-.463.24-.16.013-.364-.042-.612-.166-.247-.124-.705-.365-1.373-.724-.668-.358-1.435-.946-2.3-1.762-.693-.668-1.25-1.33-1.67-1.986l-.89-1.39c-.1-.25-.113-.447-.038-.595.074-.148.173-.278.297-.39.124-.11.248-.24.372-.39.123-.148.247-.284.37-.407.124-.124.21-.248.26-.372l.223-.37c.173-.347.173-.62 0-.817-.074-.2-.26-.706-.557-1.523l-.742-2.04c-.173-.47-.352-.73-.538-.78-.185-.05-.352-.062-.5-.037l-.93-.074c-.147 0-.34.037-.574.11-.235.075-.476.224-.723.446-.247.223-.587.637-1.02 1.244-.433.606-.686 1.49-.76 2.653.024 1.21.278 2.287.76 3.227.483.94.81 1.51.984 1.707.123.322.86 1.343 2.208 3.062 1.348 1.72 3.222 3.185 5.622 4.397 2.25.99 3.667 1.49 4.25 1.503.58.013 1.032-.018 1.353-.092.495-.05 1.095-.273 1.8-.668.705-.396 1.194-.866 1.466-1.41.222-.57.358-1.058.408-1.466.05-.41.044-.668-.018-.78-.06-.11-.18-.204-.352-.278l-.594-.37z' fill='#000' fill-rule='evenodd'/></svg>
+
+                </div>
+              </a>
+            </li>
+            <li class="blackjack-sdc-site-share__item">
+              <a href="mailto:?to&#x3D;&amp;subject&#x3D;Shared%20from%20Sky%20News%3A%20Copeland%20by-election%3A%20Tories%20deliver%20historic%20win%20over%20Labour&amp;body&#x3D;Shared%20from%20Sky%20News%3A%20Copeland%20by-election%3A%20Tories%20deliver%20historic%20win%20over%20Labour%20http%3A%2F%2Fnews.sky.com%2Fstory%2Fstoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" class="blackjack-sdc-site-share__link" target="_blank">
+                <span class="blackjack-sdc-site-share__label"></span>
+                <div class="blackjack-sdc-site-share__icon">
+                  <svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Mail</title><path d='M21.89 23.15L8.79 10.793h26.235L21.89 23.15zm15.585-11.02v18.628c0 .767-.248 1.398-.743 1.892-.494.495-1.125.743-1.892.743H9.16c-.767 0-1.398-.248-1.892-.743-.495-.494-.743-1.125-.743-1.892v-18.63l14.62 13.657c.1.1.206.186.317.26.11.074.26.11.445.11.186 0 .334-.036.446-.11.11-.074.216-.16.315-.26L37.475 12.13z' fill='#000' fill-rule='evenodd'/></svg>
+
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+
+        <div class="sdc-news-story-article">
+        
+                    <p class="sdc-news-story-article__byline">By Jon Craig, Chief Political Correspondent</p>
+        
+                <p class="sdc-news-story-article__intro">Labour has suffered a humiliating defeat by the Tories in Copeland but managed to see off UKIP leader Paul Nuttall in Stoke in a night of double by-election drama.</p>
+        
+            <div class="sdc-news-story-article__body">
+                <div class="ad ad--mpu-tablet"><div class="blackjack-sdc-site-au " data-ad-format="mpu" data-type=""><div class="blackjack-sdc-site-au__mpu" data-role="ad-container" data-config="{&quot;id&quot;:&quot;mpu-inline&quot;,&quot;tag&quot;:&quot;20346936\/skynews\/politics\/content&quot;,&quot;size&quot;:{&quot;mobile&quot;:[[300,250]],&quot;tablet&quot;:[[300,250]],&quot;desktop&quot;:[[300,250]]},&quot;targeting&quot;:{&quot;platform&quot;:&quot;live&quot;,&quot;artId&quot;:10779400}}" data-targeting-strnativekey="" data-targeting-platform="" data-tag="" data-component-name="blackjack-sdc-site-mpu" aria-label="Advertisement" id="mpu-inline" data-tolerance="2"></div></div>
+</div><div><div></div></div><p>Jeremy Corbyn's critics blamed him for defeat in Copeland, which saw the Conservatives' Trudy Harrison snatch a shock victory with a majority of 2,147.</p><div><div></div></div><div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914" srcset=" http://e3.365dm.com/17/02/206x155/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914 206w,  http://e3.365dm.com/17/02/288x216/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914 288w,  http://e3.365dm.com/17/02/589x442/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914 589w,  http://e3.365dm.com/17/02/750x563/745171ade367824142a270ee46cfb20f62854a1bfe18c4a7c5c09b4b6e8887f6_3896753.jpg?20170224071914 750w" alt="Copeland by-election" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Copeland by-election</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>But the bid by UKIP's leader - whose by-election campaign had lurched from one crisis to another - to win a seat in Parliament failed by 2,620 votes.</p><div><div></div></div><p><strong>:: <a href="http://news.sky.com/story/results-live-polls-close-in-stoke-and-copeland-by-elections-10779260" target="_blank">LIVE: Reaction as Corbyn faces questions after Labour loss</a></strong></p><div><div></div></div><p>In Stoke-on-Trent Central, Labour's Gareth Snell, who had also attracted criticism for his own campaign, won comfortably with 7,853 votes to Mr Nuttall's 5,233.</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514" srcset=" http://e3.365dm.com/17/02/206x155/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514 206w,  http://e3.365dm.com/17/02/288x216/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514 288w,  http://e3.365dm.com/17/02/589x442/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514 589w,  http://e3.365dm.com/17/02/750x563/ff5094f056f119b5c6682dac00bb4f0ac43f84998ec55278067b24b3f065edee_3896723.jpg?20170224060514 750w" alt="Trudy Harrison celebrated her win with husband Keith" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Trudy Harrison celebrated her win with husband Keith</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>After a night of tension and high drama at the Copeland count in Whitehaven, Ms Harrison beat Labour's Gillian Troughton, whose by-election campaign was almost entirely about the NHS.</p><div><div></div></div><p>In a seat held by former Labour MP Jamie Reed at the 2015 general election with a 2,500 majority, the Conservatives increased their vote share by more than 8%, while Labour's was down nearly 5%.</p><div><div></div></div><p><strong>:: <a href="http://news.sky.com/story/corbyn-election-win-impossible-after-labours-crushing-copeland-defeat-10779439" target="_blank">Analysis: Corbyn election win 'impossible'</a></strong></p><div><div></div></div><p>Despite appalling weather brought to the Cumbrian constituency by Storm Doris, turnout in Copeland was a respectable 51.33%, above average for a by-election, though it was just 38% in Stoke-on-Trent Central.</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948" srcset=" http://e3.365dm.com/17/02/206x155/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948 206w,  http://e3.365dm.com/17/02/288x216/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948 288w,  http://e3.365dm.com/17/02/589x442/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948 589w,  http://e3.365dm.com/17/02/750x563/8020c74ff233ecac05f87be0adc241f3be2fd3cf1638e9f8a66d63f277de353f_3896754.jpg?20170224071948 750w" alt="Copeland by-election" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Copeland by-election</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>After her relatively comfortable victory, which came after predictions at the count that the result was on a knife-edge, Ms Harrison told Sky News: "The people are ready for change".</p><div><div></div></div><p>"I think we ran an extremely positive campaign and it was a campaign that represented the needs of this area. And I know this area because I have lived here all of my life.</p><div><div></div></div><p>"I think that, and the combination of Jeremy Corbyn's views on nuclear in an area which is so dependent on Sellafield and on Moorside, contributed to my win tonight."</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024" srcset=" http://e3.365dm.com/17/02/206x155/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024 206w,  http://e3.365dm.com/17/02/288x216/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024 288w,  http://e3.365dm.com/17/02/589x442/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024 589w,  http://e3.365dm.com/17/02/750x563/5d95ab2a244ce98d6562d70c83ed8e3a82917c8faa1096310b9793ec54a18a45_3896755.jpg?20170224072024 750w" alt="Copeland by-election share" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Copeland by-election share</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>Minutes earlier, in her victory speech, in the Whitehaven Sports Centre, Ms Harrison - a mother of four daughters - said the result was a "truly historic event".</p><div><div></div></div><p>She said: "It's been very clear talking to people throughout this campaign that Jeremy Corbyn doesn't represent them.</p><div><div></div></div><p>"They want a party which is on the side of ordinary working people, which will respect the way we voted in the referendum and which will build a country which represents everyone. That's why they voted for me tonight."</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832" srcset=" http://e3.365dm.com/17/02/206x155/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832 206w,  http://e3.365dm.com/17/02/288x216/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832 288w,  http://e3.365dm.com/17/02/589x442/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832 589w,  http://e3.365dm.com/17/02/750x563/a6fdcfa43329a660d758944eca15289118a59fcc32b2ffcf4a61dd166e33d568_3896752.jpg?20170224071832 750w" alt="Copeland by-election change in share" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Copeland by-election change in share</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>Labour's defeat was embarrassing because it was the first by a Government over an Opposition in a by-election since 1982, when Labour was also split and led by an unpopular left-wing leader.</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722" srcset=" http://e3.365dm.com/17/02/206x155/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722 206w,  http://e3.365dm.com/17/02/288x216/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722 288w,  http://e3.365dm.com/17/02/589x442/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722 589w,  http://e3.365dm.com/17/02/750x563/fe6f370d5c134b40dc62acc0e9d13ca3746f18a046012b6d155bf21d123ac1af_3896757.jpg?20170224072722 750w" alt="Stoke by-election result" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Stoke by-election result</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>Then, under Michael Foot's leadership, 28 Labour MPs defected to the SDP and only one, Bruce Douglas-Mann, resigned and defended his seat in a by-election and was defeated by the Conservatives' Angela Rumbold in Mitcham and Morden.</p><div class="ad ad--mpu-mobile"><div class="blackjack-sdc-site-au " data-ad-format="mpu" data-type=""><div class="blackjack-sdc-site-au__mpu" data-role="ad-container" data-config="{&quot;id&quot;:&quot;mpu-inline-mobile&quot;,&quot;tag&quot;:&quot;20346936\/skynews\/politics\/content&quot;,&quot;size&quot;:{&quot;mobile&quot;:[[300,250]],&quot;tablet&quot;:[[300,250]],&quot;desktop&quot;:[[300,250]]},&quot;targeting&quot;:{&quot;platform&quot;:&quot;live&quot;,&quot;artId&quot;:10779400}}" data-targeting-strnativekey="" data-targeting-platform="" data-tag="" data-component-name="blackjack-sdc-site-mpu" aria-label="Advertisement" id="mpu-inline-mobile" data-tolerance="2"></div></div>
+</div><div><div></div></div><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029" srcset=" http://e3.365dm.com/17/02/206x155/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029 206w,  http://e3.365dm.com/17/02/288x216/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029 288w,  http://e3.365dm.com/17/02/589x442/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029 589w,  http://e3.365dm.com/17/02/750x563/fbe99907dccc5b2f1243fcfb4ad328858d924448681636a086ddbe398188e23a_3896783.jpg?20170224083029 750w" alt="Stoke-on-Trent Central by-election results" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Stoke-on-Trent Central by-election results</span>
+            </figcaption>
+    </figure>
+</div>
+<p>Reacting to the by-election results, Mr Corbyn said: "Labour's victory in Stoke is a decisive rejection of UKIP's politics of division and dishonesty. But our message was not enough to win through in Copeland.</p><div><div></div></div><p>"In both campaigns, Labour listened to thousands of voters on the doorstep. Both constituencies, like so many in Britain, have been let down by the political establishment.</p><div><div></div></div><p>"To win power to rebuild and transform Britain, Labour will go further to reconnect with voters, and break with the failed political consensus."</p><div><div></div></div> <div class="sdc-article-widget sdc-article-video" data-component-name="sdc-article-video" data-provider="svl">
+    <div class="sdc-article-video__inner">
+        <figure class="sdc-article-video__content">
+            <span class="sdc-article-video__media-container">
+                    <img class="sdc-article-video__media" src="http://e3.365dm.com/17/02/536x302/0e97c045f161aeb847d238d63fce41d480b175d55884d3ca6b2a20f23f16cb41_3896726.jpg?20170224033617" alt="Gareth Snell celebrates with his wife Sophia after winning the Stoke-on-Trent Central by-election" />
+
+                    <div class="sdc-article-video__media">
+                        <video class="sdc-article-video__media-video" data-autoload="true" data-guid="news-1487903857267" data-autoplay="false" data-fwsitesectionid="sky.portal.news:politics:story" preload="metadata" poster="http://e3.365dm.com/17/02/536x302/0e97c045f161aeb847d238d63fce41d480b175d55884d3ca6b2a20f23f16cb41_3896726.jpg?20170224033617">
+                            <source class="sdc-article-video__source" src="http://video.news.sky.com/video/h264/vod/700/2017/02/DIGILabourSSnellWinsStokeSpeechGrab02241487903857267700.mp4" type="video/mp4">
+                        </video>
+                    </div>
+            </span>
+                <figcaption class="sdc-article-video__caption">
+                    <span class="sdc-article-video__visually-hidden">Video:</span> 
+                    <span class="sdc-article-video__caption-text">Snell on Labour victory in Stoke Central</span>
+                </figcaption>
+        </figure>
+    </div>
+</div>
+<div><div></div></div><p>But Labour's defeat in Copeland, a seat which has been solidly Labour since it was created in 1983, immediately reignited attacks on the Labour leader.</p><div><div></div></div><p>One Labour source told Sky News: "Jeremy Corbyn was the issue in Copeland. Paul Nuttall was the issue in Stoke. It looks like the results reflect that."</p><div><div></div></div><p>In Stoke, Labour's share of the vote fell by around 2%, while UKIP's went up by the same amount.</p><div><div></div></div><p>The victorious Mr Snell said voters had chosen "the politics of hope over the politics of fear".</p><div><div></div></div> <div class="sdc-article-widget sdc-article-video" data-component-name="sdc-article-video" data-provider="svl">
+    <div class="sdc-article-video__inner">
+        <figure class="sdc-article-video__content">
+            <span class="sdc-article-video__media-container">
+                    <img class="sdc-article-video__media" src="http://e3.365dm.com/17/02/536x302/38615e756a50397526edcf34065fb138a5a05dad9a6a8459e03c96b6737b091f_3896719.jpg?20170224060618" alt="Paul Nuttall vowed to continue working as UKIP leader despite his by-election loss" />
+
+                    <div class="sdc-article-video__media">
+                        <video class="sdc-article-video__media-video" data-autoload="true" data-guid="news-1487906085781" data-autoplay="false" data-fwsitesectionid="sky.portal.news:politics:story" preload="metadata" poster="http://e3.365dm.com/17/02/536x302/38615e756a50397526edcf34065fb138a5a05dad9a6a8459e03c96b6737b091f_3896719.jpg?20170224060618">
+                            <source class="sdc-article-video__source" src="http://video.news.sky.com/video/h264/vod/700/2017/02/240217NUTTALLLEAVESAFTERELECTIONLOSS1487906085781700.mp4" type="video/mp4">
+                        </video>
+                    </div>
+            </span>
+                <figcaption class="sdc-article-video__caption">
+                    <span class="sdc-article-video__visually-hidden">Video:</span> 
+                    <span class="sdc-article-video__caption-text">UKIP leader vows to stay on after Stoke loss</span>
+                </figcaption>
+        </figure>
+    </div>
+</div>
+<div><div></div></div><p>He added: "Our city has been the focus of a media which all too often prefers to dwell on our problems instead of highlighting our achievements.</p><div><div></div></div><p>"But over these last few weeks a city lazily dubbed by some as the capital of Brexit has once again proven to the world that we are so much more than that.</p><div><div></div></div><p>"We have said with one voice that hatred and bigotry are not welcome here. This is a proud city and we stand together."</p><div><div></div></div> <div class="sdc-article-custom-markup" data-component-name="sdc-article-custom-markup"><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Labour&#39;s victory in Stoke is a decisive rejection of UKIP&#39;s politics of division. But our message was not enough to win through in Copeland</p>&mdash; Jeremy Corbyn MP (@jeremycorbyn) <a href="https://twitter.com/jeremycorbyn/status/834960706659364864">February 24, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div><div></div></div><p>A defeated and dejected Mr Nuttall said UKIP was "not going anywhere" and insisted the party's "time would come".</p><div><div></div></div><p>"There's a lot more to come from us," he said. "We are not going anywhere, I'm not going anywhere."</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853" srcset=" http://e3.365dm.com/17/02/206x155/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853 206w,  http://e3.365dm.com/17/02/288x216/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853 288w,  http://e3.365dm.com/17/02/589x442/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853 589w,  http://e3.365dm.com/17/02/750x563/483f036245eadcecd5cb8878653bcf253c68be446f73d324474cbd3473ca6c44_3896761.jpg?20170224072853 750w" alt="Stoke by-election share" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Stoke by-election share</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>And despite being forced to admit he had not, as his website previously said, lost a close personal friend at Hillsborough in 1989, the UKIP leader said the "whole Hillsborough thing" had not been an issue on the doorstep.</p><div><div></div></div> <div class="sdc-article-widget sdc-image">
+    <figure class="sdc-image__content" itemprop="associatedMedia image" itemscope itemtype="http://schema.org/ImageObject">
+                <meta itemprop="url" content="http://e3.365dm.com/17/02/750x563/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650">
+                <meta itemprop="width" content="750">
+        <span class="sdc-image__media-container sdc-image__media-container--4/3-ratio">
+            <img class="sdc-image__media" itemprop="contentUrl" src="http://e3.365dm.com/17/02/206x155/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650" srcset=" http://e3.365dm.com/17/02/206x155/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650 206w,  http://e3.365dm.com/17/02/288x216/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650 288w,  http://e3.365dm.com/17/02/589x442/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650 589w,  http://e3.365dm.com/17/02/750x563/0f7ea1a4b77d2e2a2ce4a2cf3e8cf63dde8d60c3b58d1b2c744a19d3d990dc91_3896756.jpg?20170224072650 750w" alt="Stoke by-election change in share" />
+        </span>
+            <figcaption itemprop="description" class="sdc-image__caption ">
+                <span class="sdc-image__visually-hidden">Image Caption:</span>
+                <span class="sdc-image__caption-text">Stoke by-election change in share</span>
+            </figcaption>
+    </figure>
+</div>
+<div><div></div></div><p>But Liberal Democrat leader Tim Farron claimed: "This is the beginning of the end for UKIP. They no longer have a purpose.</p><div><div></div></div><p>"Theresa May has adopted Farage's approach to Brexit and her government has become indistinguishable from UKIP."</p><div><div></div></div>
+            </div>
+        
+        </div>
+
+            <div class="blackjack-sdc-article-tags blackjack-sdc-article-widget">
+              <div class="blackjack-sdc-article-tags__inner">
+                <h3 class="blackjack-sdc-article-tags__title">Posted in:</h3>
+                <ul class="blackjack-sdc-article-tags__list">
+                    <li class="blackjack-sdc-article-tags__item"><a class="blackjack-sdc-article-tags__link" href="/topic/conservatives-5699">Conservatives</a></li>
+                    <li class="blackjack-sdc-article-tags__item"><a class="blackjack-sdc-article-tags__link" href="/topic/labour-5700">Labour</a></li>
+                    <li class="blackjack-sdc-article-tags__item"><a class="blackjack-sdc-article-tags__link" href="/topic/ukip-5708">UKIP</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="sdc-site-outbrain sdc-site-outbrain--AR_3">
+                <div class="OUTBRAIN" data-src="http://news.sky.com/story/stoke-central-by-election-labour-beats-ukip-leader-paul-nuttall-10779400" data-widget-id="AR_3" data-ob-template="skynews"></div>
+                <script src="http://widgets.outbrain.com/outbrain.js" async="true"></script>
+            </div>
+    
+        </div>
+
+        <div class="site-secondary">
+            
+                        <div class="ad ad--mpu-1">
+                            <div class="ad-inner">
+                                <div class="blackjack-sdc-site-au " data-ad-format="mpu" data-type=""><div class="blackjack-sdc-site-au__mpu" data-role="ad-container" data-config="{&quot;id&quot;:&quot;mpu-1&quot;,&quot;tag&quot;:&quot;20346936\/skynews\/politics\/content&quot;,&quot;size&quot;:{&quot;mobile&quot;:[[300,250]],&quot;tablet&quot;:[[300,250]],&quot;desktop&quot;:[[300,250],[300,600]]},&quot;targeting&quot;:{&quot;platform&quot;:&quot;live&quot;,&quot;artId&quot;:10779400}}" data-targeting-strnativekey="" data-targeting-platform="" data-tag="" data-component-name="blackjack-sdc-site-mpu" aria-label="Advertisement" id="mpu-1" data-tolerance="2"></div></div>
+                            </div>
+                        </div>
+
+                
+                <article class="desktop-only">
+                    <div class="sky-component-story-grid sky-component-story-grid--highlights">
+                            <h2 class="sky-component-story-grid__title">Top Stories</h2>
+                        <div class="sky-component-story-grid__row">
+                    
+                                <div class="sky-component-story-grid__card sky-component-story-grid__card--5col   " data-id="10799220">
+                    
+                    
+                    
+                                            <a href="/story/theresa-may-to-trigger-brexit-as-early-as-tuesday-sources-10799220" class="sky-component-story-grid__link">
+                                                <div class="sky-component-story-grid__media">
+                                                    <div class="sky-component-story-grid__ratio sky-component-story-grid__ratio--4/3">
+                                                        <img src="http://e3.365dm.com/17/02/288x216/11972cea73397e04a235038f488da69862c7166f8991730a003291633e9c0a80_3884222.jpg?20170203222008" srcset="
+                                                            http://e3.365dm.com/17/02/288x216/11972cea73397e04a235038f488da69862c7166f8991730a003291633e9c0a80_3884222.jpg?20170203222008 288w" alt=" " class="sky-component-story-grid__media-element sky-component-story-grid__media-img" />
+                                                    </div>
+                                                    
+                                                </div>
+                                            </a>
+                    
+                                        <div class="sky-component-story-grid__body">
+                                                <h3 class="sky-component-story-grid__headline sky-component-story-grid__headline--breaking">
+                                                    <a href="/story/theresa-may-to-trigger-brexit-as-early-as-tuesday-sources-10799220" class="sky-component-story-grid__link">Brexit to be triggered within days - sources</a>
+                                                </h3>
+                    
+                                        </div>
+                    
+                    
+                    
+                                </div>
+                                <div class="sky-component-story-grid__card sky-component-story-grid__card--5col   " data-id="10797690">
+                    
+                    
+                    
+                                            <a href="/story/frozen-spice-synthetic-drug-turning-addicts-into-walking-dead-10797690" class="sky-component-story-grid__link">
+                                                <div class="sky-component-story-grid__media">
+                                                    <div class="sky-component-story-grid__ratio sky-component-story-grid__ratio--4/3">
+                                                        <img src="http://e3.365dm.com/17/03/288x216/7cefa4c727de82e7a45cf2c5e3a81c78a9ba46ea1bac53d2bd8015b808a82606_3907393.jpg?20170311050249" srcset="
+                                                            http://e3.365dm.com/17/03/288x216/7cefa4c727de82e7a45cf2c5e3a81c78a9ba46ea1bac53d2bd8015b808a82606_3907393.jpg?20170311050249 288w" alt="Spice, a chemically made synthetic marijuana" class="sky-component-story-grid__media-element sky-component-story-grid__media-img" />
+                                                    </div>
+                                                    
+                                                </div>
+                                            </a>
+                    
+                                        <div class="sky-component-story-grid__body">
+                                                <h3 class="sky-component-story-grid__headline ">
+                                                    <a href="/story/frozen-spice-synthetic-drug-turning-addicts-into-walking-dead-10797690" class="sky-component-story-grid__link">Drug 'turning addicts into the Walking Dead'</a>
+                                                </h3>
+                    
+                                        </div>
+                    
+                    
+                    
+                                </div>
+                                <div class="sky-component-story-grid__card sky-component-story-grid__card--5col   " data-id="10797867">
+                    
+                    
+                    
+                                            <a href="/story/president-assad-syrian-troops-very-close-to-islamic-state-stronghold-10797867" class="sky-component-story-grid__link">
+                                                <div class="sky-component-story-grid__media">
+                                                    <div class="sky-component-story-grid__ratio sky-component-story-grid__ratio--4/3">
+                                                        <img src="http://e3.365dm.com/17/03/288x216/66c89292f0643486416348f270d9cecf909da34a0b1e0cafe6a6f9fca2806649_3907536.jpg?20170311123117" srcset="
+                                                            http://e3.365dm.com/17/03/288x216/66c89292f0643486416348f270d9cecf909da34a0b1e0cafe6a6f9fca2806649_3907536.jpg?20170311123117 288w" alt="Bus bombing" class="sky-component-story-grid__media-element sky-component-story-grid__media-img" />
+                                                    </div>
+                                                    
+                                                </div>
+                                            </a>
+                    
+                                        <div class="sky-component-story-grid__body">
+                                                <h3 class="sky-component-story-grid__headline ">
+                                                    <a href="/story/president-assad-syrian-troops-very-close-to-islamic-state-stronghold-10797867" class="sky-component-story-grid__link">Assad 'nearing Raqqa' as Damascus bombs kill 40</a>
+                                                </h3>
+                    
+                                        </div>
+                    
+                    
+                    
+                                </div>
+                                <div class="sky-component-story-grid__card sky-component-story-grid__card--5col   " data-id="10798486">
+                    
+                    
+                    
+                                            <a href="/story/intruder-with-backpack-arrested-at-white-house-10798486" class="sky-component-story-grid__link">
+                                                <div class="sky-component-story-grid__media">
+                                                    <div class="sky-component-story-grid__ratio sky-component-story-grid__ratio--4/3">
+                                                        <img src="http://e3.365dm.com/17/03/288x216/71451cd352a0466589557b07656d6ef563560cd785909f7611264a34578ae4f5_3907657.jpg?20170311161904" srcset="
+                                                            http://e3.365dm.com/17/03/288x216/71451cd352a0466589557b07656d6ef563560cd785909f7611264a34578ae4f5_3907657.jpg?20170311161904 288w" alt="white house
+" class="sky-component-story-grid__media-element sky-component-story-grid__media-img" />
+                                                    </div>
+                                                    
+                                                </div>
+                                            </a>
+                    
+                                        <div class="sky-component-story-grid__body">
+                                                <h3 class="sky-component-story-grid__headline ">
+                                                    <a href="/story/intruder-with-backpack-arrested-at-white-house-10798486" class="sky-component-story-grid__link">Intruder with backpack arrested at White House</a>
+                                                </h3>
+                    
+                                        </div>
+                    
+                    
+                    
+                                </div>
+                                <div class="sky-component-story-grid__card sky-component-story-grid__card--5col   " data-id="10797829">
+                    
+                    
+                    
+                                            <a href="/story/shopping-mall-in-germany-closed-over-fears-of-imminent-terror-attack-10797829" class="sky-component-story-grid__link">
+                                                <div class="sky-component-story-grid__media">
+                                                    <div class="sky-component-story-grid__ratio sky-component-story-grid__ratio--4/3">
+                                                        <img src="http://e3.365dm.com/17/03/288x216/4c45f1a3ad53b442799ca5dfc1a105ed41f734b6ce946af6bc1763fdcb26e4e0_3907481.jpg?20170311110040" srcset="
+                                                            http://e3.365dm.com/17/03/288x216/4c45f1a3ad53b442799ca5dfc1a105ed41f734b6ce946af6bc1763fdcb26e4e0_3907481.jpg?20170311110040 288w" alt="Police are searching the Limbecker Platz shopping mall after a tip-off of a terror attack" class="sky-component-story-grid__media-element sky-component-story-grid__media-img" />
+                                                    </div>
+                                                    
+                                                </div>
+                                            </a>
+                    
+                                        <div class="sky-component-story-grid__body">
+                                                <h3 class="sky-component-story-grid__headline ">
+                                                    <a href="/story/shopping-mall-in-germany-closed-over-fears-of-imminent-terror-attack-10797829" class="sky-component-story-grid__link">Shopping centre shut down over terror fears</a>
+                                                </h3>
+                    
+                                        </div>
+                    
+                    
+                    
+                                </div>
+                    
+                        </div>
+                    </div>
+                </article>
+    
+            
+        </div>
+
+    
+                </div>
+            
+
+              <div class="sdc-news-footer" data-component-name="sdc-news-footer">
+    <div class="sdc-news-footer__wrapper">
+      <div class="sdc-news-footer__row">
+        <ul class="sdc-news-footer__list sdc-news-footer__list--social">
+            <li class="sdc-news-footer__list-item">
+              <a href="https://www.facebook.com/skynews" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--facebook"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width='384' height='384' viewBox='0 0 384 384'><path d='M283.232 207.471l8.248-64.043h-63.428v-40.888c0-18.549 5.187-31.183 31.758-31.183l33.896-.021v-57.272c-5.846-.784-25.956-2.531-49.408-2.531-48.9 0-82.357 29.861-82.357 84.668v47.227h-55.311v64.043h55.312v164.332h66.113v-164.332h55.177z'/></svg></span>Facebook</a>
+            </li>
+            <li class="sdc-news-footer__list-item">
+              <a href="https://twitter.com/SkyNews" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--twitter"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width='384' height='384' viewBox='0 0 384 384'><path d='M373.461 78.398c-13.228 5.859-27.444 9.833-42.363 11.612 15.234-9.125 26.916-23.587 32.425-40.803-14.245 8.448-30.029 14.59-46.823 17.893-13.455-14.329-32.631-23.283-53.84-23.283-40.723 0-73.74 33.01-73.74 73.747 0 5.775.651 11.4 1.908 16.802-61.301-3.068-115.639-32.435-152.018-77.051-6.336 10.888-9.983 23.555-9.983 37.079 0 25.583 13.022 48.153 32.812 61.384-12.092-.388-23.459-3.702-33.409-9.235v.938c0 35.731 25.419 65.535 59.154 72.307-6.186 1.687-12.7 2.586-19.428 2.586-4.746 0-9.375-.453-13.876-1.326 9.39 29.297 36.621 50.625 68.896 51.228-25.243 19.783-57.037 31.565-91.593 31.565-5.955 0-11.825-.352-17.593-1.024 32.637 20.926 71.403 33.127 113.053 33.127 135.654 0 209.834-112.375 209.834-209.837 0-3.186-.08-6.372-.22-9.536 14.413-10.4 26.916-23.382 36.804-38.173z'/></svg></span>Twitter</a>
+            </li>
+            <li class="sdc-news-footer__list-item">
+              <a href="https://www.youtube.com/user/skynews" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--youtube"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width='384' height='384' viewBox='0 0 384 384'><path d='M368.449,119.707c0,0-3.527-24.891-14.355-35.848c-13.734-14.379-29.121-14.449-36.188-15.293c-50.531-3.656-126.328-3.656-126.328-3.656h-0.152c0,0-75.809,0-126.34,3.656c-7.055,0.844-22.441,0.914-36.188,15.293c-10.816,10.957-14.344,35.848-14.344,35.848s-3.609,29.215-3.609,58.441v27.398c0,29.215,3.609,58.441,3.609,58.441s3.527,24.891,14.344,35.848c13.746,14.379,31.781,13.922,39.82,15.434c28.887,2.766,122.777,3.633,122.777,3.633s75.879-0.117,126.41-3.773c7.066-0.844,22.453-0.914,36.188-15.293c10.828-10.957,14.355-35.848,14.355-35.848s3.609-29.227,3.609-58.441v-27.398C372.059,148.922,368.449,119.707,368.449,119.707 M154.219,238.746l-0.023-101.461l97.582,50.906L154.219,238.746z'/></svg></span>Youtube</a>
+            </li>
+            <li class="sdc-news-footer__list-item">
+              <a href="https://instagram.com/skynews/" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--instagram"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width'384' height='384' viewBox='0 0 384 384'><path d='M321.133 22.589h-258.264c-22.247 0-40.281 17.99-40.281 40.186v258.454c0 22.191 18.034 40.182 40.281 40.182h258.264c22.247 0 40.279-17.99 40.279-40.182v-258.454c0-22.195-18.032-40.186-40.279-40.186zm-63.184 48.067c0-5.221 4.242-9.455 9.477-9.455h45.811c5.233 0 9.476 4.234 9.476 9.455v45.701c0 5.224-4.242 9.455-9.476 9.455h-45.811c-5.234 0-9.477-4.231-9.477-9.455v-45.701zm-65.553 56.732c35.985 0 65.158 29.107 65.158 65.007 0 35.902-29.173 65.003-65.158 65.003s-65.157-29.102-65.157-65.003c-.001-35.899 29.171-65.007 65.157-65.007zm131.105 185.169c0 5.223-4.241 9.455-9.476 9.455h-243.258c-5.234 0-9.479-4.232-9.479-9.455v-147.347h31.702c-2.384 8.663-3.663 17.776-3.663 27.185 0 56.699 46.235 102.826 103.068 102.826 56.831 0 103.069-46.127 103.069-102.826 0-9.408-1.279-18.521-3.663-27.185h31.699v147.347z'/></svg></span>Instagram</a>
+            </li>
+            <li class="sdc-news-footer__list-item">
+              <a href="https://vine.co/Sky.News" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--vine"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width='384' height='384' viewBox='0 0 384 384'><path d='M33.035 69.551s34.934 235.033 136.077 296.884c13.826 8.007 29.495 7.626 40.018-1.453 42.206-36.387 85.907-97.667 98.272-126.047 23.243 2.214 39.257-3.476 39.257-3.476l-.146-44.86s-34.086.645-40.58.744c-49.443.734-83.564-59.258-63.46-109.946 13.931-35.115 38.427-9.806 42.794 1.106 4.366 10.913 3.406 40.156-2.949 61.609 7.748 18.081 49.807 27.671 59.396 12.547 11.812-33.204 16.974-92.972-13.646-123.962-20.199-20.441-70.904-30.826-108.018-7.54-37.113 23.286-36.386 72.773-33.481 97.511 2.914 24.739 10.921 77.13 60.399 106.236 4.367 5.094-54.233 81.212-57.485 77.866-72.764-74.952-92.41-236.494-92.41-236.494l-64.038-.725z'/></svg></span>Vine</a>
+            </li>
+            <li class="sdc-news-footer__list-item">
+              <a href="https://plus.google.com/+SkyNews" target="blank" class="sdc-news-footer__list-link sdc-news-footer__list-link--google"><span class="sdc-news-footer__list-link-icon"><svg xmlns='http://www.w3.org/2000/svg' width='384' height='384' viewBox='0 0 384 384'><path d='M126.545 175.636v39.282h64.96c-2.614 16.843-19.632 49.41-64.96 49.41-39.11 0-71.016-32.407-71.016-72.329 0-39.927 31.905-72.326 71.016-72.326 22.253 0 37.146 9.492 45.656 17.674l31.09-29.946c-19.967-18.656-45.817-29.947-76.746-29.947-63.328-.001-114.545 51.217-114.545 114.545 0 63.332 51.217 114.548 114.545 114.548 66.109 0 109.96-46.47 109.96-111.928 0-7.525-.814-13.255-1.806-18.983h-108.154zM339.273 142.908h-32.727v32.728h-32.728v32.73h32.728v32.727h32.727v-32.727h32.727v-32.73h-32.727z'/></svg></span>Google+</a>
+            </li>
+        </ul>
+      </div>
+  
+      <div class="sdc-news-footer__row sdc-news-footer__row--columns" role="navigation" aria-labelledby="footer-links">
+        <div class="sdc-news-footer__cell-wrap">
+            <div class="sdc-news-footer__cell sdc-news-footer__accordion" data-active-class="sdc-news-footer__accordion--active">
+              <h4 class="sdc-news-footer__heading">
+                About Sky News
+                <span class="sdc-news-footer__icon-down"><svg width='24' height='14' viewBox='0 0 24 14' xmlns='http://www.w3.org/2000/svg'><title>Down</title><path d='M0 1.29c0 .12.022.227.067.323.044.097.09.167.133.21l11.08 11.06c.193.222.442.333.746.333s.552-.11.745-.333L23.74 1.936c.104-.104.167-.193.19-.267.022-.075.03-.164.022-.268-.008-.104-.056-.215-.145-.334l-.29-.423C23.31.408 23.096.23 22.874.11c-.06 0-.09-.014-.09-.043L22.762 0 11.927 10.858 1.068 0l-.11.11C.852.216.744.305.633.38.524.452.414.54.31.645.253.75.186.857.11.968c-.073.11-.11.22-.11.322z' /></svg></span>
+              </h4>
+              <ul class="sdc-news-footer__list">
+                  <li class="sdc-news-footer__list-item">
+                    <a href="https://corporate.sky.com/media-centre/news-page?categoriesPiD&#x3D;aa00d2f4b45441d9b2fbd0d369d5380a" class="sdc-news-footer__list-link">About Us</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.skynewsinternational.com" class="sdc-news-footer__list-link">Sky News International</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/info/library-sales" class="sdc-news-footer__list-link">Sky News Library Sales</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/info/sitemap" class="sdc-news-footer__list-link">Site Map</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/docs/sky_news_editorial_guidelines.pdf" class="sdc-news-footer__list-link">Editorial Guidelines</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/supreme-court-live" class="sdc-news-footer__list-link">Supreme Court Live</a>
+                  </li>
+              </ul>
+            </div>
+            <div class="sdc-news-footer__cell sdc-news-footer__accordion" data-active-class="sdc-news-footer__accordion--active">
+              <h4 class="sdc-news-footer__heading">
+                Sky News Services
+                <span class="sdc-news-footer__icon-down"><svg width='24' height='14' viewBox='0 0 24 14' xmlns='http://www.w3.org/2000/svg'><title>Down</title><path d='M0 1.29c0 .12.022.227.067.323.044.097.09.167.133.21l11.08 11.06c.193.222.442.333.746.333s.552-.11.745-.333L23.74 1.936c.104-.104.167-.193.19-.267.022-.075.03-.164.022-.268-.008-.104-.056-.215-.145-.334l-.29-.423C23.31.408 23.096.23 22.874.11c-.06 0-.09-.014-.09-.043L22.762 0 11.927 10.858 1.068 0l-.11.11C.852.216.744.305.633.38.524.452.414.54.31.645.253.75.186.857.11.968c-.073.11-.11.22-.11.322z' /></svg></span>
+              </h4>
+              <ul class="sdc-news-footer__list">
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/info/rss" class="sdc-news-footer__list-link">Sky News RSS</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/info/smartphones" class="sdc-news-footer__list-link">Sky News For Your Phone</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="/info/radio" class="sdc-news-footer__list-link">Sky News Radio</a>
+                  </li>
+              </ul>
+            </div>
+            <div class="sdc-news-footer__cell sdc-news-footer__accordion" data-active-class="sdc-news-footer__accordion--active">
+              <h4 class="sdc-news-footer__heading">
+                Sky Channels
+                <span class="sdc-news-footer__icon-down"><svg width='24' height='14' viewBox='0 0 24 14' xmlns='http://www.w3.org/2000/svg'><title>Down</title><path d='M0 1.29c0 .12.022.227.067.323.044.097.09.167.133.21l11.08 11.06c.193.222.442.333.746.333s.552-.11.745-.333L23.74 1.936c.104-.104.167-.193.19-.267.022-.075.03-.164.022-.268-.008-.104-.056-.215-.145-.334l-.29-.423C23.31.408 23.096.23 22.874.11c-.06 0-.09-.014-.09-.043L22.762 0 11.927 10.858 1.068 0l-.11.11C.852.216.744.305.633.38.524.452.414.54.31.645.253.75.186.857.11.968c-.073.11-.11.22-.11.322z' /></svg></span>
+              </h4>
+              <ul class="sdc-news-footer__list">
+                  <li class="sdc-news-footer__list-item">
+                    <a href="https://www.sky.com/watch/channel/sky-1" class="sdc-news-footer__list-link">Sky 1</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.sky.com/tv/channel/skyliving" class="sdc-news-footer__list-link">Sky Living</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.sky.com/tv/channel/skyatlantic" class="sdc-news-footer__list-link">Sky Atlantic</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.sky.com/tv/channel/skyarts" class="sdc-news-footer__list-link">Sky Arts</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="https://www.sky.com/watch/channel/sky-cinema" class="sdc-news-footer__list-link">Sky Cinema</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.skysports.com" class="sdc-news-footer__list-link">Sky Sports</a>
+                  </li>
+              </ul>
+            </div>
+            <div class="sdc-news-footer__cell sdc-news-footer__accordion" data-active-class="sdc-news-footer__accordion--active">
+              <h4 class="sdc-news-footer__heading">
+                More Sky Sites
+                <span class="sdc-news-footer__icon-down"><svg width='24' height='14' viewBox='0 0 24 14' xmlns='http://www.w3.org/2000/svg'><title>Down</title><path d='M0 1.29c0 .12.022.227.067.323.044.097.09.167.133.21l11.08 11.06c.193.222.442.333.746.333s.552-.11.745-.333L23.74 1.936c.104-.104.167-.193.19-.267.022-.075.03-.164.022-.268-.008-.104-.056-.215-.145-.334l-.29-.423C23.31.408 23.096.23 22.874.11c-.06 0-.09-.014-.09-.043L22.762 0 11.927 10.858 1.068 0l-.11.11C.852.216.744.305.633.38.524.452.414.54.31.645.253.75.186.857.11.968c-.073.11-.11.22-.11.322z' /></svg></span>
+              </h4>
+              <ul class="sdc-news-footer__list">
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.nowtv.com" class="sdc-news-footer__list-link">NOW TV</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.sky.com/academy" class="sdc-news-footer__list-link">Sky Academy</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://corporate.sky.com/the_bigger_picture" class="sdc-news-footer__list-link">Bigger Picture</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.goskyride.com" class="sdc-news-footer__list-link">Sky Ride</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://corporate.sky.com/" class="sdc-news-footer__list-link">Sky Corporate</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.skybet.com" class="sdc-news-footer__list-link">Sky Bet</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.sky.com" class="sdc-news-footer__list-link">Sky.com</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.skynewsarabia.com" class="sdc-news-footer__list-link">Sky News Arabia</a>
+                  </li>
+                  <li class="sdc-news-footer__list-item">
+                    <a href="http://www.skymedia.co.uk/?utm_source&#x3D;Sky%20News&amp;amp;utm_medium&#x3D;Web%20page&amp;amp;utm_content&#x3D;Sky%20News%20web%20page&amp;amp;utm_campaign&#x3D;Sky%20News%20web%20page" class="sdc-news-footer__list-link">Advertise With Us</a>
+                  </li>
+              </ul>
+            </div>
+        </div>
+      </div>
+  
+      <div class="sdc-news-footer__row">
+  
+  
+            <ul class="sdc-news-footer__list sdc-news-footer__list--horizontal">
+              <li class="sdc-news-footer__list-item">
+                <a href="http://help.sky.com/my-account/terms-and-conditions/skycom-terms-and-conditions/" target="blank" class="sdc-news-footer__list-link">Terms &amp; Conditions</a>
+              </li>
+              <li class="sdc-news-footer__list-item">
+                <a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" target="blank" class="sdc-news-footer__list-link">Privacy &amp; Cookies Notice</a>
+              </li>
+              <li class="sdc-news-footer__list-item">
+                <a href="http://accessibility.sky.com/" target="blank" class="sdc-news-footer__list-link">Accessibility Information</a>
+              </li>
+              <li class="sdc-news-footer__list-item">
+                <a href="/info/contact-us" class="sdc-news-footer__list-link">Contact Us</a>
+              </li>
+             </ul>
+  
+  
+          <p class="sdc-news-footer__list-logo">
+            <a href="//www.sky.com" class="sdc-news-footer__list-logo-link"><img src="/assets/sky-spectrum-logo.png" alt="Sky logo" class="sdc-news-footer__list-logo-image"></a> <span class="sdc-news-footer__list-copyright">© 2017 Sky UK</span>
+          </p>
+  
+      </div>
+    </div>
+  </div>
+        </div>
+    
+
+    
+            <div class="sdc-site-cookie-notice sdc-site-cookie-notice--fixed-bottom" data-component-name="sdc-site-cookie-notice" >
+                <div class="sdc-site-cookie-notice__wrapper">
+                    <div class="sdc-site-cookie-notice__text">We use <a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" target="_blank">cookies</a> to give you the best experience. If you do nothing we'll assume that it's ok.</div>
+                        <button type="button" class="sdc-site-cookie-notice__close">
+                            <span class="sdc-site-cookie-notice__close-text">Close</span>
+                            <span class="sdc-site-cookie-notice__close-icon"><svg width='44' height='44' viewBox='0 0 44 44' xmlns='http://www.w3.org/2000/svg'><title>Close</title><path d='M24.45 22c1.558-1.56 3.13-3.13 4.712-4.713.346-.495.334-.946-.037-1.354-.37-.41-.742-.786-1.113-1.132-.42-.47-.854-.568-1.3-.296-.444.272-.828.618-1.15 1.04l-3.785 3.784-4.713-4.713c-.52-.346-.977-.334-1.373.037-.394.37-.766.743-1.112 1.114-.495.42-.6.853-.315 1.298.284.446.624.83 1.02 1.15L19.068 22l-4.675 4.713c-.372.495-.365.946.018 1.354.385.41.75.786 1.096 1.132.42.47.86.568 1.317.296.458-.272.848-.606 1.17-1.002l3.784-3.822 4.676 4.713c.52.346.977.334 1.373-.037.396-.37.767-.743 1.113-1.114.494-.42.6-.853.315-1.298-.285-.446-.625-.83-1.02-1.15L24.448 22zm10.76 13.434c2.698-2.697 4.423-5.913 5.178-9.65.754-3.735.414-7.365-1.02-10.89-1.436-3.526-3.706-6.365-6.81-8.517C29.453 4.225 26.02 3.105 22.26 3.02c-3.76-.088-7.23.846-10.41 2.8-3.178 1.955-5.584 4.614-7.217 7.98-1.658 3.462-2.214 7.1-1.67 10.91.544 3.81 2.103 7.15 4.676 10.02 2.522 2.77 5.59 4.637 9.202 5.602 3.612.965 7.2.878 10.762-.26 1.434-.445 2.795-1.064 4.082-1.855 1.286-.792 2.46-1.72 3.525-2.783zM10.868 11.127c2.524-2.5 5.53-3.97 9.018-4.416 3.488-.444 6.766.224 9.834 2.005 2.918 1.756 5.04 4.206 6.363 7.348 1.324 3.14 1.59 6.37.798 9.685-.865 3.464-2.696 6.296-5.49 8.498-2.797 2.202-5.982 3.303-9.557 3.303s-6.76-1.102-9.556-3.304c-2.795-2.202-4.626-5.034-5.492-8.498-.643-2.622-.6-5.24.13-7.85.73-2.61 2.047-4.866 3.952-6.77z' fill='#000' fill-rule='evenodd'/></svg></span>
+                        </button>
+                </div>
+            </div>
+            <script>
+              (function(){
+                var cookieNotice = document.querySelector('.sdc-site-cookie-notice');
+                var cookieName = cookieNotice.getAttribute('data-cookie-name') || 'eucd';
+                if(document.cookie.search(cookieName + '=0') === -1){
+                    document.querySelector('.sdc-site-cookie-notice').className += ' sdc-site-cookie-notice--visible';
+                }
+              }());
+            </script>
+    
+
+    <script src="https://cdn.polyfill.io/v2/polyfill.js?features=matchMedia,requestAnimationFrame,Array.prototype.forEach&unknown=polyfill"></script>
+    <script src="/scripts/require-config-99b7c5292151105721a96124b5a034b8.js"></script>
+    <script data-main="/scripts/main-86fc1ca57f60db3ec22ae4093f516669.js" src="/scripts/require-371997b0104c7613330729abe7f002a1.js"></script>
+
+
+        <script src="https://analytics.global.sky.com/sky-tags/0.3.1/sky-tags.min.js"></script>
+        <script>
+        (function(){
+        
+            var dataLayer = window.dataLayer = window.dataLayer || [];
+            dataLayer.snippetVersion = '0.1.0';
+        
+            var config = {
+                enabled: true,
+                site: 'news',
+                account: 'bskybskynews,bskybnetworkglobal',
+                section: 'politics/Copeland by-election: Tories deliver historic win over Labour',
+                headline: 'Copeland by-election: Tories deliver historic win over Labour',
+                contentType: 'story',
+                contentId: '10779400'
+            };
+        
+            if (!config.enabled) {
+                return;
+            }
+        
+            var data = {
+                config: {
+                    adobe: {
+                        account: config.account,
+                        site: config.site,
+                        section: config.section,
+                        variableMappings: {
+                            'digitalData.page.attributes.section': {
+                                variables: ['section']
+                            },
+                            'digitalData.page.attributes.contentType': {
+                                variables: ['prop20', 'eVar20']
+                            },
+                            'digitalData.page.attributes.contentId': {
+                                variables: ['prop21', 'eVar15']
+                            },
+                            'digitalData.page.attributes.headline' : {
+                                variables: ['prop3','eVar13']
+                            }
+                        }
+                    }
+                },
+        
+                digitalData: {
+                    page: {
+                        pageInfo: {
+                            pageName: config.section + '/' + config.contentType,
+                            destinationURL: window.location.href,
+                            referringURL: document.referrer
+                        },
+        
+                        attributes: {
+                            headline: config.headline,
+                            contentType: config.contentType,
+                            contentId: config.contentId
+                        }
+                    }
+                }
+            };
+        
+            dataLayer.push(data);
+        })();
+        </script>
+        <script>
+        (function(){
+          window._sf_async_config={
+            uid: '34974',
+            domain: 'news.sky.com',
+            sections: 'Politics',
+            authors: 'Jon Craig, Chief Political Correspondent',
+            useCanonical: 'true'
+          };
+        
+          window._sf_endpt = new Date().getTime();
+          var script = document.createElement('script');
+          script.src = (document.location.protocol === 'https' ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js';
+          document.body.appendChild(script);
+        })();
+        </script>
+        <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "6035677" });
+        
+            var cs = document.createElement("script"),
+                node = document.getElementsByTagName("script")[0],
+                useSSL = 'https:' === document.location.protocol;
+            cs.async = true;
+            cs.src = (useSSL ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            node.parentNode.insertBefore(cs, node);
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035677&amp;cv=2.0&amp;cj=1" alt=""/>
+        </noscript>
+</body>
+</html>

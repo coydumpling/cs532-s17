@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head><link rel="stylesheet" type="text/css" href="http://cdn-radar0.heartyhosting.com/wp-content/cache/minify/000000/jU9BDoMwDPsQJWwfmkqJSljaoqYd4vcrsEogcdjNdmLL7uBDM2inZs6WvBRIympmjOsTjFwEJWlllKarpqgHHYNn8gj77f40CYSFlSlCFuSNtJX870gjOmweMGGatXmDC0MubWChwWISIKctqoNd2tRpoonTGPM-6_hrJfdiIvXn4Bd5AxY9RjKh-G7h6X-L--Ev.css?20170307.0" media="all" />
+
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, user-scalable=0">
+	<meta property="fb:pages" content="376279216711" />
+	<meta name="apple-itunes-app" content="app-id=532657746">
+	<title>Hillary&#039;s Shame: Chelsea&#039;s Felon Father-In-Law Owes IRS $200K! | Radar Online</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="http://radaronline.com/xmlrpc.php"/>
+	<link rel="shortcut icon" type="image/x-icon" href="http://cdn-radar1.heartyhosting.com/wp-content/themes/vip/am-radaronline/icons/favicon.ico"/>
+	<link rel="apple-touch-icon" href="http://i0.wp.com/radaronline.com/wp-content/themes/vip/am-radaronline/icons/apple-touch-icon.png"/>
+	<link rel="apple-touch-icon" sizes="57x57" href="http://i2.wp.com/radaronline.com/wp-content/themes/vip/am-radaronline/icons/apple-touch-icon-57x57.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="http://i0.wp.com/radaronline.com/wp-content/themes/vip/am-radaronline/icons/apple-touch-icon-72x72.png"/>
+	<link rel="apple-touch-icon" sizes="114x114" href="http://i1.wp.com/radaronline.com/wp-content/themes/vip/am-radaronline/icons/apple-touch-icon-114x114.png"/>
+	<link rel="apple-touch-icon" sizes="144x144" href="http://i0.wp.com/radaronline.com/wp-content/themes/vip/am-radaronline/icons/apple-touch-icon-144x144.png"/>
+	<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="kONM_PqGX8Za53dFcExSTIIPZxxN_S4QtvDlONzzdA0" />
+<script>var utag_data = {"canonical_url":"\/celebrity-news\/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs\/","page_category":"post","sponsored":"on","instant_article":"on","vupulse":"off","wibbitz":"off","taboola":"on","swoop":"on","zergnet_timeline":"on","node_id":"1296377","content_type":"article","node_category":["Celebrity News","Exclusives"],"node_tags":["Chelsea Clinton","Hillary Clinton"],"content_updated_date":"2016\/05\/17","content_publish_date":"2016\/05\/17","page_title":"Hillary&#8217;s Shame: Chelsea&#8217;s Felon Father-In-Law Owes IRS $200K!","sponsorship_name":"Presidential Election 2016"};
+function parseUrlParams(val) {
+				    var result = "none",
+				        tmp = [];
+				    var items = location.search.substr(1).split("&");
+				    for (var index = 0; index < items.length; index++) {
+				        tmp = items[index].split("=");
+				        if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+				    }
+				    return result;
+				}
+		if(window.innerWidth < 768) {
+			utag_data.site_display_format = 'mobile';
+		} else if(window.innerWidth >= 768 && window.innerWidth <= 1024) {
+			utag_data.site_display_format = 'tablet';
+		} else {
+			utag_data.site_display_format = 'desktop';
+		}
+		
+		utag_data.referrer = document.referrer;
+		utag_data.utm_source = parseUrlParams('utm_source');
+		utag_data.utm_medium = parseUrlParams('utm_medium');
+		utag_data.utm_campaign = parseUrlParams('utm_campaign');
+		console.log(utag_data);function tealiumOnLoad() { 
+			utag_data.event_name = 'onLoad';
+			utag.view(utag_data);
+			console.log("tealium onload");
+			}window.addEventListener("load", tealiumOnLoad);</script>
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Chelsea Clinton&#039;s felon father-in-law owes big bucks to the IRS! Does Hillary know?"/>
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="hillary clinton tax scandal, hillary clinton taxes, hillary clinton tax fraud, hillary clinton fraud, hillary clinton fraud scandal, hillary clinton scandal, hillary clinton owes taxes"/>
+<link rel="canonical" href="http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+		<script>
+		(function (window) {
+		    /**
+		     * Section 1 - Divs define
+		     * =============================================================================
+		     */
+		    // Define page divIds
+		    window.headertag = window.headertag || {};
+			window.headertag.desktop_divIds = ["dfp-tag-horizontal-position-1","dfp-tag-horizontal-position-2","dfp-tag-rightrail-position-2","dfp-tag-rightrail-position-3","dfp-tag-wallpaper","dfp-tag-interstitial","dfp-tag-sharethrough"];
+			window.headertag.mobile_divIds = ["dfp-tag-mobile_top","dfp-tag-mobile_bottom","dfp-tag-mobile_interstitial","dfp-tag-mobile_box"];
+
+		    /**
+		     * Section 2 - Headertag Safety Check
+		     * =============================================================================
+		     */
+		    window.googletag = window.googletag || { cmd: [] };
+		    window.googletag.cmd.push(function() {
+		        if (typeof window.headertag === 'undefined' || window.headertag.apiReady !== true) {
+		            window.headertag = window.googletag;
+		        }
+		    });
+		}(window));
+		</script>
+		
+		<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/M9AvyyzQT8zVLcgpTc_MKwYyM3XTC0qMdDMrjPWzivWLElMSi3QzSsp1k_Pz0jLTAQ.js?20170307.0"></script>
+<script async type="text/javascript" src="http://js.indexww.com/ht/htw-ami-v2.js"></script>
+	<script src="http://js.indexww.com/ht/bebop-library.js"></script>
+<script type='text/javascript'>
+(function (window) {
+			/**
+			 * Section 1 - Command Queue Initialization & Utility Functions
+			 * =============================================================================
+			 */
+			window.googletag = window.googletag || { cmd: [] };
+			window.bebopQueue = window.bebopQueue || [];
+
+			function adsParseUrlParams(val) {
+				var result = false,
+				tmp = [];
+				var items = location.search.substr(1).split("&");
+				for (var index = 0; index < items.length; index++) {
+					tmp = items[index].split("=");
+					if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+				}
+				return result;
+			}
+
+			function gptAdsWindowWidth(){
+				var w = window,
+					d = document,
+					e = d.documentElement,
+					x = Math.max(e.scrollWidth,e.offsetWidth,e.clientWidth);
+				return x;
+			}
+
+			var mobileBreakPoint = 768;
+			function isMobile() {
+				return gptAdsWindowWidth() < mobileBreakPoint;
+			}
+
+			function elementInViewport(el) {
+				var rect = el.getBoundingClientRect();
+				return (rect.top >= 0 && rect.left >= 0 && rect.top <= (window.innerHeight+200 || document.documentElement.clientHeight+200 || rect.height+200))
+			}
+
+			/**
+			 * Section 2 - Per-Page Configuration
+			 * =============================================================================
+			 */
+			window.refreshInterval = 8;
+			var siteToken = isMobile() ? '4216/mob.radar' : '4216/ami.radar';
+			var pageID = '1296377';
+			var keyword = 'post';
+			var cType = 'Post';
+			var adUnitPath = '/' + siteToken;
+			window.adUnitPath = '/' + siteToken;
+			var adUnitZone = '';
+			if (adUnitZone != '') {
+				adUnitPath += '/' + adUnitZone;
+				window.adUnitPath += '/' + adUnitZone;
+			}
+			//Depends on tealium dataLayer
+			if (typeof utag_data !== 'undefined' && typeof utag_data.sponsored !== 'undefined') {
+				var spons = utag_data.sponsored;
+			} else {
+				var spons = 'no';
+			}
+
+			window.Adomik = window.Adomik || {};
+			Adomik.randomAdGroup = function() {
+				var rand = Math.random();
+				switch (false) {
+					case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+					case !(rand < 0.10): return "ad_bc";
+					default: return "ad_opt";
+				}
+			};
+					window.googletag.cmd.push(function setupGoogletag() {
+
+				googletag.pubads().setTargeting("s1", adUnitZone);
+				googletag.pubads().setTargeting("pid", pageID);
+				googletag.pubads().setTargeting("kw", keyword);
+				googletag.pubads().setTargeting("ctype", cType);
+				googletag.pubads().setTargeting("pageID", pageID);
+												googletag.pubads().setTargeting("spons", spons);
+				googletag.pubads().setTargeting("hulu", "off");								
+		if(document.referrer) {
+			var parser = document.createElement('a');
+			parser.href = document.referrer;
+			googletag.pubads().setTargeting("referrer", parser.hostname.replace(/\./g, '_'));
+		}
+		if(window.utm_source = adsParseUrlParams('utm_source')) {
+			googletag.pubads().setTargeting("utm_source", window.utm_source);
+		}
+		if(window.utm_medium = adsParseUrlParams('utm_medium')) {
+			googletag.pubads().setTargeting("utm_medium", window.utm_medium);
+		}
+		if(window.utm_campaign = adsParseUrlParams('utm_campaign')) {
+			googletag.pubads().setTargeting("utm_campaign", window.utm_campaign);
+		}
+						googletag.pubads().disableInitialLoad();
+								
+				googletag.pubads().enableAsyncRendering();
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().collapseEmptyDivs();
+				googletag.enableServices();
+			});
+		
+			/**
+			 * Section 4 - Bebop Initialization
+			 * =============================================================================
+			 */
+			window.bebopQueue.unshift({
+				headertag: {
+					enabled: true,
+					reference: function () {
+						return window.headertag;
+					}
+				},
+				gpt: {
+					disableInitalLoad: true,
+					loadTag: true
+				},
+				viewPort: {
+					getViewPortWidth: gptAdsWindowWidth,
+		            'large'     : 980,
+					'medium'    : mobileBreakPoint,
+					'small'    : 0
+				}
+			});
+
+	
+			/**
+			 * Section 5 - Configure Bebop
+			 * =============================================================================
+			 */
+			window.bebopQueue.push(function (bebop) {
+				/**
+				 * Section 5a - Define Slots (page-specific)
+				 * =============================================================================
+				 */
+				var slots = bebop.defineSlots([
+					
+				{
+					gptDivId: "dfp-tag-horizontal-position-1",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "horizontal-position-1",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+												large: [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]],
+						medium: [[728, 90], [ 728, 91]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-horizontal-position-2",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "horizontal-position-2",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+												large: [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]],
+						medium: [[728, 90], [ 728, 91]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-rightrail-position-2",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "rightrail-position-2",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+												large: [[300, 251], [ 300, 600], [ 300, 1050], [ 300, 250]],
+						medium: [[300, 251], [ 300, 600], [ 300, 1050], [ 300, 250]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-rightrail-position-3",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "rightrail-position-3",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+												large: [[300, 250], [ 300, 252]],
+						medium: [[300, 250], [ 300, 252]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-mobile_top",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "mobile_top",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+						small: [[300, 50], [ 320, 50], [ 300, 100]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-mobile_bottom",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "mobile_bottom",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+						small: [[320, 50], [ 300, 50], [ 300, 100]]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-mobile_box",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "mobile_box",
+						"ad_group": Adomik.randomAdGroup()
+								},
+					
+					viewPortSizes: {
+						small: [300, 250]												
+					}
+				},
+			
+				{
+					gptDivId: "dfp-tag-sharethrough",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "sharethrough",
+						"ad_group": Adomik.randomAdGroup()
+			,"strnativekey" : "NE957UMW5K9Mevz9unHCoXYk"					},
+					
+					viewPortSizes: {
+												large: [1, 1],
+						medium: [1, 1]												,"small" : [1, 1]
+					}
+				},
+			
+				/**
+				 * Section 5b - Define Interstitial Slots
+				 * =============================================================================
+				 */
+
+					 
+				{
+					gptDivId: "dfp-tag-wallpaper",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "wallpaper"
+					},
+					interstitial: true,
+					viewPortSizes: ['large']
+					
+				},
+			
+				{
+					gptDivId: "dfp-tag-interstitial",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "interstitial"
+					},
+					interstitial: true,
+					viewPortSizes: ['large']
+					
+				},
+			
+				{
+					gptDivId: "dfp-tag-mobile_interstitial",
+					adUnitPath: adUnitPath,
+					targeting: {
+						"pos": "mobile_interstitial"
+					},
+					interstitial: true,
+					viewPortSizes: ['small']
+					
+				},
+			
+				]);
+
+				/**
+				 * Section 5c - Display Non-Lazyload Ads
+				 * =============================================================================
+				 */
+				var initialLoad = [], lazyLoadMap = {count: 0}, slot;
+				for (var i = 0; i < slots.length; i++) {
+					slot = slots[i];
+					if (slot.isActive()) {
+						if (slot.isLazyLoad()) {
+							lazyLoadMap[slot.getGPTDivId()] = { slot: slot, el: null };
+							lazyLoadMap.count++;
+						}
+						else {
+							initialLoad.push(slot);
+						}
+					}
+				}
+				bebop.display(initialLoad);
+				bebop.refresh(initialLoad, {changeCorrelator: false});
+				/**
+				 * Section 5d - Lazyload Monitor
+				 * =============================================================================
+				 */
+				window.addEventListener('load', function () {
+					if (lazyLoadMap.count === 0) {
+						return;
+					}
+
+					function displayLazyloadSlot(slot) {
+						var opt = {changeCorrelator: false};
+						bebop.display(slot);
+						bebop.refresh([slot], opt);
+					}
+
+					for (var divId in lazyLoadMap) {
+						if (divId === 'count' || !lazyLoadMap.hasOwnProperty(divId)) {
+							continue;
+						}
+						var el = document.getElementById(divId);
+						if (el) {
+							lazyLoadMap[divId].el = el;
+						} else {
+							delete lazyLoadMap[divId];
+							lazyLoadMap.count--;
+						}
+					}
+
+					function scrollListener() {
+						for (var divId in lazyLoadMap) {
+
+							if (divId === 'count' || !lazyLoadMap.hasOwnProperty(divId)) {
+								continue;
+							}
+
+							if (!elementInViewport(lazyLoadMap[divId].el)) {
+								continue;
+							}
+
+							var slot = lazyLoadMap[divId].slot;
+							displayLazyloadSlot(slot);
+
+							delete lazyLoadMap[divId];
+							lazyLoadMap.count--;
+
+							if (lazyLoadMap.count === 0) {
+								window.removeEventListener('scroll', scrollListener, false);
+							}
+						}
+					}
+
+					window.addEventListener('scroll', scrollListener, false);
+					scrollListener();
+				});
+			});
+		}(window));
+</script><!-- {OpenX} -->
+<script type="text/javascript">
+ (function() {
+  var useSSL = 'https:' == document.location.protocol;
+  var src = (useSSL ? 'https:' : 'http:') +
+ '//ami-d.openx.net/w/1.0/jstag?nc=4216-radaronline';
+  document.write('<scr' + 'ipt defer src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<!-- {Sonobi} -->
+<!-- headerbidder disabled -->
+<meta name="news_keywords" content="hillary clinton tax scandal, hillary clinton taxes, hillary clinton tax fraud, hillary clinton fraud, hillary clinton fraud scandal, hillary clinton scandal, hillary clinton owes taxes" />    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://radaronline.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '499a2d0d-ca1f-40e1-a4a1-18cdbcfe4196';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "radaronline.onesignal.com";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.49809676-9f7f-4916-aef3-fd94958742a1";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#ff006d';
+oneSignal_options['notifyButton']['colors']['pulse.color'] = '#ff006d;';
+oneSignal_options['notifyButton']['colors']['dialog.button.background'] = '#ff006d;';
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/radaronline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+<link rel='stylesheet' id='style-roboto-con-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C400italic%2C700%2C700italic&#038;ver=20170307.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic&#038;ver=20170307.0' type='text/css' media='all' />
+
+
+
+
+
+
+
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/BcGLDYAgDAXAhZSaOBFoUx8Bgv1o3N67neodrN_aIZqdU8dYNnowabYQDCPLaH5pUDV6cQp7sih2KAr_.js?20170307.0"></script>
+<link rel='https://api.w.org/' href='http://radaronline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://radaronline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://radaronline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://wp.me/p1-5rfj' />
+<link rel="alternate" type="application/json+oembed" href="http://radaronline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fradaronline.com%2Fcelebrity-news%2Fhillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://radaronline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fradaronline.com%2Fcelebrity-news%2Fhillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.date" content="2016-05-17 07:08:57" />
+<meta name="sailthru.title" content="Hillary&#8217;s Shame: Chelsea&#8217;s Felon Father-In-Law Owes IRS $200K!" />
+<meta name="sailthru.tags" content="Chelsea Clinton, Hillary Clinton" />
+<meta name="sailthru.description" content="&hellip; &lt;a href=&quot;http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/&quot; class=&quot;read_more&quot;&gt;READ&nbsp;ON&lt;/a&gt;" />
+<meta name="sailthru.image.full" content="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?resize=640%2C420" />
+<meta name="sailthru.image.thumb" content="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?fit=50%2C50" />
+<!-- END Sailthru Horizon Meta Information -->
+
+			<script>
+				var doRefreshT = false;
+			</script>
+			
+<!-- ami Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hillary&#039;s Shame: Chelsea&#039;s Felon Father-In-Law Owes IRS $200K!" />
+<meta property="og:url" content="http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/" />
+<meta property="og:description" content="The release of Hillary Clinton&#039;s own tax records held few surprises for politicos, but RadarOnline.com has learned her extended family is hiding a shameful tax secret: Chelsea&#039;s father-in-law, Ed M..." />
+<meta property="article:published_time" content="2016-05-17T11:08:57+00:00" />
+<meta property="article:modified_time" content="2016-05-17T17:13:41+00:00" />
+<meta property="article:author" content="http://radaronline.com/author/radarmelissa/" />
+<meta property="og:site_name" content="Radar Online" />
+<meta property="og:image" content="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?resize=640%2C420" />
+<meta property="fb:app_id" content="376279216711" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Hillary&#039;s Shame: Chelsea&#039;s Felon Father-In-Law Owes IRS $200K!" />
+<meta name="twitter:description" content="The release of Hillary Clinton&#039;s own tax records held few surprises for politicos, but RadarOnline.com has learned her extended family is hiding a shameful tax secret: Chelsea&#039;s father-in-law, Ed Mezv..." />
+<meta name="twitter:image" content="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?resize=640%2C420" />
+		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/radaronline.com\/celebrity-news\/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs\/"},"headline":"Hillary&#8217;s Shame: Chelsea&#8217;s Felon Father-In-Law Owes IRS $200K!","datePublished":"2016-05-17T07:08:57+00:00","dateModified":"2016-05-17T13:13:41+00:00","author":{"@type":"Person","name":"Melissa Cronin"},"publisher":{"@type":"Organization","name":"RadarOnline","url":"http:\/\/radaronline.com\/","logo":{"@type":"ImageObject","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/themes\/vip\/am-plugins\/ami-schemas\/logos\/radar-logo.png","width":"671","height":"158"},"address":{"@type":"PostalAddress","streetAddress":"4 New York Plaza","addresslocality":"New York, NY","postalCode":"10004"},"telephone":"212-545-4800","sameAs":["https:\/\/www.facebook.com\/RadarOnline\/","https:\/\/twitter.com\/radar_online","http:\/\/www.americanmediainc.com\/brands\/radar"]},"image":{"@type":"ImageObject","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/05\/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?resize=500%2C281","width":"500","height":"281"},"description":"The release of Hillary Clinton's own tax records held few surprises for politicos, but RadarOnline.com..."}</script>
+		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script type="text/javascript">var ajaxurl = "http://radaronline.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://radaronline.com/wp-admin/admin-ajax.php"</script><link rel="amphtml" href="http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/amp/" /><script type="text/javascript">var leaderboardTimeout = 5000;</script>			<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://radaronline.com/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=35" />
+			
+	<script type="text/javascript">
+		var onloadCallback = function() {
+			grecaptcha.render('captcha_div', {
+				'sitekey' : '6Le3wfsSAAAAACvmSPuxMZp6mKxCn62rYP2EcJeP'
+			});
+		};
+	</script>
+</head>
+
+<body class="post-template-default single single-post postid-1296377 single-format-standard custom-background no-js desktop">
+<script type="text/javascript">
+	document.body.className = document.body.className.replace('no-js','js');
+</script>
+<div id="darkness"></div>
+<div id="lightness"></div>
+						<div id="dfp-tag-wallpaper" class="dfp-slot dfp-container dfp-oop dfp-tag-wallpaper " data-position="wallpaper"></div>
+												<div id="dfp-tag-interstitial" class="dfp-slot dfp-container dfp-oop dfp-tag-interstitial " data-position="interstitial"></div>
+												<div id="dfp-tag-mobile_interstitial" class="dfp-slot dfp-container dfp-oop dfp-tag-mobile_interstitial mobile" data-position="mobile_interstitial"></div>
+						<!-- Loading script asynchronously -->
+<script type="text/javascript">
+ (function(a,b,c,d){
+ a='//tags.tiqcdn.com/utag/ami/radaronline/prod/utag.js';
+ b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+ a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+ })();
+</script>
+<!-- END: T-WP -->
+
+<header id="main-header">
+	<nav id="side-menu" class="menu-header"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-777690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777690"><a href="/">Radar Home</a></li>
+<li id="menu-item-777691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777691"><a href="/exclusive/">Breaking News</a></li>
+<li id="menu-item-777692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777692"><a href="/photos/">Featured Photos</a></li>
+<li id="menu-item-777693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-777693"><a href="/videos/">Viral Videos</a></li>
+<li id="menu-item-777683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-777683"><a href="http://radaronline.com/category/kardashian-khronicles/">Kardashian Khronicles</a></li>
+<li id="menu-item-777687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-777687"><a href="http://radaronline.com/category/reality-tv/">Reality TV</a></li>
+<li id="menu-item-777688" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-777688"><a href="http://radaronline.com/category/scandals/">Scandals</a></li>
+<li id="menu-item-777689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-777689"><a href="http://radaronline.com/category/weird-but-true/">Weird But True</a></li>
+</ul></nav>	<div id="mobile-phantom"> 
+		<div id="brand">
+			<div id="menu-trigger" class="menu-trigger">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			<div id="logo" title="Radaronline">
+				<h4>					<a href="http://radaronline.com"><img src="http://cdn-radar1.heartyhosting.com/wp-content/themes/vip/am-radaronline/images/radaronline-logo.svg" alt="Radaronline" width="100" height="22"></a>
+				</h4>			</div>
+			<nav id="nav-pane" class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-1386794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1386794 has-tags"><a href="http://radaronline.com/videos/dwts-season-24-nancy-kerrigan-ice-skating-diva-contestant-rehearsals/" data-tagitem="65291"  data-postitems="" >Nancy Kerrigan Diva Demands</a><div class="triangle"></div><div class="tag-rollover"><ul><li><a href="http://radaronline.com/videos/nancy-kerrigan-dwts-diva-claims-peggy-fleming-olympic-ice-skater/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/03/nancy-kerrigan-dwts-diva-claims-peggy-fleming-olympic-ice-skater-pp.jpg?resize=160%2C90"><span class='video-icon'></span></div>Ice Queen! Peggy Fleming Says 'DWTS' Cast Should Beware Diva Nancy Kerrigan</a><span class="posted-date">2 days ago</span></li><li><a href="http://radaronline.com/videos/dwts-season-24-nancy-kerrigan-ice-skating-diva-contestant-rehearsals/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/03/DWTS-Nancy-Kerrigan-Ice-Skating-Diva-pp.jpg?resize=160%2C90"><span class='video-icon'></span></div>Why Me?! Skating Queen Nancy Kerrigan 'Total Diva' During 'DWTS' Rehearsals</a><span class="posted-date">3 days ago</span></li><li><a href="http://radaronline.com/videos/bethenny-frankel-ramona-singer-luann-de-lesseps-rhony-rejected-dwts/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/03/bethenny-frankel-ramona-singer-luann-de-lesseps-rhony-rejected-dwts.jpg?resize=160%2C90"><span class='video-icon'></span></div>Thanks, But No Thanks! Ramona, Bethenny & Luann All REJECTED From 'DWTS'</a><span class="posted-date">1 week ago</span></li><li><a href="http://radaronline.com/photos/dancing-with-the-stars-secrets-scandals-simone-biles-nick-viall/"><div class='radar-thumb radar-gallery-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/03/dancing-with-the-stars-scandals-simone-biles-nick-viall-pp.jpg?resize=160%2C90"><span class='gallery-icon'><span class='image-count'>16</span></span></div>Nude Photos, Cheating & DUIs! 'Dancing With The Stars' Secrets & Scandals UNCOVERED</a><span class="posted-date">1 week ago - 16 photos </span></li><li><a href="http://radaronline.com/celebrity-news/duck-dynasty-john-luke-robertson-fighting-sister-sadie-dwts/"><div class='radar-thumb radar-standard-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/11/duck-dynasty-john-luke-robertson-fight-sister-sadie-dwts-pp.jpg?resize=160%2C90"></div>'Duck Dynasty' Siblings At War! John Luke Admits Feud Over Sister Sadie's 'DWTS' Turn</a><span class="posted-date">4 months ago</span></li></ul></div></li>
+<li id="menu-item-1395525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395525 has-tags"><a href="http://radaronline.com/videos/real-housewives-new-york-season-9-premiere-news/" data-tagitem="66466"  data-postitems="" >&#8216;RHONY&#8217; Cancelled?</a><div class="triangle"></div><div class="tag-rollover"><ul><li><a href="http://radaronline.com/videos/bethenny-frankel-refused-film-jill-zarin-rhony/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/03/bethenny-frankel-jill-zarin-livid-rhony-return-pp.jpg?resize=160%2C90"><span class='video-icon'></span></div>Bad Blood: Bethenny Refused To Film With Nemesis Jill On 'RHONY'</a><span class="posted-date">3 days ago</span></li><li><a href="http://radaronline.com/videos/bethenny-frankel-streaks-sonja-morgan-kiss-rhony-season-9-trailer/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/03/bethenny-frankel-streaks-sonja-morgan-kiss-rhony-season-9-trailer-pp.jpg?resize=160%2C90"><span class='video-icon'></span></div>Stripped Down & Out Of Control! Bethenny Frankel Streaks & Kisses Sonja Morgan</a><span class="posted-date">5 days ago</span></li><li><a href="http://radaronline.com/videos/jules-michael-wainstein-apartment-man-jumps-death-from-building-rhony/"><div class='radar-thumb radar-video-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i2.wp.com/radaronline.com/wp-content/uploads/2017/03/jules-michael-wainstein-apartment-man-jumps-building-rhony-pp.jpg?resize=160%2C90"><span class='video-icon'></span></div>Man Jumps To His Death From Apartment At Center Of Jules & Michael's Divorce</a><span class="posted-date">1 week ago</span></li><li><a href="http://radaronline.com/celebrity-news/jules-wainstein-slammed-court-partying-hiding-rhony-money-divorce/"><div class='radar-thumb radar-standard-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/02/jules-wainstein-slammed-court-partying-hiding-rhony-money-divorce-pp.jpg?resize=160%2C90"></div>Divorce Drama! Jules Wainstein Blasted In Court For Partying & Hiding 'RHONY' Money</a><span class="posted-date">4 weeks ago</span></li><li><a href="http://radaronline.com/celebrity-news/jules-wainstein-nasty-divorce-judge-allows-rhony-sell-home/"><div class='radar-thumb radar-standard-thumb' ><img width="160" height="90" alt="thumbnail" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/02/jules-wainstein-nasty-divorce-judge-sell-home-rhony-pp.jpg?resize=160%2C90"></div>Jules' Victory! Judge Allows Money-Strapped Wainstein To Sell Home In Nasty Divorce</a><span class="posted-date">4 weeks ago</span></li></ul></div></li>
+<li id="menu-item-1402154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1402154 has-tags"><a href="http://radaronline.com/tags/Maddie-ziegler" data-tagitem=""  data-postitems="" >Dance Moms War</a><div class="triangle"></div><div class="tag-rollover"></div></li>
+</ul></nav>			<div id="tools">
+				<a href="#" class="tips mobile-tips show-mobile asprite asp-env"><span class="screen-reader-only">EMAIL US A TIP</span></a>
+				<a href="#" class="search-modal asprite asp-srch"><span class="screen-reader-only">Search</span></a>
+				<a href="#" class="tips desktop-tips hide-mobile">EMAIL US A TIP</a>
+				<a rel="me" class="soc-link icon-fb asprite asp-fb" href="https://www.facebook.com/pages/Radar-Online/376279216711" title="Facebook"><span class="screen-reader-only">Facebook</span></a><a rel="me" class="soc-link icon-twitter asprite asp-twit" href="https://twitter.com/radar_online" title="Twitter"><span class="screen-reader-only">Twitter</span></a>				<div class="search-popup">
+					<a class="close-search asprite asp-srch"></a>
+					<form role="search" method="get" class="searchform" action="http://radaronline.com/search/">
+	<div id="search_form">
+		<input type="text" value="" name="search" class="search-term" autofocus placeholder="Start Typing To Search..."/>
+		<input type="submit" id="searchsubmit" value="GO" rel="nofollow"/>
+	</div>
+</form>
+				</div>
+			</div>
+		</div>
+
+		<div id="hidden-elements">
+			<div id="email_tips" class="hidden">
+				<div class="centered-elements">
+					<div class="close png-radar_x"></div>
+					<div class="arrow"></div>
+					<form id="email_us_tip">
+						<input type="hidden" name="action" value="radar_tip_form">
+						<div class="sender-info">
+							<div class="field-container"><label>Name</label><input type="text" name="name" value="" required="required"></div>
+							<div class="field-container"><label>Email</label><input type="email" name="email" value="" required="required"></div>
+							<div class="field-container"><label>Phone</label><input type="text" name="phone" value="" required="required"></div>
+							<div class="sender-msg">
+								<label>Your Tip</label>
+								<textarea name="tip" required="required"></textarea>
+								<div id="captcha_div"></div>
+								<button type="submit"class="hide-mobile">send</button>
+							</div>
+							<div class="check-container">
+								<input id="subscribe_daily_juice" type="checkbox" name="option3" value="signup" checked> Yes, please sign me up to receive The Daily Juice <a href="http://www.americanmediainc.com/privacy-policy" target="_blank" class="header-privacy block-link">Privacy Policy</a>
+								<button type="submit" class="show-mobile">send</button>
+							</div>
+						</div>
+					</form>
+					<form method="post" action="#" id="sailthru-add-subscriber-form-checkbox" class="sailthru-add-subscriber-form daily-juice-form" style="display: none !important;">
+						<div class="sailthru-add-subscriber-errors" id="sailthru-add-subscriber-errors"></div>
+						<input type="hidden" name="sailthru_nonce" value="2d6ba6c5e9"/>
+						<input type="hidden" name="sailthru_email_list" value="The Daily Juice"/>
+						<input type="hidden" name="action" value="add_subscriber"/>
+						<input type="hidden" name="vars[source]" value="http://radaronline.com"/>
+
+						<div class="bg-input">
+							<input type="text" name="email" id="sailthru_email" value="" placeholder="enter your email address"/>
+							<input type="submit" value="Submit">
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div id="content-wrapper">
+			<div id="leaderboard_wrap">
+			<div id="leaderboard-holder" class="height-auto sticky_banner">
+				<div id="leaderboard"><div id="gpt2_ads_widget-2" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-mobile_top" class="dfp-slot dfp-container dfp-tag-mobile_top mobile" data-position="mobile_top"></div>
+			</div><div id="gpt2_ads_widget-3" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-horizontal-position-1" class="dfp-slot dfp-container dfp-tag-horizontal-position-1 " data-position="horizontal-position-1"></div>
+			</div>				<div id="taboola-mid-article-thumbnails"></div>
+				<script type="text/javascript">
+					if (window.innerWidth <= 767) {
+						jQuery(document).ready(function($){
+							var taboola_mid_ad = $('#taboola-mid-article-thumbnails');
+							if (typeof(taboola_mid_ad) !== 'undefined') {
+								taboola_mid_ad.detach();
+								if($('body').hasClass('single')) {
+									if($('#ami-post-content p').length > 3) {
+										var pCount = $('.entry p').length;
+										if(pCount >= 3) {
+											$('#ami-post-content p:eq(2)').after(taboola_mid_ad);
+										}
+									} else {
+										$('#ami-post-content').append(taboola_mid_ad);
+									}
+								}
+
+							}
+						});
+						window._taboola = window._taboola || [];
+						_taboola.push({ mode: 'thumbnails-m', container: 'taboola-mid-article-thumbnails', placement: 'Mid Article Thumbnails', target_type: 'mix' });
+					}
+				</script>
+				</div>
+			</div>
+		</div>
+	
+
+
+	<div class="post-container">
+
+					
+			<article id="post-1296377" class="post post-1296377 type-post status-publish format-standard has-post-thumbnail category-celebrity-news category-exclusives tag-chelsea-clinton tag-hillary-clinton sponsorship-election-2016">
+				<section id="article-top-part">
+					<a href="http://radaronline.com/election-2016/"><img src="http://i1.wp.com/radaronline.com/wp-content/uploads/2016/04/node_banner_political_V3.jpg?w=980" class="attachment-980x9999 size-980x9999" alt="" width="980" /></a>					<header class="entry-header">
+						<h2 class='post-flag '>EXCLUSIVE</h2>						<h1 class="entry-title">Hillary&#8217;s Shame: Chelsea&#8217;s Felon Father-In-Law Owes IRS $200K!</h1>
+						<h3 class="entry-subtitle">He hasn't paid the bill for more than ten years.</h3>												<div class='author'><span>
+                                        <span class='avatar'><img alt='' src='http://1.gravatar.com/avatar/452a050c31ecf66174e28a3564b823dc?s=64&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/452a050c31ecf66174e28a3564b823dc?s=128&amp;d=identicon&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /></span>
+                                        <span class='by no-border'>By <a href="http://radaronline.com/author/radarmelissa/" title="Posts by Melissa Cronin" rel="author">Melissa Cronin</a></span>
+                                        
+                                </span></div>						<div class="entry-meta">
+							<span class="posted-date">Posted on <time datetime="2016-05-17T07:08:57+00:00">May 17, 2016 @ 7:08AM</time></span>
+						</div>
+					</header>
+					<div class="radar-media-box">
+						<figure><div class='radar-thumb radar-standard-thumb'><div class='centring-box'><img src="http://i2.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky.jpg?resize=540%2C400" class="attachment-540x400 size-540x400 wp-post-image" alt="Hillary Clinton Tax Chelsea Father In Law Ed Mezvinsky" data-thumbnail="false" width="540" height="400" /></div></div><div class="absolute-credit"><div class='photo_credit'>Getty Images</div></div></figure>					</div>
+
+					<div class="entry" id="ami-post-content">
+						<p>The release of <strong>Hillary</strong> <strong>Clinton</strong>&#8216;s own tax records held few surprises for politicos, but RadarOnline.com has learned her extended family is hiding a shameful tax secret: <strong>Chelsea</strong>&#8216;s father-in-law, <strong>Ed</strong> <strong>Mezvinsky</strong>, has owed the IRS more than $200,000 for more than ten years!</p>
+<p>According to tax records obtained by Radar, Mezvinsky was slapped with a federal tax lien totaling $201,934 on January 30, 2006.</p><div id="dfp-tag-sharethrough" class="dfp-slot dfp-container dfp-tag-sharethrough " data-position="sharethrough"></div><div id="dfp-tag-mobile_box" class="dfp-slot dfp-container dfp-tag-mobile_box mobile" data-position="mobile_box" style="width: 300px; margin:0 auto;"></div>
+<p><a href="http://i1.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed.jpg/" rel="attachment wp-att-1296262"><img class="alignnone size-medium wp-image-1296262" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-300x129.jpg?resize=300%2C129" alt="Hillary Clinton Tax Chelsea Father In Law Ed Mezvinsky" srcset="http://i0.wp.com/radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-300x129.jpg?resize=300%2C129 300w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-150x65.jpg 150w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-768x331.jpg 768w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-600x259.jpg 600w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-700x302.jpg 700w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-551x238.jpg 551w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-100x43.jpg 100w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed-50x22.jpg 50w, http://radaronline.com/wp-content/uploads/2016/05/hillary-clinton-tax-chelsea-father-in-law-ed-mezvinsky-embed.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a></p>
+<p>As of press time,records indicate he had not yet paid the bill.</p>
+<p><a href="http://radaronline.com/exclusives/2014/11/chelsea-clinton-father-in-law-mark-mezvinsky-restitution/" target="_blank" msn="nolink">That&#8217;s hardly the first of Mezvinsky&#8217;s financial scandals,</a> however.</p>
+<p>In 2002, Mezvinsky pleaded guilty to 31 counts of fraud after he orchestrated a $10 million Ponzi scheme to scam money from friends and family. He served five years in federal prison and was released in 2008.</p>
+<p><a href="http://radaronline.com/photos/hillary-clinton-plastic-surgery-claims-photos/" target="_blank" msn="notext"><span style="font-weight: 400;">PHOTOS: Putting Her Best Face Forward! Hillary Clinton Had Plastic Surgery Makeover For White House Run, Top Surgeons Reveal</span></a></p>
+<p>Meanwhile, <a href="http://radaronline.com/photos/chelsea-clinton-no-makeup-pregnant-baby-bump-pics/" target="_blank" msn="nolink">his son and Chelsea&#8217;s husband, </a><strong>Marc</strong>, is embroiled in a scandal of his own <a href="http://radaronline.com/exclusives/2016/05/hillary-clinton-son-in-law-shuts-down-failed-hedge-fund-clinton-foundation-lies/" target="_blank" msn="nolink">after the sudden shuttering of his hedge fund, Eaglevale.</a></p><div id="zergnet-widget-49654"></div>
+<p>The fund invested in Greek bank stocks and bought government debt, hoping the country&#8217;s economy would bounce back and deliver profits. But that never happened, and almost 90% of the $25 million they raised from investors has been lost.</p><div class="spx-pub-wrapper spx-radaronline"><div class="spx-slot" id="swoopAd"></div></div>
+<p>A rep for the Clintons did not respond to Radar&#8217;s request for comment.</p>					</div>
+
+
+
+					
+					
+						<div id="gigya-wrap">
+		<div id="gigya-wrap-int">
+			<div id="ami-gigya-sharebar">
+				<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1296377" class="share-twitter sd-button share-icon no-text" href="http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1296377" class="share-facebook sd-button share-icon no-text" href="http://radaronline.com/celebrity-news/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>			</div>
+			<section>Share</section>
+		</div>
+	</div>
+	<script type="text/javascript">
+		jQuery.get('https://www.spot.im/api/open-api/v1/messages-count?spot_id=sp_b4kyzsna&posts_ids=1296377', function( data ) {
+			var comCount = data.messages_count['1296377'];
+			jQuery('#ami-gigya-sharebar .share-end').before('<li class="share-email-count">'+comCount+'</li>');
+		});
+		jQuery('.share-email-count, .to-comments').live('click', function(){
+			jQuery('body,html').animate({scrollTop: jQuery('#commentSection').offset().top - 150 }, 1500);
+			return false;
+		});
+	</script>
+
+					</section>
+				<div class="below-article" id="article-bottom-part">
+
+								<div class="widget_am_taboola_main_widget" style="clear:both;">
+				<div id="taboola-below-article-thumbnails"></div>
+				<div id="taboola-below-article-text-links"></div>
+			</div>
+		
+											<div id="ami_zergnetwidget-5" class="widget widget-ami-zergnet">			<div id="zergnet-widget-34271"></div>
+			</div>					
+					<div class="clear">
+											</div>
+					
+					<div class="tags"> <a href="http://radaronline.com/tag/chelsea-clinton/" rel="tag">Chelsea Clinton</a> <a href="http://radaronline.com/tag/hillary-clinton/" rel="tag">Hillary Clinton</a></div>					
+					<h4 class="comments-title">Comments</h4>
+					<a name="comments" id="commentSection"></a>
+					<div id="commentsDiv"
+     class="spot-im-frame-inpage"
+     data-post-id="1296377"
+     data-gigya-streamid="1296377 http://radaronline.com/?p=1296377"
+     data-gigya-categoryid="Articles01"></div>
+				</div>
+			</article>
+				<div class="wrapper-sticky"><div id="sidebar-right"><div id="sidebar_interior_for_banners">
+					<div id="radar_zoninator_zoneposts_widget-19" class="widget widget-zone-posts">			<div class="zone_layout_widget featured-photos">
+								<div class="first_photo ggnoads">
+					<a href="http://radaronline.com/photos/very-important-photos-spotted-last-24-hours-march/">
+						<div class='radar-thumb radar-gallery-thumb'><div class='centring-box'><img src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/03/AG_178242_001.jpg?resize=300%2C194" class="attachment-300x194 size-300x194 wp-post-image" alt="" data-thumbnail="false" width="300" height="194" /><span class='gallery-icon'><span class='image-count'>24</span></span></div></div>						<h4>Hot Photos</h4>
+												<h3>Hollywood, through the Radar lens!</h3>
+											</a>
+				</div>
+			</div>
+			</div>			
+		<div id="gpt2_ads_widget-7" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-rightrail-position-2" class="dfp-slot dfp-container dfp-tag-rightrail-position-2 " data-position="rightrail-position-2"></div>
+			</div>			<div id="taboola-right-rail-thumbnails-abp"></div>
+			<div id="sailthru-subscribe-id-2" class="widget Sailthru_Subscribe">		<div class="daily-juice">
+
+				<h2>Radar's Free Newsletter</h2>
+				<h3>The<span>Daily</span>Juice</h3>
+				<div class="success hidden">Thank you for subscribing!</div>
+				<form method="post" action="#" id="sailthru-add-subscriber-form" class="sailthru-add-subscriber-form daily-juice-form">
+					<div class="sailthru-add-subscriber-errors" id="sailthru-add-subscriber-errors"></div>
+					<input type="hidden" name="sailthru_nonce" value="2d6ba6c5e9"/>
+					<input type="hidden" name="sailthru_email_list" value="The Daily Juice"/>
+					<input type="hidden" name="action" value="add_subscriber"/>
+					<input type="hidden" name="vars[source]" value="http://radaronline.com"/>
+
+					<div class="bg-input">
+						<input type="text" name="email" id="sailthru_email" value="" placeholder="enter your email address"/>
+					  <input type="submit" value="Submit">
+					</div>
+				</form>
+		</div>
+
+		</div><div id="gpt2_ads_widget-8" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-rightrail-position-3" class="dfp-slot dfp-container dfp-tag-rightrail-position-3 " data-position="rightrail-position-3"></div>
+			</div>			<div id="taboola-right-rail-thumbnails"></div>
+			<div id="image-14" class="widget widget_image"><span class="widget-title">DBU Article</span><div class="jetpack-image-container"><a href="/photos/kardashians-tell-all-secrets-exposed-fake-family-rise-fame-social-climbing-cheating-plastic-surgery/photo/1209091/"><img src="http://i1.wp.com/radaronline.com/wp-content/uploads/2015/10/kardashian-tell-all-secrets.jpg" class="alignnone" width="300" height="600" /></a></div>
+</div>
+					<div id="radar_zoninator_zoneposts_widget-11" class="widget widget-zone-posts">			<span class="widget-title">Most Popular</span>			<div class="zone_layout_widget most-popular">
+				<ul class="most-popular">
+																								<li>
+								<a href="http://radaronline.com/videos/dwts-season-24-nancy-kerrigan-ice-skating-diva-contestant-rehearsals/">
+									<div class='radar-thumb radar-video-thumb'><div class='centring-box'><img width="127" height="71" alt="" src="http://i0.wp.com/radaronline.com/wp-content/uploads/2017/03/DWTS-Nancy-Kerrigan-Ice-Skating-Diva-pp.jpg?resize=127%2C71"></div></div>									<h5>Why Me?! Skating Queen Nancy Kerrigan &#039;Total Diva&#039; During &#039;DWTS&#039; Rehearsals</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://radaronline.com/photos/michael-jackson-underage-best-friend-michael-jacobshagen-photos/">
+									<div class='radar-thumb radar-gallery-thumb'><div class='centring-box'><img src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/03/michael-jackson-underage-relationship-pp.jpg?resize=127%2C71" class="attachment-127x71 size-127x71 wp-post-image" alt="" data-thumbnail="false" width="127" height="71" /></div></div>									<h5>Sleepovers &amp; Love Confessions: Michael Jackson&#039;s Secret Underage BFF Tells All</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://radaronline.com/videos/khloe-kardashian-ex-husband-lamar-odom-boyfriend-tristan-thompson-fight/">
+									<div class='radar-thumb radar-video-thumb'><div class='centring-box'><img width="127" height="71" alt="" src="http://i2.wp.com/radaronline.com/wp-content/uploads/2017/03/khloe-kardashian-ex-husband-lamar-odom-boyfriend-tristan-thompson-fight-pp.jpg?resize=127%2C71"></div></div>									<h5>Lamar Odom &amp; Tristan Thompson Physically Separated In Tense Showdown</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://radaronline.com/videos/abby-lee-miller-fires-back-maddie-ziegler-snub-tell-all-book-dance-moms/">
+									<div class='radar-thumb radar-video-thumb'><div class='centring-box'><img width="127" height="71" alt="" src="http://i2.wp.com/radaronline.com/wp-content/uploads/2017/03/abby-lee-miller-fires-back-maddie-ziegler-snub-dance-moms-pp.jpg?resize=127%2C71"></div></div>									<h5>Abby Lee Miller Fights Back Against Maddie Ziegler&#039;s Tell-All Book Snub</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://radaronline.com/celebrity-news/kim-kardashian-nude-cookbook/">
+									<div class='radar-thumb radar-standard-thumb'><div class='centring-box'><img src="http://i2.wp.com/radaronline.com/wp-content/uploads/2017/03/Kim-kardashian-nude-cookbook-.jpg?resize=127%2C71" class="attachment-127x71 size-127x71 wp-post-image" alt="Kim kardashian nude cookbook" data-thumbnail="false" width="127" height="71" /></div></div>									<h5>Is Kim Kardashian Releasing A Nude Cookbook?</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://okmagazine.com/photos/kailyn-lowry-pregnant-baby-daddy-revealed-2/">
+									<div class='radar-thumb radar-link-thumb'><div class='centring-box'><img src="http://i1.wp.com/radaronline.com/wp-content/uploads/2017/03/kailyn-lowry-pregnant-baby-daddy-revealed-ok.jpg?resize=127%2C71" class="attachment-127x71 size-127x71 wp-post-image" alt="" data-thumbnail="false" width="127" height="71" /></div></div>									<h5>Mystery Solved! Pregnant &#039;Teen Mom 2&#039; Star Kailyn Lowry Accidentally Confesses Third</h5>
+								</a>
+							</li>
+																														<li>
+								<a href="http://radaronline.com/videos/kathie-lee-gifford-hoda-kotb-refuse-return-today/">
+									<div class='radar-thumb radar-video-thumb'><div class='centring-box'><img width="127" height="71" alt="" src="http://i2.wp.com/radaronline.com/wp-content/uploads/2017/03/Kathie-lee-gifford-hoda-kotb-refure-return-today-pp.jpg?resize=127%2C71"></div></div>									<h5>Gone Rogue! Hoda &amp; Kathie Lee Refuse To Return To ‘TODAY’ Amid Turmoil</h5>
+								</a>
+							</li>
+																				</ul>
+			</div>
+			</div>			
+		<div id="ami_zergnetwidget-2" class="widget widget-ami-zergnet">			<div id="zergnet-widget-34599"></div>
+			</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><iframe width="100%" height="200" src="//www.ora.tv/embed/0_4uc66jbau7ji/partner/radaronline" frameborder="0" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+		</div></div></div></div>		<input type="hidden" name="lastpos" value="1" id="lastpos" />
+	</div>
+
+</div><!-- End of #content-wrapper -->
+
+<div id="above_footer_section" class="centered-elements">
+	<div id="gpt2_ads_widget-9" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-mobile_bottom" class="dfp-slot dfp-container dfp-tag-mobile_bottom mobile" data-position="mobile_bottom"></div>
+			</div><div id="gpt2_ads_widget-14" class="widget widget-gpt2-ami-ads">			<div id="dfp-tag-horizontal-position-2" class="dfp-slot dfp-container dfp-tag-horizontal-position-2 " data-position="horizontal-position-2"></div>
+			</div></div>
+
+<footer id="super-footer">
+
+		<div id="footer_bottom">
+			<div class="centered-elements">
+				<div class="site-info">
+					<span>&copy; 2017 Radar Online, LLC</span>
+					<span id="powered-by">Powered by <a href="http://boylesoftware.com/" rel="generator nofollow" class="powered-by-wpcom" target="_blank">BS</a></span>
+					<span class="footer-promo-links">
+						<a href="http://www.americanmediainc.com/brands/radar">Advertisers</a><a href="http://www.americanmediainc.com/privacy-policy">Privacy Policy</a><a href="http://www.americanmediainc.com/terms-and-conditions">Terms of Use</a>
+					</span>
+				</div>
+			</div>
+		</div>
+</footer>
+
+		<!-- wpsolr - ajax auto completion nonce -->
+		<input type="hidden" id="wpsolr_autocomplete_nonce"
+		       value="8807d22d50">
+
+			<script>
+		jQuery(document).ready(function ($) {
+			$('a[href^="http"]')
+				.not('[href^="' + location.protocol + '//' + location.hostname + '"]')
+				.attr('target', '_blank');
+		});
+	</script> 	<style type="text/css" media="screen">
+		@media screen and ( max-width: 782px ) {
+			html { margin-top: 0px !important; }
+			* html body { margin-top: 0px !important; }
+			#wpadminbar { display:none; }
+		}
+	</style>
+<!-- Sailthru Horizon  Async-->
+<script type="text/javascript">
+(function() {
+     function loadHorizon() {
+           var s = document.createElement('script');
+           s.type = 'text/javascript';
+          s.async = true;
+          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+         var x = document.getElementsByTagName('script')[0];
+         x.parentNode.insertBefore(s, x);
+      }
+     loadHorizon();
+      var oldOnLoad = window.onload;
+      window.onload = function() {
+          if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+         }
+           Sailthru.setup({
+              domain: 'Sailthru Content Spider [AMI - Radar Online/0f33e1ba01d24972f54cfff6cf31f2ae]'
+         });
+     };
+  })();
+ </script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/radaronline.com\/celebrity-news\/hillary-clinton-tax-scandal-chelsea-father-in-law-ed-mezvinsky-owes-irs\/":1296377};
+		window.WPCOM_jetpack = true;
+			</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+		<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/dYtBDoMwDAQ_1NTiRZUJFgESr2UbIX5fDr32MJrLzES7pHE9aGA5uwRZQ0J_ek10WaB7CWGvrYiumwrtQTOQkc5W8jbhJrz8q2dc4p-KYVDRjGc_vdPDe2z6BQ.js?20170307.0"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_localize_script_autocomplete = {"ajax_url":"http:\/\/radaronline.com\/wp-admin\/admin-ajax.php","is_show_url_parameters":"","is_url_redirect":"1","SEARCH_PARAMETER_SEARCH":"search","SEARCH_PARAMETER_Q":"wpsolr_q","SEARCH_PARAMETER_FQ":"wpsolr_fq","SEARCH_PARAMETER_SORT":"wpsolr_sort","SEARCH_PARAMETER_PAGE":"wpsolr_page","SORT_CODE_BY_RELEVANCY_DESC":"sort_by_relevancy_desc","wpsolr_autocomplete_selector":".search-field","wpsolr_autocomplete_action":"wdm_return_solr_rows","wpsolr_autocomplete_nonce_selector":"#wpsolr_autocomplete_nonce"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/M9QvLyjOzynSLU5NLErO0E3NS8_MS9XPKtZPLC3JT87PLchJLUmNBykBAA.js?20170307.0"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_localize_script_infinitescroll = {"ajax_url":"\/wp-admin\/admin-ajax.php","loadimage":"http:\/\/radaronline.com\/wp-content\/plugins\/wpsolr-search-engine\/images\/infinitescroll.gif","loadingtext":"Loading ...","SEARCH_PARAMETER_Q":"wpsolr_q"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/M9QvLyjOzynSLU5NLErO0E3NS8_MS9XPKtbPKixNLarUy8xLy8zLLEktTi7Kz8kBAA.js?20170307.0"></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201710'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js?ver=1.3.2'></script>
+<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/hc3bDoIwDIDhF6IbAu9jxqhQ3MkdgL29W6IxJh7u-jdf05Zv5LjQ4FSayYQyEsxCKfS54-tbN-1H7GIHdPQPfK79kl5MwlujyGAFdlcgyyIFVDXYM75erLdUXrNFQogkr5lpMv_wRRiZR3vAifVs-HkRF9TYDHx3gHrEqeI7.js?20170307.0"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn-radar1.heartyhosting.com/wp-content/cache/minify/000000/M9TPSi0pSEzO1s_NTynNSS3WL85ILEpNSUxJqQQzM_PSAQ.js?20170307.0"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+</script>
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Database Caching 83/106 queries in 0.067 seconds using memcached
+Object Caching 5040/5647 objects using memcached
+Content Delivery Network via cdn-radar0.heartyhosting.com
+
+ Served from: radaronline.com @ 2017-03-11 18:21:56 by W3 Total Cache -->

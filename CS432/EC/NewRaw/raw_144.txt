@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<!--meta tag-->
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="http://www.greenleafgoddess.com/xmlrpc.php"/>
+
+	<title>Home | GreenLeafGoddess.com</title>
+	
+			<script type="text/javascript">
+				var i18n_cooked_timer_complete = 'Timer Complete!';
+				
+				var cp_star_review_optional = false;			</script>
+			
+		        <style type="text/css">
+        </style>
+        <script type="application/javascript">var ruby_ajax_url = "http://www.greenleafgoddess.com/wp-admin/admin-ajax.php"</script><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Greenleafgoddess.com is a healthy lifestyle website with food knowledge, recipes, beauty, health, fitness, and more!"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.greenleafgoddess.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Home | GreenLeafGoddess.com" />
+<meta property="og:description" content="Greenleafgoddess.com is a healthy lifestyle website with food knowledge, recipes, beauty, health, fitness, and more!" />
+<meta property="og:url" content="http://www.greenleafgoddess.com/" />
+<meta property="og:site_name" content="greenleafgoddess" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Greenleafgoddess.com is a healthy lifestyle website with food knowledge, recipes, beauty, health, fitness, and more!" />
+<meta name="twitter:title" content="Home | GreenLeafGoddess.com" />
+<meta name="twitter:site" content="@GrnLeafGoddess" />
+<meta name="twitter:creator" content="@GrnLeafGoddess" />
+<meta property="DC.date.issued" content="2016-06-01T07:38:15+00:00" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.greenleafgoddess.com\/","name":"Greenleafgoddess","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.greenleafgoddess.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="p:domain_verify" content="9a65f140cc868545fb045d37d5dd294f" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//assets.pinterest.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="greenleafgoddess &raquo; Feed" href="http://www.greenleafgoddess.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="greenleafgoddess &raquo; Comments Feed" href="http://www.greenleafgoddess.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.greenleafgoddess.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ruby-shortcodes-styles-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/innovation-ruby-shortcodes/ruby-shortcodes-style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-frontend-style-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/cooked/css/front-end.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-nouislider-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/css/jquery.nouislider.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-fancybox-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/fancybox/jquery.fancybox.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-responsive-styles-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/cooked/css/responsive.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='si-style-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/easy-simple-instagram/assets/css/si-style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/easy-simple-instagram/assets/css/font-awesome.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-feeds-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-popup-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/feed-them-social/feeds/css/magnific-popup.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gpp_shortcodes-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/light-shortcode/includes/frontend/ls-shortcodes.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gpp-sc-genericons-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/light-shortcode/includes/frontend/genericons/genericons.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.7.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='siq_front_css-css'  href='http://www.greenleafgoddess.com/wp-content/plugins/searchiq/assets/1.5.1/css/frontend/stylesheet.css?ver=1489275478' type='text/css' media='all' />
+<link rel='stylesheet' id='innovation-ruby-external-style-css'  href='http://www.greenleafgoddess.com/wp-content/themes/innovation/assets/external_script/ruby-external-style.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='innovation-ruby-main-style-css'  href='http://www.greenleafgoddess.com/wp-content/themes/innovation/assets/css/ruby-style.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='innovation-ruby-responsive-style-css'  href='http://www.greenleafgoddess.com/wp-content/themes/innovation/assets/css/ruby-responsive.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='innovation-ruby-default-style-css'  href='http://www.greenleafgoddess.com/wp-content/themes/innovation/style.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='innovation-ruby-custom-style-css'  href='http://www.greenleafgoddess.com/wp-content/themes/innovation/custom/custom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-innovation_ruby_theme_options-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%7CPlayfair+Display%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic&#038;subset=latin&#038;ver=1488625281' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"http:\/\/www.greenleafgoddess.com\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"http:\/\/www.greenleafgoddess.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/feed-them-social/admin/js/admin.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.nouislider.min.js?ver=7.0.10'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.fullscreener.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/isotope.pkgd.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.plugin.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.countdown.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.cookie.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/vendor/js/fancybox/jquery.fancybox.pack.js?ver=2.1.5'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/cooked/js/functions.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/feed-them-social/feeds/js/powered-by.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/feed-them-social/feeds/js/magnific-popup.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.7.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.7.3'></script>
+<!-- This site uses the Better Analytics plugin.  https://marketplace.digitalpoint.com/better-analytics.3354/item -->
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/better-analytics/js/loader.php?ver=1.1.4.js' ></script><link rel='https://api.w.org/' href='http://www.greenleafgoddess.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.greenleafgoddess.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.greenleafgoddess.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://www.greenleafgoddess.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.greenleafgoddess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.greenleafgoddess.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.greenleafgoddess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.greenleafgoddess.com%2F&#038;format=xml" />
+<script type="text/javascript">var ajaxurl = "http://www.greenleafgoddess.com/wp-admin/admin-ajax.php"</script><style type="text/css">body #cooked-plugin-page .recipe-action .fs-btn,
+body #cooked-plugin-page .timer-trigger,
+body #cooked-plugin-page a,
+body #cooked-submit-recipe-form .section-row .section-head h2,
+body #cooked-submit-recipe-form .section-row .slider .amount.active,
+body #cooked-plugin-page .recipes-pagination a.next,
+body #cooked-plugin-page .recipes-pagination a.prev,
+body #cooked-plugin-page .recipe-info p.terms-list a
+{ color: #0bbe5f; }
+
+body #cooked-plugin-page .btn,
+body #cooked-plugin-page #submit,
+body #cooked-plugin-page .timer-wrap,
+body #cooked-submit-recipe-form .section-row .upload-field-wrap .button,
+body #cooked-submit-recipe-form input.sbmt-button,
+body #cooked-plugin-page .recipes-pagination a,
+body #cooked-plugin-page .cp-public-tag,
+body #cooked-page-form input[type=submit],
+body .cooked-timer-done-screen
+{ background: #0bbe5f; }
+
+body #cooked-plugin-page .search-section .search-row .sbmt-button input
+{ background-color: #0bbe5f; }
+
+body #cooked-plugin-page .recipe-hints p .hint-check.checked
+{ background: #0bbe5f; border-color: #0bbe5f; }
+
+body #cooked-plugin-page .timer-wrap .pp-btn,
+body #cooked-plugin-page .timer-wrap .x-timer
+{ color: #c4f2d4; }
+
+body #cooked-plugin-page .btn:hover,
+body #cooked-plugin-page #submit:hover,
+body #cooked-plugin-page .fullscreen-actions .x-fs-btn,
+body #cooked-plugin-page .tab-links a,
+body #cooked-plugin-page .recipes-pagination a:hover,
+body #cooked-page-form input[type=submit]:hover,
+body #cooked-plugin-page .timer-wrap .timer,
+body #cooked-submit-recipe-form .section-row .upload-field-wrap .button:hover
+{ background: #039146; }
+
+body #cooked-plugin-page .search-section .search-row .sbmt-button input:hover
+{ background-color:#039146; }
+
+body #cooked-submit-recipe-form .section-row .upload-field-wrap .button
+{ border-color: #039146; }</style>        <script type="text/javascript">
+            var myAjaxFTS = 'http://www.greenleafgoddess.com/wp-admin/admin-ajax.php';
+        </script>
+                <script type="text/javascript">
+            var myAjaxFTS = 'http://www.greenleafgoddess.com/wp-admin/admin-ajax.php';
+        </script>
+                            <script type="text/javascript">
+                        (function () {
+                            window.siqConfig = {
+                                engineKey: "69b23d94c619e0164a6f5eaf984f12d4"
+                            };
+                            window.siqConfig.baseUrl = "//api.searchiq.xyz/";
+                            var script = document.createElement("SCRIPT");
+                            script.src = window.siqConfig.baseUrl + 'js/container/siq-container-2.js?cb=' + (Math.floor(Math.random()*999999)) + '&engineKey=' + siqConfig.engineKey;
+                            script.id = "siq-container";
+                            document.getElementsByTagName("HEAD")[0].appendChild(script);
+                        })();
+                    </script><link rel="stylesheet" type="text/css" href="http://www.greenleafgoddess.com/wp-content/plugins/twitter/twitterStyle.css"/><script type="text/javascript">
+
+				jQuery(document).ready(function(){
+
+				jQuery(".tweetSpace").hide();
+				jQuery(".builtByArea").hide();
+				jQuery(".viewAll").hide();
+				jQuery("#toggleSpace").html('<img id="toggleLink" src="http://www.greenleafgoddess.com/wp-content/plugins/twitter/arrow_down.gif" alt="down" title="down"/>');
+
+				// toggles the slickbox on clicking the noted link
+				jQuery("#toggleLink").click(function()
+				{
+					if(jQuery(".tweetSpace").is(":visible"))
+					{
+						jQuery(".viewAll").toggle(400);
+						jQuery(".builtByArea").toggle(400);
+						jQuery(".tweetSpace").toggle(400);
+						jQuery("#toggleLink").attr("src", "http://www.greenleafgoddess.com/wp-content/plugins/twitter/arrow_down.gif");
+						jQuery("#toggleLink").attr("alt", "down");
+						jQuery("#toggleLink").attr("title", "down");
+					}
+					else
+					{
+						jQuery(".viewAll").toggle(400);
+						jQuery(".builtByArea").toggle(400);
+						jQuery(".tweetSpace").toggle(400);
+						jQuery("#toggleLink").attr("src", "http://www.greenleafgoddess.com/wp-content/plugins/twitter/arrow_up.gif");
+						jQuery("#toggleLink").attr("alt", "up");
+						jQuery("#toggleLink").attr("title", "up");
+					}
+					return false;
+				});
+
+			});
+
+			</script><meta name="google-site-verification" content="QVU1YxmQ6UrwCB_WkNRjGmAqiCD9YZ_qR24buHq3qHo" /><meta property="og:title" content="Home"/><meta property="og:type" content="article"/><meta property="og:url" content="http://www.greenleafgoddess.com/"/><meta property="og:site_name" content="greenleafgoddess"/><meta property="og:description" content=""/><link rel="amphtml" href="http://www.greenleafgoddess.com/amp" /><link rel="icon" href="http://www.greenleafgoddess.com/wp-content/uploads/2015/08/cropped-bannersmaller1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.greenleafgoddess.com/wp-content/uploads/2015/08/cropped-bannersmaller1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.greenleafgoddess.com/wp-content/uploads/2015/08/cropped-bannersmaller1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.greenleafgoddess.com/wp-content/uploads/2015/08/cropped-bannersmaller1-270x270.png" />
+<style type="text/css" media="all">.main-nav-wrap ul.main-nav-inner > li > a, .nav-right-col {line-height: 54px;}.mobile-nav-button, .header-style-1 .logo-inner img{ height: 54px;}.ruby-is-stick .main-nav-wrap ul.main-nav-inner > li > a, .ruby-is-stick .nav-right-col { line-height: 54px;}.ruby-is-stick .mobile-nav-button{ height: 54px;}.header-style-1 .ruby-is-stick .logo-inner img{ height:54px;}@media only screen and (max-width: 991px) {.header-style-1 .nav-bar-wrap .main-nav-wrap ul.main-nav-inner > li > a, .header-style-1 .nav-bar-wrap .nav-right-col{line-height: 54px;}.header-style-1 .nav-bar-wrap .logo-inner img, .header-style-1 .nav-bar-wrap .mobile-nav-button{ height:54px;}}.nav-bar-wrap{ background-color: #000000!important; }.is-sub-menu{ -webkit-box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.08); }.is-sub-menu, .main-nav-wrap ul.main-nav-inner > li.current-menu-item > a,.main-nav-wrap ul.main-nav-inner > li:hover, .main-nav-wrap ul.main-nav-inner > li:focus{ background-color : #0a1010}.main-nav-wrap ul.main-nav-inner > li.current-menu-item > a, .main-nav-wrap ul.main-nav-inner > li:hover > a,.main-nav-wrap ul.main-nav-inner > li:focus > a, .is-sub-menu li.menu-item a:hover, .is-sub-menu li.menu-item a:focus,.mobile-nav-wrap a:hover, .meta-info-el a:hover, .meta-info-el a:focus, .twitter-content.post-excerpt a,.entry a:not(button):hover, .entry a:not(button):focus, .entry blockquote:before, .logged-in-as a:hover, .logged-in-as a:focus,.user-name h3 a:hover, .user-name h3 a:focus, .cate-info-style-4 .cate-info-el,.cate-info-style-1 .cate-info-el, .cate-info-style-2 .cate-info-el{ color :#bb61eb;}button[type="submit"], input[type="submit"], .page-numbers.current, a.page-numbers:hover, a.page-numbers:focus, .nav-bar-wrap,.btn:hover, .btn:focus, .is-light-text .btn:hover, .is-light-text .btn:focus, .widget_mc4wp_form_widget form,#ruby-back-top i:hover:before, #ruby-back-top i:hover:after, .single-page-links > *:hover, .single-page-links > *:focus, .single-page-links > span,.entry blockquote:after, .author-title a, .single-tag-wrap a:hover, .single-tag-wrap a:focus, #cancel-comment-reply-link:hover, #cancel-comment-reply-link:focus,a.comment-reply-link:hover, a.comment-reply-link:focus, .comment-edit-link:hover, .comment-edit-link:focus, .top-footer-wrap .widget_mc4wp_form_widget,.related-wrap .ruby-related-slider-nav:hover, .related-wrap .ruby-related-slider-nav:focus, .close-aside-wrap a:hover, .ruby-close-aside-bar a:focus,.archive-page-header .author-social a:hover, .archive-page-header .author-social a:hover:focus, .user-post-link a, .number-post, .btn-load-more,.is-light-text.cate-info-style-4 .cate-info-el, .cate-info-style-3 .cate-info-el:first-letter, .cate-info-style-1 .cate-info-el:before,.cate-info-style-2 .cate-info-el:before{ background-color :#bb61eb;}.cate-info-style-3 .cate-info-el{ border-color: #bb61eb;}.is-sub-menu li.menu-item,.mega-menu-wrap .is-sub-menu:before,.main-nav-wrap ul.main-nav-inner > li.current-menu-item > a,.main-nav-wrap ul.main-nav-inner > li:hover > a, .main-nav-wrap ul.main-nav-inner > li:focus > a{ color: #ffffff;}.main-nav-wrap ul.main-nav-inner > li.current-menu-item > a,.main-nav-wrap ul.main-nav-inner > li > a:hover, .main-nav-wrap ul.main-nav-inner > li > a:focus{ color : #bb61eb;}.left-mobile-nav-button.mobile-nav-button, .nav-right-col, .main-nav-wrap ul.main-nav-inner > li:first-child > a, .main-nav-wrap ul.main-nav-inner > li > a, .nav-right-col > *{border-color: rgba(255,251,251,0);}.cate-info-style-1 .cate-info-el.is-cate-1,.cate-info-style-2 .cate-info-el.is-cate-1,.cate-info-style-4 .cate-info-el.is-cate-1{ color :#ff666b;}.cat-item-1 .number-post,.cate-info-style-1 .cate-info-el.is-cate-1:before,.cate-info-style-2 .cate-info-el.is-cate-1:before,.cate-info-style-3 .cate-info-el.is-cate-1:first-letter,.is-light-text.cate-info-style-4 .cate-info-el.is-cate-1{ background-color :#ff666b;}.cate-info-el.is-cate-1{ border-color :#ff666b;}.box-share.is-color-icon > ul > li.box-share-el,.box-share-aside.is-color-icon > ul > li.box-share-el i, .box-share-aside.is-color-icon > ul > li.box-share-el span { background-color: #bb61eb }.post-wrap, .single-header, .post-feat-grid-small .post-title,.post-feat-grid-small:last-child .post-header, .block-title{ text-align: center;}.share-bar-right{float: none; margin-left: 7px;}.share-bar-right > *:first-child:before{content: "/"; display: inline-block; margin-right: 7px;}.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6{ font-family :Playfair Display;}.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6{ font-weight :400;}.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6{ text-transform :capitalize;}.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6{ color :#282828;}.post-title.is-big-title { font-size :38px; }.post-title.is-small-title { font-size :16px; }.post-title.single-title { font-size :48px; }.post-excerpt, .entry.post-excerpt { font-size :15px; }#footer-copyright.is-background-color{ background-color: transparent;}[id="c5cac2d4_9e26"] .block-title{ border-color : #bb61eb;}[id="c5cac2d4_9e26"] .block-title h3{ background-color : #bb61eb;}</style><style type="text/css" title="dynamic-css" class="options-output">.header-style-2{background-color:#0a1010;background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:center center;}.footer-area{background-color:#ffffff;background-repeat:no-repeat;background-size:cover;background-attachment:scroll;background-position:center top;}body{font-family:"Open Sans";line-height:24px;font-weight:400;font-style:normal;color:#333;font-size:16px;}.post-title,.review-info-score,.review-as{font-family:"Playfair Display";text-transform:capitalize;font-weight:400;font-style:normal;color:#282828;font-size:26px;}.post-meta-info,.review-info-intro{font-family:"Open Sans";text-transform:uppercase;font-weight:300;font-style:normal;color:#777;font-size:12px;}.post-cate-info,.box-share ,.post-share-bar{font-family:"Open Sans";text-transform:uppercase;font-weight:400;font-style:normal;font-size:12px;}.post-btn,.pagination-load-more{font-family:"Open Sans";text-transform:uppercase;letter-spacing:1px;font-weight:300;font-style:normal;font-size:12px;}.main-nav-wrap ul.main-nav-inner > li > a,.mobile-nav-wrap{font-family:"Playfair Display";text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;font-size:15px;}.is-sub-menu li.menu-item,.mobile-nav-wrap .show-sub-menu > .sub-menu{font-family:"Playfair Display";text-transform:capitalize;letter-spacing:0px;font-weight:400;font-style:normal;font-size:15px;}.widget-title,.block-title{font-family:"Playfair Display";text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;color:#282828;font-size:12px;}</style><meta data-pso-pv="1.2.1" data-pso-pt="front" data-pso-th="fcb383f7dfb614eeefdfdfdbf47b18af"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script pagespeed_no_defer="" data-pso-version="20170307_163748">window.dynamicgoogletags={config:[]};dynamicgoogletags.config=["ca-pub-3782634286582397",[[[["BODY",0,null,[]],["10px","10px",1],2,[5],"3399439225",0,null,null,2],[["DIV",null,null,["logo-section-wrap"]],["10px","10px",1],0,[4],"4876172424",0,null,null,5]]],[[[[null,[[20,20]],null,34,1,1]],[[["BODY",0,null,[]],["10px","10px",1],2,[5],null,0,null,null,2],[["DIV",null,"b51c41e0_fefe",[]],["10px","30px",1],3,[1],null,0,null,null,8],[["DIV",null,"d3f99563_9afc",[]],["10px","15px",1],3,[1],null,0,null,null,7],[["DIV",null,null,["ruby-sidebar-sticky"]],["60px","30px",1],0,[1],null,0,null,null,10],[["DIV",null,"siq-expandwdgt-cont",[]],["10px","30px",1],0,[1],null,0,null,null,13],[["DIV",null,"siq-expandwdgt-cont",[]],["10px","10px",1],3,[1],null,0,null,null,13],[["DIV",0,null,["block-header-inner"],1],["10px","10px",0],0,[0],null,0],[["DIV",0,null,["block-header-inner"],2],["10px","10px",0],0,[0],null,0],[["DIV",0,null,["block-header-inner"],3],["10px","10px",0],0,[0],null,0],[["DIV",0,null,["block-header-inner"],-1],["10px","10px",0],3,[0],null,0],[["DIV",1,null,["block-header-inner"],1],["10px","10px",0],0,[0],null,0],[["DIV",1,null,["block-header-inner"],2],["10px","10px",0],0,[0],null,0],[["DIV",1,null,["block-header-inner"],3],["10px","10px",0],0,[0],null,0],[["DIV",1,null,["block-header-inner"],-1],["10px","10px",0],3,[0],null,0],[["DIV",2,null,["block-header-inner"],1],["10px","10px",0],0,[0],null,0],[["DIV",2,null,["block-header-inner"],2],["10px","10px",0],0,[0],null,0],[["DIV",2,null,["block-header-inner"],3],["10px","10px",0],0,[0],null,0],[["DIV",2,null,["block-header-inner"],-1],["10px","10px",0],3,[0],null,0],[["DIV",null,null,["si-follow-me"]],["10px","10px",1],0,[3],null,0,null,null,12],[["DIV",null,"simple-instagram-wrap",[]],["10px","10px",1],3,[3],null,0,null,null,11]],["3803143224","5279876425","6756609622","8233342827","9710076021"],["DIV",null,null,["block-header-inner"]],"20170214_040801"]],"WordPressFront","3833496029",null,0.01,null,[null,1490381782400],0.01,1,null,null,"http://www.greenleafgoddess.com"];(function(){var h=this,aa=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";
+else if("function"==b&&"undefined"==typeof a.call)return"object";return b},p=function(a){return"number"==typeof a},ba=function(a,b){var c=Array.prototype.slice.call(arguments,1);return function(){var b=c.slice();b.push.apply(b,arguments);return a.apply(this,b)}},r=function(a,b){function c(){}c.prototype=b.prototype;a.Sa=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.Ua=function(a,c,f){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return b.prototype[c].apply(a,
+d)}};var ca=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},da=function(a,b){return a<b?-1:a>b?1:0},ea=function(a){return String(a).replace(/\-([a-z])/g,function(a,c){return c.toUpperCase()})};var fa=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var d=a.length,e="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in e&&b.call(c,e[f],f,a)},ga=Array.prototype.map?function(a,b,c){return Array.prototype.map.call(a,b,c)}:function(a,b,c){for(var d=a.length,e=Array(d),f="string"==typeof a?a.split(""):a,g=0;g<d;g++)g in f&&(e[g]=b.call(c,f[g],g,a));return e};var ha=function(a){ha[" "](a);return a};ha[" "]=function(){};var ja=function(a,b){var c=ia;Object.prototype.hasOwnProperty.call(c,a)||(c[a]=b(a))};var la=function(){var a=ka;try{var b;if(b=!!a&&null!=a.location.href)a:{try{ha(a.foo);b=!0;break a}catch(c){}b=!1}return b}catch(c){return!1}},ma=function(a,b,c){for(var d in a)Object.prototype.hasOwnProperty.call(a,d)&&b.call(c,a[d],d,a)};var t;a:{var na=h.navigator;if(na){var oa=na.userAgent;if(oa){t=oa;break a}}t=""}var v=function(a){return-1!=t.indexOf(a)};var pa=v("Opera"),w=v("Trident")||v("MSIE"),qa=v("Edge"),ra=v("Gecko")&&!(-1!=t.toLowerCase().indexOf("webkit")&&!v("Edge"))&&!(v("Trident")||v("MSIE"))&&!v("Edge"),sa=-1!=t.toLowerCase().indexOf("webkit")&&!v("Edge"),ta=function(){var a=h.document;return a?a.documentMode:void 0},ua;
+a:{var va="",wa=function(){var a=t;if(ra)return/rv\:([^\);]+)(\)|;)/.exec(a);if(qa)return/Edge\/([\d\.]+)/.exec(a);if(w)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(sa)return/WebKit\/(\S+)/.exec(a);if(pa)return/(?:Version)[ \/]?(\S+)/.exec(a)}();wa&&(va=wa?wa[1]:"");if(w){var xa=ta();if(null!=xa&&xa>parseFloat(va)){ua=String(xa);break a}}ua=va}
+var ya=ua,ia={},za=function(a){ja(a,function(){for(var b=0,c=ca(String(ya)).split("."),d=ca(String(a)).split("."),e=Math.max(c.length,d.length),f=0;0==b&&f<e;f++){var g=c[f]||"",k=d[f]||"";do{g=/(\d*)(\D*)(.*)/.exec(g)||["","","",""];k=/(\d*)(\D*)(.*)/.exec(k)||["","","",""];if(0==g[0].length&&0==k[0].length)break;b=da(0==g[1].length?0:parseInt(g[1],10),0==k[1].length?0:parseInt(k[1],10))||da(0==g[2].length,0==k[2].length)||da(g[2],k[2]);g=g[3];k=k[3]}while(0==b)}return 0<=b})},Aa;var Ba=h.document;
+Aa=Ba&&w?ta()||("CSS1Compat"==Ba.compatMode?parseInt(ya,10):5):void 0;var x=function(){},Ca="function"==typeof Uint8Array,z=function(a,b,c){a.a=null;b||(b=[]);a.Wa=void 0;a.M=-1;a.l=b;a:{if(a.l.length){b=a.l.length-1;var d=a.l[b];if(d&&"object"==typeof d&&"array"!=aa(d)&&!(Ca&&d instanceof Uint8Array)){a.R=b-a.M;a.G=d;break a}}a.R=Number.MAX_VALUE}a.Va={};if(c)for(b=0;b<c.length;b++)d=c[b],d<a.R?(d+=a.M,a.l[d]=a.l[d]||y):a.G[d]=a.G[d]||y},y=[],A=function(a,b){if(b<a.R){b+=a.M;var c=a.l[b];return c===y?a.l[b]=[]:c}c=a.G[b];return c===y?a.G[b]=[]:c},Ea=function(a){a=
+A(Da,a);return null==a?a:+a},B=function(a,b,c){b<a.R?a.l[b+a.M]=c:a.G[b]=c},C=function(a,b,c){a.a||(a.a={});if(!a.a[c]){var d=A(a,c);d&&(a.a[c]=new b(d))}return a.a[c]},D=function(a,b,c){a.a||(a.a={});if(!a.a[c]){for(var d=A(a,c),e=[],f=0;f<d.length;f++)e[f]=new b(d[f]);a.a[c]=e}b=a.a[c];b==y&&(b=a.a[c]=[]);return b},Fa=function(a,b,c){a.a||(a.a={});c=c||[];for(var d=[],e=0;e<c.length;e++)d[e]=E(c[e]);a.a[b]=c;B(a,b,d)},Ga=function(a){if(a.a)for(var b in a.a){var c=a.a[b];if("array"==aa(c))for(var d=
+0;d<c.length;d++)c[d]&&E(c[d]);else c&&E(c)}},E=function(a){Ga(a);return a.l};x.prototype.toString=function(){Ga(this);return this.l.toString()};var Ha=function(a){var b;if("array"==aa(a)){for(var c=Array(a.length),d=0;d<a.length;d++)null!=(b=a[d])&&(c[d]="object"==typeof b?Ha(b):b);return c}if(Ca&&a instanceof Uint8Array)return new Uint8Array(a);c={};for(d in a)null!=(b=a[d])&&(c[d]="object"==typeof b?Ha(b):b);return c};var Ia=function(a,b){this.events=[];this.qa={};this.Z=b||h;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.events=b.google_js_reporting_queue);this.ka=null!=this.Z.google_measure_js_timing?this.Z.google_measure_js_timing:Math.random()<a};Ia.prototype.disable=function(){fa(this.events,this.ja,this);ma(this.qa,function(a){fa(a,this.ja,this)},this);this.qa={};this.events.length=0;this.ka=!1};
+Ia.prototype.ja=function(a){a="goog_"+a.label+"_"+a.type+"_"+a.eventId;var b=this.Z.performance;b&&b.clearMarks&&(b.clearMarks(a+"_start"),b.clearMarks(a+"_end"))};var Ja=function(){var a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});h.addEventListener("test",null,b)}catch(c){}return a}();var Ka=function(a,b,c,d,e){this.na=c||4E3;this.H=a||"&";this.za=b||",$";this.T=void 0!==d?d:"trn";this.Ta=e||null;this.ya=!1;this.V={};this.Ka=0;this.L=[]},Na=function(a,b,c,d){b=b+"//"+c+d;var e=La(a)-d.length-0;if(0>e)return"";a.L.sort(function(a,b){return a-b});d=null;c="";for(var f=0;f<a.L.length;f++)for(var g=a.L[f],k=a.V[g],m=0;m<k.length;m++){if(!e){d=null==d?g:d;break}var l=Ma(k[m],a.H,a.za);if(l){l=c+l;if(e>=l.length){e-=l.length;b+=l;c=a.H;break}else a.ya&&(c=e,l[c-1]==a.H&&--c,b+=l.substr(0,
+c),c=a.H,e=0);d=null==d?g:d}}f="";a.T&&null!=d&&(f=c+a.T+"="+(a.Ta||d));return b+f+""},La=function(a){if(!a.T)return a.na;var b=1,c;for(c in a.V)b=c.length>b?c.length:b;return a.na-a.T.length-b-a.H.length-1},Ma=function(a,b,c,d,e){var f=[];ma(a,function(a,k){(a=Oa(a,b,c,d,e))&&f.push(k+"="+a)});return f.join(b)},Oa=function(a,b,c,d,e){if(null==a)return"";b=b||"&";c=c||",$";"string"==typeof c&&(c=c.split(""));if(a instanceof Array){if(d=d||0,d<c.length){for(var f=[],g=0;g<a.length;g++)f.push(Oa(a[g],
+b,c,d+1,e));return f.join(c[d])}}else if("object"==typeof a)return e=e||0,2>e?encodeURIComponent(Ma(a,b,c,d,e+1)):"...";return encodeURIComponent(String(a))};var Sa=function(a,b,c,d){var e=Qa;if((c?e.Qa:Math.random())<(d||e.Ba))try{var f;b instanceof Ka?f=b:(f=new Ka,ma(b,function(a,b){var c=f,d=c.Ka++,e={};e[b]=a;a=[e];c.L.push(d);c.V[d]=a}));var g=Na(f,e.Na,e.Da,e.Ma+a+"&");g&&Ra(g)}catch(k){}},Ra=function(a){h.google_image_requests||(h.google_image_requests=[]);var b=h.document.createElement("img");b.src=a;h.google_image_requests.push(b)};var Ta;if(!(Ta=!ra&&!w)){var Ua;if(Ua=w)Ua=9<=Number(Aa);Ta=Ua}Ta||ra&&za("1.9.1");w&&za("9");var F=function(a,b,c,d){this.top=a;this.right=b;this.bottom=c;this.left=d};F.prototype.floor=function(){this.top=Math.floor(this.top);this.right=Math.floor(this.right);this.bottom=Math.floor(this.bottom);this.left=Math.floor(this.left);return this};var Va=document,Wa=window;var Xa=!!window.google_async_iframe_id,ka=Xa&&window.parent||window;var Qa,G;if(Xa&&!la()){var Ya="."+Va.domain;try{for(;2<Ya.split(".").length&&!la();)Va.domain=Ya=Ya.substr(Ya.indexOf(".")+1),ka=window.parent}catch(a){}la()||(ka=window)}G=ka;var Za=new Ia(1,G);Qa=new function(){this.Na="http:"===Wa.location.protocol?"http:":"https:";this.Da="pagead2.googlesyndication.com";this.Ma="/pagead/gen_204?id=";this.Ba=.01;this.Qa=Math.random()};
+if("complete"==G.document.readyState)G.google_measure_js_timing||Za.disable();else if(Za.ka){var $a=function(){G.google_measure_js_timing||Za.disable()};G.addEventListener?G.addEventListener("load",$a,Ja?void 0:!1):G.attachEvent&&G.attachEvent("onload",$a)};var H=function(a){this.pa={};this.pa.c=a;this.o=[];this.u=null;this.v=[];this.fa=0};H.prototype.g=function(a){for(var b=0;b<this.o.length;b++)if(this.o[b]==a)return this;this.o.push(a);return this};var ab=function(a,b){a.u=a.u?a.u:b;return a};H.prototype.C=function(a){for(var b=0;b<this.v.length;b++)if(this.v[b]==a)return this;this.v.push(a);return this};
+H.prototype.getData=function(a){var b=this.pa,c={},d;for(d in b)c[d]=b[d];0<this.fa&&(c.t=this.fa);c.err=this.o.join();c.warn=this.v.join();if(this.u){c.excp_n=this.u.name;c.excp_m=this.u.message&&this.u.message.substring(0,512);if(b=this.u.stack){d=this.u.stack;try{-1==d.indexOf("")&&(d="\n"+d);for(var e;d!=e;)e=d,d=d.replace(/((https?:\/..*\/)[^\/:]*:\d+(?:.|\n)*)\2/,"$1");b=d.replace(/\n */g,"\n")}catch(f){b=""}}c.excp_s=b}c.w=0<a.innerWidth?a.innerWidth:null;c.h=0<a.innerHeight?a.innerHeight:
+null;return c};var cb=function(a,b){bb(a,a.Ga,a.X,b)},bb=function(a,b,c,d){var e=d.u;d=d.getData(a.K);a.Ia?(d.type=b,a.K.console.log(d),e&&a.K.console.error(e)):0<c&&(d.r=c,Sa(b,d,"jserror"!=b,c))};var I=function(a){return a.dynamicgoogletags=a.dynamicgoogletags||{}};var J=function(a){z(this,a,db)};r(J,x);var db=[4];J.prototype.getId=function(){return A(this,3)};var K=function(a){z(this,a,null)};r(K,x);var eb=function(a){z(this,a,null)};r(eb,x);var L=function(a){return C(a,J,1)},gb=function(a){z(this,a,fb)};r(gb,x);var fb=[1];gb.prototype.i=function(){return D(this,eb,1)};gb.prototype.sa=function(a){Fa(this,1,a)};var M=function(a){z(this,a,hb)};r(M,x);var hb=[2];M.prototype.ma=function(){return A(this,3)};M.prototype.ta=function(a){B(this,3,a)};var ib=function(a){z(this,a,null)};r(ib,x);var N=function(a){z(this,a,jb)};r(N,x);var jb=[1,2,3];N.prototype.i=function(){return D(this,eb,2)};
+N.prototype.sa=function(a){Fa(this,2,a)};var O=function(a){z(this,a,kb)};r(O,x);var kb=[3];O.prototype.A=function(){return A(this,1)};O.prototype.D=function(){return C(this,gb,2)};O.prototype.O=function(){return A(this,4)};O.prototype.ma=function(){return A(this,5)};O.prototype.ta=function(a){B(this,5,a)};O.prototype.N=function(){return C(this,lb,9)};var lb=function(a){z(this,a,null)};r(lb,x);var mb=function(a){this.m=a;this.va=[]};mb.prototype.f=function(){return 0<D(this.m,N,3).length?D(this.m,N,3)[0]:null};var nb=function(a){var b=["adsbygoogle-placeholder"];a=a.className?a.className.split(/\s+/):[];for(var c={},d=0;d<a.length;++d)c[a[d]]=!0;for(d=0;d<b.length;++d)if(!c[b[d]])return!1;return!0};var ob=function(a,b){for(var c=0;c<b.length;c++){var d=b[c],e=ea(d.Xa);a[e]=d.value}},rb=function(a,b){var c=pb;b.setAttribute("data-adsbygoogle-status","reserved");b={element:b};(c=c&&c.Oa)&&(b.params=c);qb(a).push(b)},qb=function(a){return a.adsbygoogle=a.adsbygoogle||[]};var sb=function(a,b){if(!a)return!1;a=b.getComputedStyle?b.getComputedStyle(a,null):a.currentStyle;if(!a)return!1;a=a.cssFloat||a.styleFloat;return"left"==a||"right"==a},tb=function(a){for(a=a.previousSibling;a&&1!=a.nodeType;)a=a.previousSibling;return a?a:null},ub=function(a){return!!a.nextSibling||!!a.parentNode&&ub(a.parentNode)};var vb=function(a,b){var c=a.length;if(null!=c)for(var d=0;d<c;d++)b.call(void 0,a[d],d)};var wb=function(a,b,c,d){this.oa=a;this.aa=b;this.ba=c;this.P=d};wb.prototype.query=function(a){var b=[];try{b=a.querySelectorAll(this.oa)}catch(f){}if(!b.length)return[];a=b;b=a.length;if(0<b){for(var c=Array(b),d=0;d<b;d++)c[d]=a[d];a=c}else a=[];a=xb(this,a);p(this.aa)&&(b=this.aa,0>b&&(b+=a.length),a=0<=b&&b<a.length?[a[b]]:[]);if(p(this.ba)){b=[];for(c=0;c<a.length;c++){var d=yb(a[c]),e=this.ba;0>e&&(e+=d.length);0<=e&&e<d.length&&b.push(d[e])}a=b}return a};
+wb.prototype.toString=function(){return JSON.stringify({nativeQuery:this.oa,occurrenceIndex:this.aa,paragraphIndex:this.ba,ignoreMode:this.P})};
+var xb=function(a,b){if(null==a.P)return b;switch(a.P){case 1:return b.slice(1);case 2:return b.slice(0,b.length-1);case 3:return b.slice(1,b.length-1);case 0:return b;default:throw Error("Unknown ignore mode: "+a.P);}},yb=function(a){var b=[];vb(a.getElementsByTagName("p"),function(a){100<=zb(a)&&b.push(a)});return b},zb=function(a){if(3==a.nodeType)return a.length;if(1!=a.nodeType||"SCRIPT"==a.tagName)return 0;var b=0;vb(a.childNodes,function(a){b+=zb(a)});return b},Ab=function(a){return 0==a.length||
+isNaN(a[0])?a:"\\"+(30+parseInt(a[0],10))+" "+a.substring(1)};var Bb=function(a,b){var c=0,d=A(a,6);if(void 0!==d)switch(d){case 0:c=1;break;case 1:c=2;break;case 2:c=3}var d=null,e=A(a,7);if(A(a,1)||a.getId()||0<A(a,4).length){var f=a.getId(),g=A(a,1),e=A(a,4),d=A(a,2);a=A(a,5);var k="";g&&(k+=g);f&&(k+="#"+Ab(f));if(e)for(f=0;f<e.length;f++)k+="."+Ab(e[f]);d=(e=k)?new wb(e,d,a,c):null}else e&&(d=new wb(e,A(a,2),A(a,5),c));return d?d.query(b):[]},Cb=function(a,b){if(a==b)return!0;if(!a||!b||A(a,1)!=A(b,1)||A(a,2)!=A(b,2)||a.getId()!=b.getId()||A(a,7)!=A(b,
+7)||A(a,5)!=A(b,5)||A(a,6)!=A(b,6))return!1;a=A(a,4);b=A(b,4);if(a||b)if(a&&b&&a.length==b.length)for(var c=0;c<a.length;c++){if(a[c]!=b[c])return!1}else return!1;return!0};var Db=function(a){a=a.document;return("CSS1Compat"==a.compatMode?a.documentElement:a.body)||{}},Eb=function(a){return void 0===a.pageYOffset?(a.document.documentElement||a.document.body.parentNode||a.document.body).scrollTop:a.pageYOffset};var Fb=function(a,b){b=L(b);if(!b)return null;a=Bb(b,a);return 0<a.length?a[0]:null},Hb=function(a,b){b=Gb(a,b,!0);return p(b)&&!(b<=Db(a).clientHeight)},Ib=function(a,b){return a.body?b-a.body.getBoundingClientRect().top:b},Gb=function(a,b,c){if(!c||!p(A(b,8))){var d=Fb(a.document,b);if(d){var e=null!=C(b,K,2)?A(C(b,K,2),3):void 0;c=a.document.createElement("div");c.className="googlepublisherpluginad";var f=c.style;f.textAlign="center";f.width="100%";f.height="0px";f.clear=e?"both":"none";Jb(c,d,
+A(b,3));d=c.getBoundingClientRect().top+Eb(a);c.parentNode.removeChild(c);B(b,8,d)}}b=A(b,8);return p(b)?b-Eb(a):null},Kb={0:0,1:1,2:2,3:3},Lb={0:"auto",1:"horizontal",2:"vertical",3:"rectangle"},Mb=function(a,b){a.sort(function(a,d){a=Gb(b,a,!0);a=p(a)?a:Number.POSITIVE_INFINITY;d=Gb(b,d,!0);d=p(d)?d:Number.POSITIVE_INFINITY;return a-d})},Jb=function(a,b,c){switch(Kb[c]){case 0:b.parentNode&&b.parentNode.insertBefore(a,b);break;case 3:if(c=b.parentNode){var d=b.nextSibling;if(d&&d.parentNode!=c)for(;d&&
+8==d.nodeType;)d=d.nextSibling;c.insertBefore(a,d)}break;case 1:b.insertBefore(a,b.firstChild);break;case 2:b.appendChild(a)}if(1!=b.nodeType?0:"INS"==b.tagName&&nb(b))b.style.display="block"};var pb=new function(){this.ia="googlepublisherpluginad";this.Oa={google_tag_origin:"pso"}},P=function(a){this.b=a;this.j=[];this.ea=0;this.o=[];this.v=[];this.Y=null;this.ra=!1},Nb=function(a,b){a=C(a.f(),J,4);if(!(a&&b&&A(b,1)==A(a,1)&&b.getId()==a.getId()&&p(A(b,2))&&p(A(b,5))))return!1;a=A(a,4);b=A(b,4);if(a.length!=b.length)return!1;for(var c=0;c<a.length;++c)if(b[c]!=a[c])return!1;return!0},Ob=function(a){var b=p(void 0)?void 0:20,c=a.f(),d=c.i(),e=C(c,J,4);if(!(a.ra||0>=b)&&e&&0!=Bb(e,a.b.document).length){a.ra=
+!0;for(var c=[],f=0;f<d.length;++f){var g=d[f],k=L(g);if(Nb(a,k)){var m=A(k,2),k=A(k,5);null!=m&&null!=k&&0<=m&&0<=k&&(!c[m]||A(L(c[m]),5)<k)&&(c[m]=g)}}k=0;d=Bb(e,a.b.document);for(m=0;m<c.length&&k<b;++m){var e=k,f=a,l=d[m],g=c[m],k=b-k,u=f.f().i(),q=0;if(l&&g){l=yb(l).length;switch(A(L(g),6)){case 0:case 1:--l;break;case 2:l-=2}for(var n=A(L(g),5)+1;n<l&&q<k;++n){var Pa=new g.constructor(Ha(E(g))),Ic=L(Pa);B(Ic,5,n);u.push(Pa);q++}}q&&f.f().sa(u);k=e+q}}};
+P.prototype.g=function(a){for(var b=0;b<this.o.length;++b)if(this.o[b]==a)return;this.o.push(a)};P.prototype.C=function(a){for(var b=0;b<this.v.length;++b)if(this.v[b]==a)return;this.v.push(a)};
+var Pb=function(a,b,c){var d=Kb[A(b,3)],e=Fb(a.b.document,b);if(e){var f=L(b)?A(L(b),2):void 0,g;a:{g=a.b;if(null!=f)switch(d){case 0:g=sb(tb(e),g);break a;case 3:g=sb(e,g);break a;case 2:f=e.lastChild;g=sb(f?1==f.nodeType?f:tb(f):null,g);break a}g=!1}if(!g&&(c||2!=d||ub(e))&&(c=1==d||2==d?e:e.parentNode,!c||(1!=c.nodeType?0:"INS"==c.tagName&&nb(c))||!(0>=c.offsetWidth)))a:if(A(b,7))a.C(8);else{b:if(A(b,5))c=A(b,5);else{if(c=Q(a).f())if(c=A(c,3),a.ea<c.length){c=c[a.ea++];break b}a.g(4);c=null}if(null!=
+c){B(b,7,!0);d=[];(g=a.O())&&d.push(g);g=Q(a).va;for(f=0;f<g.length;++f)d.push(g[f]);p(A(b,9))&&d.push("pso-lv-"+A(b,9));var k=a.b.document;g=a.A();var f=A(b,6),f=null!=f?Lb[f]:f,m=C(b,K,2),l={};m&&(l.ua=A(m,1),l.ha=A(m,2),l.Aa=!!A(m,3));var m=c,u=pb,q=k.createElement("div"),n=q.style;n.textAlign="center";n.width="100%";n.height="auto";n.clear=l.Aa?"both":"none";l.La&&ob(n,l.La);k=k.createElement("ins");n=k.style;n.display="block";n.margin="auto";n.backgroundColor="transparent";l.ua&&(n.marginTop=
+l.ua);l.ha&&(n.marginBottom=l.ha);l.wa&&ob(n,l.wa);q.appendChild(k);k.setAttribute("data-ad-format",f?f:"auto");if(f=u&&u.ia)q.className=f;k.className="adsbygoogle";k.setAttribute("data-ad-client",g);m&&k.setAttribute("data-ad-slot",m);d.length&&k.setAttribute("data-ad-channel",d.join("+"));Jb(q,e,A(b,3));try{rb(a.b,k)}catch(Pa){A(b,5)!=c&&a.ea--;B(b,7,!1);a.C(6);q&&q.parentNode&&q.parentNode.removeChild(q);break a}a.j.push(q)}}}},Qb=function(a,b){for(var c=Number.POSITIVE_INFINITY,d=0;d<a.j.length;++d)var e=
+a.j[d].getBoundingClientRect().top,f=a.j[d].getBoundingClientRect().bottom,c=Math.min(c,b<e?e-b:f<b?b-f:0);return c},Q=function(a){a=I(a.b).ps||null;if(!a)throw Error("No placementState");return a},Rb=function(a,b){var c=Q(a).m;if(!c||!c.A())return a.g(5),!1;c=D(c,N,3)[0];return c?A(c,3).length<b?(a.g(4),a.g(5),!1):!0:(a.g(5),!1)};P.prototype.A=function(){return Q(this).m.A()||""};P.prototype.O=function(){return Q(this).m.O()||void 0};P.prototype.D=function(){return Q(this).m.D()||new gb};
+P.prototype.f=function(){var a=Q(this).f();if(!a)throw Error("No mConfig");return a};var Sb=function(a){a=A(a.f(),6);return null!=a&&0<a};var Tb=function(){this.I=this.J=this.ca=null};var R=function(a){P.call(this,a)};r(R,P);R.prototype.apply=function(a){var b;(b=Q(this).m)&&b.A()&&b.D()?b=!0:(this.g(5),b=!1);if(b){b=this.D().i();for(var c=0;c<b.length;c++){var d=b[c];A(d,7)||Pb(this,d,a)}}};R.prototype.B=function(){return(0==this.D().i().length||0<this.j.length)&&0==this.o.length};var Ub=function(a){P.call(this,a);if(Rb(this,0)){a=this.D().i();for(var b=this.f().i(),c=0;c<a.length;c++){var d=a[c],e;a:{e=d;var f=b;if(e&&L(e))for(var g=0;g<f.length;g++){var k=f[g];if(A(e,3)==A(k,3)&&Cb(L(e),L(k))){e=k;break a}}e=null}e&&C(e,K,2)&&(e=C(e,K,2),d.a||(d.a={}),f=e?E(e):e,d.a[2]=e,B(d,2,f))}}};r(Ub,R);var Wb=function(a,b){var c=void 0===b.pageXOffset?(b.document.documentElement||b.document.body.parentNode||b.document.body).scrollLeft:b.pageXOffset,d=Eb(b);if(a.getBoundingClientRect)return a=a.getBoundingClientRect(),Vb(a)?new F(a.top+d,a.right+c,a.bottom+d,a.left+c):new F(0,0,0,0);b=b.document.createRange();b.selectNodeContents(a);return b.collapsed?new F(0,0,0,0):b.getBoundingClientRect?(a=b.getBoundingClientRect(),Vb(a)?new F(a.top+d,a.right+c,a.bottom+d,a.left+c):new F(0,0,0,0)):new F(0,0,0,
+0)},Vb=function(a){return!!a&&p(a.top)&&!isNaN(a.top)&&p(a.right)&&!isNaN(a.right)&&p(a.bottom)&&!isNaN(a.bottom)&&p(a.left)&&!isNaN(a.left)};var ac=function(a){this.K=a;this.Ha=Xb(a);this.xa=S("ins.adsbygoogle",a);this.ga=Yb(a);this.Pa=S("[__lsu_res=reserved]",a);this.U=[];a=Zb(this);for(var b=0;b<a.length;b++)this.U.push(new $b(a[b]))},Xb=function(a){var b=a.googletag;if(!b||"function"!=typeof b.pubads)return S("div[id^=div-gpt-ad]",a);var c=[];try{for(var d=b.pubads().getSlots(),b=0;b<d.length;b++){var e=d[b].getSlotElementId(),f=a.document.getElementById(e);null!=f&&c.push(f)}}catch(g){Sa("ladd_evt",{ok:0,err:g.toString()},!0,.1)}return c},
+Yb=function(a){return S("iframe[id^=aswift_],iframe[id^=google_ads_frame]",a)},S=function(a,b){return ga(b.document.querySelectorAll(a),function(a){return a})},Zb=function(a){return[].concat(a.Ha,a.xa,a.ga,a.Pa)},$b=function(a){this.Ea=a;this.W=null};var T=function(a){P.call(this,a)};r(T,P);T.prototype.apply=function(){};T.prototype.B=function(){var a;if(Sb(this)){var b=this.b;a=Xb(b);var c=S("ins.adsbygoogle",b),d=Yb(b),b=S("[__lsu_res=reserved]",b);a=0<[].concat(a,c,d,b).length}else a=!0;return a};var bc=function(a){P.call(this,a);this.F=null};r(bc,P);
+bc.prototype.apply=function(a){if(a&&Rb(this,2)){Ob(this);a=Db(this.b).clientHeight||640;null==this.F&&(this.F=new ac(this.b));var b=this.F.ga.length;if(!(5<=b)){var b=Math.min(2,5-b),c=this.f().i();Mb(c,this.b);for(var d=0;d<c.length&&this.j.length<b;++d){var e=c[d];if(Hb(this.b,e)){var f=Gb(this.b,e,!0);if(void 0!==f){var g;a:{g=this.F;for(var k=a,m=f,l=0;l<g.U.length;l++){var u=m,q=k,n;n=g.U[l];n.W||(n.W=Wb(n.Ea,g.K));n=n.W;if(n.top-q<u&&u<n.bottom+q){g=!0;break a}}g=!1}g||Qb(this,f)<a||Pb(this,
+e,!0)}}}0==this.j.length&&this.C(1)}}};bc.prototype.B=function(){return Sb(this)?0<Zb(this.F).length:!0};var cc=function(a){P.call(this,a);this.$=!1};r(cc,T);
+cc.prototype.apply=function(a){if(a&&!this.$){var b;a:{var c=this.b.document;b=c.body;if(a&&b){a=this.A();var d=pb,e=c.createElement("div");e.style.display="block";if(d=d&&d.ia)e.className=d;c=c.createElement("ins");c.className="adsbygoogle";c.setAttribute("data-ad-client",a);c.setAttribute("data-reactive-ad-format","1");c.style.display="none";e.appendChild(c);Jb(e,b,2);try{rb(this.b,c)}catch(f){this.C(6);e&&e.parentNode&&e.parentNode.removeChild(e);b=5;break a}this.j.push(e);b=0}else b=4}this.$=
+0==b}};cc.prototype.B=function(){return this.$&&T.prototype.B.call(this)};var dc=function(a){P.call(this,a);a=Db(a).clientHeight;this.Ca=.1*a;this.Ja=.75*a};r(dc,P);
+dc.prototype.apply=function(a){if(Rb(this,3)&&!this.B()){Ob(this);var b=this.f().i();Mb(b,this.b);var c;c=this.Ca;var d;d=document;d=d.querySelectorAll?d.querySelectorAll("header,#header,#masthead,.header,.site-header"):[];for(var e=d.length,f=0<e?d[0]:null,g=1;g<e;g++)d[g].getBoundingClientRect().top<f.getBoundingClientRect().top&&(f=d[g]);(d=f)&&(d=d.getBoundingClientRect())&&d.top!=d.bottom&&d.left!=d.right&&(c=Math.min(c,Ib(document,d.bottom)));for(d=0;d<b.length&&3>this.j.length;d++){e=b[d];
+var f=c,g=this.b.document,k=Gb(this.b,e,!1);!p(k)||Ib(g,k)<f?f=!1:(f=Qb(this,k),f=this.Ja<f);f&&(f=Hb(this.b,e),g=A(e,6)||0,f&&0==g&&B(e,6,3),!f&&a||Pb(this,e,a))}}};dc.prototype.B=function(){return 3==this.j.length};var U={};U[16]=R;U[17]=R;U[19]=T;U[29]=bc;U[33]=T;U[30]=cc;U[28]=dc;U[34]=dc;U[32]=Ub;U[1]=R;U[8]=T;U[11]=R;var ec=[19,29,33,30,16,32,17,34],fc=[16,19,33,30,17,1,6,8,11];var gc=function(a,b){a=a.google_ad_modifications=a.google_ad_modifications||{};(a.ad_channels=a.ad_channels||[]).push(b)};var hc=function(a){return 0>a||99<a?null:10>a?"0"+a:""+a};var ic=function(a,b){a=a.google_ad_modifications=a.google_ad_modifications||{};a=a.loeids=a.loeids||[];for(var c=0;c<b.length;c++)a.push(b[c])};var jc=function(a,b,c){this.la=a;this.Fa=c?c:new lb};jc.prototype.N=function(){return this.Fa||new lb};var kc=function(a){if(!p(a))return!1;for(var b=0;b<ec.length;++b)if(a==ec[b])return!1;return!0},pc=function(){var a=V,b=lc,c=mc,d=b.f();if(!d)return nc(16);var e=null,f;a:{var g=D(d,M,1);for(f=0;f<g.length;++f){for(var k=!0,m=0;m<fc.length;++m)A(g[f],4)==fc[m]&&(k=!1);if(k){g=[];0==d.i().length&&g.push("PsoInvalidVariant");0==A(d,3).length&&g.push("PsoNoAdSlotCodes");f=g;break a}}f=[]}g=c.la;if(0==f.length)a:{e=D(d,M,1);if(p(g))for(f=0;f<e.length;f++)if(k=e[f],U[A(k,4)])for(var m=D(k,ib,2),l=0;l<
+m.length;l++){var u=m[l],q=A(u,1),u=A(u,2);if(p(q)&&p(u)&&g>=q&&g<=u){e=k;break a}}e=null}else for(k=0;k<f.length;++k)b.va.push(f[k]);if(!e){f=D(d,M,1);e={};for(k=0;k<f.length;k++)e[A(f[k],4)]=!0;f=null;e[19]||e[8]?f=19:e[16]||e[1]?f=16:0<d.i().length&&0<A(d,3).length&&e[34]&&(f=34);null!=f?(e=new M,B(e,6,3),B(e,4,f),16!=f&&19!=f&&e.ta("pso-ama-fallback")):e=null}(f=!e)||(!p(g)||800>g?f=!1:820>g?(ic(a,["26835111"]),f=!0):(840>g&&ic(a,["26835112"]),f=!1));if(f)return nc(16);(g=e.ma())&&gc(a,g);g=!0;
+A(c.N(),2)&&(Date.now?Date.now():+new Date)<A(c.N(),2)||(gc(a,"pso-ama-exd"),g=!1);A(b.m,11)&&(gc(a,"pso-ama-stl-tmp"),g=!1);g&&gc(a,"pso-ama-elig");2==A(e,6)&&(b=A(e,1),null!=b&&ic(a,[""+b]));if(g&&(2==A(e,6)||1==A(e,6))){d=D(d,M,1);if(null===c.la)c=[];else{b={};c=[];for(g=0;g<d.length;g++)f=oc(d[g]),null==f||b[f]||(b[f]=!0,c.push(f));b=oc(e);if(null!=b){d=[];b=hc(b);g=!1;if(b)for(f=0;f<c.length;f++)k=hc(c[f]),b==k&&(g=!0),k&&d.push("950"+b+k);g||(d=[]);c=d}else c=[]}ic(a,c)}a=new Tb;a.ca=A(e,5);
+a.J=A(e,4);return a},nc=function(a){var b=new Tb;b.J=a;return b},qc=function(a){a=a.google_ad_modifications=a.google_ad_modifications||{};a.remove_ads_by_default=!0;a.ad_whitelist=[{ad_tag_origin:"pso"}];a.ad_blacklist=[];a.space_collapsing="slot"},oc=function(a){var b;switch(A(a,6)){case 1:b=A(a,4);break;case 2:b=A(a,7)}return null!=b?b:null};var rc=function(a){this.document=a};var W=function(a){H.call(this,a)};r(W,H);W.prototype.getData=function(a){var b=W.Sa.getData.call(this,a),c;a:{c=(new rc(a.document)).document.getElementsByTagName("script");for(var d=0;d<c.length;++d)if(c[d].hasAttribute("data-pso-version")){c=c[d].getAttribute("data-pso-version");break a}c=null}b.sv=c;if(d=I(a).ps||null){c=d.m;var d=d.f(),e=b.wpc;b.wpc=null!=e?e:c.A();b.su=A(c,14);b.tn=c.O();b.ev=d&&A(d,5)}if(a=I(a).ss||null)b.s=a.J,b.st=a.ca;return b};var sc=null,tc=!1,wc=function(a){var b=uc,c=vc;b.addEventListener?(a&&b.addEventListener("DOMContentLoaded",a,!1),c&&b.addEventListener("load",c,!1)):b.attachEvent&&c&&b.attachEvent("onload",c)},yc=function(a){p(sc)&&a.clearInterval&&(a.clearInterval(sc),sc=null);tc||xc(a,!1);xc(a,!0)},zc=function(a,b){try{yc(b);var c=I(b).ss||null;if(c&&c.I){var d=c.I,e=d.B(),f=d.o,g=d.v,k=d.Y,m=d.j.length;e||0!=m||f.push(6);for(var l=new W(m),c=0;c<g.length;c++)l.C(g[c]);if(e&&0==f.length&&null===k)bb(a,a.Ra,a.da,
+l);else{for(e=0;e<f.length;e++)l.g(f[e]);cb(a,ab(l,k))}}else cb(a,(new W(0)).g(2))}catch(u){cb(a,ab((new W(0)).g(1),u))}I(b).loaded=!0},xc=function(a,b){b||(tc=!0);if((a=I(a).ss||null)&&a.I){a=a.I;try{a.apply(b)}catch(c){a.g(1),null===a.Y&&(a.Y=c)}}},Ac=function(){xc(window,!1)};var X=new function(a){this.Ra="pso_success";this.Ga="pso_failure";this.X=this.da=.01;this.Ia=!1;this.K=a}(window);
+try{var V=window,Da,Bc=I(V).config;Da=Bc?new O(Bc):null;if(!Da)throw Error("No config");var Cc=Ea(10),Dc=Ea(7);X.da=null!=Cc?Cc:X.da;X.X=null!=Dc?Dc:X.X;var lc=new mb(Da),Ec=lc;I(V).ps=Ec;var Y,mc;if(v("iPad")||v("Android")&&!v("Mobile")||v("Silk")||!(v("iPod")||v("iPhone")||v("Android")||v("IEMobile")))Y=nc(16);else{var Fc,Gc=/^#([^=]*)=(\d+)$/.exec(V.location.hash);if((Fc=Gc&&3==Gc.length&&"pso_strategy"==Gc[1]?+Gc[2]:null)&&U[Fc]){Y=nc(Fc);var Hc=V;kc(Fc)&&qc(Hc)}else{var Jc=V,Kc=lc.m.N(),Z;try{var Lc=
+parseInt(Jc.localStorage.getItem("PSO_EXP0"),10);Z=isNaN(Lc)?null:Lc}catch(a){Z=null}if(null==Z){Z=Math.floor(1024*Math.random());var Mc=Z;try{Jc.localStorage.setItem("PSO_EXP0",Mc.toString())}catch(a){}}mc=new jc(Z,0,Kc);Y=pc()}if(1==Y.ca){var Nc=V;kc(Y.J)&&qc(Nc)}}if(!Y)throw Error("No strategyState created!");var Oc=Y;I(V).ss=Oc;var Pc=V,Qc=Y,Rc=Qc.J;if(p(Rc)){var Sc=U[Rc];Rc&&Sc&&(Qc.I=new Sc(Pc))}var uc=V,vc=ba(zc,X,uc),Tc=ba(yc,uc);switch(uc.document.readyState){case "complete":vc();break;case "interactive":Tc();
+wc();break;default:var Uc=uc,Vc=qb(Uc);Vc.loaded||(Vc.onload=Ac);sc=Uc.setInterval(Ac,10);wc(Tc)}}catch(a){cb(X,ab(new W(0),a))};})();
+</script>
+</head><!--#header-->
+
+<body class="home page-template page-template-page-composer page-template-page-composer-php page page-id-1674 ruby-body is-full-width is-header-style-2" itemscope  itemtype="http://schema.org/WebPage" >
+
+<div class="main-aside-wrap">
+			<div class="close-aside-wrap only-mobile">
+			<a href="#" id="ruby-close-aside-bar">close</a>
+		</div>
+		<div class="main-aside-inner">
+		<div class="aside-header-wrap">
+			
+							<div class="social-link-info clearfix nav-social-wrap"><a class="color-facebook" title="Facebook" href="http://facebook.com/greenleafgoddessofficial" target="_blank"><i class="fa fa-facebook"></i></a><a class="color-twitter" title="Twitter" href="http://twitter.com/grnleafgoddess" target="_blank"><i class="fa fa-twitter"></i></a><a class="color-pinterest" title="Pinterest" href="http://pinterest.cpm/jessicaella6" target="_blank"><i class="fa fa-pinterest"></i></a><a class="color-instagram" title="Instagram" href="http://www.instagram.com/greenleafgoddess" target="_blank"><i class="fa fa-instagram"></i></a></div><!--#social icon -->					</div>
+
+		<div id="mobile-navigation" class="mobile-nav-wrap">
+	<ul id="menu-menu1" class="mobile-nav-inner"><li id="menu-item-29257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1674 current_page_item menu-item-29257"><a href="http://www.greenleafgoddess.com/">Home</a></li>
+<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.greenleafgoddess.com/beauty/">Beauty</a></li>
+<li id="menu-item-650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-650"><a href="http://www.greenleafgoddess.com/food-recipes/">Food &#038; Recipes</a></li>
+<li id="menu-item-659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="http://www.greenleafgoddess.com/health-fitness/">Health &#038; Fitness</a></li>
+<li id="menu-item-1107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1107"><a href="http://www.greenleafgoddess.com/life/">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="http://www.greenleafgoddess.com/kawaii/">Kawaii</a></li>
+	<li id="menu-item-882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882"><a href="http://www.greenleafgoddess.com/spirituality/">Spirituality</a></li>
+</ul>
+</li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.greenleafgoddess.com/about-me/">About Me</a></li>
+<li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="http://www.greenleafgoddess.com/ask-jella/">Ask Jella</a></li>
+</ul></div><!--#mobile navigation-->
+		
+	</div>
+</div><!--#main aside wrap -->
+
+
+
+<div class="main-site-outer">
+	
+<div class="header-style-2 clearfix is-center-logo is-sticky is-color-bg">
+											<div class="logo-section-wrap" style="height: 270px">
+				<div class="logo-section-inner ruby-container">
+					<div class="logo-section-holder">
+						
+<div class="logo-wrap"  itemscope  itemtype="http://schema.org/Organization" >
+	<div class="logo-inner">
+									<a href="http://www.greenleafgoddess.com/" class="logo" title="greenleafgoddess">
+					<img data-no-retina src="http://www.greenleafgoddess.com/wp-content/uploads/2017/02/Greenleafgoddesssmallwhite.png" height="300" width="300"  alt="greenleafgoddess" >
+				</a>
+						<meta itemprop="name" content="greenleafgoddess">
+			</div>
+</div><!--#logo wrap -->
+					</div>
+									</div>
+			</div><!--#logo section -->
+												<nav class="nav-bar-outer">
+				<div class="nav-bar-wrap">
+					<div class="ruby-container">
+						<div class="nav-bar-inner clearfix">
+							<div class="nav-left-col">
+								<div class="mobile-nav-button left-mobile-nav-button">
+	<a href="#" class="ruby-trigger" title="menu">
+		<span class="icon-wrap"></span>
+	</a>
+</div><!-- #mobile menu button-->								<div id="navigation" class="main-nav-wrap"  role="navigation"  itemscope  itemtype="http://schema.org/SiteNavigationElement" >
+	<ul id="menu-menu1-1" class="main-nav-inner"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1674 current_page_item menu-item-29257"><a href="http://www.greenleafgoddess.com/">Home</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.greenleafgoddess.com/beauty/">Beauty</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-650"><a href="http://www.greenleafgoddess.com/food-recipes/">Food &#038; Recipes</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="http://www.greenleafgoddess.com/health-fitness/">Health &#038; Fitness</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1107"><a href="http://www.greenleafgoddess.com/life/">Life</a><div class="sub-menu-wrap is-sub-menu"><ul class="sub-menu-inner">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="http://www.greenleafgoddess.com/kawaii/">Kawaii</a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882"><a href="http://www.greenleafgoddess.com/spirituality/">Spirituality</a></li></ul></div><!--#sub menu wrap --></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.greenleafgoddess.com/about-me/">About Me</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="http://www.greenleafgoddess.com/ask-jella/">Ask Jella</a></li></ul></div><!--#navigaiton-->							</div>
+
+							<div class="nav-right-col">
+																	<div class="social-link-info clearfix nav-social-wrap"><a class="color-facebook" title="Facebook" href="http://facebook.com/greenleafgoddessofficial" target="_blank"><i class="fa fa-facebook"></i></a><a class="color-twitter" title="Twitter" href="http://twitter.com/grnleafgoddess" target="_blank"><i class="fa fa-twitter"></i></a><a class="color-pinterest" title="Pinterest" href="http://pinterest.cpm/jessicaella6" target="_blank"><i class="fa fa-pinterest"></i></a><a class="color-instagram" title="Instagram" href="http://www.instagram.com/greenleafgoddess" target="_blank"><i class="fa fa-instagram"></i></a></div><!--#social icon -->								
+																	<div class="nav-search-wrap">
+
+	<a href="#" title="Search" class="ruby-ajax-form-search nav-search-icon">
+		<i class="fa fa-search"></i>
+	</a><!--#nav search button-->
+
+	<div class="nav-search-from nav-search-from-wrap" style="display: none">
+		<div class="nav-search-form-inner">
+			<form class="search-form" method="get" action="http://www.greenleafgoddess.com/">
+	<fieldset>
+		<input type="text" class="field ruby-search-input" name="s" value="" placeholder="Search and hit enter&hellip;">
+		<input type="submit" value="Search" class="btn">
+	</fieldset>
+</form>
+		</div>
+	</div>
+</div>
+								
+								<div class="is-show mobile-nav-button">
+	<a href="#" class="ruby-trigger" title="menu">
+		<span class="icon-wrap"></span>
+	</a>
+</div><!-- #mobile menu button-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</nav>
+			</div>
+
+	<div class="main-site-wrap">
+		<div class="side-area-mask"></div>
+		<div class="site-wrap-outer">
+			<div id="ruby-site-wrap" class="clearfix">
+				<div id="7e2429bb_8bf7" class="ruby-section-fw ruby-section"><div id="16d2578e_9772" class="ruby-block-wrap block-fw-carousel is-full-width"><div class="ruby-block-inner"><div class="block-content-wrap">
+				<div class="feat-wrap is-feat-carousel-fw">
+					<div class="feat-inner">
+						<div class="slider-loading"></div>
+						<div class="ruby-feat-carousel-fw is-light-text slider-init">
+																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/03/10-e1488218345233.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-279" href="http://www.greenleafgoddess.com/category/life/" title="Life">Life</a><a class="cate-info-el is-cate-37" href="http://www.greenleafgoddess.com/category/tips/" title="Tips">Tips</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/10-self-care-tips/" rel="bookmark" title="10 Self Care Tips">10 Self Care Tips</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-08T10:43:01+00:00">March 8, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-279"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=10+Self+Care+Tips&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/03/10-e1488218345233.png&description=10+Self+Care+Tips" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F&amp;name=10+Self+Care+Tips&amp;description=10+Self+Care+Tips" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=10+Self+Care+Tips&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2F10-self-care-tips%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/02/IMG_0192-1280x840.jpg)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/vegan-crunch-wrap-supreme/" rel="bookmark" title="Vegan Crunch Wrap Supreme">Vegan Crunch Wrap Supreme</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-06T11:00:35+00:00">March 6, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-299"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Vegan+Crunch+Wrap+Supreme&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/02/IMG_0192-840x500.jpg&description=Vegan+Crunch+Wrap+Supreme" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F&amp;name=Vegan+Crunch+Wrap+Supreme&amp;description=Vegan+Crunch+Wrap+Supreme" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Vegan+Crunch+Wrap+Supreme&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-crunch-wrap-supreme%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/03/Vegan-Nacho-Cheese-1400x840.jpg)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/vegan-nacho-cheeze/" rel="bookmark" title="Vegan Nacho Cheeze">Vegan Nacho Cheeze</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-06T11:00:19+00:00">March 6, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-299"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Vegan+Nacho+Cheeze&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/03/Vegan-Nacho-Cheese-840x500.jpg&description=Vegan+Nacho+Cheeze" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F&amp;name=Vegan+Nacho+Cheeze&amp;description=Vegan+Nacho+Cheeze" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Vegan+Nacho+Cheeze&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fvegan-nacho-cheeze%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/03/The-root-of-all-health-is-in-the-brain.-The-trunk-of-it-is-in-emotion.-The-branches-and-leaves-are-the-body.-The-flower-of-health-blooms-when-all-parts-work-together1-1080x840.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-279" href="http://www.greenleafgoddess.com/category/life/" title="Life">Life</a><a class="cate-info-el is-cate-38" href="http://www.greenleafgoddess.com/category/talk/" title="Talk">Talk</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/quote-day-3417/" rel="bookmark" title="Quote of the day 3/4/17">Quote of the day 3/4/17</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-04T11:00:56+00:00">March 4, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-279"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Quote+of+the+day+3%2F4%2F17&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/03/The-root-of-all-health-is-in-the-brain.-The-trunk-of-it-is-in-emotion.-The-branches-and-leaves-are-the-body.-The-flower-of-health-blooms-when-all-parts-work-together1-840x500.png&description=Quote+of+the+day+3%2F4%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;name=Quote+of+the+day+3%2F4%2F17&amp;description=Quote+of+the+day+3%2F4%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Quote+of+the+day+3%2F4%2F17&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/02/Beauty-FavoritesFeburary1.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-30" href="http://www.greenleafgoddess.com/category/beauty/" title="Beauty">Beauty</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/beauty-favorites-february-2017/" rel="bookmark" title="Beauty Favorites February 2017">Beauty Favorites February 2017</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-02T10:11:08+00:00">March 2, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-30"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Beauty+Favorites+February+2017&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/02/Beauty-FavoritesFeburary1.png&description=Beauty+Favorites+February+2017" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;name=Beauty+Favorites+February+2017&amp;description=Beauty+Favorites+February+2017" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Beauty+Favorites+February+2017&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->																							
+<article class="post-wrap is-slider-post post-feat-carousel-fw" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/02/workout-1931107_1280-1280x840.jpg)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->		<div class="ruby-container is-table">
+			<div class="post-header-slider post-header is-center-text is-cell is-align-middle">
+				<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a><a class="cate-info-el is-cate-37" href="http://www.greenleafgoddess.com/category/tips/" title="Tips">Tips</a></div><!--post cate info-->				<h3 class="post-title single-title"><a href="http://www.greenleafgoddess.com/get-re-motivated-work/" rel="bookmark" title="How to get re-motivated to work out">How to get re-motivated to work out</a></h3><!--#post title-->				<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-02-28T10:00:36+00:00">February 28, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->				<div class="post-share-bar is-relative is-light-text is-cate-31"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=How+to+get+re-motivated+to+work+out&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/02/workout-1931107_1280-840x500.jpg&description=How+to+get+re-motivated+to+work+out" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;name=How+to+get+re-motivated+to+work+out&amp;description=How+to+get+re-motivated+to+work+out" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=How+to+get+re-motivated+to+work+out&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+					</div>
+
+</article><!--#post carousel full width-->													</div>
+					</div>
+				</div><!--#fw carousel-->
+
+				</div><!-- #block content--></div></div><!-- #block wrap--></div><!--#fw section--><div id="43661ade_33dc" class="ruby-section-fw ruby-section"><div id="b51c41e0_fefe" class="ruby-block-wrap block-fw-post-3 is-wrapper"><div class="ruby-block-inner ruby-container"><div class="block-header-wrap"><div class="block-header-inner"><div class="block-title"><h3>Beauty</h3></div></div></div><!--#block header--><div class="block-content-wrap row"><div class="row ruby-content-inner">
+									<div class="post-grid-outer is-light-text col-sm-4 col-xs-12">
+<article class="post-wrap is-slider-post post-feat-carousel-fw-small" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/02/Beauty-FavoritesFeburary1-350x315.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->	<div class="ruby-container is-table">
+		<div class="post-header is-center-text is-cell is-align-middle">
+			<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-30" href="http://www.greenleafgoddess.com/category/beauty/" title="Beauty">Beauty</a></div><!--post cate info-->			<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/beauty-favorites-february-2017/" rel="bookmark" title="Beauty Favorites February 2017">Beauty Favorites February 2017</a></h3><!--#post title-->			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-02T10:11:08+00:00">March 2, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-30"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Beauty+Favorites+February+2017&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/02/Beauty-FavoritesFeburary1.png&description=Beauty+Favorites+February+2017" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F&amp;name=Beauty+Favorites+February+2017&amp;description=Beauty+Favorites+February+2017" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Beauty+Favorites+February+2017&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fbeauty-favorites-february-2017%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+			</div>
+
+</article><!--#post carousel full width small--></div><!--#gird overlay-->									<div class="post-grid-outer is-light-text col-sm-4 col-xs-12">
+<article class="post-wrap is-slider-post post-feat-carousel-fw-small" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/01/November-DecemberBeauty-Favorites-2016.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->	<div class="ruby-container is-table">
+		<div class="post-header is-center-text is-cell is-align-middle">
+			<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-30" href="http://www.greenleafgoddess.com/category/beauty/" title="Beauty">Beauty</a></div><!--post cate info-->			<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/november-december-beauty-favs-2016/" rel="bookmark" title="November &#038; December Beauty Favs 2016">November &#038; December Beauty Favs 2016</a></h3><!--#post title-->			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-01-02T10:00:23+00:00">January 2, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-30"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=November+%26+December+Beauty+Favs+2016&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/01/November-DecemberBeauty-Favorites-2016.png&description=November+%26+December+Beauty+Favs+2016" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F&amp;name=November+%26+December+Beauty+Favs+2016&amp;description=November+%26+December+Beauty+Favs+2016" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=November+%26+December+Beauty+Favs+2016&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+			</div>
+
+</article><!--#post carousel full width small--></div><!--#gird overlay-->									<div class="post-grid-outer is-light-text col-sm-4 col-xs-12">
+<article class="post-wrap is-slider-post post-feat-carousel-fw-small" style="background-image: url(http://www.greenleafgoddess.com/wp-content/uploads/2017/01/November-DecemberBeauty-Favorites-2016.png)">
+	<div class="thumb-pattern"></div><!--#thumb pattern-->	<div class="ruby-container is-table">
+		<div class="post-header is-center-text is-cell is-align-middle">
+			<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-30" href="http://www.greenleafgoddess.com/category/beauty/" title="Beauty">Beauty</a></div><!--post cate info-->			<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/november-december-beauty-favs-2016-2/" rel="bookmark" title="November &#038; December Beauty Favs 2016">November &#038; December Beauty Favs 2016</a></h3><!--#post title-->			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2016-12-27T13:27:54+00:00">December 27, 2016</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-30"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=November+%26+December+Beauty+Favs+2016&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/01/November-DecemberBeauty-Favorites-2016.png&description=November+%26+December+Beauty+Favs+2016" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F&amp;name=November+%26+December+Beauty+Favs+2016&amp;description=November+%26+December+Beauty+Favs+2016" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=November+%26+December+Beauty+Favs+2016&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fnovember-december-beauty-favs-2016-2%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+			</div>
+
+</article><!--#post carousel full width small--></div><!--#gird overlay--><div class=" is-divider"></div><!--#divider-->				
+				</div><!--#content inner--></div><!-- #block content--></div></div><!-- #block wrap--></div><!--#fw section--><div id="d3f99563_9afc" class="ruby-section-fw ruby-section"><div id="6aa8fc73_3116" class="ruby-block-wrap block-fw-carousel-hw is-wrapper"><div class="ruby-block-inner ruby-container"><div class="block-header-wrap"><div class="block-header-inner"><div class="block-title"><h3>Health &amp; Fitness</h3></div></div></div><!--#block header--><div class="block-content-wrap">
+				<div class="feat-wrap feat-carousel-hw">
+					<div class="ruby-container">
+						<div class="feat-inner">
+							<div class="slider-loading"></div>
+							<div class="ruby-feat-carousel-hw is-light-text slider-init">
+																										
+<article class="post-wrap post-feat-carousel-hw is-slider-post">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/get-re-motivated-work/" title="How to get re-motivated to work out" rel="bookmark"><img width="300" height="450" src="http://www.greenleafgoddess.com/wp-content/uploads/2017/02/workout-1931107_1280-300x450.jpg"  alt="Re-motivated to workout"/></a></div><!--#thumb wrap-->		<div class="thumb-pattern"></div><!--#thumb pattern-->			</div>
+		<div class="post-header is-absolute">
+		<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a><a class="cate-info-el is-cate-37" href="http://www.greenleafgoddess.com/category/tips/" title="Tips">Tips</a></div><!--post cate info-->		<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/get-re-motivated-work/" rel="bookmark" title="How to get re-motivated to work out">How to get re-motivated to work out</a></h3><!--#post title-->		<div class="post-feat-carousel-hw-meta">
+			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-02-28T10:00:36+00:00">February 28, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-31"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=How+to+get+re-motivated+to+work+out&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/02/workout-1931107_1280-840x500.jpg&description=How+to+get+re-motivated+to+work+out" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F&amp;name=How+to+get+re-motivated+to+work+out&amp;description=How+to+get+re-motivated+to+work+out" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=How+to+get+re-motivated+to+work+out&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fget-re-motivated-work%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+	</div>
+</article><!--#post featured carousel-->																										
+<article class="post-wrap post-feat-carousel-hw is-slider-post">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/eating-color-for-good-health/" title="Fruit &#038; Vegetable colors explained- Eating color for good health" rel="bookmark"><img width="300" height="128" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/03/banner3.jpg"  alt="banner3"/></a></div><!--#thumb wrap-->		<div class="thumb-pattern"></div><!--#thumb pattern-->			</div>
+		<div class="post-header is-absolute">
+		<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a><a class="cate-info-el is-cate-55" href="http://www.greenleafgoddess.com/category/natural/" title="Natural">Natural</a><a class="cate-info-el is-cate-38" href="http://www.greenleafgoddess.com/category/talk/" title="Talk">Talk</a></div><!--post cate info-->		<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/eating-color-for-good-health/" rel="bookmark" title="Fruit &#038; Vegetable colors explained- Eating color for good health">Fruit &#038; Vegetable colors explained- Eating color for good health</a></h3><!--#post title-->		<div class="post-feat-carousel-hw-meta">
+			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-02-01T20:05:10+00:00">February 1, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-29"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Fruit+%26+Vegetable+colors+explained-+Eating+color+for+good+health&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2016/03/banner3.jpg&description=Fruit+%26+Vegetable+colors+explained-+Eating+color+for+good+health" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F&amp;name=Fruit+%26+Vegetable+colors+explained-+Eating+color+for+good+health&amp;description=Fruit+%26+Vegetable+colors+explained-+Eating+color+for+good+health" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Fruit+%26+Vegetable+colors+explained-+Eating+color+for+good+health&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Feating-color-for-good-health%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+	</div>
+</article><!--#post featured carousel-->																										
+<article class="post-wrap post-feat-carousel-hw is-slider-post">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/quote-day-11817/" title="Quote of the day 1/18/17" rel="bookmark"><img width="300" height="300" src="http://www.greenleafgoddess.com/wp-content/uploads/2017/01/www.Greenleafgoddess.com_.png"  alt="You cannot out run your fork"/></a></div><!--#thumb wrap-->		<div class="thumb-pattern"></div><!--#thumb pattern-->			</div>
+		<div class="post-header is-absolute">
+		<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a></div><!--post cate info-->		<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/quote-day-11817/" rel="bookmark" title="Quote of the day 1/18/17">Quote of the day 1/18/17</a></h3><!--#post title-->		<div class="post-feat-carousel-hw-meta">
+			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-01-18T12:04:19+00:00">January 18, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-31"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Quote+of+the+day+1%2F18%2F17&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/01/www.Greenleafgoddess.com_.png&description=Quote+of+the+day+1%2F18%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F&amp;name=Quote+of+the+day+1%2F18%2F17&amp;description=Quote+of+the+day+1%2F18%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Quote+of+the+day+1%2F18%2F17&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-11817%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+	</div>
+</article><!--#post featured carousel-->																										
+<article class="post-wrap post-feat-carousel-hw is-slider-post">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/greenleafgoddess-30-day-clean-eating-challenge/" title="Greenleafgoddess 30 Day Clean Eating Challenge" rel="bookmark"><img width="300" height="450" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/12/GreenleafgoddessClean-EatingChallenge.png"  alt="clean eating challenge"/></a></div><!--#thumb wrap-->		<div class="thumb-pattern"></div><!--#thumb pattern-->			</div>
+		<div class="post-header is-absolute">
+		<div class="post-cate-info is-light-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a><a class="cate-info-el is-cate-279" href="http://www.greenleafgoddess.com/category/life/" title="Life">Life</a></div><!--post cate info-->		<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/greenleafgoddess-30-day-clean-eating-challenge/" rel="bookmark" title="Greenleafgoddess 30 Day Clean Eating Challenge">Greenleafgoddess 30 Day Clean Eating Challenge</a></h3><!--#post title-->		<div class="post-feat-carousel-hw-meta">
+			<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2016-12-30T10:40:28+00:00">December 30, 2016</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->			<div class="post-share-bar is-relative is-light-text is-cate-29"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Greenleafgoddess+30+Day+Clean+Eating+Challenge&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2016/12/GreenleafgoddessClean-EatingChallenge.png&description=Greenleafgoddess+30+Day+Clean+Eating+Challenge" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F&amp;name=Greenleafgoddess+30+Day+Clean+Eating+Challenge&amp;description=Greenleafgoddess+30+Day+Clean+Eating+Challenge" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Greenleafgoddess+30+Day+Clean+Eating+Challenge&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fgreenleafgoddess-30-day-clean-eating-challenge%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->		</div>
+	</div>
+</article><!--#post featured carousel-->															</div>
+						</div>
+					</div>
+				</div><!--#featured area-->
+
+				</div><!-- #block content--></div></div><!-- #block wrap--></div><!--#fw section--><div class="ruby-container"><div id="9e503027_abca" class="ruby-section ruby-section-hs row is-sidebar-right"><div class="ruby-content-wrap content-with-sidebar col-md-8 col-sm-12"><div id="3574e764_3e00" class="ruby-block-wrap block-post-1"><div class="ruby-block-inner"><div class="block-header-wrap"><div class="block-header-inner"><div class="block-title"><h3>Talk</h3></div></div></div><!--#block header--><div class="block-content-wrap row">									
+											<div class="is-left-col col-sm-6 col-sx-12">
+							<article class="post-wrap post-grid">
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-279" href="http://www.greenleafgoddess.com/category/life/" title="Life">Life</a><a class="cate-info-el is-cate-38" href="http://www.greenleafgoddess.com/category/talk/" title="Talk">Talk</a></div><!--post cate info-->		<h3 class="post-title is-medium-title"><a href="http://www.greenleafgoddess.com/quote-day-3417/" rel="bookmark" title="Quote of the day 3/4/17">Quote of the day 3/4/17</a></h3><!--#post title-->		<div class="post-meta-info"><span class="meta-info-el meta-info-date">
+	<span class="meta-info-decs">on</span>
+	<time class="date updated" datetime="2017-03-04T11:00:56+00:00">March 4, 2017</time>
+</span><!--#date meta-->
+
+<span class="meta-info-el meta-info-author">
+	<span class="meta-info-decs">by</span>
+	<a class="vcard author" href="http://www.greenleafgoddess.com/author/jessicaella6/">
+	Jessicaella6	</a>
+</span><!--#author meta-->
+</div><!--#meta info bar-->					<div class="post-share-bar is-relative is-dark-text is-cate-279"><span class="share-bar-decs">share</span><div class="share-bar-icon"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-facebook color-facebook"></i></a><a class="share-to-social" href="https://twitter.com/intent/tweet?text=Quote+of+the+day+3%2F4%2F17&amp;url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;via=grnleafgoddess" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-twitter color-twitter"></i></a> <a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-google-plus color-google"></i></a><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;media=http://www.greenleafgoddess.com/wp-content/uploads/2017/03/The-root-of-all-health-is-in-the-brain.-The-trunk-of-it-is-in-emotion.-The-branches-and-leaves-are-the-body.-The-flower-of-health-blooms-when-all-parts-work-together1-840x500.png&description=Quote+of+the+day+3%2F4%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-pinterest"></i></a> <a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F&amp;name=Quote+of+the+day+3%2F4%2F17&amp;description=Quote+of+the+day+3%2F4%2F17" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="fa fa-tumblr"></i></a><a href="mailto:?subject=Quote+of+the+day+3%2F4%2F17&BODY=I found this article interesting and thought of sharing it with you. Check it out:http%3A%2F%2Fwww.greenleafgoddess.com%2Fquote-day-3417%2F"><i class="fa fa-envelope-o"></i></a></div><div class="share-bar-right"></div></div><!--#share bar wrap -->			</div>
+
+	<div class="post-body">
+		<div class="post-thumb-outer">
+			<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/quote-day-3417/" title="Quote of the day 3/4/17" rel="bookmark"><img width="350" height="200" src="http://www.greenleafgoddess.com/wp-content/uploads/2017/03/The-root-of-all-health-is-in-the-brain.-The-trunk-of-it-is-in-emotion.-The-branches-and-leaves-are-the-body.-The-flower-of-health-blooms-when-all-parts-work-together1-350x200.png"  alt="healthy living quote"/></a></div><!--#thumb wrap-->											</div>
+		<div class="post-excerpt"></div><!--#entry-->		<div class="post-btn is-small-btn"><a class="btn" href="http://www.greenleafgoddess.com/quote-day-3417/" rel="bookmark" title="Quote of the day 3/4/17">read more</a></div><!--#read more button -->	</div>
+</article><!--#post grid-->						</div><!--#left column-->
+
+						<div class="is-right-col col-sm-6 col-xs-12">
+											
+									
+											
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/eating-color-for-good-health/" title="Fruit &#038; Vegetable colors explained- Eating color for good health" rel="bookmark"><img width="105" height="45" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/03/banner3.jpg"  alt="banner3"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a><a class="cate-info-el is-cate-31" href="http://www.greenleafgoddess.com/category/health-fitness/" title="Health &amp; Fitness">Health &amp; Fitness</a><a class="cate-info-el is-cate-55" href="http://www.greenleafgoddess.com/category/natural/" title="Natural">Natural</a><a class="cate-info-el is-cate-38" href="http://www.greenleafgoddess.com/category/talk/" title="Talk">Talk</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/eating-color-for-good-health/" rel="bookmark" title="Fruit &#038; Vegetable colors explained- Eating color for good health">Fruit &#038; Vegetable colors explained- Eating color for good health</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+					
+									
+											
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/top-5-beauty-favs-october/" title="Top 5 Beauty Favs : October" rel="bookmark"><img width="105" height="59" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/10/top5october.png"  alt="beauty favs october"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-30" href="http://www.greenleafgoddess.com/category/beauty/" title="Beauty">Beauty</a><a class="cate-info-el is-cate-38" href="http://www.greenleafgoddess.com/category/talk/" title="Talk">Talk</a><a class="cate-info-el is-cate-37" href="http://www.greenleafgoddess.com/category/tips/" title="Tips">Tips</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/top-5-beauty-favs-october/" rel="bookmark" title="Top 5 Beauty Favs : October">Top 5 Beauty Favs : October</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+					
+								</div><!--#right column-->
+
+				</div><!-- #block content--></div></div><!-- #block wrap--></div><!--#ruby container--><div class="sidebar-wrap col-md-4 col-sm-12"  role="complementary"  itemscope  itemtype="http://schema.org/WPSideBar" ><div class="ruby-sidebar-sticky"><div class="sidebar-inner"><aside class="widget block-post-widget"><div class="widget-title"><h3>Trending Now</h3></div><div class="post-widget-inner">
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/zucchini-pizza-turkey-sausage/" title="Zucchini Pizza with Turkey Sausage" rel="bookmark"><img width="59" height="105" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/03/2016-05-30-06.08.43-1.jpg"  alt="Zucchini Pizza"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-304" href="http://www.greenleafgoddess.com/category/food/dinner/" title="Dinner">Dinner</a><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a><a class="cate-info-el is-cate-305" href="http://www.greenleafgoddess.com/category/food/lunch/" title="Lunch">Lunch</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/zucchini-pizza-turkey-sausage/" rel="bookmark" title="Zucchini Pizza with Turkey Sausage">Zucchini Pizza with Turkey Sausage</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/zucchini-cakes/" title="Zucchini Cakes" rel="bookmark"><img width="70" height="105" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/08/2016-08-28-05.04.22-1.jpg"  alt="Zucchini cakes"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a><a class="cate-info-el is-cate-308" href="http://www.greenleafgoddess.com/category/food/side/" title="Side">Side</a><a class="cate-info-el is-cate-306" href="http://www.greenleafgoddess.com/category/food/snack/" title="Snack">Snack</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/zucchini-cakes/" rel="bookmark" title="Zucchini Cakes">Zucchini Cakes</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/greek-yogurt-bowls/" title="Yogurt Bowls!" rel="bookmark"><img width="105" height="105" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/04/squarepic_2016322192237835.jpg"  alt="greek yogurt bowls"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-307" href="http://www.greenleafgoddess.com/category/food/breakfast/" title="Breakfast">Breakfast</a><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/greek-yogurt-bowls/" rel="bookmark" title="Yogurt Bowls!">Yogurt Bowls!</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+
+<div class="post-wrap post-small-list">
+	<div class="post-thumb-outer">
+		<div class=" post-thumb is-image ruby-holder"><a href="http://www.greenleafgoddess.com/vegetable-egg-stuffed-bell-peppers/" title="Vegetable &#038; Egg Stuffed Bell Peppers" rel="bookmark"><img width="79" height="105" src="http://www.greenleafgoddess.com/wp-content/uploads/2016/04/2016-03-28-01.52.49-1.jpg"  alt="Processed with VSCO with 4 preset"/></a></div><!--#thumb wrap-->			</div>
+	<div class="post-header">
+		<div class="post-cate-info is-dark-text is-relative cate-info-style-1"><a class="cate-info-el is-cate-307" href="http://www.greenleafgoddess.com/category/food/breakfast/" title="Breakfast">Breakfast</a><a class="cate-info-el is-cate-299" href="http://www.greenleafgoddess.com/category/food/" title="Food">Food</a><a class="cate-info-el is-cate-29" href="http://www.greenleafgoddess.com/category/food-recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a></div><!--post cate info-->		<h3 class="post-title is-small-title"><a href="http://www.greenleafgoddess.com/vegetable-egg-stuffed-bell-peppers/" rel="bookmark" title="Vegetable &#038; Egg Stuffed Bell Peppers">Vegetable &#038; Egg Stuffed Bell Peppers</a></h3><!--#post title-->	</div>
+</div><!--#small list-->
+</div><!--#post widget inner --></aside><aside class="widget widget_siq_search_widget"><div id="siq-expandwdgt-cont" class="siq-expandwdgt-cont">
+		  <form class="siq-expandwdgt" action="http://www.greenleafgoddess.com">
+		    <input type="search" placeholder="Search" value="" name="s" class="siq-expandwdgt-input"><span class="siq-expandwdgt-icon"></span>
+		  </form>
+		</div></aside></div></div></div><!--#sidebar--></div></div><!--#ruby container--><div id="c2e6707c_7a6d" class="ruby-section-fw ruby-section"><div id="14fc746f_83da" class="ruby-block-wrap block-fw-code is-wrapper"><div class="ruby-block-inner ruby-container"><div class="block-content-wrap"><div id="simple-instagram-wrap"><ul class="simple-instagram-list"><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRdqPUCDCQ0/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.78.624.624/17126142_278545469240788_5931723510815653888_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRb18xPDban/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.77.1080.1080/17126024_1251020068266764_2688840202369105920_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRYobJsDF-j/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17075861_644812765704928_4714314575497920512_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRYfhZBjh-S/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/17076941_1736319996698166_4401225491277676544_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRYen9AjgkQ/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.84.1080.1080/17125479_1229206627156731_6998527734271967232_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRWYcu9DiY_/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.88.1080.1080/17125460_203636046785262_6660989583078981632_n.jpg" alt=""></a></li><li class="simple-instagram-list-item"><a href="https://www.instagram.com/p/BRV1ZQGj1Np/" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17126703_230292524103206_9064185129932423168_n.jpg" alt=""></a></li></ul><div class="si-follow-me"><a href="https://www.instagram.com/greenleafgoddess" target="_blank">Follow &nbsp;<i class="fa fa-instagram" aria-hidden="true"></i>&nbsp; greenleafgoddess</a></div></div></div><!-- #block content--></div></div><!-- #block wrap--><div id="c5cac2d4_9e26" class="ruby-block-wrap block-fw-code is-wrapper"><div class="ruby-block-inner ruby-container"><div class="block-header-wrap"><div class="block-header-inner"><div class="block-title"><h3>Sign Up For The Newsletter!</h3></div></div></div><!--#block header--><div class="block-content-wrap"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-25270" method="post" data-id="25270" data-name="1" ><div class="mc4wp-form-fields"><p>
+	<label>Email address: </label>
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Sign up" />
+</p><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1489275478" /><input type="hidden" name="_mc4wp_form_id" value="25270" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div><!-- #block content--></div></div><!-- #block wrap--></div><!--#fw section-->			</div>
+		</div>
+
+<footer id="footer" class="footer-wrap footer-style-none is-dark-text"  itemscope  itemtype="http://schema.org/WPFooter" >
+
+	<div class="top-footer-wrap">
+	<div class="top-footer-inner">
+			</div>
+</div><!--#top footer-->
+
+	
+</footer><!--#footer --></div><!--#site wrap-->
+</div><!--#main site outer-->
+<meta id="ba_s" property="options" content="" data-o="{&quot;tid&quot;:&quot;UA-65832768-1&quot;,&quot;et&quot;:15,&quot;co&quot;:&quot;auto&quot;,&quot;g&quot;:330728,&quot;dl&quot;:&quot;\\.avi|\\.dmg|\\.doc|\\.exe|\\.gz|\\.mpg|\\.mp3|\\.pdf|\\.ppt|\\.psd|\\.rar|\\.wmv|\\.xls|\\.zip&quot;,&quot;s&quot;:22,&quot;a&quot;:0,&quot;d&quot;:{&quot;r&quot;:[5,&quot;guest&quot;]}}" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='9c79f30ed8b6193416543f532381a66a';
+hf4V='a93a682dd30dd324044d079501f70a5c';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);return true;});var h="form[method='post']";$(h).submit(function(){$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(h);return true;});});
+/* ]]> */
+</script> 
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><div id="fb-root"></div>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=960197814070394";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script><script src="https://apis.google.com/js/platform.js" async defer></script><script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/innovation-ruby-shortcodes/ruby-shortcodes-script.js?ver=1.0'></script>
+<script type='text/javascript' src='//assets.pinterest.com/js/pinit.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/light-shortcode/includes/frontend/ls_sc_scripts.js?ver=1.0.3'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;ver=1.0.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/themes/innovation/assets/external_script/ruby-external-script.js?ver=3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var innovation_ruby_to_top = "1";
+var innovation_ruby_to_top_mobile = "1";
+var innovation_ruby_site_smooth_scroll = [""];
+var innovation_ruby_site_smooth_display = [""];
+var ruby_single_image_popup = [""];
+var ruby_sidebar_sticky_enable = "1";
+var innovation_ruby_single_popup_image = "1";
+var innovation_ruby_popup_gallery = "1";
+var innovation_ruby_touch_tooltip = "1";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/themes/innovation/assets/js/ruby-script.js?ver=3.3'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/themes/innovation/custom/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/wp-spamshield/js/jscripts-ftr2-min.js'></script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.13'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://www.greenleafgoddess.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.13'></script>
+<![endif]-->
+		<script type="text/javascript">
+			if(typeof jQuery != "undefined") {
+					jQuery('.siq-expsearch-icon').each(function(){
+					var searchBox = (jQuery(this).parents('.siq-icon-searchbox-wrap').size() > 0) ? jQuery(this).parents('.siq-icon-searchbox-wrap') : jQuery('.siq-menu-searchbox-wrap') ;
+					var inputBox = searchBox.find('.siq-expsearch-input');
+					
+					jQuery(this).on('click', function () {
+						if (!searchBox.hasClass('siq-search-open')) {
+							searchBox.addClass('siq-search-open');
+							inputBox.focus();
+						} else {
+							searchBox.removeClass('siq-search-open');
+							inputBox.focusout();
+						}
+					});
+					jQuery('body').click(function (evt) {
+						if (evt.target.id == "siq-menu-searchbox-wrap")
+							return;
+						if (jQuery(evt.target).closest('#siq-menu-searchbox-wrap').length || jQuery(evt.target).closest('.siq-icon-searchbox-wrap').length)
+							return;
+
+						if (searchBox.hasClass('siq-search-open')) {
+							searchBox.removeClass('siq-search-open');
+						}
+					});
+				});
+			}
+		</script>
+		</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: www.greenleafgoddess.com @ 2017-03-11 18:37:59 by W3 Total Cache -->

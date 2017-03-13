@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+		<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://otakucalendarjapan.com/xmlrpc.php" />	
+<title>[News] Makeruna! Aku no Gundan (by Sora Tokui) official website updated &#8211; otakucalendarjapan</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="otakucalendarjapan &raquo; フィード" href="http://otakucalendarjapan.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="otakucalendarjapan &raquo; コメントフィード" href="http://otakucalendarjapan.com/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="otakucalendarjapan &raquo; [News] Makeruna! Aku no Gundan (by Sora Tokui) official website updated のコメントのフィード" href="http://otakucalendarjapan.com/?feed=rss2&#038;p=18435" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/otakucalendarjapan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ai1ec_style-css'  href='//otakucalendarjapan.com/wp-content/plugins/all-in-one-event-calendar/cache/110a4931_ai1ec_parsed_css.css?ver=2.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='attitude_style-css'  href='http://otakucalendarjapan.com/wp-content/themes/attitude/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css'  href='//fonts.googleapis.com/css?family=PT+Sans%7CPhilosopher&#038;ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-content/themes/attitude/library/js/tinynav.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-content/themes/attitude/library/js/backtotop.js?ver=4.7.3'></script>
+<link rel='https://api.w.org/' href='http://otakucalendarjapan.com/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://otakucalendarjapan.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://otakucalendarjapan.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='[News] BLAME! official website updated' href='http://otakucalendarjapan.com/?p=18432' />
+<link rel='next' title='[TIP]Otaku goods shippable to your country!' href='http://otakucalendarjapan.com/?p=18459' />
+<link rel="canonical" href="http://otakucalendarjapan.com/?p=18435" />
+<link rel='shortlink' href='http://otakucalendarjapan.com/?p=18435' />
+<link rel="alternate" type="application/json+oembed" href="http://otakucalendarjapan.com/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fotakucalendarjapan.com%2F%3Fp%3D18435" />
+<link rel="alternate" type="text/xml+oembed" href="http://otakucalendarjapan.com/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fotakucalendarjapan.com%2F%3Fp%3D18435&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="twitter:widgets:link-color" content="#000000" /><meta name="twitter:widgets:border-color" content="#000000" /><meta name="twitter:partner" content="tfwp" /><link rel="icon" href="http://otakucalendarjapan.com/wp-content/uploads/2016/07/cropped-タブのアイコン-300x300-80x80.png" sizes="32x32" />
+<link rel="icon" href="http://otakucalendarjapan.com/wp-content/uploads/2016/07/cropped-タブのアイコン-300x300-230x230.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://otakucalendarjapan.com/wp-content/uploads/2016/07/cropped-タブのアイコン-300x300-230x230.png" />
+<meta name="msapplication-TileImage" content="http://otakucalendarjapan.com/wp-content/uploads/2016/07/cropped-タブのアイコン-300x300-300x300.png" />
+
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="[News] Makeruna! Aku no Gundan (by Sora Tokui) official website updated" /><meta name="twitter:site" content="@otakucalendarjp" /><meta name="twitter:description" content="[News] Makeruna! Aku no Gundan (by Sora &hellip;" /><meta name="twitter:image" content="http://otakucalendarjapan.com/wp-content/uploads/2017/02/makeruna.png" /><meta name="twitter:image:width" content="712" /><meta name="twitter:image:height" content="400" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76952061-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-18435 single-format-standard ">
+	
+	<div class="wrapper">
+				<header id="branding" >
+				
+	<div class="container clearfix">
+		<div class="hgroup-wrap clearfix">
+								<section class="hgroup-right">
+						
+			<div class="social-profiles clearfix">
+				<ul>
+				<li>
+				<form action="http://otakucalendarjapan.com/" class="searchform clearfix" method="get">
+				<label class="assistive-text" for="s">Search</label>
+				<input type="text" placeholder="Search" class="s field" name="s">
+				</form>
+				</li>
+				<li class="twitter"><a href="https://twitter.com/otakucalendarjp" title="otakucalendarjapan on Twitter" target="_blank">otakucalendarjapan Twitter</a></li>
+			</ul>
+			</div><!-- .social-profiles -->											</section><!-- .hgroup-right -->	
+							<hgroup id="site-logo" class="clearfix">
+				<img src="http://otakucalendarjapan.com/wp-content/themes/attitude/images/rogo.png">
+										
+				</hgroup><!-- #site-logo -->
+                
+                		
+	<nav id="access" class="clearfix">
+					<div class="container clearfix"><ul class="root"><li id="menu-item-3434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3434"><a href="http://otakucalendarjapan.com/">TOP</a></li>
+<li id="menu-item-3431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3431"><a href="http://otakucalendarjapan.com/?page_id=23">ABOUT</a></li>
+<li id="menu-item-8944" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-8944"><a href="http://otakucalendarjapan.com/?cat=887">NEWS</a></li>
+<li id="menu-item-3432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3432"><a href="http://otakucalendarjapan.com/?page_id=27">EVENT</a></li>
+<li id="menu-item-3435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3435"><a href="http://otakucalendarjapan.com/?cat=6">TOPICS</a></li>
+<li class="default-menu"><a href="http://otakucalendarjapan.com" title="Navigation">Navigation</a></li></ul></div><!-- .container -->
+					</nav><!-- #access --> 		
+
+			
+		</div><!-- .hgroup-wrap -->
+	</div><!-- .container -->	
+				</header>
+		
+				<div id="main" class="container clearfix">
+
+<div id="container">
+	
+
+<div id="primary" class="no-margin-left">
+   <div id="content">	<section id="post-18435" class="post-18435 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-anime tag-manga tag-sora-tokui">
+		<article>
+
+			
+			<header class="entry-header">
+    			<h1 class="entry-title">
+    				[News] Makeruna! Aku no Gundan (by Sora Tokui) official website updated    			</h1><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+  			<div class="entry-content clearfix">
+    			<p>
+[News]<br />
+<a href="http://akunogundan.com/" target="_blank">Makeruna! Aku no Gundan (by Sora Tokui) official website updated<br />
+徳井青空原作「まけるな!! あくのぐんだん！」キャスト&#038;スタッフ情報</a></p>
+<p><img src="http://otakucalendarjapan.com/wp-content/uploads/2017/02/makeruna.png" alt="" /></p>
+<p>Spring 2017 &#8211;<br />
+2017年春 &#8211;</p>
+<p><a href="https://en.wikipedia.org/wiki/Sora_Tokui" target="_blank">Sora Tokui</a></p>
+<p><a href="http://akunogundan.com/" target="_blank">website(anime)</a><br />
+<a href="http://gekkan-bushi.com/comics/akuno-gundan/" target="_blank">website(manga)</a></p>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/VA6eEqwcTU0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+<div class="twitter-share"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fotakucalendarjapan.com%2F%3Fp%3D18435&#038;via=otakucalendarjp" class="twitter-share-button">ツイート</a></div>
+							<div class="tags">
+								Tagged on: <a href="http://otakucalendarjapan.com/?tag=anime" rel="tag">Anime</a>, <a href="http://otakucalendarjapan.com/?tag=manga" rel="tag">Manga</a>, <a href="http://otakucalendarjapan.com/?tag=sora-tokui" rel="tag">Sora Tokui</a>							</div>
+							  			</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+    				<span class="by-author">By <a href="http://otakucalendarjapan.com/?author=1">sugiyamads</a></span> |
+    				<span class="date"><a href="http://otakucalendarjapan.com/?p=18435" title="1:46 pm">2月 24, 2017</a></span> |
+    				             		<span class="category"><a href="http://otakucalendarjapan.com/?cat=887" rel="category">NEWS</a></span> |
+             	 
+    				             		<span class="comments"><a href="http://otakucalendarjapan.com/?p=18435#respond">No Comments</a></span> |
+             	 		          				
+    			</div><!-- .entry-meta -->
+    		</div>
+
+  						<ul class="default-wp-page clearfix">
+				<li class="previous"><a href="http://otakucalendarjapan.com/?p=18432" rel="prev"><span class="meta-nav">&larr;</span> [News] BLAME! official website updated</a></li>
+				<li class="next"><a href="http://otakucalendarjapan.com/?p=18459" rel="next">[TIP]Otaku goods shippable to your country! <span class="meta-nav">&rarr;</span></a></li>
+			</ul>
+		
+<div id="comments" class="comments-area">
+
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">コメントを残す <small><a rel="nofollow" id="cancel-comment-reply-link" href="/?p=18435%0A#respond" style="display:none;">コメントをキャンセル</a></small></h3>			<form action="http://otakucalendarjapan.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-form-comment"><label for="comment">コメント</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">名前 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+
+
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="コメントを送信" /> <input type='hidden' name='comment_post_ID' value='18435' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments .comments-area -->
+		</article>
+	</section>
+</div><!-- #content --></div><!-- #primary -->
+
+
+<div id="secondary">
+	
+
+<aside id="text-2" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ウィジェット用 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3018694166247361"
+     data-ad-slot="4850826735"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="dpe_fp_widget-2" class="widget widget_dpe_fp_widget"><h3 class="widget-title">New Topics</h3>	<ul class="dpe-flexible-posts">
+			<li id="post-18760" class="post-18760 post type-post status-publish format-standard has-post-thumbnail hentry category-topics tag-anime tag-crowd-funding tag-crowdfunding tag-haruhi tag-yamakan tag-yutaka-yamamoto">
+			<a href="http://otakucalendarjapan.com/?p=18760">
+				<img width="474" height="342" src="http://otakucalendarjapan.com/wp-content/uploads/2017/03/yy-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" />				<div class="title">Yutaka Yamamoto starts Crowd Funding!</div>
+			</a>
+		</li>
+			<li id="post-18709" class="post-18709 post type-post status-publish format-standard has-post-thumbnail hentry category-topics tag-japanese-language">
+			<a href="http://otakucalendarjapan.com/?p=18709">
+				<img width="474" height="342" src="http://otakucalendarjapan.com/wp-content/uploads/2017/03/header-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" />				<div class="title">[Japanese language] 東京タラレバ娘Tokyo Tarareba Musume(Tokyo coulda shoulda woulda(what if) women)</div>
+			</a>
+		</li>
+			<li id="post-18603" class="post-18603 post type-post status-publish format-standard has-post-thumbnail hentry category-report category-topics category-tourism tag-report tag-video-game">
+			<a href="http://otakucalendarjapan.com/?p=18603">
+				<img width="474" height="342" src="http://otakucalendarjapan.com/wp-content/uploads/2017/03/筐体コーナー１-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" />				<div class="title">[Report] Exhibition of Games’ history “あそぶ！ゲーム展 Asobu! Game Ten</div>
+			</a>
+		</li>
+			<li id="post-18523" class="post-18523 post type-post status-publish format-standard has-post-thumbnail hentry category-topics tag-anison tag-kemono tag-kemono_friends tag-music">
+			<a href="http://otakucalendarjapan.com/?p=18523">
+				<img width="474" height="342" src="http://otakucalendarjapan.com/wp-content/uploads/2017/02/j2-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" />				<div class="title">[Music] Kemono Friends OP Composer Vocal Version</div>
+			</a>
+		</li>
+			<li id="post-18479" class="post-18479 post type-post status-publish format-standard has-post-thumbnail hentry category-topics tag-manga tag-mr-fullswing">
+			<a href="http://otakucalendarjapan.com/?p=18479">
+				<img width="474" height="342" src="http://otakucalendarjapan.com/wp-content/uploads/2017/02/1-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" />				<div class="title">[Topic] If you think “I want to die” in the future, read this manga! by Shinya Suzuki(Mr. Fullswing)</div>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><style type="text/css">
+iframe#twitter-widget-0{
+    width: 99% !important;
+    border-radius:5px !important;
+    box-shadow:none !important;
+    border:1px solid #ccc !important;
+    padding:10px;
+    backgrounf:#fff
+}
+</style>
+
+
+<a class="twitter-timeline"
+  data-widget-id="721745241036840962"
+  href="https://twitter.com/otakucalendarjp"
+  width="300"
+  height="300"
+  data-chrome="nofooter noborders noheader"
+  >
+Tweets by @otakucalendarjp
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="archives-3" class="widget widget_archive"><h3 class="widget-title">アーカイブ</h3>		<ul>
+			<li><a href='http://otakucalendarjapan.com/?m=201703'>2017年3月</a>&nbsp;(12)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201702'>2017年2月</a>&nbsp;(46)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201701'>2017年1月</a>&nbsp;(29)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201612'>2016年12月</a>&nbsp;(57)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201611'>2016年11月</a>&nbsp;(47)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201610'>2016年10月</a>&nbsp;(63)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201609'>2016年9月</a>&nbsp;(63)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201608'>2016年8月</a>&nbsp;(58)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201607'>2016年7月</a>&nbsp;(30)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201606'>2016年6月</a>&nbsp;(4)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201605'>2016年5月</a>&nbsp;(8)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201604'>2016年4月</a>&nbsp;(20)</li>
+	<li><a href='http://otakucalendarjapan.com/?m=201603'>2016年3月</a>&nbsp;(5)</li>
+		</ul>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">タグ</h3><div class="tagcloud"><a href='http://otakucalendarjapan.com/?tag=accel-world' class='tag-link-1035 tag-link-position-1' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Accel World</a>
+<a href='http://otakucalendarjapan.com/?tag=anime' class='tag-link-8 tag-link-position-2' title='243件のトピック' style='font-size: 22pt;'>Anime</a>
+<a href='http://otakucalendarjapan.com/?tag=assassination-classroom' class='tag-link-1003 tag-link-position-3' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Assassination Classroom</a>
+<a href='http://otakucalendarjapan.com/?tag=bakuon' class='tag-link-10 tag-link-position-4' title='3件のトピック' style='font-size: 8pt;'>Bakuon</a>
+<a href='http://otakucalendarjapan.com/?tag=comic-market' class='tag-link-890 tag-link-position-5' title='23件のトピック' style='font-size: 14.100558659218pt;'>Comic Market</a>
+<a href='http://otakucalendarjapan.com/?tag=culture' class='tag-link-13 tag-link-position-6' title='28件のトピック' style='font-size: 14.72625698324pt;'>Culture</a>
+<a href='http://otakucalendarjapan.com/?tag=data' class='tag-link-1092 tag-link-position-7' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Data</a>
+<a href='http://otakucalendarjapan.com/?tag=doujin' class='tag-link-14 tag-link-position-8' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Doujin</a>
+<a href='http://otakucalendarjapan.com/?tag=exhibition' class='tag-link-16 tag-link-position-9' title='7件のトピック' style='font-size: 10.346368715084pt;'>Exhibition</a>
+<a href='http://otakucalendarjapan.com/?tag=fate' class='tag-link-896 tag-link-position-10' title='9件のトピック' style='font-size: 11.128491620112pt;'>Fate</a>
+<a href='http://otakucalendarjapan.com/?tag=gabriel-dropout' class='tag-link-939 tag-link-position-11' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Gabriel Dropout</a>
+<a href='http://otakucalendarjapan.com/?tag=goods' class='tag-link-22 tag-link-position-12' title='10件のトピック' style='font-size: 11.441340782123pt;'>Goods</a>
+<a href='http://otakucalendarjapan.com/?tag=haikyuu' class='tag-link-23 tag-link-position-13' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Haikyuu!!</a>
+<a href='http://otakucalendarjapan.com/?tag=haikyu' class='tag-link-953 tag-link-position-14' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Haikyū!!</a>
+<a href='http://otakucalendarjapan.com/?tag=hand-shakers' class='tag-link-982 tag-link-position-15' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Hand Shakers</a>
+<a href='http://otakucalendarjapan.com/?tag=hatsune-miku' class='tag-link-25 tag-link-position-16' title='10件のトピック' style='font-size: 11.441340782123pt;'>Hatsune Miku</a>
+<a href='http://otakucalendarjapan.com/?tag=interviews-with-monster-girls' class='tag-link-967 tag-link-position-17' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Interviews with Monster Girls</a>
+<a href='http://otakucalendarjapan.com/?tag=japanese-language' class='tag-link-1161 tag-link-position-18' title='8件のトピック' style='font-size: 10.737430167598pt;'>Japanese language</a>
+<a href='http://otakucalendarjapan.com/?tag=kabaneri-of-the-iron-fortress' class='tag-link-31 tag-link-position-19' title='3件のトピック' style='font-size: 8pt;'>Kabaneri of the Iron Fortress</a>
+<a href='http://otakucalendarjapan.com/?tag=karakai-jozu-no-takagi-san' class='tag-link-922 tag-link-position-20' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Karakai Jozu no Takagi-san</a>
+<a href='http://otakucalendarjapan.com/?tag=manga' class='tag-link-36 tag-link-position-21' title='129件のトピック' style='font-size: 19.810055865922pt;'>Manga</a>
+<a href='http://otakucalendarjapan.com/?tag=miss-kobayashis-dragon-maid' class='tag-link-1041 tag-link-position-22' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Miss Kobayashi&#039;s Dragon Maid</a>
+<a href='http://otakucalendarjapan.com/?tag=music' class='tag-link-37 tag-link-position-23' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Music</a>
+<a href='http://otakucalendarjapan.com/?tag=my-hero-academia' class='tag-link-38 tag-link-position-24' title='7件のトピック' style='font-size: 10.346368715084pt;'>My Hero Academia</a>
+<a href='http://otakucalendarjapan.com/?tag=novel' class='tag-link-899 tag-link-position-25' title='47件のトピック' style='font-size: 16.446927374302pt;'>Novel</a>
+<a href='http://otakucalendarjapan.com/?tag=osomatsusan' class='tag-link-902 tag-link-position-26' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Osomatsusan</a>
+<a href='http://otakucalendarjapan.com/?tag=photo' class='tag-link-43 tag-link-position-27' title='19件のトピック' style='font-size: 13.474860335196pt;'>Photo</a>
+<a href='http://otakucalendarjapan.com/?tag=pokemon' class='tag-link-1050 tag-link-position-28' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Pokémon</a>
+<a href='http://otakucalendarjapan.com/?tag=puella-magi-madoka-magica' class='tag-link-924 tag-link-position-29' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Puella Magi Madoka Magica</a>
+<a href='http://otakucalendarjapan.com/?tag=rezero' class='tag-link-44 tag-link-position-30' title='6件のトピック' style='font-size: 9.9553072625698pt;'>Re:Zero</a>
+<a href='http://otakucalendarjapan.com/?tag=report' class='tag-link-45 tag-link-position-31' title='9件のトピック' style='font-size: 11.128491620112pt;'>Report</a>
+<a href='http://otakucalendarjapan.com/?tag=saiyuki' class='tag-link-894 tag-link-position-32' title='3件のトピック' style='font-size: 8pt;'>Saiyuki</a>
+<a href='http://otakucalendarjapan.com/?tag=scums-wish' class='tag-link-1042 tag-link-position-33' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Scum&#039;s Wish</a>
+<a href='http://otakucalendarjapan.com/?tag=show-by-rock' class='tag-link-913 tag-link-position-34' title='3件のトピック' style='font-size: 8pt;'>Show by Rock!!</a>
+<a href='http://otakucalendarjapan.com/?tag=sound-euphonium' class='tag-link-900 tag-link-position-35' title='3件のトピック' style='font-size: 8pt;'>Sound! Euphonium</a>
+<a href='http://otakucalendarjapan.com/?tag=sword-art-online' class='tag-link-974 tag-link-position-36' title='8件のトピック' style='font-size: 10.737430167598pt;'>Sword Art Online</a>
+<a href='http://otakucalendarjapan.com/?tag=touken-ranbu' class='tag-link-908 tag-link-position-37' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Touken Ranbu</a>
+<a href='http://otakucalendarjapan.com/?tag=tourism' class='tag-link-51 tag-link-position-38' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Tourism</a>
+<a href='http://otakucalendarjapan.com/?tag=twin-star-exorcists' class='tag-link-892 tag-link-position-39' title='3件のトピック' style='font-size: 8pt;'>Twin Star Exorcists</a>
+<a href='http://otakucalendarjapan.com/?tag=video-game' class='tag-link-52 tag-link-position-40' title='73件のトピック' style='font-size: 17.932960893855pt;'>Video Game</a>
+<a href='http://otakucalendarjapan.com/?tag=yoi' class='tag-link-1118 tag-link-position-41' title='9件のトピック' style='font-size: 11.128491620112pt;'>YOI</a>
+<a href='http://otakucalendarjapan.com/?tag=your-name' class='tag-link-935 tag-link-position-42' title='4件のトピック' style='font-size: 8.7821229050279pt;'>Your Name</a>
+<a href='http://otakucalendarjapan.com/?tag=yowamushi-pedal' class='tag-link-932 tag-link-position-43' title='5件のトピック' style='font-size: 9.4078212290503pt;'>Yowamushi Pedal</a>
+<a href='http://otakucalendarjapan.com/?tag=yurionice' class='tag-link-1032 tag-link-position-44' title='12件のトピック' style='font-size: 11.988826815642pt;'>YuriOnIce</a>
+<a href='http://otakucalendarjapan.com/?tag=eldlive' class='tag-link-895 tag-link-position-45' title='4件のトピック' style='font-size: 8.7821229050279pt;'>ĒlDLIVE</a></div>
+</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fotakucalendarjapan.com%2Ffeed'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-big_2x.png' alt='follow us in feedly' width='131' height='56'></a></div>
+		</aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">カテゴリー</h3>		<ul>
+	<li class="cat-item cat-item-887"><a href="http://otakucalendarjapan.com/?cat=887" >NEWS</a> (321)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://otakucalendarjapan.com/?cat=3" >PickUp</a> (9)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://otakucalendarjapan.com/?cat=4" >Report</a> (10)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://otakucalendarjapan.com/?cat=6" >Topics</a> (111)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://otakucalendarjapan.com/?cat=7" >Tourism</a> (10)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://otakucalendarjapan.com/?cat=1" >Uncategorized</a> (1)
+</li>
+		</ul>
+</aside>
+</div><!-- #secondary --></div><!-- #container -->
+
+
+	   </div><!-- #main -->
+
+	   
+	   	
+	   
+	   <footer id="colophon" class="clearfix">
+			
+
+
+<div id="site-generator" class="clearfix">
+				<div class="container">
+			<div class="social-profiles clearfix">
+				<ul>
+				<li>
+				<form action="http://otakucalendarjapan.com/" class="searchform clearfix" method="get">
+				<label class="assistive-text" for="s">Search</label>
+				<input type="text" placeholder="Search" class="s field" name="s">
+				</form>
+				</li>
+				<li class="twitter"><a href="https://twitter.com/otakucalendarjp" title="otakucalendarjapan on Twitter" target="_blank">otakucalendarjapan Twitter</a></li>
+			</ul>
+			</div><!-- .social-profiles --><div class="copyright">Copyright &copy; 2017 <a href="http://otakucalendarjapan.com/" title="otakucalendarjapan" ><span>otakucalendarjapan</span></a> |  Theme by: <a href="http://themehorse.com" target="_blank" title="Theme Horse" ><span>Theme Horse</span></a> |  Powered by: <a href="http://wordpress.org" target="_blank" title="WordPress"><span>WordPress</span></a></div><!-- .copyright --></div><!-- .container -->
+			</div><!-- #site-generator --><div class="back-to-top"><a href="#branding">Back to Top</a></div>		</footer>
+	   
+			
+
+	</div><!-- .wrapper -->
+
+	 
+
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-includes/js/comment-reply.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://otakucalendarjapan.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+window.twttr=(function(w){t=w.twttr||{};t._e=[];t.ready=function(f){t._e.push(f);};return t;}(window));
+/* ]]> */
+</script>
+<script type="text/javascript" id="twitter-wjs" async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class="js no-touch svg no-oldie no-ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="Author" content="Apple Inc." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
+  <link rel="shortcut icon" href="/images/favicon.ico" />
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+  <link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&amp;v=1" type="text/css" />
+  <link rel="stylesheet" href="/css/index.css" type="text/css" />
+</head>
+<body>
+
+<div id="main">
+        <div class="content">
+<div class="middle_column semi_narrow_column">
+    
+    <img src="/images/Appicon_v2.png" srcset="/images/Appicon_v2.png 1x,
+  /images/Appicon_v2@2x.png 2x,
+  /images/Appicon_v2@3x.png 3x"/>
+<br />
+  <h1>Sorry, this item isn't available <nobr>in Apple News.</nobr></h1>
+  <p><a class="more" href="https://www.apple.com/news">Learn more about Apple News </a>
+</div>
+    </div>
+    <div class="footer">
+      <div class="policies">
+      <div class="first_logo"><img src="/images/applelogo.png" srcset="/images/applelogo.png 1x,
+      /images/applelogo@2x.png 2x, /images/applelogo@3x.png 3x" width="19" height="23"/></div>
+        <a href="https://www.apple.com/privacy/">Privacy Policy</a>
+        <span class="separator">|</span>
+        <a href="https://www.apple.com/legal/internet-services/terms/site.html">Terms and Conditions</a>
+      </div>
+      <div class="copyright">Copyright &copy; 2017 Apple Inc. All Rights Reserved.</div>
+      <div class="second_logo"><img src="/images/applelogo.png" srcset="/images/applelogo.png 1x,
+      /images/applelogo@2x.png 2x, /images/applelogo@3x.png 3x"/></div>
+    </div>
+  </div>
+</body>
+</html>
+

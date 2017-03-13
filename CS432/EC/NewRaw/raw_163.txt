@@ -1,0 +1,2039 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta charset="UTF-8">
+<title>Celebrity Stylists: Avo &amp; Jason Bolden | Footwear News</title>
+<link rel="pingback" href="http://footwearnews.com/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="shortcut icon" href="https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/assets/images/fn.ico">
+
+<meta name="description" content="We take a look at what it&#039;s like for celebrity stylists as we go behind the scenes with Avo Yermagyan and Jason Bolden ahead of the Oscars." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="Fashion, Influencers, Awards, Celebrity Style, North America, Angela Sarafyan, ashanti, Avo Yermagyan, Brian Atwood, Demi Lovato" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript" src="//pmc-d.openx.net/w/1.0/jstag?nc=3782-PMC RON"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"footwearnews","page-type":"article","env":"desktop","primary-category":"Awards","primary-vertical":"fashion","vertical":["fashion","influencers"],"category":["Awards","Celebrity Style"],"tag":["Fashion","Influencers","Awards","Celebrity Style","North America","Angela Sarafyan","ashanti","Avo Yermagyan","Brian Atwood","Demi Lovato","Gabrielle Union","Halle Berry","Jason Bolden","Nick Jonas","Oscars","Stuart Weitzman","Taraji P. Henson","Westworld"],"author":["Charlie Carballo"],"logged-in":"","subscriber-type":"","country":"us"};
+
+/* ]]> */
+</script>
+		<script>
+			(function(d,w){
+				var i, parts, name, c, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g, ac = (d ? d.split('; ') : []);
+				for(w.pmc_cookies = {}, i = 0; i < ac.length; i++) {
+					parts = ac[i].split('='), name = parts[0].replace(rdecode, decodeURIComponent), c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); } c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' '); w['pmc_cookies'][name] = c;
+				}
+			})(document.cookie, window);
+
+			pmc_meta=pmc_meta || {}, pmc_meta.omni_visit_id = window.pmc_cookies.omni_visit_id || "footwearnews." + new Date().getTime() + '.' + (function(l,b,a,c,i,d){for(i=0;i<256;i++){l[i]=(i<16?'0':'')+(i).toString(16);}if(c&&c.getRandomValues){try{d=new Uint32Array(4),c.getRandomValues(d);}catch(e){d=0;}}d=d||[b()*a>>>0,b()*a>>>0,b()*a>>>0,b()*a>>>0];a=d[0],b=d[1],c=d[2],d=d[3];return l[a&0xff]+l[a>>8&0xff]+l[a>>16&0xff]+l[a>>24&0xff]+'-'+l[b&0xff]+l[b>>8&0xff]+'-'+l[b>>16&0x0f|0x40]+l[b>>24&0xff]+'-'+l[c&0x3f|0x80]+l[c>>8&0xff]+'-'+l[c>>16&0xff]+l[c>>24&0xff]+l[d&0xff]+l[d>>8&0xff]+l[d>>16&0xff]+l[d>>24&0xff];})([],Math.random,0x100000000,window.crypto||window.msCrypto);
+			var d = new Date(); d.setTime(d.getTime() + ( 60 * 60 * 1000 )); var expires = d.toGMTString(); var path = "/"; var domain = window.location.hostname;
+			document.cookie = 'omni_visit_id=' + encodeURIComponent(pmc_meta.omni_visit_id) + ( expires ? '; expires=' + expires : '' ) + ( path ? '; path=' + path : '' ) + ( domain ? '; domain=' + domain : '' );
+		</script>
+				<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script>
+			window.pmc_is_adblocked = false;
+		</script>
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=footwearnews.com&amp;id=78851565&amp;t=1489275576&amp;back=http%3A%2F%2Ffootwearnews.com%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//video-cdn.footwearnews.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.swiftypecdn.com' />
+<link rel='dns-prefetch' href='//load.instinctiveads.com' />
+<link rel='dns-prefetch' href='//pmcfootwearnews.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Footwear News &raquo; Feed" href="http://footwearnews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Footwear News &raquo; Comments Feed" href="http://footwearnews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Footwear News &raquo; What It&#8217;s Really Like for Celebrity Stylists During Awards Season Comments Feed" href="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydU9tugzAM/aGlUaet6su0T5lMMOA2N8WhqP36GRAtFV039hLF9vGJ7RzrLioTfEaftWtVtG1NnrWlI7I+YI5gjmqwNob5RQucvLFtKWFx6BK4ISHgjSP/GAKlhFQB6Q4yPZobdAI8UdTRmWsB/b1BG4XkOLA49O0ieVaxCQnF7yLkHuGwJEAr3D4/S3NxN2X110ba5Wf4LgpaFUVMyKzkdNQ6NTaxprfahgKsqlpvMgU/TmoWCCdMicp1pFUIGdOVajRXVQXWYjqr0+v4uVhBa5fze8IADi7BKw+ZTqi4CTGSr68lPQ6veYA7qvI5ogZmzOPcOJ8triIJhmTI3ICIRpSpv4qWbDmQVWnIL3/j66fbISSPHc+LKcTPOUH8L8GfurlLnlqrvLpgqj3mBd8qHcnG3n6sdGpWEWkf8rDw18uzdakxKBsM9Bq/M1RlgZbanKUmLGyo60k9N/OnTpo3PS5PD/h0H9u3/X6/3e/et4dvHsDYXA==' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+.goog-te-banner-frame { top:32px !important }
+</style>
+<style id='pmc-adm-style-inline-css' type='text/css'>
+div.admz, div.admz-sp { margin-left: auto; margin-right: auto; text-align: center; } #skin-ad-inject-container { display: none; }
+</style>
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1481218269h"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/',
+				current_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/',
+				fb_channel_uri: 'https://s1.wp.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+				<!-- Sonbi tag start -->
+				<script src="//mtrx.go.sonobi.com/morpheus.penske.2508.js"></script>
+				<!-- Sonbi tag end -->
+					<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"317042","dimension4":"charlie-carballo","dimension5":"awards|celebrity-style","dimension6":"fashion|influencers|awards|celebrity-style|north-america|angela-sarafyan|ashanti|avo-yermagyan|brian-atwood|demi-lovato|gabrielle-union|halle-berry|jason-bolden|nick-jonas|oscars|stuart-weitzman|taraji-p-henson|westworld","dimension7":"fashion|influencers","dimension8":"awards","dimension9":"fashion","dimension10":"2017","dimension11":"02","dimension12":"23","dimension13":"14","dimension14":"37","dimension25":"2017-02-23T19:37:27+00:00","dimension26":"2017-02-23 14:37:27","dimension27":"Thursday","dimension29":"anonymous"};			pmc_ga_dimensions["dimension15"] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ){
+				window[dim]["dimension28"] = pmc_meta.omni_visit_id;
+			}
+					})('pmc_ga_dimensions');
+			ga('create', 'UA-38899574-1', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+						ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_header_bidder_script_object = {"pmc_header_bidder_timeout":"1000","pmc_header_bidding_on_gallery":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJylj9FOwzAMRX+ILAwNsRfEt6Spl7pL7BA7neDr8QY8TFQgQIqU6ProxNefqkOKuY8gfrbz3KG9fFybWW78d4ArmFpQ2BSkTzgyKZCe2cIDZnBdoIVkmYkOvMJVFi0gYtDK9HolpAXh9CM2g9YQj66B4OsXq05g//kFq68lupp7QpLLe4IwQnMDjiNS8kEE9FK8NrBwrelfbNeDX1pT5iFkd+gUFZne17O8QeEFnDZrfrb+3zgxH8U8T+Vxu9s/3O2397vb+Q3RatNT'></script>
+<script type='text/javascript' src='//video-cdn.footwearnews.com/libraries/UPa1hUyQ.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/footwearnews.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_adm_config = {"dfp_skin_main_content":["main-wrapper"],"disable_gpt_single_request":"0","krux_header_bidder_active":"","lazy_load_override":"disable","page_level_referrer_targeting":"disable"};
+var pmc_header_bidder = {"active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVkEEOAiEMRS8kgyaaMAvjWRA6yAiUtMjE28vgRlc6u9+m76X5csnCYCqQiiw3iMCy+ixzNCKHh/OJe67eAraNfgLJmSUb8rkMM+/kfwKDkQ0SrPDnvEFxJdB3n5xIsPDq+Vr8EE2IZQFNndXMULpiSoLReB02/KFtXFE7ZQG13fY4uFZHQOeABqxA1Aobok/bvQG1bZI3e4nnw1GpcTypvZpfyJ6fcg=='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://bit.ly/2kR9ssJ' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Ffootwearnews.com%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Ffootwearnews.com%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="What It&#8217;s Really Like for Celebrity Stylists During Awards Season" />
+<meta property="og:url" content="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/" />
+<meta property="og:description" content="FN gets up close with stylists to the stars who count Taraji P. Henson, Demi Lovato and Halle Berry as clients." />
+<meta property="article:published_time" content="2017-02-23T19:37:27+00:00" />
+<meta property="article:modified_time" content="2017-02-23T22:31:17+00:00" />
+<meta property="og:site_name" content="Footwear News" />
+<meta property="og:image" content="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=1000&amp;h=683&amp;crop=1" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="683" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@Footwearnews" />
+<meta name="twitter:image:src" content="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="What It&#8217;s Really Like for Celebrity Stylists During Awards Season" />
+<meta name="twitter:description" content="We take a look at what it&#039;s like for celebrity stylists as we go behind the scenes with Avo Yermagyan and Jason Bolden ahead of the Oscars." />
+<meta name="twitter:image" content="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg" />
+<link rel='openid.server' href='http://pmcfootwearnews.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmcfootwearnews.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://footwearnews.com/osd.xml" title="Footwear News" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="author" content="Charlie Carballo">			<meta property="fb:pages" content="277344328646" />
+			
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/" />
+<meta property="trueanthem.headline" content="What It&#8217;s Really Like for Celebrity Stylists During Awards Season"/>
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="content_type" data-type="string" content="Article" />
+<meta class="swiftype" name="title" data-type="string" content="What It&#039;s Really Like for Celebrity Stylists During Awards Season" />
+<meta class="swiftype" name="author" data-type="string" content="Charlie Carballo" />
+<meta class="swiftype" name="published_at" data-type="date" content="2017-02-23 14:37:27" />
+<meta class="swiftype" name="image" data-type="enum" content="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=300" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="2" />
+<meta class="swiftype" name="topics" data-type="string" content="Awards" />
+<meta class="swiftype" name="topics" data-type="string" content="Celebrity Style" />
+<meta class="swiftype" name="topics" data-type="string" content="Fashion" />
+<meta class="swiftype" name="topics" data-type="string" content="Influencers" />
+<meta class="swiftype" name="topics" data-type="string" content="North America" />
+<meta class="swiftype" name="topics" data-type="string" content="Angela Sarafyan" />
+<meta class="swiftype" name="topics" data-type="string" content="ashanti" />
+<meta class="swiftype" name="topics" data-type="string" content="Avo Yermagyan" />
+<meta class="swiftype" name="topics" data-type="string" content="Brian Atwood" />
+<meta class="swiftype" name="topics" data-type="string" content="Demi Lovato" />
+<meta class="swiftype" name="topics" data-type="string" content="Gabrielle Union" />
+<meta class="swiftype" name="topics" data-type="string" content="Halle Berry" />
+<meta class="swiftype" name="topics" data-type="string" content="Jason Bolden" />
+<meta class="swiftype" name="topics" data-type="string" content="Nick Jonas" />
+<meta class="swiftype" name="topics" data-type="string" content="Oscars" />
+<meta class="swiftype" name="topics" data-type="string" content="Stuart Weitzman" />
+<meta class="swiftype" name="topics" data-type="string" content="Taraji P. Henson" />
+<meta class="swiftype" name="topics" data-type="string" content="Westworld" />
+<meta class="swiftype" name="body" data-type="text" content="Celebrity stylists are the true beauty brokers in Hollywood. And it’s no wonder: They have the power to change an entertainer’s image from starlet to style icon.
+
+There’s no busier time for stylists than during awards season, which for the 2016-17 cycle began Dec. 12 with the Critics’ Choice Awards and will wrap Sunday with the Academy Awards, airing at 7 p.m. ET on ABC. (In between are the People’s Choice Awards, the Golden Globes, the Grammys and more.) And it’s up to stylists to beg, borrow and deliver a fabulous fashion moment for high-profile clients at some of the world’s most-watched events.
+
+
+
+
+
+That’s showbiz — and that’s not easy.
+
+“It’s sort of like the Super Bowl: You’re all but tackling other stylists to get the dress,” said stylist Avo Yermagyan, who counts Demi Lovato and Nick Jonas among his clients. “There’s a limited amount of inventory for multiple artists for all the award shows and the surrounding events: the brunches, lunches, pre-parties and after-parties. There’s a lot of negotiating and begging.”
+
+Yermagyan let FN observe him in action in Los Angeles last month at the home of “Westworld” actress Angela Sarafyan, whom he dolled up for Entertainment Weekly&#039;s pre-SAG Awards party.
+
+
+
+
+
+For the soiree, Sarafyan donned a silver Galvan dress, Stuart Weitzman heels and minimalist dangling earrings by Maxior that Yermagyan said inspired the whole package. “Sometimes it starts with the accessory — and then everything else supports it and makes it sing,” Yermagyan said.
+
+The camaraderie between Yermagyan and Sarafyan goes back several years and is based on a shared artistic trust and friendship outside of business.
+
+
+
+
+
+They met five years ago while Yermagyan was working on an editorial for L.A.’s Flaunt magazine, not long after he started styling. “It was around the time Angela was doing ‘Twilight.’ She was fantastic then, and to see her flourish the way she has is incredible,” he said.
+
+Like many of the professionals FN spoke with, Yermagyan came to the business by chance. He was working in publicity when he had a fateful encounter with photographer David LaChapelle. “David was in L.A. and didn’t have a stylist, so by default I styled [an artist for him] for the shoot,” Yermagyan recalled. “He told me I need to be doing styling, so I took the other fork in the road and never went back.”
+
+
+
+The same goes for stylist Jason Bolden, who left medical school in Chicago to pursue a career in fashion, and after landing a job in luxury retail with Cynthia Rowley, got a big styling break. “I always had celebrity clients that I interfaced with [through my job],” he said. “But my first celebrity client was Gabrielle Union, who is one of my best friends. That was 2010 or 2011.” Today, Bolden’s client list still includes Union, as well as other boldface names such as Taraji P. Henson and Mary J. Blige.
+
+Lindsay Flores, who works with Halle Berry, Christina Applegate and Julie Benz, found her way to styling in a more organic way. “My family had a very successful retail store for 30 years that catered to fashion stylists and costume designers, so I worked there right after high school and met a lot of wonderful influences,” she said. “I worked for a stylist for many years and then went out on my own.”
+
+
+
+While they live and work in the entertainment capitals among the most glamorous people in the world, the reality of being a celebrity stylist is not always glitzy.
+
+“A lot of it is time management — and fashion, in general, is so last minute,” confessed Wilford Lenov, the stylist for musical artists such as Ashanti and Bebe Rexha. “It challenges you as a stylist. I’ve had moments where clients ask for things last minute and I have to ask for favors.”
+
+There is also the financial burden of being responsible for thousands of dollars worth of merchandise. The earrings that Sarafyan wore for that SAG pre-party, for instance, cost around $500,000. “We are extremely careful with merchandise, and there’s a lot of pressure,” said Yermagyan.
+
+
+
+But even in the best circumstances, things go wrong, as Lenov recalled: “As a stylist, you’re signing your life away. It literally says, ‘If you don’t return this, you owe 7,000-plus dollars.’ But luggage gets lost at airports. I was with Bebe once, and we were traveling to Germany and they lost her luggage. In that bag, she had $20,000 in jewelry and shoes that we had just bought — Balmain, Margiela and YSL from Barneys. So I showed up to the airport and found it stuck in the corner. These things happen. It’s just life.”
+
+
+
+For Bolden, one of the biggest challenges of the job is beating the competition to nab the best fashion items. So over the years, he’s developed an aggressive strategy. “It’s very competitive, but it’s all about relationships and the early bird gets the worm,” he said. “If I know that Dior is walking tomorrow at noon in Paris, I’ve already sent an email out or a text. That just happened with Taraji for the SAGs. Before the show even happened, I reached out for something that didn’t even walk yet [on the runway].” Henson ended up hitting the SAG red carpet in an ethereal Reem Acra dress and Jimmy Choo heels.
+
+FN went behind the scenes with Bolden last month as he was dressing “X-Men: Apocalypse” actress Alexandra Shipp for the Harper’s Bazaar 150 Most Fashionable Women party. Shipp opted for a Dolce &amp; Gabbana dress and towering Brian Atwood heels.
+
+“I’ve been blessed to work with girls who aren’t fussy at all,” Bolden said. “Alex is wearing a Brian Atwood 6-inch platform, but we went with the most comfortable 6-inch platform. That was my bargain.”
+
+He added, “She’s down for whatever and there’s no resistance to anything when it comes to clothes. All of my girls are like that; all my guys are like that.”
+
+
+
+Bolden noted that much of his business comes through word-of-mouth referrals.
+
+But social media is becoming a much bigger factor in the business, allowing actresses to discover and vet stylists online. “They can go through your book [on Instagram],” said Bolden. “It’s a blessing and curse, but it spreads you out to everyone.”
+
+
+
+
+
+And now more than ever, in part because of social media, celebrity stylists are becoming celebrities in and of themselves.
+
+Take Rachel Zoe, one of the first to step into the limelight to claim her own level of fame and start a footwear and ready-to-wear collection. Neil J. Rodgers — the stylist to Beyoncé, Anna Kendrick and others — has followed suit. Last fall, he debuted his own namesake shoe collection, created specifically with red carpets in mind.
+
+
+
+But with a higher level of visibility for stylists comes a higher level of scrutiny — namely in the form of those dreaded best- and worst-dressed lists. News outlets across the globe (including Footwear News) now cover each awards show appearance in minute detail.
+
+https://instagram.com/p/BQJlW1RBNiq/?taken-by=wilfordlenov&amp;hl=en
+
+Lenov said he tries to avoid looking at press coverage, “but I’m guilty of going through social media accounts and looking at comments. I haven’t gotten anything negative yet, but I’ve gotten nice personal messages. Especially with Ashanti, she’s getting noticed now with a fashion eye and a lot of people are tagging and mentioning me.”
+
+For Yermagyan, he stays away from outside critiques all together. “Taste is so subjective and you can’t look for that kind of validation,” he said. “The validation I need is from the client. When you find a guy and the right shoe, their posture changes — the same with a woman. As long as they look like they have the confidence, my job is complete.”
+
+Below, stylists fess up about heels that hurt and what’s in their bags. 
+
+Footwear News: What’s in your styling kit?
+Neil J. Rodgers: “The kit is standard and built up over years — everything from double-sided tape to stitching kits to chicken fillets that go in a bra. You’re always kind of concerned about slippery surfaces, so a lot of the time you’ll bring pads for the bottom of the soles, which prevents slipping. And then pads for comfort for inside the shoe. You bring a hole punch to put extra holes in straps to make sure ankle straps fit. And shoelaces for guys — they are always splitting in half, so you always bring extra of those.”
+
+https://instagram.com/p/BPA0XubAtKD/?taken-by=iamlindsayflores&amp;hl=en
+
+Lindsay Flores: “Everything from safety pins, sewing kits, every color thread to seamless panties, deodorant and Advil — it’s like the Mary Poppins bag of tricks. I always keep a variety of shoes: Metallics are always great to have on-hand, and nude, black and a pop of color. I always keep a classic high closed-toe single-sole heel, and an open-toe strappy number.”
+
+Which event is the most fun to style?
+Wilford Lenov: “Any MTV awards show — the movie or music awards. You’re allowed to do anything that’s fun or sexy.”
+
+Avo Yermagyan: “The Grammys because musicians are very daring with their choice of looks. There aren’t as many parameters to stay within for dressing. The chance to dress someone is a thrill.”
+
+Jason Bolden: “The NAACP Image Awards because I have every brown girl on the planet. Each season none of them know, but each one has a certain style I’m giving them. Like last year, one was ultra sexy, one was black Barbie, the other was super-smart and chic, the other was whimsical. So when I see them, they’re like, ‘Oh my god, you didn’t show me that dress!’ So it’s always interesting.”
+
+What’s your philosophy on uncomfortable heels?
+Yermagyan: “You absolutely need it. Sometimes you get pushback from the client, but the red carpet is not the place for comfort.
+
+Bolden: “It’s all about the look for me. I need height. It’s the walk and sit of it all — you walk in, get the photo and then sit.”
+
+Flores: “Fashion always comes first, period. All my girls are masters of commanding the red carpet in a fabulous heel, painful or not.”
+
+Click here to view more photos from our behind-the-scenes photo shoots.
+
+Angela Sarafyan: Hair by Ericka Verrett and makeup by Tracey Levy
+
+
+Alexandra Shipp: Hair and makeup by David Rodriguez." />
+<!-- Swiftype Meta Tags End -->
+
+	<!-- Crazy Egg Snippet — Allows us to get detailed heatmaps of our sites. -->
+	<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/4414.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+			<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Footwear News" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Shoe News and Fashion Trends" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://footwearnews.com/feed/;icon-uri=http://0.gravatar.com/blavatar/805e82344197213afd050a7de3b8dc6b?s=16" /><script type="text/javascript">
+/* <![CDATA[ */
+var pmc_site_config = {"rot13_hostname":"sbbgjrnearjf.pbz","hostname":"footwearnews.com","is_proxied":null};
+
+/* ]]> */
+</script>
+		<script type='text/javascript'>
+			var pmc_tracking_url = "http://heartbeat.pmc.com/track?host=footwearnews.com&path=%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F&post_id=317042&title=What+It%E2%80%99s+Really+Like+for+Celebrity+Stylists+During+Awards+Season&author=Charlie+Carballo&comment_count=2";
+			var pmc_tracking_image = new Image();
+			if ( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ) {
+				pmc_tracking_url = pmc_tracking_url + '&omni_visit_id=' + pmc_meta.omni_visit_id;
+			}
+			pmc_tracking_image.src = pmc_tracking_url + "&ts=" + Date.now();
+		</script>
+		<link rel="amphtml" href="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/amp/" /><script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"footwearnews","page-type":"article","env":"desktop","primary-category":"Awards","primary-vertical":"fashion","vertical":["fashion","influencers"],"category":["Awards","Celebrity Style"],"tag":["Fashion","Influencers","Awards","Celebrity Style","North America","Angela Sarafyan","ashanti","Avo Yermagyan","Brian Atwood","Demi Lovato","Gabrielle Union","Halle Berry","Jason Bolden","Nick Jonas","Oscars","Stuart Weitzman","Taraji P. Henson","Westworld"],"author":["Charlie Carballo"],"logged-in":"","subscriber-type":""};
+
+/* ]]> */
+</script>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<!-- Amazon adcode begin-->
+		<script data-cfasync='true' type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+		
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7S14J" data-timing="async" data-version="3.0" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    k.src="https:\/\/cdn.krxd.net\/controltag\/Jhm7S14J.js";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	(function () {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+<meta property="fb:page_id" content="277344328646" />
+
+<script src="https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/assets/js/footwearnews.js" type="text/javascript"></script>
+</head>
+
+<body class="post-template-default single single-post postid-317042 single-format-standard mp6 customizer-styles-applied group-blog highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us breadcrumbs">
+<script async="1">
+	(function() {
+		__mtm = [ "578cff9baa04d0826f28700d", "cdn01.mzbcdn.net/mngr" ];
+		var s = document.createElement('script');
+		s.async = 1;
+		s.src = '//' + __mtm[1] + '/mtm.js';
+		var e = document.getElementsByTagName('script')[0];
+		(e.parentNode || document.body).insertBefore(s, e);
+	})();
+</script><!-- Placeholder for Responsive Skin Ad -->
+<div id="skin-ad-section">
+
+	<div id="skin-ad-left-rail-container"></div>
+
+	<div id="skin-ad-right-rail-container"></div>
+	<div id="skin-ad-inject-container">
+			</div>
+</div>
+
+<!-- End Placeholder for Responsive Skin Ad -->
+
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+<div id="page" class="hfeed site container">
+		<header id="masthead" class="site-header" role="banner">
+
+		<div class="site-branding">
+			<div class="site-social lighten hide-on-mobile">
+				<ul>
+					<li><a href="https://www.facebook.com/so.FN.cool" target="_blank"><i class="icon-facebook ir">facebook</i></a></li><li><a href="https://twitter.com/FootwearNews" target="_blank"><i class="icon-twitter ir">twitter</i></a></li><li><a href="http://footwearnews.tumblr.com/" target="_blank"><i class="icon-tumblr ir">tumblr</i></a></li><li><a href="http://www.pinterest.com/footwearnews/" target="_blank"><i class="icon-pinterest ir">pinterest</i></a></li><li><a href="https://flipboard.com/@FootwearNews" target="_blank"><i class="fn-icon-flipboard"></i></a></li><li><a href="http://instagram.com/footwearnews" target="_blank"><i class="icon-instagram ir">instagram</i></a></li><li><a href="/custom-feed/fn-rss/"><i class="icon-rss ir">rss</i></a></li>
+				</ul>
+			</div>
+			
+						<h4 class="site-title logo" alt="Footwear News: Fashion & Shoes">
+							<a href="http://footwearnews.com/" rel="home">Footwear News</a>
+						</h4>
+					</div>
+
+
+		<div class="site-subscribe highlight hide-on-mobile"><a href="https://w1.buysub.com/pubs/FT/FNS/sub_1yr_US.jsp?cds_page_id=152604&cds_mag_code=FNS&cds_response_key=86L1DLNSB" target="_blank">Subscribe</a></div>
+
+		<nav id="site-navigation" class="main-navigation navbar navbar-default" role="navigation">
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<!--<a class="navbar-brand" href="#">Brand</a>-->
+			</div>
+
+			<div id="navbar-collapse-main" class="collapse navbar-collapse"><ul id="menu-main-nav" class="nav navbar-nav"><li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a href="/latest/">Latest <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249"><a href="/v/influencers/">Influencers <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a href="/v/fashion/">Fashion <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a href="/v/business/">Business <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253"><a href="/v/runway/">Runway <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254"><a href="/v/fn-spy/">FN Spy <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+<li id="menu-item-256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-256"><a href="/v/focus/">Focus <i class="icon-arrow-long-right"></i><i class="alternate"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a href="/v/focus/womens/">Women’s <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+	<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-380"><a href="/v/focus/mens/">Men’s <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+	<li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-381"><a href="/v/focus/children/">Children <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+	<li id="menu-item-382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-382"><a href="/v/focus/athletic-outdoor/">Athletic &amp; Outdoor <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+	<li id="menu-item-383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-383"><a href="/v/focus/opinion-analysis/">Opinion &amp; Analysis <i class="icon-arrow-long-right"></i><i class="alternate"></i></a></li>
+</ul>
+</li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+		<form method="get" id="searchform" action="/results/" role="search" class="searchbox navbar-form navbar-right" _lpchecked="1">
+			<div class="form-group">
+				<input type="text" class="searchbox-input" name="q" id="q" onkeyup="footwearnews.search_button_up()" placeholder="Search FN…">
+			</div>
+			<button type="submit" class="searchbox-submit btn-default"><i class="icon-search icon-flip-horizontal"></i></button>
+			<span class="searchbox-icon"><i class="icon-search icon-flip-horizontal"></i></span>
+		</form>
+
+	</header><!-- #masthead -->
+
+	<div class="ad-leaderboard">
+		<div class="admz" id="adm-header-leaderboard">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-leaderboard-ros-728x90-uid0" class="ad-rotatable adw-728 adh-90"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-leaderboard-ros-728x90-uid1" class="ad-rotatable adw-728 adh-90"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+	<div class="fn-leaderboard-ad"></div> <!-- marker for pmc-sticky-ad -->
+	
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		<ul class="breadcrumbs"><li><span class="square square-shim"></span><a href="/">FN Home</a></li><li><span class="square square-shim"></span><a href="http://footwearnews.com/v/fashion/">Fashion</a></li><li><span class="square square-shim"></span><a href="http://footwearnews.com/c/awards/">Awards</a></li></ul>		
+			
+<article id="post-317042" class="post-317042 post type-post status-publish format-standard has-post-thumbnail hentry category-awards category-celebrity-style tag-angela-sarafyan tag-ashanti tag-avo-yermagyan tag-brian-atwood tag-demi-lovato tag-gabrielle-union tag-halle-berry tag-jason-bolden tag-nick-jonas tag-oscars tag-stuart-weitzman tag-taraji-p-henson tag-westworld vertical-fashion vertical-influencers region-north-america">
+	<header class="entry-header">
+		<h1 class="entry-title">What It&#8217;s Really Like for Celebrity Stylists During Awards&nbsp;Season</h1>
+		<div class="entry-meta">
+			<span class="post-author-time">By <span class="coauthors"><a href="http://footwearnews.com/author/charlie-carballo/" title="Posts by Charlie Carballo" class="author url fn" rel="author">Charlie Carballo</a></span></span>
+			/ February 23, 2017		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;" height="0" width="0">
+<symbol id="pmc-social-share-bar-comment" viewBox="0 0 1792 1792"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-email" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47H160q-66 0-113-47T0 1504V710q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38T639 1015q-91-64-262-182.5T172 690q-62-42-117-115.5T0 438q0-78 41.5-130T160 256h1472q65 0 112.5 47t47.5 113z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-facebook" viewBox="0 0 1792 1792"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759H734V905H479V609h255V391q0-186 104-288.5T1115 0q147 0 228 12z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-linkedin" viewBox="0 0 1792 1792"><path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-pinit" viewBox="0 0 1792 1792"><path d="M1664 896q0 209-103 385.5T1281.5 1561 896 1664q-111 0-218-32 59-93 78-164 9-34 54-211 20 39 73 67.5t114 28.5q121 0 216-68.5t147-188.5 52-270q0-114-59.5-214T1180 449t-255-63q-105 0-196 29t-154.5 77-109 110.5-67 129.5T377 866q0 104 40 183t117 111q30 12 38-20 2-7 8-31t8-30q6-23-11-43-51-61-51-151 0-151 104.5-259.5T904 517q151 0 235.5 82t84.5 213q0 170-68.5 289T980 1220q-61 0-98-43.5T859 1072q8-35 26.5-93.5t30-103T927 800q0-50-27-83t-77-33q-62 0-105 57t-43 142q0 73 25 122l-99 418q-17 70-13 177-206-91-333-281T128 896q0-209 103-385.5T510.5 231 896 128t385.5 103T1561 510.5 1664 896z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-show-more" viewBox="0 0 1792 1792"><path d="M1600 736v192q0 40-28 68t-68 28h-416v416q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-416h-416q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h416v-416q0-40 28-68t68-28h192q40 0 68 28t28 68v416h416q40 0 68 28t28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-print" viewBox="0 0 1792 1792"><path d="M448 1536h896v-256h-896v256zm0-640h896v-384h-160q-40 0-68-28t-28-68v-160h-640v640zm1152 64q0-26-19-45t-45-19-45 19-19 45 19 45 45 19 45-19 19-45zm128 0v416q0 13-9.5 22.5t-22.5 9.5h-224v160q0 40-28 68t-68 28h-960q-40 0-68-28t-28-68v-160h-224q-13 0-22.5-9.5t-9.5-22.5v-416q0-79 56.5-135.5t135.5-56.5h64v-544q0-40 28-68t68-28h672q40 0 88 20t76 48l152 152q28 28 48 76t20 88v256h64q79 0 135.5 56.5t56.5 135.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-reddit" viewBox="0 0 1792 1792"><path d="M1095 1167q16 16 0 31-62 62-199 62t-199-62q-16-15 0-31 6-6 15-6t15 6q48 49 169 49 120 0 169-49 6-6 15-6t15 6zM788 986q0 37-26 63t-63 26-63.5-26-26.5-63q0-38 26.5-64t63.5-26 63 26.5 26 63.5zm395 0q0 37-26.5 63t-63.5 26-63-26-26-63 26-63.5 63-26.5 63.5 26 26.5 64zm251-120q0-49-35-84t-85-35-86 36q-130-90-311-96l63-283 200 45q0 37 26 63t63 26 63.5-26.5T1359 448t-26.5-63.5T1269 358q-54 0-80 50l-221-49q-19-5-25 16l-69 312q-180 7-309 97-35-37-87-37-50 0-85 35t-35 84q0 35 18.5 64t49.5 44q-6 27-6 56 0 142 140 243t337 101q198 0 338-101t140-243q0-32-7-57 30-15 48-43.5t18-63.5zm358 30q0 182-71 348t-191 286-286 191-348 71-348-71-286-191-191-286T0 896t71-348 191-286T548 71 896 0t348 71 286 191 191 286 71 348z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-close" viewBox="0 0 1792 1792"><path d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-tumblr" viewBox="0 0 1792 1792"><path d="M1328 1329l80 237q-23 35-111 66t-177 32q-104 2-190.5-26T787 1564t-95-106-55.5-120-16.5-118V676H452V461q72-26 129-69.5t91-90 58-102 34-99T779 12q1-5 4.5-8.5T791 0h244v424h333v252h-334v518q0 30 6.5 56t22.5 52.5 49.5 41.5 81.5 14q78-2 134-29z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-twitter" viewBox="0 0 1792 1792"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5T1369.5 1125 1185 1335.5t-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5T285 1033q33 5 61 5 43 0 85-11-112-23-185.5-111.5T172 710v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5T884 653q-8-38-8-74 0-134 94.5-228.5T1199 256q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-whatsapp" viewBox="0 0 1792 1792"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118t-148-185q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5t15.5 27.5q8 20 33 88t25 75q0 21-34.5 57.5t-34.5 46.5q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5-134-200.5-200.5-134-243.5-50-243.5 50-200.5 134-134 200.5-50 243.5q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60t240.5 161 161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5t161-240.5 240.5-161 292.5-60z"/>
+</symbol></svg><div class="share-container">
+	<ul class="share-buttons">
+					<li>
+									<a data-href="https://www.facebook.com/sharer.php?u=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button&#038;app_id=219713811781474" href="https://www.facebook.com/sharer.php?u=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button&#038;app_id=219713811781474"
+				 					class="btn-facebook"
+											target="_blank"
+											title="Share on Facebook">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-facebook"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="https://twitter.com/intent/tweet?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;text=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;via=Footwearnews" href="https://twitter.com/intent/tweet?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;text=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;via=Footwearnews"
+				 					class="btn-twitter"
+											target="_blank"
+											title="Tweet">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-twitter"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="http://www.reddit.com/submit?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="http://www.reddit.com/submit?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+				 					class="btn-reddit"
+											target="_blank"
+											title="Submit to Reddit">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-reddit"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="http://pinterest.com/pin/create/link/?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;description=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="http://pinterest.com/pin/create/link/?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;description=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+				 					class="btn-pinterest"
+											target="_blank"
+											title="Pin it">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-pinit"></use>
+						</svg>
+											</a>
+				</li>
+							<li>
+					<a href="#share-more" class="showShareMore btn-more" target="_blank" title="More Share Options">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-show-more"></use>
+					</svg>
+				</a>
+			</li>
+		</ul>
+	<div class="shareMore">
+		<ul class="shareModal">
+			<li>
+				Share This Article
+				<a class="closeShare" href="#closeShare">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-close"></use>
+					</svg>
+				</a>
+			</li>
+							<li>
+											<a data-href="mailto:?subject=Footwearnews%20:%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;body=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/%20-%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="mailto:?subject=Footwearnews%20:%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;body=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/%20-%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+											class="btn-email"
+											target="_blank"
+																title="Email">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-email"></use>
+						</svg>
+						<span>
+							Email						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;posttype=link&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;posttype=link&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+											class="btn-tumblr"
+											target="_blank"
+																title="Post to Tumblr">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-tumblr"></use>
+						</svg>
+						<span>
+							Tumblr						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="" href=""
+											class="btn-whatsapp"
+																data-action="share/whatsapp/share"
+											title="Share on WhatsApp">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-whatsapp"></use>
+						</svg>
+						<span>
+							WhatsApp						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;summary&#038;source=Footwearnews" href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;summary&#038;source=Footwearnews"
+											class="btn-linkedin"
+											target="_blank"
+																title="Share on LinkedIn">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-linkedin"></use>
+						</svg>
+						<span>
+							LinkedIn						</span>
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+	<div class="shadow-container"><div class="feature-image shadow"></div></div>
+	<div class="entry-content">
+
+<div class="gallery-preview">			<figure  class="articlepage-override">
+				<a href="http://footwearnews.com/gallery/avo-demi-lovato-stylist-jason-bolden-taraji-p-henson-red-carpet-photos/#!&ref=/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/pos=" ><img width="1024" height="683" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=1024" class="attachment-featured-carousel" alt="Jason Bolden Alexandra Shipp Avo angela" data-attachment-id="317301" data-permalink="http://footwearnews.com/gallery/avo-demi-lovato-stylist-jason-bolden-taraji-p-henson-red-carpet-photos/attachment/jason-bolden-alexandra-shipp-6-feature-2/" data-orig-file="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celebrity Stylists" data-medium-file="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=300" data-large-file="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6-feature-2.jpg?w=1024" />
+				<span class="inline-gallery-nav">
+						View Slideshow<span class="inline-gallery-launch-gallery-text"></span>
+					 </span>
+				</a>									<div class="photo-caption horizontal">Left to right: Jason Bolden, Alexandra Shipp; Avo Yermagyan and Angela Sarafyan.</div>
+													<div class="credits">Max Knight.</div>
+							</figure>
+
+			</div>
+		<p>Celebrity stylists are the true beauty brokers in Hollywood. And it&rsquo;s no wonder: They have the power to change an entertainer&rsquo;s image from starlet to style icon.</p>
+<p>There&rsquo;s no busier time for stylists than during <a href="http://footwearnews.com/c/awards/" id="auto-tag_awards" data-tag="awards">awards</a> season, which for the 2016-17 cycle began Dec. 12 with the&nbsp;Critics&rsquo; Choice Awards and will wrap Sunday with the Academy Awards, airing at 7 p.m. ET on ABC. (In between are the People&rsquo;s Choice Awards, the Golden Globes, the Grammys and more.) And it&rsquo;s up to stylists to beg, borrow and deliver a fabulous <a href="http://footwearnews.com/t/fashion/" id="auto-tag_fashion" data-tag="fashion">fashion</a> moment for high-profile clients at some of the world&rsquo;s most-watched events.<div class="entry-body"><div class="related-article">
+					<div class="pad">
+						<a href="http://footwearnews.com/2017/influencers/designers/best-girls-sandals-kids-324715/" title="Related Article" class="related" data-event-tracking="click,article,related-link-module,click">Related</a>
+						<div class="article"><a href="http://footwearnews.com/2017/influencers/designers/best-girls-sandals-kids-324715/" title="Related Article" data-event-tracking="click,article,related-link-module,click">12 Fashion Sandals for Girls To Wear on Spring Break</a></div>
+					</div>
+				</div></div></p>
+<div id="attachment_317241" class="thumbnail alignnone">
+	<img class="size-full wp-image-317241" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-3.jpg?w=1170" alt="jason bolden alexadra shipp" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-3.jpg 1024w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-3.jpg?w=150 150w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-3.jpg?w=300 300w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-3.jpg?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px"  ><span class="caption horizontal">Behind the scenes with stylist <a href="http://footwearnews.com/t/jason-bolden/" id="auto-tag_jason-bolden" data-tag="jason-bolden">Jason Bolden</a> and &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp. Hair and makeup by David Rodriguez.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<div id="attachment_317074" class="thumbnail alignnone">
+	<img class="size-full wp-image-317074" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-6.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-6.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-6.jpg?w=113 113w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-6.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist <a href="http://footwearnews.com/t/avo-yermagyan/" id="auto-tag_avo-yermagyan" data-tag="avo-yermagyan">Avo Yermagyan</a> and &ldquo;<a href="http://footwearnews.com/t/westworld/" id="auto-tag_westworld" data-tag="westworld">Westworld</a>&rdquo; actress <a href="http://footwearnews.com/t/angela-sarafyan/" id="auto-tag_angela-sarafyan" data-tag="angela-sarafyan">Angela Sarafyan</a>. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>That&rsquo;s showbiz &mdash; and that&rsquo;s not easy.
+			<section class="recent-comments"><div class="sign-in desktop">
+					<i class="fa fa-comments"></i><h5>Recent Comments</h5>
+					<div class="login-link">
+						<div class="link"><a href="#comments" title="Comment on this post">Add Comment</a></div>
+						<div class="commenters">2 People Commenting</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+
+				<div class="comment comment1">
+				<div class="comment-name">orpecguica</div>
+				<div class="comment-bullet"><i class="fa-circle fa"></i></div>
+				<div class="comment-time">2 weeks</div>
+				<div class="comment-excerpt">Want to find a cute ppartner for sex? Visit this website <a href="http://tinyurl.com/hrqv9bu" rel="nofollow">http://tinyurl.com/hrqv9bu</a></div>
+			</div><div class="comment comment2">
+				<div class="comment-name">swiselkronsi</div>
+				<div class="comment-bullet"><i class="fa-circle fa"></i></div>
+				<div class="comment-time">2 weeks</div>
+				<div class="comment-excerpt">Searching for a girl to get laid? Visit this website <a href="http://tinyurl.com/zacn5jw" rel="nofollow">http://tinyurl.com/zacn5jw</a></div>
+			</div>
+
+				<div class="clear"></div>
+
+			</section>
+			</p>
+<p>&ldquo;It&rsquo;s sort of like the Super Bowl: You&rsquo;re all but tackling other stylists to get the dress,&rdquo; said stylist Avo Yermagyan, who counts <a href="http://footwearnews.com/t/demi-lovato/" id="auto-tag_demi-lovato" data-tag="demi-lovato">Demi Lovato</a> and <a href="http://footwearnews.com/t/nick-jonas/" id="auto-tag_nick-jonas" data-tag="nick-jonas">Nick Jonas</a> among his clients. &ldquo;There&rsquo;s a limited amount of inventory for multiple artists for all the award shows and the surrounding events: the brunches, lunches, pre-parties and after-parties. There&rsquo;s a lot of negotiating and begging.&rdquo;</p>
+<p>Yermagyan let FN observe him in action in Los Angeles last month at the home of &ldquo;Westworld&rdquo; actress Angela Sarafyan, whom he dolled up for Entertainment Weekly&rsquo;s pre-SAG Awards party.</p>
+<div id="attachment_317240" class="thumbnail alignnone">
+	<img class="size-full wp-image-317240" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-5.jpg?w=1170" alt="jason bolden alexadra shipp" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-5.jpg 1024w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-5.jpg?w=150 150w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-5.jpg?w=300 300w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-5.jpg?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px"  ><span class="caption horizontal">Behind the scenes with stylist Jason Bolden and &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp. Hair and makeup by David Rodriguez.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<div id="attachment_317076" class="thumbnail alignnone">
+	<img class="size-full wp-image-317076" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-14.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-14.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-14.jpg?w=113 113w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-14.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Avo Yermagyan and &ldquo;Westworld&rdquo; actress Angela Sarafyan. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>For the soiree, Sarafyan donned a silver Galvan dress, <a href="http://footwearnews.com/t/stuart-weitzman/" id="auto-tag_stuart-weitzman" data-tag="stuart-weitzman">Stuart Weitzman</a> heels and minimalist dangling earrings by Maxior that Yermagyan said inspired the whole package. &ldquo;Sometimes it starts with the accessory &mdash; and then everything else supports it and makes it sing,&rdquo; Yermagyan said.</p>
+<p>The camaraderie between Yermagyan and Sarafyan goes back several years and is based on a shared artistic trust and friendship outside of business.</p>
+<div id="attachment_317073" class="thumbnail alignnone">
+	<img class="size-full wp-image-317073" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-2.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan westworld" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-2.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-2.jpg?w=113 113w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-2.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Avo Yermagyan and &ldquo;Westworld&rdquo; actress Angela Sarafyan. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<div id="attachment_317237" class="thumbnail alignnone">
+	<img class="size-full wp-image-317237" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-1.jpg?w=1170" alt="jason bolden alexadra shipp" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-1.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-1.jpg?w=112 112w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-1.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Jason Bolden and &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp. Hair and makeup by David Rodriguez.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>They met five years ago while Yermagyan was working on an editorial for L.A.&rsquo;s Flaunt magazine, not long after he started styling. &ldquo;It was around the time Angela was doing &lsquo;Twilight.&rsquo; She was fantastic then, and to see her flourish the way she has is incredible,&rdquo; he said.</p>
+<p>Like many of the professionals FN spoke with, Yermagyan came to the business by chance. He was working in publicity when he had a fateful encounter with photographer David LaChapelle. &ldquo;David was in L.A. and didn&rsquo;t have a stylist, so by default I styled [an artist for him] for the shoot,&rdquo; Yermagyan recalled. &ldquo;He told me I need to be doing styling, so I took the other fork in the road and never went back.&rdquo;</p>
+<div id="attachment_317053" class="thumbnail alignnone">
+	<img class="size-full wp-image-317053" src="https://pmcfootwearnews.files.wordpress.com/2017/02/alexandra-shipp-stylist-jason-bolden-6.jpg?w=1170" alt="jason bolden alexandra shipp stylist" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/alexandra-shipp-stylist-jason-bolden-6.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/alexandra-shipp-stylist-jason-bolden-6.jpg?w=112 112w, https://pmcfootwearnews.files.wordpress.com/2017/02/alexandra-shipp-stylist-jason-bolden-6.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Jason Bolden and actress &ldquo;X-Men: Apocalypse&rdquo; Alexandra Shipp.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>The same goes for stylist Jason Bolden, who left medical school in Chicago to pursue a career in fashion, and after landing a job in luxury retail with Cynthia Rowley, got a big styling break. &ldquo;I always had celebrity clients that I interfaced with [through my job],&rdquo; he said. &ldquo;But my first celebrity client was <a href="http://footwearnews.com/t/gabrielle-union/" id="auto-tag_gabrielle-union" data-tag="gabrielle-union">Gabrielle Union</a>, who is one of my best friends. That was 2010 or 2011.&rdquo; Today, Bolden&rsquo;s client list still includes Union, as well as other boldface names such as <a href="http://footwearnews.com/t/taraji-p-henson/" id="auto-tag_taraji-p-henson" data-tag="taraji-p-henson">Taraji P. Henson</a> and Mary J. Blige.</p>
+<p>Lindsay Flores, who works with <a href="http://footwearnews.com/t/halle-berry/" id="auto-tag_halle-berry" data-tag="halle-berry">Halle Berry</a>, Christina Applegate and Julie Benz, found her way to styling in a more organic way. &ldquo;My family had a very successful retail store for 30 years that catered to fashion stylists and costume designers, so I worked there right after high school and met a lot of wonderful influences,&rdquo; she said. &ldquo;I worked for a stylist for many years and then went out on my own.&rdquo;</p>
+<div id="attachment_317239" class="thumbnail alignnone">
+	<img class="size-full wp-image-317239" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-7.jpg?w=1170" alt="jason bolden alexadra shipp" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-7.jpg 1024w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-7.jpg?w=150 150w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-7.jpg?w=300 300w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-7.jpg?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px"  ><span class="caption horizontal">Behind the scenes with stylist Jason Bolden and &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp. Hair and makeup by David Rodriguez.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>While they live and work in the entertainment capitals among the most glamorous people in the world, the reality of being a celebrity stylist is not always glitzy.</p>
+<p>&ldquo;A lot of it is time management &mdash; and fashion, in general, is so last minute,&rdquo; confessed Wilford Lenov, the stylist for musical artists such as <a href="http://footwearnews.com/t/ashanti/" id="auto-tag_ashanti" data-tag="ashanti">Ashanti</a> and Bebe Rexha. &ldquo;It challenges you as a stylist. I&rsquo;ve had moments where clients ask for things last minute and I have to ask for favors.&rdquo;</p>
+<p>There is also the financial burden of being responsible for thousands of dollars worth of merchandise. The earrings that Sarafyan wore for that SAG pre-party, for instance, cost around $500,000. &ldquo;We are extremely careful with merchandise, and there&rsquo;s a lot of pressure,&rdquo; said Yermagyan.</p>
+<div id="attachment_317072" class="thumbnail alignnone">
+	<img class="size-full wp-image-317072" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-9.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan westworld" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-9.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-9.jpg?w=113 113w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-9.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Avo Yermagyan and &ldquo;Westworld&rdquo; actress Angela Sarafyan. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>But even in the best circumstances, things go wrong, as Lenov recalled: &ldquo;As a stylist, you&rsquo;re signing your life away. It literally says, &lsquo;If you don&rsquo;t return this, you owe 7,000-plus dollars.&rsquo; But luggage gets lost at airports. I was with Bebe once, and we were traveling to Germany and they lost her luggage. In that bag, she had $20,000 in jewelry and shoes that we had just bought &mdash; Balmain, Margiela and YSL from Barneys. So I showed up to the airport and found it stuck in the corner. These things happen. It&rsquo;s just life.&rdquo;</p>
+<div id="attachment_317236" class="thumbnail alignnone">
+	<img class="size-full wp-image-317236" src="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6.jpg?w=1170" alt="jason bolden alexadra shipp" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6.jpg?w=112 112w, https://pmcfootwearnews.files.wordpress.com/2017/02/jason-bolden-alexandra-shipp-6.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Jason Bolden and &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp. Hair and makeup by David Rodriguez.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>For Bolden, one of the biggest challenges of the job is beating the competition to nab the best fashion items. So over the years, he&rsquo;s developed an aggressive strategy. &ldquo;It&rsquo;s very competitive, but it&rsquo;s all about relationships and the early bird gets the worm,&rdquo; he said. &ldquo;If I know that Dior is walking tomorrow at noon in Paris, I&rsquo;ve already sent an email out or a text. That just happened with Taraji for the SAGs. Before the show even happened, I reached out for something that didn&rsquo;t even walk yet [on the runway].&rdquo; Henson ended up hitting the SAG red carpet in an ethereal Reem Acra dress and Jimmy Choo heels.</p>
+<p>FN went behind the scenes with Bolden last month as he was dressing &ldquo;X-Men: Apocalypse&rdquo; actress Alexandra Shipp for the Harper&rsquo;s Bazaar 150 Most Fashionable Women party. Shipp opted for a Dolce &amp; Gabbana dress and towering <a href="http://footwearnews.com/t/brian-atwood/" id="auto-tag_brian-atwood" data-tag="brian-atwood">Brian Atwood</a> heels.</p>
+<p>&ldquo;I&rsquo;ve been blessed to work with girls who aren&rsquo;t fussy at all,&rdquo; Bolden said. &ldquo;Alex is wearing a Brian Atwood 6-inch platform, but we went with the most comfortable 6-inch platform. That was my bargain.&rdquo;</p>
+<p>He added, &ldquo;She&rsquo;s down for whatever and there&rsquo;s no resistance to anything when it comes to clothes. All of my girls are like that; all my guys are like that.&rdquo;</p>
+<div id="attachment_317063" class="thumbnail alignnone">
+	<img class="size-full wp-image-317063" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-4.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan westworld" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-4.jpg 1024w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-4.jpg?w=150 150w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-4.jpg?w=300 300w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-4.jpg?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px"  ><span class="caption horizontal">Behind the scenes with stylist Avo Yermagyan and &ldquo;Westworld&rdquo; actress Angela Sarafyan. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>Bolden noted that much of his business comes through word-of-mouth referrals.</p>
+<p>But social media is becoming a much bigger factor in the business, allowing actresses to discover and vet stylists online. &ldquo;They can go through your book [on Instagram],&rdquo; said Bolden. &ldquo;It&rsquo;s a blessing and curse, but it spreads you out to everyone.&rdquo;</p>
+<div id="attachment_317191" class="thumbnail alignnone">
+	<img class="size-full wp-image-317191" src="https://pmcfootwearnews.files.wordpress.com/2017/02/alex-shipp.jpg?w=1170" alt="alex shipp " srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/alex-shipp.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/alex-shipp.jpg?w=100 100w, https://pmcfootwearnews.files.wordpress.com/2017/02/alex-shipp.jpg?w=200 200w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Alexandra Shipp appears at the Harper&rsquo;s Bazaar 150 Most Fashionable Women event wearing Dolce &amp; Gabbana and Brian Atwood shoes.</span>
+			<span class="credits">REX Shutterstock.</span>
+	</div>
+
+<div id="attachment_317244" class="thumbnail alignnone">
+	<img class="size-full wp-image-317244" src="https://pmcfootwearnews.files.wordpress.com/2017/02/angela-sarafyan-et.jpg?w=1170" alt="Angela Sarafyan dress maxior earrings" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/angela-sarafyan-et.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/angela-sarafyan-et.jpg?w=103 103w, https://pmcfootwearnews.files.wordpress.com/2017/02/angela-sarafyan-et.jpg?w=205 205w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Angela Sarafyan wears at Entertainment Weekly&rsquo;s 2017 pre-SAG Awards party wearing a silver Galvan dress, Stuart Weitzman heels and earrings by Maxior.</span>
+			<span class="credits">REX Shutterstock.</span>
+	</div>
+
+<p>And now more than ever, in part because of social media, celebrity stylists are becoming celebrities in and of themselves.</p>
+<p>Take Rachel Zoe, one of the first to step into the limelight to claim her own level of fame and start a footwear and ready-to-wear collection. Neil J. Rodgers &mdash; the stylist to Beyonc&eacute;, Anna Kendrick and others &mdash; has followed suit. Last fall, he debuted his own namesake shoe collection, created specifically with red carpets in mind.</p>
+<div id="attachment_317071" class="thumbnail alignnone">
+	<img class="size-full wp-image-317071" src="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-7.jpg?w=1170" alt="Avo Yermagyan stylist angela sarafyan westworld" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-7.jpg 683w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-7.jpg?w=113 113w, https://pmcfootwearnews.files.wordpress.com/2017/02/avo-yermagyan-stylist-7.jpg?w=225 225w" sizes="(max-width: 683px) 100vw, 683px"  ><span class="caption portrait">Behind the scenes with stylist Avo Yermagyan and &ldquo;Westworld&rdquo; actress Angela Sarafyan. Hair by Ericka Verrett and makeup by Tracey Levy.</span>
+			<span class="credits">Max Knight.</span>
+	</div>
+
+<p>But with a higher level of visibility for stylists comes a higher level of scrutiny &mdash; namely in the form of those dreaded best- and worst-dressed lists. News outlets across the globe (including <em>Footwear News</em>) now cover each awards show appearance in minute detail.</p>
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:8px;">
+<div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+<div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div>
+<p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BQJlW1RBNiq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank" rel="nofollow">#glamtastic @ashanti in a custom @nenelashiro_designs | #styledbyme #wilfordlenov | #superbowl #superbowlweekend</a></p>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by wilfordlenov (@wilfordlenov) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-02-06T00:18:09+00:00">Feb 5, 2017 at 4:18pm PST</time></p>
+</div>
+</blockquote>
+<p>Lenov said he tries to avoid looking at press coverage, &ldquo;but I&rsquo;m guilty of going through social media accounts and looking at comments. I haven&rsquo;t gotten anything negative yet, but I&rsquo;ve gotten nice personal messages. Especially with Ashanti, she&rsquo;s getting noticed now with a fashion eye and a lot of people are tagging and mentioning me.&rdquo;</p>
+<p>For Yermagyan, he stays away from outside critiques all together. &ldquo;Taste is so subjective and you can&rsquo;t look for that kind of validation,&rdquo; he said. &ldquo;The validation I need is from the client. When you find a guy and the right shoe, their posture changes &mdash; the same with a woman. As long as they look like they have the confidence, my job is complete.&rdquo;</p>
+<p><strong>Below, stylists fess up about heels that hurt and what&rsquo;s in their bags. </strong></p>
+<p><strong><em>Footwear News</em>: What&rsquo;s in your styling kit?</strong><br><strong>Neil J. Rodgers:&nbsp;</strong>&ldquo;The kit is standard and built up over years &mdash; everything from double-sided tape to stitching kits to chicken fillets that go in a bra. You&rsquo;re always kind of concerned about slippery surfaces, so a lot of the time you&rsquo;ll bring pads for the bottom of the soles, which prevents slipping. And then pads for comfort for inside the shoe. You bring a hole punch to put extra holes in straps to make sure ankle straps fit. And shoelaces for guys &mdash; they are always splitting in half, so you always bring extra of those.&rdquo;</p>
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:8px;">
+<div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+<div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div>
+<p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BPA0XubAtKD/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank" rel="nofollow">MY FAVORITE GLOBE MOMENT&hellip; @halleberry GOLDEN GLOBES 2013 @versace_official @jimmychoo #halleberry #goldenglobes #fashionstylist</a></p>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by LINDSAY FLORES (@iamlindsayflores) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-01-08T18:04:47+00:00">Jan 8, 2017 at 10:04am PST</time></p>
+</div>
+</blockquote>
+<p><strong>Lindsay Flores:</strong>&nbsp;&ldquo;Everything from safety pins, sewing kits, every color thread to seamless panties, deodorant and Advil &mdash; it&rsquo;s like the Mary Poppins bag of tricks. I always keep a variety of shoes: Metallics are always great to have on-hand, and nude, black and a pop of color. I always keep a classic high closed-toe single-sole heel, and an open-toe strappy number.&rdquo;</p>
+<p><strong>Which event is the most fun to style?</strong><br><strong>Wilford Lenov:&nbsp;</strong>&ldquo;Any MTV awards show &mdash; the movie or music awards. You&rsquo;re allowed to do anything that&rsquo;s fun or sexy.&rdquo;</p>
+<p><strong>Avo Yermagyan:</strong>&nbsp;&ldquo;The Grammys because musicians are very daring with their choice of looks. There aren&rsquo;t as many parameters to stay within for dressing. The chance to dress someone is a thrill.&rdquo;</p>
+<p><strong>Jason Bolden:&nbsp;</strong>&ldquo;The NAACP Image Awards because I have every brown girl on the planet. Each season none of them know, but each one has a certain style I&rsquo;m giving them. Like last year, one was ultra sexy, one was black Barbie, the other was super-smart and chic, the other was whimsical. So when I see them, they&rsquo;re like, &lsquo;Oh my god, you didn&rsquo;t show me that dress!&rsquo; So it&rsquo;s always interesting.&rdquo;</p>
+<p><strong>What&rsquo;s your philosophy on uncomfortable heels?</strong><br><strong>Yermagyan:</strong>&nbsp;&ldquo;You absolutely need it. Sometimes you get pushback from the client, but the red carpet is not the place for comfort.</p>
+<p><strong>Bolden:</strong>&nbsp;&ldquo;It&rsquo;s all about the look for me. I need height. It&rsquo;s the walk and sit of it all &mdash; you walk in, get the photo and then sit.&rdquo;</p>
+<p><strong>Flores:&nbsp;</strong>&ldquo;Fashion always comes first, period. All my girls are masters of commanding the red carpet in a fabulous heel, painful or not.&rdquo;</p>
+<p><a href="http://footwearnews.com/gallery/avo-demi-lovato-stylist-jason-bolden-taraji-p-henson-red-carpet-photos/"><strong>Click here to view more photos from our behind-the-scenes photo shoots.</strong></a></p>
+<p><em>Angela Sarafyan: Hair by Ericka Verrett and makeup by Tracey Levy<br></em></p>
+<p><em>Alexandra Shipp: Hair and makeup by David Rodriguez.</em></p>		
+	</div><!-- .entry-content -->
+
+	<a href="http://pages.email.footwearnews.com/signup" class="newsletter-signup" target="_blank">&mdash; Sign up for the FN Newsletter &mdash;</a>
+
+	<footer class="entry-meta">
+		<a href="http://footwearnews.com/v/fashion/" rel="tag vertical">Fashion</a>, <a href="http://footwearnews.com/v/influencers/" rel="tag vertical">Influencers</a>, <a href="http://footwearnews.com/c/awards/" rel="tag category">Awards</a>, <a href="http://footwearnews.com/c/celebrity-style/" rel="tag category">Celebrity Style</a>, <a href="http://footwearnews.com/region/north-america/" rel="tag region">North America</a>, <a href="http://footwearnews.com/t/angela-sarafyan/" rel="tag">Angela Sarafyan</a>, <a href="http://footwearnews.com/t/ashanti/" rel="tag">ashanti</a>, <a href="http://footwearnews.com/t/avo-yermagyan/" rel="tag">Avo Yermagyan</a>, <a href="http://footwearnews.com/t/brian-atwood/" rel="tag">Brian Atwood</a>, <a href="http://footwearnews.com/t/demi-lovato/" rel="tag">Demi Lovato</a>, <a href="http://footwearnews.com/t/gabrielle-union/" rel="tag">Gabrielle Union</a>, <a href="http://footwearnews.com/t/halle-berry/" rel="tag">Halle Berry</a>, <a href="http://footwearnews.com/t/jason-bolden/" rel="tag">Jason Bolden</a>, <a href="http://footwearnews.com/t/nick-jonas/" rel="tag">Nick Jonas</a>, <a href="http://footwearnews.com/t/oscars/" rel="tag">Oscars</a>, <a href="http://footwearnews.com/t/stuart-weitzman/" rel="tag">Stuart Weitzman</a>, <a href="http://footwearnews.com/t/taraji-p-henson/" rel="tag">Taraji P. Henson</a>, <a href="http://footwearnews.com/t/westworld/" rel="tag">Westworld</a>	</footer><!-- .entry-meta -->
+
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;" height="0" width="0">
+<symbol id="pmc-social-share-bar-comment" viewBox="0 0 1792 1792"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-email" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47H160q-66 0-113-47T0 1504V710q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38T639 1015q-91-64-262-182.5T172 690q-62-42-117-115.5T0 438q0-78 41.5-130T160 256h1472q65 0 112.5 47t47.5 113z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-facebook" viewBox="0 0 1792 1792"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759H734V905H479V609h255V391q0-186 104-288.5T1115 0q147 0 228 12z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-linkedin" viewBox="0 0 1792 1792"><path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-pinit" viewBox="0 0 1792 1792"><path d="M1664 896q0 209-103 385.5T1281.5 1561 896 1664q-111 0-218-32 59-93 78-164 9-34 54-211 20 39 73 67.5t114 28.5q121 0 216-68.5t147-188.5 52-270q0-114-59.5-214T1180 449t-255-63q-105 0-196 29t-154.5 77-109 110.5-67 129.5T377 866q0 104 40 183t117 111q30 12 38-20 2-7 8-31t8-30q6-23-11-43-51-61-51-151 0-151 104.5-259.5T904 517q151 0 235.5 82t84.5 213q0 170-68.5 289T980 1220q-61 0-98-43.5T859 1072q8-35 26.5-93.5t30-103T927 800q0-50-27-83t-77-33q-62 0-105 57t-43 142q0 73 25 122l-99 418q-17 70-13 177-206-91-333-281T128 896q0-209 103-385.5T510.5 231 896 128t385.5 103T1561 510.5 1664 896z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-show-more" viewBox="0 0 1792 1792"><path d="M1600 736v192q0 40-28 68t-68 28h-416v416q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-416h-416q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h416v-416q0-40 28-68t68-28h192q40 0 68 28t28 68v416h416q40 0 68 28t28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-print" viewBox="0 0 1792 1792"><path d="M448 1536h896v-256h-896v256zm0-640h896v-384h-160q-40 0-68-28t-28-68v-160h-640v640zm1152 64q0-26-19-45t-45-19-45 19-19 45 19 45 45 19 45-19 19-45zm128 0v416q0 13-9.5 22.5t-22.5 9.5h-224v160q0 40-28 68t-68 28h-960q-40 0-68-28t-28-68v-160h-224q-13 0-22.5-9.5t-9.5-22.5v-416q0-79 56.5-135.5t135.5-56.5h64v-544q0-40 28-68t68-28h672q40 0 88 20t76 48l152 152q28 28 48 76t20 88v256h64q79 0 135.5 56.5t56.5 135.5z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-reddit" viewBox="0 0 1792 1792"><path d="M1095 1167q16 16 0 31-62 62-199 62t-199-62q-16-15 0-31 6-6 15-6t15 6q48 49 169 49 120 0 169-49 6-6 15-6t15 6zM788 986q0 37-26 63t-63 26-63.5-26-26.5-63q0-38 26.5-64t63.5-26 63 26.5 26 63.5zm395 0q0 37-26.5 63t-63.5 26-63-26-26-63 26-63.5 63-26.5 63.5 26 26.5 64zm251-120q0-49-35-84t-85-35-86 36q-130-90-311-96l63-283 200 45q0 37 26 63t63 26 63.5-26.5T1359 448t-26.5-63.5T1269 358q-54 0-80 50l-221-49q-19-5-25 16l-69 312q-180 7-309 97-35-37-87-37-50 0-85 35t-35 84q0 35 18.5 64t49.5 44q-6 27-6 56 0 142 140 243t337 101q198 0 338-101t140-243q0-32-7-57 30-15 48-43.5t18-63.5zm358 30q0 182-71 348t-191 286-286 191-348 71-348-71-286-191-191-286T0 896t71-348 191-286T548 71 896 0t348 71 286 191 191 286 71 348z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-close" viewBox="0 0 1792 1792"><path d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-tumblr" viewBox="0 0 1792 1792"><path d="M1328 1329l80 237q-23 35-111 66t-177 32q-104 2-190.5-26T787 1564t-95-106-55.5-120-16.5-118V676H452V461q72-26 129-69.5t91-90 58-102 34-99T779 12q1-5 4.5-8.5T791 0h244v424h333v252h-334v518q0 30 6.5 56t22.5 52.5 49.5 41.5 81.5 14q78-2 134-29z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-twitter" viewBox="0 0 1792 1792"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5T1369.5 1125 1185 1335.5t-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5T285 1033q33 5 61 5 43 0 85-11-112-23-185.5-111.5T172 710v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5T884 653q-8-38-8-74 0-134 94.5-228.5T1199 256q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"/>
+</symbol>
+<symbol id="pmc-social-share-bar-whatsapp" viewBox="0 0 1792 1792"><path d="M1113 974q13 0 97.5 44t89.5 53q2 5 2 15 0 33-17 76-16 39-71 65.5t-102 26.5q-57 0-190-62-98-45-170-118t-148-185q-72-107-71-194v-8q3-91 74-158 24-22 52-22 6 0 18 1.5t19 1.5q19 0 26.5 6.5t15.5 27.5q8 20 33 88t25 75q0 21-34.5 57.5t-34.5 46.5q0 7 5 15 34 73 102 137 56 53 151 101 12 7 22 7 15 0 54-48.5t52-48.5zm-203 530q127 0 243.5-50t200.5-134 134-200.5 50-243.5-50-243.5-134-200.5-200.5-134-243.5-50-243.5 50-200.5 134-134 200.5-50 243.5q0 203 120 368l-79 233 242-77q158 104 345 104zm0-1382q153 0 292.5 60t240.5 161 161 240.5 60 292.5-60 292.5-161 240.5-240.5 161-292.5 60q-195 0-365-94l-417 134 136-405q-108-178-108-389 0-153 60-292.5t161-240.5 240.5-161 292.5-60z"/>
+</symbol></svg><div class="share-container">
+	<ul class="share-buttons">
+					<li>
+									<a data-href="https://www.facebook.com/sharer.php?u=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button&#038;app_id=219713811781474" href="https://www.facebook.com/sharer.php?u=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;sdk=joey&#038;display=popup&#038;ref=plugin&#038;src=share_button&#038;app_id=219713811781474"
+				 					class="btn-facebook"
+											target="_blank"
+											title="Share on Facebook">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-facebook"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="https://twitter.com/intent/tweet?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;text=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;via=Footwearnews" href="https://twitter.com/intent/tweet?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;text=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;via=Footwearnews"
+				 					class="btn-twitter"
+											target="_blank"
+											title="Tweet">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-twitter"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="http://www.reddit.com/submit?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="http://www.reddit.com/submit?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+				 					class="btn-reddit"
+											target="_blank"
+											title="Submit to Reddit">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-reddit"></use>
+						</svg>
+											</a>
+				</li>
+						<li>
+									<a data-href="http://pinterest.com/pin/create/link/?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;description=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="http://pinterest.com/pin/create/link/?url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;description=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+				 					class="btn-pinterest"
+											target="_blank"
+											title="Pin it">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-pinit"></use>
+						</svg>
+											</a>
+				</li>
+							<li>
+					<a href="#share-more" class="showShareMore btn-more" target="_blank" title="More Share Options">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-show-more"></use>
+					</svg>
+				</a>
+			</li>
+		</ul>
+	<div class="shareMore">
+		<ul class="shareModal">
+			<li>
+				Share This Article
+				<a class="closeShare" href="#closeShare">
+					<svg>
+						<use xlink:href="#pmc-social-share-bar-close"></use>
+					</svg>
+				</a>
+			</li>
+							<li>
+											<a data-href="mailto:?subject=Footwearnews%20:%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;body=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/%20-%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="mailto:?subject=Footwearnews%20:%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;body=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/%20-%20What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+											class="btn-email"
+											target="_blank"
+																title="Email">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-email"></use>
+						</svg>
+						<span>
+							Email						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;posttype=link&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season" href="https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&#038;canonicalUrl&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;posttype=link&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season"
+											class="btn-tumblr"
+											target="_blank"
+																title="Post to Tumblr">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-tumblr"></use>
+						</svg>
+						<span>
+							Tumblr						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="" href=""
+											class="btn-whatsapp"
+																data-action="share/whatsapp/share"
+											title="Share on WhatsApp">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-whatsapp"></use>
+						</svg>
+						<span>
+							WhatsApp						</span>
+					</a>
+				</li>
+							<li>
+											<a data-href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;summary&#038;source=Footwearnews" href="http://www.linkedin.com/shareArticle?mini=1&#038;url=http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/&#038;title=What%20It’s%20Really%20Like%20for%20Celebrity%20Stylists%20During%20Awards Season&#038;summary&#038;source=Footwearnews"
+											class="btn-linkedin"
+											target="_blank"
+																title="Share on LinkedIn">
+						<svg>
+							<use xlink:href="#pmc-social-share-bar-linkedin"></use>
+						</svg>
+						<span>
+							LinkedIn						</span>
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h4 class="screen-reader-text">Post navigation</h4>
+		<div class="nav-links">
+			<div class="nav-previous"><a href="http://footwearnews.com/2017/fashion/awards/etsy-high-top-sneakers-chuck-taylors-316014/" rel="prev"><span class="meta-nav">&larr;</span> A Guide to the Coolest High-Top Sneakers on&nbsp;Etsy</a></div><div class="nav-next"><a href="http://footwearnews.com/2017/fashion/awards/hsn-disney-beauty-and-the-beast-collection-317050/" rel="next">HSN Collaborates With Disney for ‘Beauty and the Beast’&nbsp;Collection <span class="meta-nav">&rarr;</span></a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			<div class="widget widget_pmc_outbrain_widget"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="FootWearNews" ></div>
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2" data-ob-template="FootWearNews" ></div>
+	</div>
+</div>
+			<div class="mid-river-ad">
+				<div class="admz" id="adm-mid-river-banner">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-620x250-uid2" class="ad-rotatable adw-620 adh-250"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-1468280498-uid3" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+			</div>
+
+			
+<div id="comments" class="comments-area">
+<!-- #comments from Dean -->
+	
+			<h2 class="comments-title">
+			2 thoughts on &ldquo;<span>What It&#8217;s Really Like for Celebrity Stylists During Awards&nbsp;Season</span>&rdquo;		</h2>
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://footwearnews.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e88f5421e1" /><input type="hidden" name="_wp_http_referer" value="/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='317042' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="053347c015" /></p>
+<input type="hidden" name="genseq" value="1489275576" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="93"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+			
+		<ol class="comment-list">
+					<li id="comment-260554" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-260554" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/5398ae590f257baeff3e5c12fea95c7c?s=32&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&#038;r=PG' class='avatar avatar-32' height='32' width='32' />						<b class="fn">swiselkronsi</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/#comment-260554">
+							<time datetime="2017-02-23T15:33:08+00:00">
+								February 23, 2017 at 3:33 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Searching for a girl to get laid?<br />
+Visit this website</p>
+<p> <a href="http://tinyurl.com/zacn5jw" rel="nofollow">http://tinyurl.com/zacn5jw</a></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/?replytocom=260554#respond' onclick='return addComment.moveForm( "div-comment-260554", "260554", "respond", "317042" )' aria-label='Reply to swiselkronsi'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-260574" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-260574" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/906fbcddffd9fbc6d368b9a426ca459c?s=32&#038;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&#038;r=PG' class='avatar avatar-32' height='32' width='32' />						<b class="fn">orpecguica</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/#comment-260574">
+							<time datetime="2017-02-23T16:23:03+00:00">
+								February 23, 2017 at 4:23 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Want to find a cute ppartner for sex?<br />
+Visit this website</p>
+<p> <a href="http://tinyurl.com/hrqv9bu" rel="nofollow">http://tinyurl.com/hrqv9bu</a></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://footwearnews.com/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/?replytocom=260574#respond' onclick='return addComment.moveForm( "div-comment-260574", "260574", "respond", "317042" )' aria-label='Reply to orpecguica'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+		
+
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+
+		<div class="right-sidebar">
+			<div class="ad ad-sidebar-top hide-on-mobile">
+				<div class="admz" id="adm-sidebar-top">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-top-ros-300x250-uid4" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+			</div>
+
+
+			
+<section class="widget widget-feature-gallery hide-on-mobile">
+		<h5 class="widget-title">Featured Gallery</h5>
+					<article>
+								<a href="http://footwearnews.com/gallery/celebrity-designer-statement-shoes-march-2017-photos/" class="thumb">
+					<img src="https://pmcfootwearnews.files.wordpress.com/2017/03/celebrity-statement-shoes-march-2017-4.jpg?w=300&#038;h=450&#038;crop=1" />
+				</a>
+								<h2 class="title"><a href="http://footwearnews.com/gallery/celebrity-designer-statement-shoes-march-2017-photos/">Celebrity Statement Shoes: March&nbsp;2017</a></h2>
+			</article>
+			</section>
+<div class="fn-widget__newsletter-signup">
+
+	<a href="/" class="fn-widget__newsletter-signup-logo">
+		<img src ="https://s2.wp.com/wp-content/themes/vip/pmc-footwearnews/plugins/newsletter-signup-widget/assets/images/logo.png" />
+	</a>
+
+	<h3 class="fn-widget__newsletter-header">ALERTS &#038; NEWSLETTERS</h3>
+
+	<form method="post" action="http://pages.email.footwearnews.com/signup" id="newsletter-module-form" name="newsletter-module-form" class="clearfix" target="_blank">
+
+		<div class="fn-widget__newsletter-signup-form">
+
+			<input type="email" name="EmailAddress" class="toolkitEmail" placeholder="Enter your email address" />
+
+			<input type="hidden" name="fn_daily_Opted_In" value="Yes" />
+			<input type="hidden" name="fn_newsalert_Opted_In" value="Yes" />
+
+			<input type="hidden" name="fn_CM_Opted_In" value="Yes" />
+			<input type="hidden" name="fn_summits_Opted_In" value="Yes" />
+			<input type="hidden" name="fn_thirdparty_Opted_In" value="Yes" />
+			<input type="hidden" name="fn_research_opted_in" value="Yes" />
+
+			<input type="hidden" name="Global_Opted_Out" value="No" />
+
+			<button type="submit">SIGN UP</button>
+			<input type="hidden" name="__contextName" id="__contextName" value="FormPost" />
+			<input type="hidden" name="__executionContext" id="__executionContext" value="Post" />
+			<input type="hidden" name="__successPage" id="__successPage" value="" />
+
+		</div>
+
+	</form>
+
+	<script type="text/javascript">
+		/*
+		 * Add the success input field on both keyup and blur
+		 * this ensures the field is added when an email address
+		 * is typed in, pasted in, or selected from the user's browser
+		 */
+		(function($) {
+
+			function fn_add_success_page_input( that ) {
+
+				var $this = $( that );
+				var emailValue = encodeURIComponent( $this.val() );
+
+				$this.parents( 'form' ).find( '#__successPage' ).val( 'http://pages.email.footwearnews.com/newsletters/?email=' + emailValue + '&signup=success' );
+
+			}
+
+			$( document ).ready( function() {
+
+				$( '.toolkitEmail' ).keyup( function() {
+					fn_add_success_page_input( this );
+				} ).blur( function() {
+					fn_add_success_page_input( this );
+				} );
+
+			} );
+
+		})(jQuery);
+	</script>
+
+	<a target="_blank" href="http://pmc.com/privacy-policy/" class="fn-widget__newsletter-signup-privacy">PRIVACY POLICY</a>
+
+</div>
+<section class="widget widget-fn-zergnet clearfix">
+			<h5 class="widget-title">Around The Web</h5>
+		<div id="zergnet-widget-27368"></div>
+	<script language="javascript" type="text/javascript">
+		(function () {
+			var zergnet = document.createElement('script');
+			zergnet.type = 'text/javascript';
+			zergnet.async = true;
+			zergnet.src = 'http://www.zergnet.com/zerg.js?id=27368';
+			var znscr = document.getElementsByTagName('script')[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+	</script>
+</section>
+<section class="widget widget-latest-issue hide-on-mobile">
+		<h5 class="widget-title">Latest Publication</h5>
+					<article>
+								<a href="https://w1.buysub.com/pubs/FT/FNS/sub_1yr_US.jsp?cds_page_id=152604&#038;cds_mag_code=FNS&#038;id=1425345280159&#038;lsid=50611914401031391&#038;vid=1&#038;cds_response_key=93ZA010SB" class="thumb">
+					<img width="300" height="389" src="https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=300" class="attachment-issue-widget size-issue-widget wp-post-image" alt="Troian Bellasario" srcset="https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=300 300w, https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=600 600w, https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=116 116w, https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=232 232w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="319714" data-permalink="http://footwearnews.com/2017/fashion/awards/troian-bellisario-pretty-little-liars-fashion-shoes-style-319883/attachment/fn-cover-022717/" data-orig-file="https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg" data-orig-size="683,885" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Troian Bellasario" data-image-description="" data-medium-file="https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=232" data-large-file="https://pmcfootwearnews.files.wordpress.com/2017/02/fn-cover-022717.jpg?w=683" />				</a>
+								<div class="widget-meta">
+					<span class="widget-issue-title">Footwear News</span>
+					<span class="widget-issue-date">02/27/2017</span>
+				</div>
+				<a href="https://w1.buysub.com/pubs/FT/FNS/sub_1yr_US.jsp?cds_page_id=152604&#038;cds_mag_code=FNS&#038;id=1425345280159&#038;lsid=50611914401031391&#038;vid=1&#038;cds_response_key=93ZA010SB"><span class="square"></span>Read Now</a>
+			</article>
+			</section>
+			<div class="ad ad-sidebar-bottom hide-on-mobile">
+				<div class="admz" id="adm-sidebar-bottom">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-bottom-ros-300x251-uid5" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+			</div>
+		</div>
+
+
+	</div><!-- #secondary -->
+	</div><!-- #content -->
+
+	<div class="footer-bottom-ad">
+			</div>
+
+</div><!-- #page -->
+
+       <footer id="footer" class="site-footer wrap" role="contentinfo">
+           <div id="other-pmc-properties">
+               		<ul id="property-snippets">
+        
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2017/biz/news/preet-bharara-donald-trump-fired-billions-1202007101/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="//pmcvariety.files.wordpress.com/2017/03/preet.png?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>Trump's Firing of New York U.S. Attorney Preet Bharara Evokes&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites tvline">
+				<a href="http://tvline.com/2017/03/11/baby-daddy-spoilers-season-6-premiere-riley-pregnant-photos/">
+					<h5 class="tvline-logo logos"></h5>
+					<img src="//pmctvline2.files.wordpress.com/2017/03/baby-daddy-season-6-2.jpg?resize=180%2C101" width="180" height="101" alt="TVLine" />
+					<p>Baby Daddy First Look: Will Riley&#039;s Pregnancy Stirrup Drama for&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites deadline">
+				<a href="http://deadline.com/2017/03/leap-trailer-elle-fanning-nat-wolff-animated-film-1202041710/">
+					<h5 class="deadline-logo logos"></h5>
+					<img src="//b.scorecardresearch.com/p?c1=7&#038;c2=6035310&#038;c3=10001&#038;cv=2.0&#038;cj=1" width="180" height="101" alt="Deadline" />
+					<p>'Leap!' Trailer: Elle Fanning And Nat Wolff Dare To Dream In&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites hollywoodlife">
+				<a href="http://hollywoodlife.com/2017/03/11/jennifer-schuett-kidnapping-survivor-clip-48-hours/">
+					<h5 class="hollywoodlife-logo logos"></h5>
+					<img src="//pmchollywoodlife.files.wordpress.com/2017/03/jennifer-schuett-left-to-die-interview-ftr1.jpg?resize=180%2C101" width="180" height="101" alt="HollywoodLife" />
+					<p>Jennifer Schuett Reveals She Was Kidnapped &amp; Left To Die At&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites bgr">
+				<a href="http://bgr.com/2017/03/11/t-mobile-unlimited-vs-verizon-plan/">
+					<h5 class="bgr-logo logos"></h5>
+					<img src="//boygeniusreport.files.wordpress.com/2016/06/t-mobile-uncarrier.png?resize=180%2C101" width="180" height="101" alt="BGR" />
+					<p>T-Mobile adds more data to its unlimited plan before it starts&hellip;</p>
+				</a>
+			</li>
+		        </ul>
+        <section class="footer-links"><ul><li><a href="/contact-us/" title="Contact Us" rel="nofollow">Contact Us</a></li><li><a href="/about-us/" title="About Us" rel="nofollow">About Us</a></li><li><a href="/advertise/" title="Advertise" rel="nofollow">Advertise</a></li><li><a href="http://pmc.com/terms-of-use/" title="Terms of Use" rel="nofollow">Terms of Use</a></li><li><a href="http://pmc.com/privacy-policy/" title="Privacy Policy" rel="nofollow">Privacy Policy</a></li><li><a href="http://pmc.com/privacy-policy/#california" title="Your Privacy Rights" rel="nofollow">Your Privacy Rights</a></li><li><a href="http://pages.email.footwearnews.com/signup" title="Newsletters" rel="nofollow">Newsletters</a></li></ul></section>    <section class="pmc-links">
+        <h3><a href="http://pmc.com/" target="_blank" title="PMC Network"><span>The Power of Content</span></a></h3>
+        <nav>
+            <ul class="pmc-properties icon-pmc-logos">
+                                        <li class="sister-logo sister-variety"><a href="http://variety.com" >Variety</a></li>
+                                                <li class="sister-logo sister-india"><a href="http://india.com/" >india.com</a></li>
+                                                <li class="sister-logo sister-hollywoodlife"><a href="http://hollywoodlife.com" >Hollywoodlife</a></li>
+                                                <li class="sister-logo sister-deadline"><a href="http://deadline.com/" >Deadline</a></li>
+                                                <li class="sister-logo sister-tvline"><a href="http://tvline.com" >TV Line</a></li>
+                                                <li class="sister-logo sister-goldderby"><a href="http://www.goldderby.com" >GOLDDERBY</a></li>
+                                                <li class="sister-logo sister-wwd"><a href="http://wwd.com/" >WWD</a></li>
+                        
+            </ul>
+        </nav>
+    </section>
+
+        <p class="copyright">&copy; 2017 Fairchild Publishing, LLC, a subsidiary of Penske Business Media, LLC.<br /> FN and Footwear News are registered trademarks of Fairchild Publishing, LLC. All rights reserved.</p><p class="copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>           </div><!-- closes wrap -->
+       </footer>
+    		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+				<script type='text/javascript' async='async' data-client-id='fPqISeJfwopmIAx' src='https://s1.wp.com/wp-content/themes/vip/pmc-plugins/pmc-ab-analytics/assets/js/ab-analytics.js?ver=1.1' ></script>
+				<script type="text/javascript" src="//wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=footnews09-20&#038;locale=US&#038;overwrite=Y"></script>
+	
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = window.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+		if( 'undefined' !== typeof pmc_meta && 'string' === pmc_meta.omni_visit_id ) {
+			window.pmc_krux['omni_visit_id'] = pmc_meta.omni_visit_id;
+		}
+	}
+})();
+
+</script>
+		<div id="pmc-ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 0 !important; height: 0 !important; position: fixed !important; left: -99999px !important;">ad</div>
+
+		<script>
+			if ( 'undefined' !== typeof jQuery ) {
+				var $pmc_ad_bait = jQuery('#pmc-ad-bait');
+				if ( $pmc_ad_bait.length ) {
+					if ( 'block' !== $pmc_ad_bait.css('display') ) {
+						window.pmc_is_adblocked = true;
+					}
+				}
+			}
+		</script>
+		<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "footwearnews.com",
+        "kw": [
+            "awards",
+            "celebrity-style",
+            "angela-sarafyan",
+            "ashanti",
+            "avo-yermagyan",
+            "brian-atwood",
+            "demi-lovato",
+            "gabrielle-union",
+            "halle-berry",
+            "jason-bolden",
+            "nick-jonas",
+            "oscars",
+            "stuart-weitzman",
+            "taraji-p-henson",
+            "westworld",
+            "fashion",
+            "influencers",
+            "north-america"
+        ]
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/FootwearNews/ros",
+                "id": "div-gpt-leaderboard-ros-728x90-uid0",
+                "width": [
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ],
+                    [
+                        728,
+                        90
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527256"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427188"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-leaderboard-ros-728x90-uid0",
+                    "sizes": [
+                        [
+                            970,
+                            90
+                        ],
+                        [
+                            970,
+                            250
+                        ],
+                        [
+                            728,
+                            90
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/FootwearNews/ros",
+                "id": "div-gpt-leaderboard-ros-728x90-uid1",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": [],
+                "slot": "3782/FootwearNews/ros",
+                "id": "div-gpt-ros-620x250-uid2",
+                "width": [
+                    [
+                        620,
+                        250
+                    ],
+                    [
+                        500,
+                        280
+                    ]
+                ],
+                "bidders": false,
+                "is_lazy_load": null
+            },
+            {
+                "targeting": [],
+                "slot": "3782/FootwearNews/ros/inline",
+                "id": "gpt-1468280498-uid3",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "/3782/FootwearNews/ros",
+                "id": "div-gpt-top-ros-300x250-uid4",
+                "width": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        300,
+                        600
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527256"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427187"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-top-ros-300x250-uid4",
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            300,
+                            600
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "/3782/FootwearNews/ros",
+                "id": "div-gpt-bottom-ros-300x251-uid5",
+                "width": [
+                    [
+                        300,
+                        251
+                    ],
+                    [
+                        300,
+                        601
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527257"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427187"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-bottom-ros-300x251-uid5",
+                    "sizes": [
+                        [
+                            300,
+                            251
+                        ],
+                        [
+                            300,
+                            601
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201710y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-5398ae590f257baeff3e5c12fea95c7c">
+	</div>
+	<div class="grofile-hash-map-906fbcddffd9fbc6d368b9a426ca459c">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmcfootwearnews.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmcfootwearnews.wordpress.com\/wp-login.php?action=logout&_wpnonce=32af9ec118","homeURL":"http:\/\/footwearnews.com\/","postID":"317042","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<noscript><img src="//heartbeat.pmc.com/track?host=footwearnews.com&#038;path=%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F&#038;post_id=317042&#038;title=What+It%E2%80%99s+Really+Like+for+Celebrity+Stylists+During+Awards+Season&#038;author=Charlie+Carballo&#038;comment_count=2" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" /></noscript>
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="78851565" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://footwearnews.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Footwear News" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="09e3a683aa" /><input type="hidden" name="_wp_http_referer" value="/2017/fashion/awards/red-carpet-stylists-avo-jason-bolden-advice-tips-317042/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-3' href='https://s0.wp.com/wp-content/themes/vip/pmc-footwearnews/plugins/newsletter-signup-widget/assets/css/style.css?m=1485531620h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmcfootwearnews.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmcfootwearnews.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVjUESgjAMRS9kjSgzunE8Sy0RAmkaaQt4e4sLx3HH7s/Pfy8wq3FBEkqCPkKDEznUZd/HHfycfDbKuSWJwDRghGfGjJ2VhnH8H6cOfZlMpKDefcE1d8jaYBzWXx4lb0BbDnfL5pHFJQqlLIrZvjSQpLjBM4x5Mcm2K//JSgtyEdz8tarPh/pUV5dj/wZzimht'></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/QP1t6uHcTAyaVJVbcLmy.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"QP1t6uHcTAyaVJVbcLmy","redirect_to":"\/results","home_url":"http:\/\/footwearnews.com\/","placeholder_image":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/pmc-footwearnews\/assets\/images\/fn-logo-red-black-300x208px.jpg","image_size":"medium","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Articles"}},"author_list":[],"date_filters":{"date_options:radio-options":{"title":"Timeline","default_option":4},"topics_facet:checkbox-facet":{"limit":10,"disallowed_items":["regions","Issues & Publications"]}},"custom_facet_settings":[],"meta_tags":{"post_types":{"post":"Article","page":"Page","pmc-gallery":"Gallery"},"show_content_type_meta_tag":true,"topics":["category","vertical","region","post_tag","people","collection","company"],"custom_topics":[],"comment_count":true,"appeared_in_print":false},"trans":{"search":"Search","search_button":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Filters","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months"},"q":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_share_bar_lob_ga_tracking = {"permalink":"http:\/\/footwearnews.com\/2017\/fashion\/awards\/red-carpet-stylists-avo-jason-bolden-advice-tips-317042\/","is_mobile":"","share_list":{"facebook":{"name":"Facebook","title":"Share on Facebook","class":"btn-facebook","url":"https:\/\/www.facebook.com\/sharer.php","popup":true,"javascript":false,"popup_title":"Share on Facebook"},"twitter":{"name":"Twitter","title":"Tweet","class":"btn-twitter","url":"https:\/\/twitter.com\/intent\/tweet","popup":true,"javascript":false,"popup_title":"Share on Twitter"},"tumblr":{"name":"Tumblr","title":"Post to Tumblr","class":"btn-tumblr","url":"https:\/\/www.tumblr.com\/widgets\/share\/tool\/preview","popup":true,"javascript":false,"popup_title":"Share on Tumblr"},"pinit":{"name":"Pin It","title":"Pin it","class":"btn-pinterest","url":"http:\/\/pinterest.com\/pin\/create\/link\/","popup":true,"javascript":false,"popup_title":"Share on Pinterest"},"reddit":{"name":"Reddit","title":"Submit to Reddit","class":"btn-reddit","url":"http:\/\/www.reddit.com\/submit","popup":true,"javascript":false,"popup_title":"Share on Reddit"},"linkedin":{"name":"LinkedIn","title":"Share on LinkedIn","class":"btn-linkedin","url":"http:\/\/www.linkedin.com\/shareArticle","popup":true,"javascript":false,"popup_title":"Share on LinkedIn"},"whatsapp":{"name":"WhatsApp","title":"Share on WhatsApp","class":"btn-whatsapp","url":"whatsapp:\/\/send","popup":false,"javascript":false,"popup_title":"Share on Whats App"},"email":{"name":"Email","title":"Email","class":"btn-email","url":"mailto:","popup":true,"javascript":false,"popup_title":"Send an Email"},"print":{"name":"Print","title":"Print This Page","class":"btn-print","url":"javascript:window.print()","popup":false,"javascript":true,"popup_title":"Print the Article"},"comment":{"name":"Talk","title":"Talk","class":"btn-comment","url":"","popup":false,"javascript":false,"popup_title":"Post a Comment"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJytkU1OwzAQhS+EMw2tChvEgiNwAGS7djqO//DYuLk9TlqpLElgNxq9983PgxqZDD4rnyGflVMEXxghOsmiLQN6WmqqqPMUFXAilQkMwfut9RZcDL75qXPoO0MPsJnZXBqHknjG4NfigkRuGZ15UkzwBB+ioD3NWJ0W++l/aDlxOaIfVtAGG0Sj6eLlfNly63UCZvVHzn3bxrqpVyANMYsi8YSzoD0pJKCMcpwau+92XQ/ms6g0ddfuL1LRIeSqePKq0o9wacTYZvmxCWQhpvGyDSRam1oK8V5t3KhinN//6l76w9Pzbn/cHx/NN3vfKL8='></script>
+<script type='text/javascript' src='https://load.instinctiveads.com/i.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/footwearnews.com\/wp-admin\/admin-ajax.php","nonce":"18df0406df","display_exif":"0","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/pmcfootwearnews.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Ffootwearnews.com%2F2017%2Ffashion%2Fawards%2Fred-carpet-stylists-avo-jason-bolden-advice-tips-317042%2F","blog_id":"78851565","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=78851565&v=wpcom&tz=-5&user_id=0&subd=pmcfootwearnews","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyNUNtugzAM/aGZlBVN68O0bzEhA6e5zXE68fcLMFAfqmqSH6yj43Ox+kmgYxATRMlkvMnqRkklryG5MlLI6z662KODrxK0UKyg3fAspK8zMI2TMJJrbH5R/5O0GRz1jEwLwYQhshqibKPa5q1pO2W/i+G5OfDGU9g9KGhXBrNm0dH76gdskpvvSXsQXw7zV1ji2DUVYEA31xL5yQEOVRB6ZOUxi+G6QbwZZlrcD+yJQp4ii45/YSsiODL6R01yetxw+8T+kHvWAz+NHEs2TlkjCfUVdqDefPqPtnu/nE5de77YX7J0vvM='></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/themes/vip/pmc-plugins/pmc-outbrain/assets/js/pmc-outbrain.js?m=1444841494h'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'78851565','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'78851565','v':'wpcom','tz':'-5','user_id':'0','post':'317042','subd':'pmcfootwearnews'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=78851565&v=wpcomvt&tz=-5&user_id=0&post=317042&subd=pmcfootwearnews&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sOUhJcU8uRFZMOUJMUVY5bkpBL29fT25mTjAwbUUlS0c/NnJpPUFILmEmU205TEh0WWYycDRhTE4rR1JrUlJbJlcuSS9CS2RdbjdZTSxrMHl2aTlQcy1fd0xYM3ZsZTRTWlAyT3R4aWZ1S2l4RmI2dFRJWjk4SW1zR1M9RG9kNmwwVk1RbEdGcEloYy1fellVc25VaUV1SHEmNF1FL2k2RjRLWUpsaGNVLjNTVl1OeXlZZ2NuLmZzMnplM1dMeXhQ'}]);
+_stq.push([ 'clickTrackerInit', '78851565', '317042' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || []; _comscore.push(
+{ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }
+); (function()
+{ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
+)();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+	_qevents.push([
+		{ qacct: "p-31f3D02tYU8zY" } // PMC P-Code
+	]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-31f3D02tYU8zY.gif" border="0" height="1" width="1" alt="Quantcast" />
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+	function global_urlhashchanged() {
+		
+		// Track PV in GA
+		try {
+			ga( 'send', 'pageview', location.pathname + location.hash );
+		} catch(err) {}
+
+		// Track Quantcast
+		try {
+
+			// need to reset the array containing the options previously sent
+			// as quantcast does not send the same key twice.
+			if (__qc && __qc.qpixelsent && __qc.qpixelsent.length > 0) {
+				__qc.qpixelsent.length = 0;
+			}
+			// First Quantcast Tag
+			_qoptions=[
+				{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+			];
+
+			quantserve();
+
+		} catch(err) {}
+
+		// Track Comscore
+		try {
+			setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+			COMSCORE.beacon({c1:2,c2:"6035310",c3:"6035310",c4:"",c5:"",c6:"",c15:""});
+
+
+		} catch(err) {}
+
+		/**
+		 * Track pageview end
+		 */
+	}
+
+</script>
+	<script src="//tru.am/scripts/custom/penskemedia.js"></script>
+	<script type="text/javascript" src="//s.skimresources.com/js/87443X1540256.skimlinks.js"></script>
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+
+</body>
+</html>
+<!--
+	generated in 0.261 seconds
+	154928 bytes batcached for 300 seconds
+-->

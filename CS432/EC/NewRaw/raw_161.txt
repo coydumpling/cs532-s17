@@ -1,0 +1,848 @@
+<!DOCTYPE html> 
+<html class="no-js" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="">
+	
+	<title>6 Secrets Personal Stylists Won’t Tell You for Free &#8211; Glam Radar</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="p:domain_verify" content="4b9e90af9d9d348712aead09fe9bc241" />
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+<!-- All in One SEO Pack 2.3.11.1 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<meta name="description"  content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal" />
+
+<meta name="keywords"  content="secrets personal stylists won’t tell you for free,personal style,signature look,timeless wardrobe,tailored clothes,fashion trends" />
+
+<link rel="canonical" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/" />
+<meta property="og:title" content="6 Secrets Personal Stylists Won’t Tell You for Free" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/" />
+<meta property="og:image" content="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt-377x500.jpg" />
+<meta property="og:site_name" content="Glam Radar" />
+<meta property="og:description" content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your looks fashion-forward. If you wish to make your looks fashionable on your own way, you might want to read the 6 secrets personal stylist won’t tell you for free." />
+<meta property="article:published_time" content="2017-02-23T22:00:54Z" />
+<meta property="article:modified_time" content="2017-01-30T09:49:51Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="6 Secrets Personal Stylists Won’t Tell You for Free" />
+<meta name="twitter:description" content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your looks fashion-forward. If you wish to make your looks fashionable on your own way, you might want to read the 6 secrets personal stylist won’t tell you for free." />
+<meta name="twitter:image" content="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt-377x500.jpg" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//assets.pinterest.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Glam Radar &raquo; Feed" href="http://glamradar.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Glam Radar &raquo; Comments Feed" href="http://glamradar.com/comments/feed/" />
+
+<!-- WPSocial SEO Booster Plugin (Version 1.2.0) || Open Graph, Google Plus & Twitter Card Integration || http://wordpress.org/plugins/wp-social-seo-booster/ -->
+<meta itemprop="name" content="6 Secrets Personal Stylists Won’t Tell You for Free &#8211; Glam Radar">
+<meta itemprop="description" content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your looks fashion-forward. If you wish to make your looks fashionable on your own way, you might want to read the 6 secrets personal stylist won’t tell you for free.">
+<meta itemprop="image" content="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt.jpg" />
+<meta property="og:locale" content="en_us">
+<meta property="og:title" content="6 Secrets Personal Stylists Won’t Tell You for Free &#8211; Glam Radar">
+<meta property="og:description" content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your looks fashion-forward. If you wish to make your looks fashionable on your own way, you might want to read the 6 secrets personal stylist won’t tell you for free.">
+<meta property="og:url" content="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/">
+<meta property="og:site_name" content="Glam Radar">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt.jpg" />
+<!-- / WPSocial SEO Booster Plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="Glam Radar &raquo; 6 Secrets Personal Stylists Won’t Tell You for Free Comments Feed" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/glamradar.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='stf-adsense-css'  href='http://glamradar.com/wp-content/plugins/adsense-widget/adsense-widget.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://glamradar.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='math-captcha-frontend-css'  href='http://glamradar.com/wp-content/plugins/wp-math-captcha/css/frontend.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-notification-bar-css'  href='http://glamradar.com/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://glamradar.com/wp-content/themes/hueman/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://glamradar.com/wp-content/themes/hueman/responsive.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://glamradar.com/wp-content/themes/hueman/fonts/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-social-widget-css'  href='http://glamradar.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='social-icons-widget-widget-css'  href='http://glamradar.com/wp-content/plugins/social-media-icons-widget/css/social_icons_widget.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://glamradar.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://glamradar.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wps-seo-booster-front-css'  href='http://glamradar.com/wp-content/plugins/wp-social-seo-booster/includes/css/wps-seo-booster-front.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://glamradar.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js?ver=1.5.2'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/themes/hueman/js/jquery.flexslider.min.js?ver=4.7.3'></script>
+<link rel='https://api.w.org/' href='http://glamradar.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://glamradar.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://glamradar.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='5 Secrets for Having a Great Style' href='http://glamradar.com/5-secrets-for-having-a-great-style/' />
+<link rel='next' title='6 Fashion Hacks That Can Make You More Stylish' href='http://glamradar.com/6-fashion-hacks-that-can-make-you-more-stylish/' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://wp.me/p4orSW-p0F' />
+<link rel="alternate" type="application/json+oembed" href="http://glamradar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fglamradar.com%2F6-secrets-personal-stylists-wont-tell-you-for-free%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://glamradar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fglamradar.com%2F6-secrets-personal-stylists-wont-tell-you-for-free%2F&#038;format=xml" />
+<link rel="shortcut icon" href="http://glamradar.com/wp-content/uploads/2015/05/favicon-g.ico"/>
+		<script type="text/javascript">
+            var _statcounter = _statcounter || [];
+            _statcounter.push({"tags": {"author": "Abbie"}});
+        </script>
+	   <!-- Pinterest Meta Tag added by Pinterest Verify Meta Tag Plugin v1.3: http://tutskid.com/pinterest-verify-meta-tag/ -->
+<meta name="p:domain_verify" content="4b9e90af9d9d348712aead09fe9bc241" />
+<link rel='shortcut icon' href='http://glamradar.com/favicon.ico' />
+
+<!-- Google Webmaster Tools plugin for WordPress -->
+<meta name="google-site-verification" content="TJzbmxht8U8QzJTL1l56bgcjJv0x6dnunJxFdIhBrYU" />
+<!--[if lt IE 9]>
+<script src="http://glamradar.com/wp-content/themes/hueman/js/ie/html5.js"></script>
+<script src="http://glamradar.com/wp-content/themes/hueman/js/ie/selectivizr.js"></script>
+<![endif]-->
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/" />
+<meta property="og:title" content="6 Secrets Personal Stylists Won’t Tell You for Free" />
+<meta property="og:site_name" content="Glam Radar" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:description" content="Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your..." />
+<meta property="og:image" content="http://glamradar.com/wp-content/uploads/2017/01/1.-cardigan-with-black-dress-150x150.jpg" />
+<!-- BEGIN SiteCTRL Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('dcePhC0h4r5lSJacwqm_6l');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END SiteCTRL Script --><style type="text/css">
+/* Dynamic CSS: For no styles in head, copy and put the css below in your child theme's style.css, disable dynamic styles */
+.boxed #wrapper, .container-inner { max-width: 1024px; }
+
+::selection { background-color: #aaaaaa; }
+::-moz-selection { background-color: #aaaaaa; }
+
+a,
+.themeform label .required,
+#flexslider-featured .flex-direction-nav .flex-next:hover,
+#flexslider-featured .flex-direction-nav .flex-prev:hover,
+.post-hover:hover .post-title a,
+.post-title a:hover,
+.s1 .post-nav li a:hover i,
+.content .post-nav li a:hover i,
+.post-related a:hover,
+.s1 .widget_rss ul li a,
+#footer .widget_rss ul li a,
+.s1 .widget_calendar a,
+#footer .widget_calendar a,
+.s1 .alx-tab .tab-item-category a,
+.s1 .alx-posts .post-item-category a,
+.s1 .alx-tab li:hover .tab-item-title a,
+.s1 .alx-tab li:hover .tab-item-comment a,
+.s1 .alx-posts li:hover .post-item-title a,
+#footer .alx-tab .tab-item-category a,
+#footer .alx-posts .post-item-category a,
+#footer .alx-tab li:hover .tab-item-title a,
+#footer .alx-tab li:hover .tab-item-comment a,
+#footer .alx-posts li:hover .post-item-title a,
+.comment-tabs li.active a,
+.comment-awaiting-moderation,
+.child-menu a:hover,
+.child-menu .current_page_item > a,
+.wp-pagenavi a { color: #aaaaaa; }
+
+.themeform input[type="submit"],
+.themeform button[type="submit"],
+.s1 .sidebar-top,
+.s1 .sidebar-toggle,
+#flexslider-featured .flex-control-nav li a.flex-active,
+.post-tags a:hover,
+.s1 .widget_calendar caption,
+#footer .widget_calendar caption,
+.author-bio .bio-avatar:after,
+.commentlist li.bypostauthor > .comment-body:after,
+.commentlist li.comment-author-admin > .comment-body:after { background-color: #aaaaaa; }
+
+.post-format .format-container { border-color: #aaaaaa; }
+
+.s1 .alx-tabs-nav li.active a,
+#footer .alx-tabs-nav li.active a,
+.comment-tabs li.active a,
+.wp-pagenavi a:hover,
+.wp-pagenavi a:active,
+.wp-pagenavi span.current { border-bottom-color: #aaaaaa!important; }				
+				
+
+.search-expand,
+#nav-topbar.nav-container { background-color: #e2a98e; }
+@media only screen and (min-width: 720px) {
+	#nav-topbar .nav ul { background-color: #e2a98e; }
+}			
+				
+
+#header { background-color: #ffd6d6; }
+@media only screen and (min-width: 720px) {
+	#nav-header .nav ul { background-color: #ffd6d6; }
+}			
+				
+.site-title a img { max-height: 40px; }
+body { background-color: #ffffff; }
+</style>
+
+<style id="custom-css-css">#header .pad{padding-top:0;padding-bottom:0}</style>
+</head>
+
+<body class="post-template-default single single-post postid-96141 single-format-standard col-2cl boxed topbar-enabled unknown">
+
+<div id="wrapper">
+
+	<header id="header">
+	
+					<nav class="nav-container group" id="nav-topbar">
+				<div class="nav-toggle"><i class="fa fa-bars"></i></div>
+				<div class="nav-text"><!-- put your mobile menu text here --></div>
+				<div class="nav-wrap container"><ul id="menu-menu" class="nav container-inner group"><li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-164"><a href="http://glamradar.com/category/fashion/">Fashion</a>
+<ul class="sub-menu">
+	<li id="menu-item-322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-322"><a href="http://glamradar.com/category/accessories/bags/">Bags</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-323"><a href="http://glamradar.com/category/fashion/shoes/">Shoes</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="http://glamradar.com/category/accessories/jewelry/">Jewelry</a></li>
+</ul>
+</li>
+<li id="menu-item-3329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3329"><a href="http://glamradar.com/category/beauty/">Beauty</a>
+<ul class="sub-menu">
+	<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165"><a href="http://glamradar.com/category/beauty/hair/">Hairstyles</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="http://glamradar.com/category/beauty/reviews/makeup/">Makeup</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-321"><a href="http://glamradar.com/category/beauty/reviews/nails/">Nails</a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-163"><a href="http://glamradar.com/category/beauty/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-30623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30623"><a href="http://glamradar.com/category/celebs/">Celebs</a></li>
+<li id="menu-item-30624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-30624"><a href="http://glamradar.com/category/lifestyle/">Living</a>
+<ul class="sub-menu">
+	<li id="menu-item-60579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60579"><a href="http://glamradar.com/category/lifestyle/food/">Food</a></li>
+	<li id="menu-item-60580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60580"><a href="http://glamradar.com/category/lifestyle/diy/">DIY</a></li>
+</ul>
+</li>
+</ul></div>
+				
+				<div class="container">
+					<div class="container-inner">		
+						<div class="toggle-search"><i class="fa fa-search"></i></div>
+						<div class="search-expand">
+							<div class="search-expand-inner">
+								<form method="get" class="searchform themeform" action="http://glamradar.com/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter" />
+	</div>
+</form>							</div>
+						</div>
+					</div><!--/.container-inner-->
+				</div><!--/.container-->
+				
+			</nav><!--/#nav-topbar-->
+				
+		<div class="container group">
+			<div class="container-inner">
+				
+				<div class="group pad">
+					<p class="site-title"><a href="http://glamradar.com/" rel="home">Glam Radar</a></p>
+														</div>
+				
+								
+			</div><!--/.container-inner-->
+		</div><!--/.container-->
+		
+	</header><!--/#header-->
+	
+	<div class="container" id="page">
+		<div class="container-inner">			
+			<div class="main">
+				<div class="main-inner group">
+<section class="content">
+	
+	<div class="page-title pad group">
+
+			<ul class="meta-single group">
+			<li class="category"><a href="http://glamradar.com/category/fashion/" rel="category tag">Fashion</a></li>
+					</ul>
+		
+	
+</div><!--/.page-title-->	
+	<div class="pad group">
+		
+					<article class="post-96141 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion tag-fashion-trends tag-personal-style tag-secrets-personal-stylists-wont-tell-you-for-free tag-signature-look tag-tailored-clothes tag-timeless-wardrobe">	
+				<div class="post-inner group">
+					
+					<h1 class="post-title">6 Secrets Personal Stylists Won’t Tell You for Free</h1>
+					<p class="post-byline">by <a href="http://glamradar.com/author/abbie/" title="Posts by Abbie" rel="author">Abbie</a> &middot; February 23, 2017</p>
+					
+										
+					<div class="clear"></div>
+					
+					<div class="entry">	
+						<div class="entry-inner">
+							<p>Getting some help for personal stylist can be great as they know how to dress you up regardless of your budget, size, and personality. However, most personal stylist can be costly, especially if you’re looking for ways to save money while keeping your looks fashion-forward. If you wish to make your looks fashionable on your own way, you might want to read the 6 secrets personal stylist won’t tell you for free.</p>
+<ol>
+<li><strong>A good tailor is even better than a good stylist.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96142" src="http://glamradar.com/wp-content/uploads/2017/01/1.-cardigan-with-black-dress.jpg" alt="cardigan with black dress" width="747" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/1.-cardigan-with-black-dress.jpg 747w, http://glamradar.com/wp-content/uploads/2017/01/1.-cardigan-with-black-dress-415x500.jpg 415w" sizes="(max-width: 747px) 100vw, 747px" /> <img class="alignnone size-full wp-image-96143" src="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt.jpg" alt="peplum tube top with white skirt" width="601" height="797" srcset="http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt.jpg 601w, http://glamradar.com/wp-content/uploads/2017/01/1.-peplum-tube-top-with-white-skirt-377x500.jpg 377w" sizes="(max-width: 601px) 100vw, 601px" /></p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- large rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-8647158460185863"
+     data-ad-slot="3639901430"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<p>If you have a lot of store-bought clothes yet feel you don’t look great, it’s probably on the fit so take it to a tailor and have those clothes altered for you. &#8220;Always wear well-fitted clothes. Bad fit kills even the best outfits,&#8221; says designer Sarmistha Goswami. Unless you’re aiming for a trendy look featuring oversized and loose ensembles, a good tailor can be your best friend. You’ll look great with clothes altered to your body curves and personal style, and it can even make an outfit looks expensive.</p>
+<ol start="2">
+<li><strong>Expensive clothing makes you act better.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96144" src="http://glamradar.com/wp-content/uploads/2017/01/2.-all-white-outfit-with-denim-jacket.jpg" alt="all white outfit with denim jacket" width="768" height="835" srcset="http://glamradar.com/wp-content/uploads/2017/01/2.-all-white-outfit-with-denim-jacket.jpg 768w, http://glamradar.com/wp-content/uploads/2017/01/2.-all-white-outfit-with-denim-jacket-460x500.jpg 460w" sizes="(max-width: 768px) 100vw, 768px" /> <img class="alignnone size-full wp-image-96145" src="http://glamradar.com/wp-content/uploads/2017/01/2.-sailor-blazer-with-chic-outfit.jpg" alt="sailor blazer with chic outfit" width="658" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/2.-sailor-blazer-with-chic-outfit.jpg 658w, http://glamradar.com/wp-content/uploads/2017/01/2.-sailor-blazer-with-chic-outfit-366x500.jpg 366w" sizes="(max-width: 658px) 100vw, 658px" />
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- large rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-8647158460185863"
+     data-ad-slot="3639901430"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+</p>
+<p>You don&#8217;t have to spend an arm and a leg to just look fashionable. However, we do tend to feel and act a little different when we wear things that are expensive. Have you ever wondered how you care for an expensive or even designer item compared to generic ones? Generally, we treat those expensive things better and with more care. In fact, it&#8217;s the mental story we assign to those items that make them special. “Expensive things might trigger those feelings more easily but you can shine just as bright every day with ordinary things, just by acting as you would if they were expensive,&#8221; says stylist and designer Jennifer Lowe.</p>
+<ol start="3">
+<li><strong>Bad makeup can ruin a great outfit.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96146" src="http://glamradar.com/wp-content/uploads/2017/01/3.-architectural-outfit-with-crossbody-bag.jpg" alt="architectural outfit with crossbody bag" width="768" height="796" srcset="http://glamradar.com/wp-content/uploads/2017/01/3.-architectural-outfit-with-crossbody-bag.jpg 768w, http://glamradar.com/wp-content/uploads/2017/01/3.-architectural-outfit-with-crossbody-bag-482x500.jpg 482w" sizes="(max-width: 768px) 100vw, 768px" /> <img class="alignnone size-full wp-image-96147" src="http://glamradar.com/wp-content/uploads/2017/01/3.-cozy-chic-outfit-with-ankle-boots.jpg" alt="cozy chic outfit with ankle boots" width="768" height="828" srcset="http://glamradar.com/wp-content/uploads/2017/01/3.-cozy-chic-outfit-with-ankle-boots.jpg 768w, http://glamradar.com/wp-content/uploads/2017/01/3.-cozy-chic-outfit-with-ankle-boots-464x500.jpg 464w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+<p>Your makeup can make or break a great outfit so it&#8217;s important to know what works for you and what compliments your features. “Know that even though many women want a &#8216;natural look&#8217; it actually takes a lot of products and time to do it right,&#8221; says beauty and style consultant Brooke Baker, beauty and style consultant.</p>
+<ol start="4">
+<li><strong>Be brand loyal.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96148" src="http://glamradar.com/wp-content/uploads/2017/01/4.-eccentric-hippie-outfit-with-hat.jpg" alt="eccentric hippie outfit with hat" width="768" height="824" srcset="http://glamradar.com/wp-content/uploads/2017/01/4.-eccentric-hippie-outfit-with-hat.jpg 768w, http://glamradar.com/wp-content/uploads/2017/01/4.-eccentric-hippie-outfit-with-hat-466x500.jpg 466w" sizes="(max-width: 768px) 100vw, 768px" /> <img class="alignnone size-full wp-image-96149" src="http://glamradar.com/wp-content/uploads/2017/01/4.-suede-skirt-with-bohemian-outfit-and-hat.jpg" alt="suede skirt with bohemian outfit and hat" width="725" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/4.-suede-skirt-with-bohemian-outfit-and-hat.jpg 725w, http://glamradar.com/wp-content/uploads/2017/01/4.-suede-skirt-with-bohemian-outfit-and-hat-403x500.jpg 403w" sizes="(max-width: 725px) 100vw, 725px" /></p>
+<p>If you have a bohemian, eccentric, and hippie style like fashion blogger Michele Krusi, don’t waste your time searching for feminine and minimalist retail shops. &#8220;When you find a particular piece that looks good on you and fits well, chances are that designer cuts for a body type like yours. Explore other options and clothing pieces in their line. Chances are they will look best,&#8221; says Mr. O&#8217;Connor.</p>
+<ol start="5">
+<li><strong>Don’t be afraid to ask when you need fashion help.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96151" src="http://glamradar.com/wp-content/uploads/2017/01/5.-striped-dress-with-winter-coat.jpg" alt="striped dress with winter coat" width="667" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/5.-striped-dress-with-winter-coat.jpg 667w, http://glamradar.com/wp-content/uploads/2017/01/5.-striped-dress-with-winter-coat-371x500.jpg 371w" sizes="(max-width: 667px) 100vw, 667px" /> <img class="alignnone size-full wp-image-96150" src="http://glamradar.com/wp-content/uploads/2017/01/5.-skinny-jeans-with-oversized-poncho.jpg" alt="skinny jeans with oversized poncho" width="689" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/5.-skinny-jeans-with-oversized-poncho.jpg 689w, http://glamradar.com/wp-content/uploads/2017/01/5.-skinny-jeans-with-oversized-poncho-383x500.jpg 383w" sizes="(max-width: 689px) 100vw, 689px" /></p>
+<p>Don&#8217;t be afraid to consult friends or even better a professional when you need fashion help. “You wouldn&#8217;t hesitate to ask for help with algebra or geometry and your closet really is no different than a math problem. Professionals can identify variables, constants, and exponents that can help clarify and define your style,&#8221; says Mr. Jones.</p>
+<ol start="6">
+<li><strong>Get salespeople on your side.</strong></li>
+</ol>
+<p><img class="alignnone size-full wp-image-96153" src="http://glamradar.com/wp-content/uploads/2017/01/6.-cozy-casual-outfit-with-sailor-cap.jpg" alt="cozy casual outfit with sailor cap" width="698" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/6.-cozy-casual-outfit-with-sailor-cap.jpg 698w, http://glamradar.com/wp-content/uploads/2017/01/6.-cozy-casual-outfit-with-sailor-cap-388x500.jpg 388w" sizes="(max-width: 698px) 100vw, 698px" /> <img class="alignnone size-full wp-image-96152" src="http://glamradar.com/wp-content/uploads/2017/01/6.-bandana-scarf-with-turtleneck-sweater-and-frayed-jeans.jpg" alt="bandana scarf with turtleneck sweater and frayed jeans" width="680" height="900" srcset="http://glamradar.com/wp-content/uploads/2017/01/6.-bandana-scarf-with-turtleneck-sweater-and-frayed-jeans.jpg 680w, http://glamradar.com/wp-content/uploads/2017/01/6.-bandana-scarf-with-turtleneck-sweater-and-frayed-jeans-378x500.jpg 378w" sizes="(max-width: 680px) 100vw, 680px" /></p>
+<p>A great trick to finding deals on high-end clothing is to make friends with the salespeople at your favorite stores. “Ask them when they get new arrivals in and when special sales start. If they say 10 a.m. on Monday, then you know what to do—you call in sick at work that day,&#8221; says stylist and host Sam Russell. By heeding these tricks from stylist, you’ll be able to get a great sense of style while keeping everything practical and effortless.</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- large rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-8647158460185863"
+     data-ad-slot="3639901430"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-96141" class="share-pinterest sd-button share-icon" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-96141" class="share-google-plus-1 sd-button share-icon" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-96141" class="share-twitter sd-button share-icon" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-96141" class="share-facebook sd-button share-icon" href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div>													</div>
+						<div class="clear"></div>				
+					</div><!--/.entry-->
+					
+				</div><!--/.post-inner-->	
+			</article><!--/.post-->				
+				
+		<div class="clear"></div>
+		
+		<p class="post-tags"><span>Tags:</span> <a href="http://glamradar.com/tag/fashion-trends/" rel="tag">fashion trends</a><a href="http://glamradar.com/tag/personal-style/" rel="tag">personal style</a><a href="http://glamradar.com/tag/secrets-personal-stylists-wont-tell-you-for-free/" rel="tag">Secrets Personal Stylists Won’t Tell You for Free</a><a href="http://glamradar.com/tag/signature-look/" rel="tag">signature look</a><a href="http://glamradar.com/tag/tailored-clothes/" rel="tag">tailored clothes</a><a href="http://glamradar.com/tag/timeless-wardrobe/" rel="tag">timeless wardrobe</a></p>		
+				
+				
+		
+
+<h4 class="heading">
+	<i class="fa fa-hand-o-right"></i>You may also like...</h4>
+
+<ul class="related-posts group">
+	
+		<li class="related post-hover">
+		<article class="post-71586 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion tag-animal-inspired-outfit tag-coal-inspired-outfit tag-forest-inspired-outfit tag-how-to-wear-nature-inspired-fashion tag-nature-inspired-outfit tag-ocean-inspired-outfit tag-rainbow-inspired-outfit tag-sunset-inspired-outfit">
+
+			<div class="post-thumbnail">
+				<a href="http://glamradar.com/how-to-wear-nature-inspired-fashion/" title="How to Wear Nature-Inspired Fashion">
+											<img width="520" height="999" src="http://glamradar.com/wp-content/uploads/2016/05/6.-ocean-blue-dress-520x999.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="ocean blue dress" />																								</a>
+							</div><!--/.post-thumbnail-->
+			
+			<div class="related-inner">
+				
+				<h4 class="post-title">
+					<a href="http://glamradar.com/how-to-wear-nature-inspired-fashion/" rel="bookmark" title="How to Wear Nature-Inspired Fashion">How to Wear Nature-Inspired Fashion</a>
+				</h4><!--/.post-title-->
+				
+				<div class="post-meta group">
+					<p class="post-date">4 Jun, 2016</p>
+				</div><!--/.post-meta-->
+			
+			</div><!--/.related-inner-->
+
+		</article>
+	</li><!--/.related-->
+		<li class="related post-hover">
+		<article class="post-31763 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion tag-margot-robbie tag-margot-robbie-fashion tag-margot-robbie-glam-looks tag-margot-robbie-outfits tag-margot-robbie-style">
+
+			<div class="post-thumbnail">
+				<a href="http://glamradar.com/gorgeous-looks-from-margot-robbie-to-copy-now/" title="Gorgeous Looks from Margot Robbie to Copy Now">
+											<img width="520" height="999" src="http://glamradar.com/wp-content/uploads/2015/03/leather-and-animal-print-520x999.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="leather and animal print" />																								</a>
+							</div><!--/.post-thumbnail-->
+			
+			<div class="related-inner">
+				
+				<h4 class="post-title">
+					<a href="http://glamradar.com/gorgeous-looks-from-margot-robbie-to-copy-now/" rel="bookmark" title="Gorgeous Looks from Margot Robbie to Copy Now">Gorgeous Looks from Margot Robbie to Copy Now</a>
+				</h4><!--/.post-title-->
+				
+				<div class="post-meta group">
+					<p class="post-date">4 Mar, 2015</p>
+				</div><!--/.post-meta-->
+			
+			</div><!--/.related-inner-->
+
+		</article>
+	</li><!--/.related-->
+		<li class="related post-hover">
+		<article class="post-44066 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion tag-graphic-top tag-graphic-top-outfit tag-graphic-top-outfit-ideas tag-how-to-wear-a-graphic-top tag-ways-to-wear-graphic-top-outfits">
+
+			<div class="post-thumbnail">
+				<a href="http://glamradar.com/how-to-wear-a-graphic-top/" title="How to Wear a Graphic Top">
+											<img width="520" height="999" src="http://glamradar.com/wp-content/uploads/2015/09/plain-statement-outfit-520x999.jpg" class="attachment-thumb-medium size-thumb-medium wp-post-image" alt="plain statement outfit" />																								</a>
+							</div><!--/.post-thumbnail-->
+			
+			<div class="related-inner">
+				
+				<h4 class="post-title">
+					<a href="http://glamradar.com/how-to-wear-a-graphic-top/" rel="bookmark" title="How to Wear a Graphic Top">How to Wear a Graphic Top</a>
+				</h4><!--/.post-title-->
+				
+				<div class="post-meta group">
+					<p class="post-date">4 Sep, 2015</p>
+				</div><!--/.post-meta-->
+			
+			</div><!--/.related-inner-->
+
+		</article>
+	</li><!--/.related-->
+		
+</ul><!--/.post-related-->
+
+		
+		
+<script>
+  (function($) {
+    $(function() {
+      if (!$('#fb-root').size()) {
+        $('body').append('<div id="fb-root"></div>');
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk')); 
+      }
+    });
+    $.post('http://glamradar.com/wp-admin/admin-ajax.php', {
+      action: 'fbc_ping',
+      post_id: '96141',
+      nonce: '20510d1e4a'
+    });  
+  })(jQuery);
+</script>
+
+<a name="comments"></a>
+
+
+
+<div id="FatPandaFacebookComments">
+  <noscript>
+          </noscript>
+  <div 
+    class="fb-comments" 
+    data-colorscheme="light" 
+    data-href="http://glamradar.com/6-secrets-personal-stylists-wont-tell-you-for-free/" 
+    data-num-posts="10" 
+    data-publish_feed="true"
+    data-width="600"></div>
+</div>
+
+
+
+
+		
+	</div><!--/.pad-->
+	
+</section><!--/.content-->
+
+
+	<div class="sidebar s1">
+		
+		<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+		
+		<div class="sidebar-content">
+			
+						<div class="sidebar-top group">
+				<p>Follow:</p>
+				<ul class="social-links"><li><a rel="nofollow" class="social-tooltip" title="facebook" href="https://www.facebook.com/pages/Glam-Radar/1472583252964867" target="Array"><i class="fa  fa-facebook-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="pinterest" href="http://www.pinterest.com/glambistroglam/" target="Array"><i class="fa fa-pinterest-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="twitter" href="https://twitter.com/GlamRadar" target="Array"><i class="fa  fa-twitter-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="Youtube" href="https://www.youtube.com/channel/UChJS4UNchbUgVBKoCcIxe4Q" target="Array"><i class="fa fa-youtube-play" style="color: #dd3333;"></i></a></li></ul>			</div>
+						
+						
+						
+			<div id="rrpwbc-9" class="widget widget_rrpwbc"><h3>Fashion</h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/how-to-wear-maxi-dresses-to-work/" rel="bookmark" title="Permanent link to How to Wear Maxi Dresses to Work">How to Wear Maxi Dresses to Work</a>
+			
+							<a href="http://glamradar.com/how-to-wear-maxi-dresses-to-work/" title="How to Wear Maxi Dresses to Work">
+				<img width="768" height="1085" src="http://glamradar.com/wp-content/uploads/2016/05/2.-peach-maxi-dress-with-white-blouse.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="peach maxi dress with white blouse" srcset="http://glamradar.com/wp-content/uploads/2016/05/2.-peach-maxi-dress-with-white-blouse.jpg 768w, http://glamradar.com/wp-content/uploads/2016/05/2.-peach-maxi-dress-with-white-blouse-354x500.jpg 354w" sizes="(max-width: 768px) 100vw, 768px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/4-style-tricks-that-make-your-jackets-look-cooler/" rel="bookmark" title="Permanent link to 4 Style Tricks That Make Your Jackets Look Cooler">4 Style Tricks That Make Your Jackets Look Cooler</a>
+			
+							<a href="http://glamradar.com/4-style-tricks-that-make-your-jackets-look-cooler/" title="4 Style Tricks That Make Your Jackets Look Cooler">
+				<img width="660" height="900" src="http://glamradar.com/wp-content/uploads/2017/01/1.-zipped-leather-jacket-with-camel-boots.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="zipped leather jacket with camel boots" srcset="http://glamradar.com/wp-content/uploads/2017/01/1.-zipped-leather-jacket-with-camel-boots.jpg 660w, http://glamradar.com/wp-content/uploads/2017/01/1.-zipped-leather-jacket-with-camel-boots-367x500.jpg 367w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/5-ways-to-wear-the-chain-fashion-trend/" rel="bookmark" title="Permanent link to 5 Ways to Wear the Chain Fashion Trend">5 Ways to Wear the Chain Fashion Trend</a>
+			
+							<a href="http://glamradar.com/5-ways-to-wear-the-chain-fashion-trend/" title="5 Ways to Wear the Chain Fashion Trend">
+				<img width="768" height="831" src="http://glamradar.com/wp-content/uploads/2016/07/1.-silver-chain-necklace-and-bracelet.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="silver chain necklace and bracelet" srcset="http://glamradar.com/wp-content/uploads/2016/07/1.-silver-chain-necklace-and-bracelet.jpg 768w, http://glamradar.com/wp-content/uploads/2016/07/1.-silver-chain-necklace-and-bracelet-462x500.jpg 462w" sizes="(max-width: 768px) 100vw, 768px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/the-must-have-items-of-hollywoods-fast-rising-stars/" rel="bookmark" title="Permanent link to The Must-Have Items of Hollywood’s Fast-Rising Stars">The Must-Have Items of Hollywood’s Fast-Rising Stars</a>
+			
+							<a href="http://glamradar.com/the-must-have-items-of-hollywoods-fast-rising-stars/" title="The Must-Have Items of Hollywood’s Fast-Rising Stars">
+				<img width="736" height="1104" src="http://glamradar.com/wp-content/uploads/2015/08/emily-pink-skinny-jeans.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="" srcset="http://glamradar.com/wp-content/uploads/2015/08/emily-pink-skinny-jeans.jpg 736w, http://glamradar.com/wp-content/uploads/2015/08/emily-pink-skinny-jeans-333x500.jpg 333w" sizes="(max-width: 736px) 100vw, 736px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/5-cozy-ways-to-wear-cashmere/" rel="bookmark" title="Permanent link to 5 Cozy Ways to Wear Cashmere">5 Cozy Ways to Wear Cashmere</a>
+			
+							<a href="http://glamradar.com/5-cozy-ways-to-wear-cashmere/" title="5 Cozy Ways to Wear Cashmere">
+				<img width="700" height="1050" src="http://glamradar.com/wp-content/uploads/2015/12/5.-cashmere-blazer-with-casual-outfit.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="cashmere blazer with casual outfit" srcset="http://glamradar.com/wp-content/uploads/2015/12/5.-cashmere-blazer-with-casual-outfit.jpg 700w, http://glamradar.com/wp-content/uploads/2015/12/5.-cashmere-blazer-with-casual-outfit-333x500.jpg 333w" sizes="(max-width: 700px) 100vw, 700px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/5-autumn-accessories-youll-definitely-enjoy-wearing/" rel="bookmark" title="Permanent link to 5 Autumn Accessories You’ll Definitely Enjoy Wearing">5 Autumn Accessories You’ll Definitely Enjoy Wearing</a>
+			
+							<a href="http://glamradar.com/5-autumn-accessories-youll-definitely-enjoy-wearing/" title="5 Autumn Accessories You’ll Definitely Enjoy Wearing">
+				<img width="428" height="856" src="http://glamradar.com/wp-content/uploads/2016/10/silver-earrings..jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="" srcset="http://glamradar.com/wp-content/uploads/2016/10/silver-earrings..jpg 428w, http://glamradar.com/wp-content/uploads/2016/10/silver-earrings.-250x500.jpg 250w" sizes="(max-width: 428px) 100vw, 428px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/6-resort-trends-to-try-this-month/" rel="bookmark" title="Permanent link to 6 Resort Trends to Try this Month">6 Resort Trends to Try this Month</a>
+			
+							<a href="http://glamradar.com/6-resort-trends-to-try-this-month/" title="6 Resort Trends to Try this Month">
+				<img width="564" height="803" src="http://glamradar.com/wp-content/uploads/2016/09/stripes.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="" srcset="http://glamradar.com/wp-content/uploads/2016/09/stripes.jpg 564w, http://glamradar.com/wp-content/uploads/2016/09/stripes-351x500.jpg 351w" sizes="(max-width: 564px) 100vw, 564px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/how-to-wear-the-winter-white-fashion/" rel="bookmark" title="Permanent link to How to Wear the Winter White Fashion">How to Wear the Winter White Fashion</a>
+			
+							<a href="http://glamradar.com/how-to-wear-the-winter-white-fashion/" title="How to Wear the Winter White Fashion">
+				<img width="1500" height="2248" src="http://glamradar.com/wp-content/uploads/2015/12/3.-white-maxi-dress.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="white maxi dress" srcset="http://glamradar.com/wp-content/uploads/2015/12/3.-white-maxi-dress.jpg 1500w, http://glamradar.com/wp-content/uploads/2015/12/3.-white-maxi-dress-334x500.jpg 334w" sizes="(max-width: 1500px) 100vw, 1500px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/7-work-outfit-ideas-this-summer/" rel="bookmark" title="Permanent link to 7 Work Outfit Ideas This Summer">7 Work Outfit Ideas This Summer</a>
+			
+							<a href="http://glamradar.com/7-work-outfit-ideas-this-summer/" title="7 Work Outfit Ideas This Summer">
+				<img width="768" height="1152" src="http://glamradar.com/wp-content/uploads/2016/05/3.-chic-summer-dress-with-black-pumps.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="chic summer dress with black pumps" srcset="http://glamradar.com/wp-content/uploads/2016/05/3.-chic-summer-dress-with-black-pumps.jpg 768w, http://glamradar.com/wp-content/uploads/2016/05/3.-chic-summer-dress-with-black-pumps-333x500.jpg 333w" sizes="(max-width: 768px) 100vw, 768px" />				</a>
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://glamradar.com/summer-accessories-for-the-beach/" rel="bookmark" title="Permanent link to Summer Accessories for the Beach">Summer Accessories for the Beach</a>
+			
+							<a href="http://glamradar.com/summer-accessories-for-the-beach/" title="Summer Accessories for the Beach">
+				<img width="699" height="960" src="http://glamradar.com/wp-content/uploads/2014/06/cute-rayban-wayfarers.jpg" class="attachment-cat_post_thumb_sizerrpwbc-9 size-cat_post_thumb_sizerrpwbc-9 wp-post-image" alt="cute rayban wayfarers" srcset="http://glamradar.com/wp-content/uploads/2014/06/cute-rayban-wayfarers.jpg 699w, http://glamradar.com/wp-content/uploads/2014/06/cute-rayban-wayfarers-364x500.jpg 364w" sizes="(max-width: 699px) 100vw, 699px" />				</a>
+			
+						
+						
+					</li>
+	</ul>
+</div><div id="mks_social_widget-3" class="widget mks_social_widget"><h3>Follow Me</h3>		
+				
+							<ul class="mks_social_widget_ul">
+		  			  		<li><a href="https://www.youtube.com/channel/UChJS4UNchbUgVBKoCcIxe4Q" class="youtube_ico soc_square" target="_blank" style="width: 48px; height: 48px;">youtube</a></li>
+		  			  		<li><a href="https://www.facebook.com/Glam-Radar-1472583252964867/" class="facebook_ico soc_square" target="_blank" style="width: 48px; height: 48px;">facebook</a></li>
+		  			  		<li><a href="http://www.pinterest.com/glambistroglam/" class="pinterest_ico soc_square" target="_blank" style="width: 48px; height: 48px;">pinterest</a></li>
+		  			  		<li><a href="https://twitter.com/GlamRadar" class="twitter_ico soc_square" target="_blank" style="width: 48px; height: 48px;">twitter</a></li>
+		  			  </ul>
+				
+		</div><div id="text-6" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- large skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-8647158460185863"
+     data-ad-slot="6593367839"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>			
+		</div><!--/.sidebar-content-->
+		
+	</div><!--/.sidebar-->
+
+		
+
+				</div><!--/.main-inner-->
+			</div><!--/.main-->			
+		</div><!--/.container-inner-->
+	</div><!--/.container-->
+
+	<footer id="footer">
+		
+				
+				
+				
+		<section class="container" id="footer-bottom">
+			<div class="container-inner">
+				
+				<a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+				
+				<div class="pad group">
+					
+					<div class="grid one-half">
+						
+												
+						<div id="copyright">
+															<p>Glam Radar &copy; 2017. All Rights Reserved.</p>
+													</div><!--/#copyright-->
+						
+												
+					</div>
+					
+					<div class="grid one-half last">	
+						<ul class="social-links"><li><a rel="nofollow" class="social-tooltip" title="facebook" href="https://www.facebook.com/pages/Glam-Radar/1472583252964867" target="Array"><i class="fa  fa-facebook-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="pinterest" href="http://www.pinterest.com/glambistroglam/" target="Array"><i class="fa fa-pinterest-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="twitter" href="https://twitter.com/GlamRadar" target="Array"><i class="fa  fa-twitter-square" style="color: #dd3333;"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="Youtube" href="https://www.youtube.com/channel/UChJS4UNchbUgVBKoCcIxe4Q" target="Array"><i class="fa fa-youtube-play" style="color: #dd3333;"></i></a></li></ul>					</div>
+				
+				</div><!--/.pad-->
+				
+			</div><!--/.container-inner-->
+		</section><!--/.container-->
+		
+	</footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+    <!-- Start of StatCounter Code -->
+    <script>
+    <!-- 
+        var sc_project=8637740; 
+        var sc_security="0db6c4f9"; 
+      var sc_invisible=1;
+        var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+    //-->
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/8637740/0/0db6c4f9/1/" alt="web analytics" /></a></div></noscript>   
+    <!-- End of StatCounter Code -->
+
+<style type="text/css">
+    #wpfront-notification-bar 
+    {
+        background: #ffffff;
+        background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff));
+        background: -webkit-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: -o-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+    }
+
+    #wpfront-notification-bar div.wpfront-message
+    {
+        color: #080203;
+    }
+
+    #wpfront-notification-bar a.wpfront-button
+    {
+        background: #eb0303;
+        background: -moz-linear-gradient(top, #eb0303 0%, #ff0033 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eb0303), color-stop(100%,#ff0033));
+        background: -webkit-linear-gradient(top, #eb0303 0%,#ff0033 100%);
+        background: -o-linear-gradient(top, #eb0303 0%,#ff0033 100%);
+        background: -ms-linear-gradient(top, #eb0303 0%,#ff0033 100%);
+        background: linear-gradient(to bottom, #eb0303 0%, #ff0033 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb0303', endColorstr='#ff0033',GradientType=0 );
+
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar-open-button
+    {
+        background-color: #00b7ea;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close 
+    {
+        border: 1px solid #555555;
+        background-color: #555555;
+        color: #000000;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close:hover 
+    {
+        border: 1px solid #aaaaaa;
+        background-color: #aaaaaa;
+    }
+</style>
+
+
+<div id="wpfront-notification-bar-spacer"  style="display: none;">
+    <div id="wpfront-notification-bar-open-button" class="top wpfront-bottom-shadow"></div>
+    <div id="wpfront-notification-bar" class="wpfront-fixed ">
+                    <div class="wpfront-close">X</div>
+                <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td>
+                    <div class="wpfront-message">
+                                            </div>
+                    <div>
+                                                                                    <a class="wpfront-button" href="https://www.pinterest.com/glambistroglam/"  target="_blank">Follow us on Pinterest</a>
+                                                                                                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+<style type="text/css">
+</style>
+<script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":1,"height":0,"fixed_position":"on","animate_delay":0.5,"close_button":true,"button_action_close_bar":false,"auto_close_after":10,"display_after":0,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":"on","keep_closed_for":7,"position_offset":0,"display_scroll":"on","display_scroll_offset":100});</script>	<div style="display:none">
+	</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  var q2w3_sidebar_1_options = { "sidebar" : "primary", "margin_top" : 50, "margin_bottom" : 0, "screen_max_width" : 0, "width_inherit" : false, "widgets" : ['mks_social_widget-3','text-6'] };
+  q2w3_sidebar(q2w3_sidebar_1_options);
+  setInterval(function () { q2w3_sidebar(q2w3_sidebar_1_options); }, 1000);
+});
+</script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/glamradar.com\/6-secrets-personal-stylists-wont-tell-you-for-free\/":96141};
+	</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='//assets.pinterest.com/js/pinit.js' async data-pin-hover='true' data-pin-height='32' data-pin-shape='round'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201710'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/themes/hueman/js/scripts.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-includes/js/comment-reply.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='http://glamradar.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://glamradar.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.9.7'></script>
+<!--[if lt IE 9]>
+<script src="http://glamradar.com/wp-content/themes/hueman/js/ie/respond.js"></script>
+<![endif]-->
+<script type='text/javascript' src='http://stats.wp.com/e-201710.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'64932410',post:'96141',tz:'0',srv:'glamradar.com'} ]);
+	_stq.push([ 'clickTrackerInit', '64932410', '96141' ]);
+</script>
+
+
+<!-- Powered by Whitelist IP For Limit Login Attempts | URL: http://club.orbisius.com/products/wordpress-plugins/whitelist-ip-for-limit-login-attempts/ -->
+
+</body>
+</html>

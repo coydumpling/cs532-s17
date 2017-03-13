@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <meta charset="UTF-8">
+    <meta http-equiv="content-language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Ukraine reports 41 attacks on its positions in Donbas on Thursday, two Ukrainian soldiers wounded</title>
+    <meta name="description" content="Russia&#39;s hybrid military forces violated the ceasefire in Donbas, eastern Ukraine, 41 times from 00:00 to 18:00 on Thursday, February 23, which resulted in wounding two Ukrainian soldiers.">
+    <meta name="keywords" content="новости, новости украины, новости дня, новости украина, последние новости, последние новости украины, новости украины и мира" />
+    <meta name="google-site-verification" content="nYNzurnftVhrSCTu23Y69-J2Br8lVRSa5_Q2k_panSc" />
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+    <link rel="canonical" href="http://en.interfax.com.ua/news/general/405267.html
+" />
+    <link rel="alternate" type="application/rss+xml" href="/news/general.rss" />
+
+
+    <meta property="og:title" content="Ukraine reports 41 attacks on its positions in Donbas on Thursday, two Ukrainian soldiers wounded"/>
+    <meta property="og:description" content="Russia&#39;s hybrid military forces violated the ceasefire in Donbas, eastern Ukraine, 41 times from 00:00 to 18:00 on Thursday, February 23, which resulted in wounding two Ukrainian soldiers." />
+    <meta property="og:url" content="http://en.interfax.com.ua/news/general/405267.html
+"/>
+    <meta property="og:image"
+        content="http://images.interfax.com.ua/img/3101_094238.jpg"/>
+    <meta property="og:site_name" content="Interfax-Ukraine" />
+    <meta property="fb:app_id" content="392969614091591" />
+    <meta property="og:type" content="article"/>
+
+
+    
+    
+    <link rel="stylesheet" href="http://static.interfax.com.ua/css/all.css?f31" media="all">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="http://static.interfax.com.ua/css/ie7.css" media="all">
+    <![endif]-->
+    
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <!--[if lte IE 8]>
+    <script src="http://static.interfax.com.ua/js/html5shim.js"></script>
+    <![endif]-->
+    
+
+    <script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/17774365/interfax.com.ua', [240, 400], 'div-gpt-ad-1452869146745-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4918283-10']);
+    _gaq.push(['_setDomainName', '.interfax.com.ua']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+    <script type="text/javascript">
+    (function () {
+        var w = window,
+                d = document,
+                protocol = /https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                aml = typeof admixerML !== 'undefined' ? admixerML : {};
+        aml.fn = aml.fn || [];
+        aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+        aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+        if (!w.admixerML) {
+            var lodash = document.createElement('script');
+            lodash.id = 'amlScript';
+            lodash.async = true;
+            lodash.type = 'text/javascript';
+            lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+            var node = d.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(lodash, node);
+            w.admixerML = aml;
+        }
+    })();
+</script>
+
+<script type='text/javascript'>
+admixerML.fn.push(function() {
+admixerML.defineSlot({z: '499c0367-8ff6-4d90-9719-db00c779c577', ph: 'admixer_499c03678ff64d909719db00c779c577_zone_14232_sect_4190_site_3512', i: 'inv-nets'});
+admixerML.singleRequest();
+});
+</script>
+
+
+<script type='text/javascript'>
+admixerML.fn.push(function() {
+admixerML.defineSlot({z: 'fa765ffe-638f-46d8-807a-9b5fcc8b4364', ph: 'admixer_fa765ffe638f46d8807a9b5fcc8b4364_zone_13000_sect_3922_site_3512', i: 'inv-nets'});
+admixerML.defineSlot({z: 'c89481ae-bbd0-4ada-ad64-f292a8941ef1', ph: 'admixer_c89481aebbd04adaad64f292a8941ef1_zone_13001_sect_3922_site_3512', i: 'inv-nets'});
+admixerML.defineSlot({z: '09b98521-192e-4ba5-b2fe-079cbe9b7418', ph: 'admixer_09b98521192e4ba5b2fe079cbe9b7418_zone_13002_sect_3922_site_3512', i: 'inv-nets'});
+admixerML.singleRequest();
+});
+</script>
+
+    <script type="text/javascript" src="//informers.ukr.net/core/adriver.core.last.js"></script>
+    <script src="//i.holder.com.ua/t/holder.js" type="text/javascript"></script>
+</head>
+<body>
+    
+	<div id="holder_728x90_4"></div><script type="text/javascript">
+		new holder("holder_728x90_4",{block:5704});
+	</script>
+    <div class="page grid grid-padding-10">
+        <div class="col-79">
+            <div class="grid content">
+                <div class="col-23">
+                    
+
+    <div class="grid ie7-category-title">
+        <div class="grid col-12">
+            <h3 class="category-title">
+                <a href="/news/general.html">Facts</a>
+            </h3>
+            <div class="arrow-right"></div>
+        </div>
+    </div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="article article-content-view">
+        <div class="grid article-content-header">
+            <div class="col-18 article-time">
+                <span itemprop="datePublished" class="hidden">2017-02-23T19:42+02:00</span>
+                
+                    <span class="article-time-big">19:42</span>
+                    <span>23.02.2017</span>
+                
+            </div>
+            <div class="col-78 article-content-title-wrapper">
+                <h1 itemprop="headline" class="article-content-title">Ukraine reports 41 attacks on its positions in Donbas on Thursday, two Ukrainian soldiers wounded</h1>
+            </div>
+        </div>
+        <div class="article-share grid">
+
+            <ul class="article-share-list">
+                <li>
+                    <div id="fb-root"></div>
+                    <div class="fb-like" data-send="false" data-layout="button_count" data-show_faces="false"></div>
+                </li>
+                <li>
+                    <a class="twitter-share-button" data-hashtags="ukraine"></a>
+                </li>
+                <li>
+                    <div class="g-plusone" data-size="medium"></div>
+                </li>
+                <li>
+                    <div id="vk_like"></div>
+                    <script type="text/javascript">
+                        window.vkAsyncInit = function(){
+                            VK.init({apiId: 3539092, onlyWidgets: true});
+                            VK.Widgets.Like("vk_like", {type: "button", height: 20});
+                        };
+                    </script>
+                </li>
+            </ul>
+
+        </div>
+        <div class="article-content" itemprop="articleBody">
+            
+                <img itemprop="thumbnailUrl" class="article-content-image" src="http://images.interfax.com.ua/img/3101_094238.jpg" alt=""/>
+            
+            <p>Russia's hybrid military forces violated the ceasefire in Donbas, eastern Ukraine, 41 times from 00:00 to 18:00 on Thursday, February 23, which resulted in wounding two Ukrainian soldiers.</p>
+<p>"In total, there have been 41 attacks. Two of our soldiers have been wounded," the press center of the Anti-Terrorist Operation (ATO) headquarters wrote on Facebook on Thursday.</p>
+<p>The villages of Zaitseve and Kamianka in the Donetsk sector came under mortar fire. Grenade launchers and large-caliber machine guns were used to shell the villages of Novhorodske, Pisky, Verkhniotoretske, Luhanske, and Zaitseve, and the town of Avdiyivka. Novhorodske was also under sniper fire.</p>
+<p>The town of Popasna and the village of Novozvanivka in the Luhansk sector came under mortar fire. Grenade launchers and large-caliber machine guns were used to fire on the villages of Troyitske, Krymske, and Novo-Oleksandrivka. Further, Novozvanivka was attacked by an enemy infantry fighting vehicle, and Troyitske came under fire launched from anti-aircraft systems.</p>
+<p>The occupation forces stationed in the Mariupol sector used mortars of various calibers to shell the village of Taramchuk, while grenade launchers, large-caliber machine guns and small arms were used to fire on the villages of Vodiane, Pavlopil, Hnutove, and Shyrokyne. Shyrokyne also was under sniper fire.</p>
+
+        </div>
+        <span itemprop="articleSection" class="hidden">Facts</span>
+		<div class="fb-comments" data-width="600" data-numposts="5"></div>
+
+		<!-- LentaInformNews Start -->
+		<div id="LentaInformScriptRootN841" class="news-block-magick">
+		  <div id="LentaInformPreloadN841"></div>
+		  <script>
+			(function(){var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';var i=d[ce]('iframe');i[st][ds]=n;d[gi]("LentaInformScriptRootN841")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}catch(e){var iw=d;var c=d[gi]("LentaInformScriptRootN841");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=841;c[ac](dv);var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsn.lentainform.com/i/n/interfax.com.ua.841.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+		  </script>
+		</div>
+		<!-- LentaInformNews End -->
+
+    </article>
+
+    
+    <div class="grid"></div>
+
+
+                </div>
+                <div class="col-13">
+                    
+
+    
+
+    
+        <div class="section-wrapper articles-list margin-padding-0">
+            <h3 class="section-title">IMPORTANT</h3>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408342.html">Former director of Ukrtranskhimammiak Bondyk suspected of inflicting $2.3 mln damage to state – Lutsenko</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408340.html">Donetsk regional police chief Abroskin appointed deputy head of National Police of Ukraine</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408328.html">The Hague Arbitration Court recognizes Russia's obligations to protect Ukrainian investors in Crimea after annexation</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408322.html">Two Ukrainian servicemen killed, 16 wounded in Donbas in past 24 hours</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408288.html">NABU searching State Fiscal Service offices in three regions as part of Onyshchenko gas case</a>
+                    </p>
+                </div>
+            
+        </div>
+    
+
+	<div id="holder_300x250_3"></div><script type="text/javascript">
+		new holder("holder_300x250_3",{block:5703});
+	</script>
+
+    
+        <div class="section-wrapper articles-list margin-top-10">
+            <h3 class="section-title">LATEST</h3>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408350.html">Police detain suspect in Odesa 2014 unrest case who was hiding from investigation for three years</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408347.html">Ukraine's presidential administration believes Trump's meeting with Poroshenko should precede meeting with Putin</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408317.html">Representatives of Ukrainian and U.S. Navy discuss personnel management issues in Odesa</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408307.html">Transparency International просит НАБУ расследовать сокрытие информации о наличии у Насирова британского паспорта</a>
+                    </p>
+                </div>
+            
+                <div class="article">
+                    <p class="article-link-wrapper">
+                        <a class="article-link" href="/news/general/408306.html">PACE Committee rejects Russian delegation demand to amend Assembly rules - Ariev</a>
+                    </p>
+                </div>
+            
+        </div>
+    
+
+    
+        
+<div class="ad">
+    <div class="ad-wrapper">
+		<!-- c8.net.ua 240x350 -->
+		<div id="c8net_code_f239733"></div>
+		<script type="text/javascript" src="https://b.c8.net.ua/b/js/swfobject.js"></script>
+		<script type="text/javascript" src="https://b.c8.net.ua/b/js/sys.js"></script>
+		<script language="JavaScript">
+		//<!--
+
+		var c8_metric = '';
+
+		if(undefined === c8_passback) var c8_passback = [];
+		c8_passback['f2397','3'] = '';
+
+		var c8_sa;
+		if (undefined===c8_sa) c8_sa='';
+		show_code('f2397','3','3','240','350','c8net_code_f239733');
+		//-->
+		</script>
+		<!-- /c8.net.ua 240x350 -->
+    </div>
+    <p>ADVERTISING</p>
+</div>
+        
+                        
+<div class="ad">
+    <div class="ad-wrapper">
+        
+            <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Finterfax-ukraine&amp;width=240&amp;height=348&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23ffffff&amp;stream=false&amp;header=false&amp;appId=392969614091591" width="240" height="348" marginwidth="0" marginheight="0" frameborder="0"
+            vspace="0" hspace="0" scrolling="no" allowTransparency="true"
+            style="border:none; overflow:hidden; width:240px; height:348px;" allowTransparency="true" ></iframe>
+
+        
+    </div>
+    <p>SOCIAL</p>
+</div>
+                        
+<div class="ad">
+    <div class="ad-wrapper">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 234 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:234px;height:60px"
+data-ad-client="ca-pub-3132297694190262"
+data-ad-slot="1065329434"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+                    
+    
+
+
+
+
+
+                </div>
+            </div>
+            <div class="header-wrapper">
+                
+<header>
+    <div class="grid header-1">
+        <ul class="col-auto country-list">
+            <li class="active"><a>Ukraine</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://www.interfax.com/">U.S.</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://interfax.co.uk/">UK</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://interfax.ru/">Russia</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://www.interfax.kz/">Kazakhstan</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://www.interfax.by/">Belarus</a></li>
+        </ul>
+        <ul class="col-auto client-entrace">
+            <li><p>Customer Login:</p></li>
+            <li><a target="_blank" rel="nofollow" href="http://sub.interfax.kiev.ua/eng/">Newswires</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://terminal2.interfax.kiev.ua">Terminal</a></li>
+            <li><a target="_blank" rel="nofollow" href="http://stock.interfax.kiev.ua">Stock Market</a></li>
+        </ul>
+        <ul class="col-auto col-float-right language-change">
+            <li class=""><a href="http://ua.interfax.com.ua/">УКР</a></li>
+            <li class=""><a href="http://interfax.com.ua/">РУС</a></li>
+            <li class="active"><a href="http://en.interfax.com.ua/">ENG</a></li>
+        </ul>
+    </div>
+    <div class="grid header-2">
+        <div class="col-12">
+            <a href="/"><img src="http://static.interfax.com.ua/images/interfax_ukraine_logo_eng.png" alt="Interfax-Ukraine" /></a>
+        </div>
+        <div class="col-49 col-float-right header-2-pusher">
+            <div class="grid">
+                <ul class="col-79 agency-links">
+                    <li><a href="/press-center.html">Press Center</a></li>
+                    <li><a href="/products.html">Products & Services</a></li>
+                    <li><a href="/about.html">About agency</a></li>
+                </ul>
+                <ul class="col-29 col-float-right social-links">
+                    <li><a target="_blank" rel="nofollow" class="social-links-rss" href="/news/last.rss"></a></li>
+                    <li><a target="_blank" rel="nofollow" class="social-links-twitter" href="https://twitter.com/interfaxua"></a></li>
+                    <li><a target="_blank" rel="nofollow" class="social-links-facebook" href="https://www.facebook.com/InterfaxUkraine"></a></li>
+                </ul>
+            </div>
+            <form action="http://www.google.com/search?q=site%3Ainterfax.com.ua+" method="GET" class="search">
+                <input class="search-input" type="text" name="search_query" placeholder="Site search"/>
+                <span class="search-input-icon"></span>
+            </form>
+        </div>
+    </div>
+</header>
+                
+<nav>
+    <ul class="grid categories">
+        <li class=""><a href="/"><h1>Home</h1></a>
+        </li>
+        
+            <li class="active">
+                <h1>
+                    <a title="General news. All reports about recent incidents and accidents, developments in public life, reports about Ukraine's culture, news from the authorities, plus the most important political and economic developments and major events in the world."
+                       href="/news/general.html">Facts</a>
+                </h1>
+            </li>
+        
+            <li class="">
+                <h1>
+                    <a title="Reports about recent developments in Ukraine's economy and in the world. News from companies, banks and financial organizations, decisions taken by the authorities that influence the macroeconomic and microeconomic situation. Financial and commodity market insights."
+                       href="/news/economic.html">Economy</a>
+                </h1>
+            </li>
+        
+            <li class="">
+                <h1>
+                    <a title="Video clips about recent happenings and developments in public life, the culture of Ukraine, odd situations and statements."
+                       href="/news/video.html">Video</a>
+                </h1>
+            </li>
+        
+            <li class="">
+                <h1>
+                    <a title="Sports news. All reports about the most important sports events: club transfers, appointments, scores of competitions, forecasts, trends and scandals. Football, hockey, basketball, track and field athletics, tennis."
+                       href="/news/sport.html">Sport</a>
+                </h1>
+            </li>
+        
+        <li class="nav-right-link">
+            
+            <a href="http://dark.interfax.com.ua/test-subscription.php" rel="nofollow"
+                target="_blank">Trial Access</a>
+        </li>
+    </ul>
+</nav>
+
+
+    <div class="hotline">
+        <ul class="hot-categories">
+            <li><p>Special Topics:</p></li>
+        
+            <li class="">
+                <h1><a href="/news/tag/8640.html">Gas War</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/11879.html">Crimea</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/11887.html">Syria</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/13347.html">Rada</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/14235.html">Eurovision</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/29233.html">Avdiyivka</a></h1>
+            </li>
+        
+            <li class="">
+                <h1><a href="/news/tag/36624.html">Blockade in Donbas</a></h1>
+            </li>
+        
+        </ul>
+    </div>
+
+            </div>
+        </div>
+        <div class="col-29">
+            
+
+
+    
+<div class="ad">
+    <div class="ad-wrapper">
+        <div id='admixer_fa765ffe638f46d8807a9b5fcc8b4364_zone_13000_sect_3922_site_3512'></div>
+<script type='text/javascript'>
+    admixerML.fn.push(function() {
+        admixerML.display('admixer_fa765ffe638f46d8807a9b5fcc8b4364_zone_13000_sect_3922_site_3512');
+    });
+</script>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <div id="DIV_DA_144602"></div>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <script type='text/javascript'>
+    admixerML.fn.push(function() {
+        admixerML.defineSlot({
+            z: '172a5b18-6913-4148-94ee-4dd716417c5e',
+            ph: 'admixer_172a5b186913414894ee4dd716417c5e_zone_2168_sect_767_site_754',
+            i: 'inv-nets'
+        });
+        admixerML.singleRequest();
+    });
+</script>
+
+<div id='admixer_172a5b186913414894ee4dd716417c5e_zone_2168_sect_767_site_754'></div>
+<script type='text/javascript'>
+    admixerML.fn.push(function() {
+        admixerML.display('admixer_172a5b186913414894ee4dd716417c5e_zone_2168_sect_767_site_754');
+    });
+</script>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <!-- /17774365/interfax.com.ua -->
+<div id='div-gpt-ad-1452869146745-0' style='height:400px; width:240px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452869146745-0'); });
+</script>
+</div>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+    
+<div class="ad">
+    <div class="ad-wrapper">
+        <div id="n4p_1893">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+  (function(d,s){
+    var o=d.createElement(s);
+    o.async=true;
+    o.type="text/javascript";
+    o.charset="utf-8";
+    o.src="//js-ru.redtram.com/n4p/0/1/ticker_1893.js";
+    var x=d.getElementsByTagName(s)[0];
+    x.parentNode.insertBefore(o,x);
+  })(document,"script");
+</script>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+
+    
+<div class="ad">
+    <div class="ad-wrapper">
+        <!--  News Join -->
+<style>
+.join_informer_2106 * { border: none; padding: 0; margin: 0; }
+.join_informer_2106 { text-align:left; clear: both; padding: 5px;}
+.join_informer_2106 a.join_link, a.join_text {font-size: 12px;
+font-family: Arial; margin-bottom:10px;
+color:#000000;text-decoration:none; font-weight:normal;}
+.join_informer_2106 a.join_link:hover, a.join_text:hover {
+color:#00b2b3;text-decoration:underline;}
+.join_informer_2106 .join_img {width: 80px; height: 80px;  margin-right:
+2px; }
+</style>
+
+<div class="join_informer_2106" id="join_informer_2106"></div>
+
+<!-- Аснхронный код, 20.10.2012 -->
+<script type="text/javascript">  (function() {
+var i = document.createElement("script"); i.type = "text/javascript";
+i.async = true; i.charset = "UTF-8";
+i.src = "http://partner.join.com.ua/async/2106/";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(i, s);
+})();</script>
+<!--  News Join -->
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <!-- Яндекс.Директ   -->
+<script type="text/javascript">
+    //<![CDATA[
+    yandex_partner_id = 60358;
+    yandex_site_bg_color = 'FFFFFF';
+    yandex_stat_id = 2;
+    yandex_site_charset = 'utf-8';
+    yandex_ad_format = 'direct';
+    yandex_font_size = 0.8;
+    yandex_font_family = 'tahoma';
+    yandex_direct_type = 'vertical';
+    yandex_direct_border_type = 'block';
+    yandex_direct_limit = 2;
+    yandex_direct_header_bg_color = 'FEEAC7';
+    yandex_direct_bg_color = 'FFF9F0';
+    yandex_direct_border_color = 'FBE5C0';
+    yandex_direct_title_color = '0000CC';
+    yandex_direct_url_color = '006600';
+    yandex_direct_all_color = '0000CC';
+    yandex_direct_text_color = '000000';
+    yandex_direct_hover_color = '0066FF';
+    yandex_direct_favicon = true;
+    document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+    //]]>
+</script>
+<!-- / Яндекс.Директ   -->
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+    
+<div class="ad">
+    <div class="ad-wrapper">
+        <div id="CNM576" style="text-align:center;display:none" atr576="576"></div>
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <!-- Ukr.net -->
+
+
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <iframe src="http://ad.interfax.com.ua/sinoptik.html?2" width="240" height="109" marginwidth="0" marginheight="0" frameborder="0"
+            vspace="0" hspace="0" scrolling="no" allowTransparency="true"
+            style="border:none; overflow:hidden; width:240px; height:109px;" allowTransparency="true" ></iframe>
+
+    </div>
+    <span>WEATHER</span>
+</div>
+
+
+<div class="ad">
+    <div class="ad-wrapper">
+        <style>
+.linkator-block a,
+.linkator-block u { font: normal normal 12px/1.3em Arial !important; color: #00B3B5 !important; text-decoration: none; }
+.linkator-block #adbn { width: auto !important; }
+.linkator-block a:hover,
+.linkator-block u:hover { text-decoration: underline; }
+</style>
+
+<!-- Tickets.ua -->
+<div class="linkator-block">
+    <a target="_blank" href="http://www.greenwich.org.ua/">изучение английского</a>
+</div>
+
+<!-- Fotos.ua (deprecated) -->
+
+
+<!-- Price.ua -->
+
+
+    <div class="linkator-block">
+    
+        <a target="_blank" href="http://price.ua/catalog804.html">http://price.ua</a>
+    
+    </div>
+
+
+<!-- kvartal-avia.com.ua -->
+<div class="linkator-block">
+    <a target="_blank" href="http://www.kvartal-avia.com.ua/">Квартиры в Вишневом</a>
+</div>
+
+
+    </div>
+    <span>ADVERTISING</span>
+</div>
+
+        </div>
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 728*90 -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:728px;height:90px"
+        data-ad-client="ca-pub-3132297694190262"
+        data-ad-slot="5356575037"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+<footer>
+    <div class="grid footer-wrapper">
+        <div class="col-79 footer">
+
+            <div class="grid" style="margin: 0 0 20px;*margin-top:30px;">
+                <div class="col-12"></div>
+                <div class="col-12"></div>
+            </div>
+
+            <div class="grid">
+                <ul class="footer-links">
+                    <li><a href="/press-center.html">Press Center</a></li>
+                    <li><a href="/products.html">Products & Services</a></li>
+                    <li><a href="http://pda.interfax.com.ua/" rel="nofollow" target="_blank">Mobile Version</a></li>
+                    <li><a href="http://interfax.com.ua/news/press-release/185757.html" rel="nofollow" target="_blank">Jobs</a></li>
+                    <li><a href="/about.html">About agency</a></li>
+                </ul>
+                <ul class="social-links dark">
+                    <li><a target="_blank" rel="nofollow" class="social-links-twitter" href="https://twitter.com/interfaxua"></a></li>
+                    <li><a target="_blank" rel="nofollow" class="social-links-facebook" href="https://www.facebook.com/InterfaxUkraine"></a></li>
+                    <li><a target="_blank" rel="nofollow" class="social-links-rss" href="http://www.interfax.com.ua/rus/rss/"></a></li>
+                </ul>
+            </div>
+            <div class="line"></div>
+            <div class="grid">
+                <div class="col-78">
+                    <p class="text">© 1992-2016, Интерфакс-Украина. Все права защищены<br />
+                        Вся информация, размещенная на данном веб-сайте, предназначена только для персонального использования и не подлежит дальнейшему<br />
+                        воспроизведению и/или распространению в какой-либо форме,
+                        иначе как с письменного разрешения "Интерфакс-Украина".
+                    </p>
+                </div>
+                <div class="col-18">
+                    <!--bigmir)net TOP 100-->
+<script type="text/javascript" language="javascript"><!--
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+}
+//-->
+</script>
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:3636,s:3636,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v3636&s3636&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100-->
+                </div>
+            </div>
+            <div class="line"></div>
+            <ul class="country-list">
+                <li class="active"><a>Ukraine</a></li>
+                <li><a target="_blank" rel="nofollow" href="http://www.interfax.com/">U.S.</a></li>
+                <li><a target="_blank" rel="nofollow" href="http://interfax.co.uk/">UK</a></li>
+                <li><a target="_blank" rel="nofollow" href="http://interfax.ru/">Russia</a></li>
+                <li><a target="_blank" rel="nofollow" href="http://www.interfax.kz/">Kazakhstan</a></li>
+                <li><a target="_blank" rel="nofollow" href="http://www.interfax.by/">Belarus</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+    <script type="text/javascript">
+    var el = document.getElementById('CNM576');
+    if (el && el.getAttribute('atr576', 3)) {
+        el.setAttribute('atr576', '');
+        var dateNM = new Date();
+        var t = Math.floor(dateNM.getTime()/(1000*600));
+        var NMces=document.createElement('script');
+        NMces.type = 'text/javascript';
+        NMces.charset = 'UTF-8';
+        NMces.src='http://c.novostimira.com.ua/l/576?v='+t;
+        el.parentNode.appendChild(NMces);
+    }
+</script>
+
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter20477941 = new Ya.Metrika({id:20477941,
+                    webvisor:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20477941" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function () {
+            window.appendScript = function (scriptSource, charset) {
+                var po = document.createElement('script');
+                if (charset) {
+                    po.charset = charset;
+                }
+                po.src = scriptSource;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(po, s);
+            };
+            window.appendScript('http://static.interfax.com.ua/js/script.js?f');
+            window.appendScript('//apis.google.com/js/plusone.js');
+            window.appendScript('//vk.com/js/api/openapi.js?87');
+            window.appendScript('//connect.facebook.net/en_GB/all.js#xfbml=1&appId=392969614091591');
+            window.appendScript('//platform.twitter.com/widgets.js');
+        })();
+    </script>
+    <script charset="windows-1251" type="text/javascript" src="http://code.directadvert.ru/show.cgi?adp=144602&div=DIV_DA_144602"></script>
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50aa6bfa6d0ba904"></script>
+<!-- AddThis Smart Layers END -->
+</body>
+</html>

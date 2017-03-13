@@ -1,0 +1,433 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Andrew Coyne: A dark road beckons Canada’s Conservatives and the Manning Conference is speeding their way</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="http://www.nationalpost.com/css/m/main.min.css"><link rel="canonical" href="http://news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way&#xA;"><script type="text/javascript">var npARdy=[],npRdy=function(f){npARdy.push(f)}</script><script type="text/javascript">
+			var googletag = googletag || {},
+				iTile = 0;
+			googletag.cmd = googletag.cmd || [];
+			(function () {
+				var oN = document.getElementsByTagName('script')[0],
+					oS = document.createElement('script');
+				oS.async = !0;
+				oS.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt_mobile.js';
+				oS.type = 'text/javascript';
+				oN.parentNode.insertBefore(oS, oN);
+			}());
+		</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17097415-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'),
+			s;
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = (document.location.protocol === 'https:' ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	}());
+</script>
+<!-- /ad-head.inc -->
+	<script type="text/javascript">
+		var Postmedia = Postmedia || {};
+		Postmedia.adConfig = Postmedia.adConfig || {};
+	</script>
+	
+
+
+		
+		<!--^^^^^^^^^^^ CREATIVE WRAPPER ^^^^^^^^^^^^-->
+		<!--Ad Server: DFP Premium (3081) -->
+		<!--DFP Order ID: %ebuy! -->
+		<!--DFP Line Item ID: %eaid! -->
+		<!--DFP Creative ID: %ecid! -->
+		<!--DFP Advertiser ID: %eadv! -->
+		<!--CK Value: %%PATTERN:CK%! -->
+		<!--SCK Value: %%PATTERN:SCK%%! -->
+		<!--IMP Value: %%PATTERN:IMP%%! -->
+		<!--LOC Value: %%PATTERN:LOC%%! -->
+		<!--PAGE Value: %%PATTERN:PAGE%%! -->
+		<!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+		
+		
+		<script type="text/javascript">
+		
+			if (typeof iabterms !== 'undefined') {
+				for(j=0; j<iabterms.length; j++){
+					iabterms[j] = iabterms[j].toLowerCase();
+					iabterms[j] = iabterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var iabterms = "";
+			}
+
+			if (typeof informterms !== 'undefined') {
+				for(j=0; j<informterms.length; j++){
+					informterms[j] = informterms[j].toLowerCase();
+					informterms[j] = informterms[j].replace(/[\&]/g,"and").replace(/[^A-Za-z0-9\s]/g,"").replace(/\s/g,"-");
+				}
+			}
+			else {
+				var informterms = "";
+			}
+		
+						
+			
+			
+			function get_aamCookie(c_name)
+			{
+				var i,x,y,ARRcookies=document.cookie.split(";");
+				for (i=0;i<ARRcookies.length;i++)
+				{
+					x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+					y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+					x=x.replace(/^\s+|\s+$/g,"");
+					if (x==c_name)
+					{
+						return unescape(y);
+					}
+				}
+			}
+			
+
+			Postmedia = typeof(Postmedia) != 'undefined' ? Postmedia : {}; 
+
+			
+				Postmedia.Weather = {}; 
+				
+			
+			
+			if (Postmedia.hasOwnProperty("adConfig")) {
+                Postmedia.adConfigPartner=Postmedia.adConfig;
+			}
+						
+		
+			</script> 
+
+	   
+			<script type="text/javascript">
+	
+			
+			Postmedia.adConfig = {
+									
+					"zone": "opinion/full-comment",
+					"async": true,
+					"sra": true,
+					"networkId": "3081",
+					"site": "npo.com",
+					"mobileSite": "np.m",
+					"enablelazy": true,
+					"enablerefresh": true,
+					"disableInitialLoad": false,									
+				
+				    "burt": {
+					 },
+
+					"keys": {
+						"pr":  "np",
+						"ck":  "opinion",
+						"page":  "story",
+						"sck":  "full-comment",
+						"nk":  "print",
+						"aid":  "1322471",
+						"author":  "andrew-coyne",
+						"ciab": iabterms,
+						"cinf": informterms
+					
+					},
+
+					"adslots":[
+						{
+							"name": "gpt-leaderboardbot",  "type": "leaderboardbot",  "isCompanion": false,  "lazy": true,  "refresh": true
+						},
+						{
+							"name": "gpt-mobilebigboxbot",  "type": "mobilebigboxbot",  "isCompanion": false,  "lazy": true,  "refresh": true
+						},
+						{
+							"name": "gpt-leaderboard",  "type": "leaderboard",  "isCompanion": false,  "lazy": true,  "refresh": true
+						},
+						{
+							"name": "gpt-mobilebigboxtop",  "type": "mobilebigboxtop",  "isCompanion": false,  "lazy": true,  "refresh": true
+						}				
+					]
+				
+			};
+			
+			
+			
+		</script>
+	<script type="text/javascript" src="/js/postmedia_obj_init.js?v=1"></script>
+	<script type="text/javascript" src="/js/analytics/VisitorAPI.js?v=1"></script>
+	<script async="async" data-client-id="RLOZZfEYphHhbhj" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/zephyr.js"></script>
+	<script type="text/javascript" src="/js/gpt.js?v=6"></script>
+<!-- /ad-head.inc -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js'></script>
+<script type="text/javascript">
+/* global playerId */
+
+// Variable to incrementally track video divs
+var pnVideoPlayerId = 1;
+
+// Generate the javascript call required to call in the video player
+function pnShowVideo ( code, divId, title, image, autoplay, width, height, videoProvider, codeType ) {
+
+	// If no code, there's nothing to do
+	if( typeof code === 'undefined' ) {
+		return;
+	}
+	
+	title = typeof title !== 'undefined' ? title : '';
+	image = typeof image !== 'undefined' ? image : '';
+	autoplay = typeof autoplay !== 'undefined' ? autoplay : 'false';
+	width = typeof width !== 'undefined' ? width : '';
+	height = typeof height !== 'undefined' ? height : '';
+	videoProvider = typeof videoProvider !== 'undefined' ? videoProvider : 'kaltura';
+	codeType = typeof codeType !== 'undefined' ? codeType : 'video';
+	playListId = '';
+
+	if( 'kaltura' == videoProvider && 'video' == codeType ){
+		reference = '';
+		playListId = '';
+	}
+	else if( 'kaltura' == videoProvider && 'playlist' == codeType ){
+		reference = '';
+		playListId = code;
+		code = '';
+	}
+	else{
+		reference = code;
+		code = '';
+	}
+
+
+    var params = {
+        videoId: code,
+        referenceId: reference, //ooyala test video: xqc2ljMjqUOpbCDNF2QF3zhlRpTavlUN
+        targetId: "pn_video_" + divId,
+        width: width,
+        height: height,
+        playListId: playListId,
+		lazyLoad: 'true'
+    };
+
+    console.log(params);
+
+    videoDivId = 'pn_video_' + pnVideoPlayerId;
+    var videoDiv = document.createElement('div'); videoDiv.id = videoDivId;
+    
+    var scripts = document.getElementsByTagName('script');
+    var callingScriptTag = scripts[ scripts.length - 1 ]; callingScriptTag.parentNode.insertBefore(videoDiv, callingScriptTag);
+    
+    var url = "http://app.canada.com/Video/video.svc/loader/?";
+    for (var key in params) { url += key + '=' + escape(params[key]) + '&'; }
+ 
+    var pv = document.createElement('script'); pv.type = 'text/javascript'; pv.async = true; pv.src = url.slice(0, -1);
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pv, s);
+   
+    pnVideoPlayerId++;
+}    
+</script>
+<script type="text/javascript">
+   var nascript=document.createElement('script');
+   nascript.type = 'text/javascript'; nascript.async = true;
+   if (window.location.hostname.indexOf(".nationalpost.")>0) {
+   	nascript.src="http://cdn.mediavoice.com/nativeads/script/postmedia/polarAds-NP-Mob-Prod.js";
+	document.getElementsByTagName('head')[0].appendChild(nascript);
+   }
+
+   if (window.location.hostname.indexOf(".financialpost.")>0) {
+   	nascript.src="http://cdn.mediavoice.com/nativeads/script/postmedia/polarAds-FP-Mob-Prod.js";
+	document.getElementsByTagName('head')[0].appendChild(nascript);
+   }
+ </script>
+	
+
+
+<meta http-equiv="content-type" content="application/xhtml+xml;charset=utf-8" /><meta http-equiv="cache-control" content="public" /></head>
+<body>
+<a name="top"></a>
+<div id="h"><p id="mh"><a href="/m/" id="mhl"><img width="128" height="28" align="top" src="/images/logos/np-128x28.gif"></a> <a href="http://www.nationalpost.com/m/wp/full-comment/blog.html?b=news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way%0A#search" class="hl hl-s"><span>Search</span></a> <a href="http://www.nationalpost.com/m/wp/full-comment/blog.html?b=news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way%0A#menu" class="hl hl-m">Menu</a></p><p class="bc"><a href="http://www.nationalpost.com/m/">Home</a> / <a href="/m/wp/full-comment/" class="bch">Comment</a></p></div>
+<div id="c"><script type="text/javascript">
+   var url=document.location.search;
+   var host=document.location.hostname;
+   var urlDomain = url.indexOf('\?b=business.financialpost.com')==0?'fp':(url.indexOf('\?b=news.nationallpost.com')==0?'np':'other')
+   
+   if ( urlDomain == 'fp') {
+     if (host.indexOf('\.nationalpost\.com')>0) {
+	    window.location.href = 'http:\/\/'+host.replace('nationalpost','financialpost')+document.location.pathname+url
+	 }
+   }
+
+   if ( urlDomain == 'np') {
+     if (host.indexOf('\.financialpost\.com')>0) {
+	    window.location.href = 'http:\/\/'+host.replace('financialpost','nationalpost')+document.location.pathname+url
+	 }
+   }
+
+</script>
+<!-- Source="http://news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way
+/feed/atom/?withoutcomments=1&scripts=1" -->
+<div class="ct" xmlns:np="http://www.nationalpost.com/syndication/1.0">
+  <div id="b" class="bt">
+    <script src="https://static.freeskreen.com/publisher/27/freeskreen.min.js">
+    </script>
+    <p class="hl">
+      <strong>Andrew Coyne: A dark road beckons Canada’s Conservatives and the Manning Conference is speeding their way</strong>
+    </p>
+    <p class="shr bt bb">
+      <a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way&amp;t=National+Post%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way" target="_blank" class="fcbk" rel="nofollow">Facebook</a> | <a href="/m/twitter.html?status=RT+@nationalpost%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way&amp;long-url=http://news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way" target="_blank" class="twttr" rel="nofollow">Twitter</a> | <a href="https://plus.google.com/share?url=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way" target="_blank" class="gplus" rel="nofollow">Google+</a> | <a href="/m/email/generic.html?url=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way&amp;title=National+Post%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way&amp;abstract=++During+the+Harper+years,+the+annual+Manning+Conference+%E2%80%94+convened+by+the+Manning+Centre,+founded+by+former+Reform+Party+leader+Preston+Manning+%E2%80%94+served+as+a+kind+of+Conservative+party+in+exile%3a+a+haven+for+decency+and+thoughtfulness+amid+the+brain-dead+thuggery+of+the+time.+If+the+conference+has+...&amp;byline=Andrew+Coyne&amp;dateline=Thursday,+February+23,+2017&amp;image=http%3a%2f%2fwpmedia.news.nationalpost.com%2f2017%2f02%2fts20170213cr06.jpg%3fw%3d620" target="_blank" class="eml" rel="nofollow">Email</a></p>
+    <p class="bl s">Andrew Coyne<br>Thursday, Feb. 23, 2017</p>
+    <div class="img">
+      <img src="http://wpmedia.news.nationalpost.com/2017/02/ts20170213cr06.jpg?w=300">
+      <p class="td ts">Doug Ford speaks at a town hall meeting  in Toronto on Monday February 13, 2017.   Craig Robertson /Postmedia Network</p>
+    </div><div class="pn_body_content_fbia" itemscope itemtype="http://schema.org/BlogPosting"><p>During the Harper years, the annual Manning Conference — convened by the Manning Centre, founded by former Reform Party leader Preston Manning — served as a kind of Conservative party in exile: a haven for decency and thoughtfulness amid the brain-dead thuggery of the time. If the conference has grown increasingly partisan over the years, it has generally been an enlightened partisanship.<div class="ad" id="npAd1" style="float:left;width:100%;margin-bottom:0.25em"><div class="ad">
+	<div id='gpt-leaderboard' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-leaderboard');
+		</script>
+	</div>
+</div>  <!-- /ad-mobilebigboxtop.inc -->
+<div id='gpt-mobilebigboxtop' class="adslot">
+	<script type='text/javascript'>
+		Postmedia.adConfig.writeAd('gpt-mobilebigboxtop');
+	</script>
+</div>
+<!-- /ad-mobilebigboxtop.inc --></div>
+<p>This year’s conference is particularly well timed. A number of coincident events have combined to put the party, and the movement, at something of a crossroads: Donald Trump’s election, and the rise of far-right populist parties elsewhere; the insurgent campaign by similar forces — anti-Muslim, anti-refugee, anti-elite, crudely nationalist — in Canada, culminating in the current hysteria over, of all things, a parliamentary motion; the rise and sudden fall of Milo Yiannopoulos, the leading voice of the nihilistic, say-anything “alt-right” in the United States; and of course, the federal Conservative leadership race, now entering its final months.
+<div class="npBlock npRule npRelated"><h4 class="npNoRule">Related</h4><ul class="related_links"><li><a href="http://news.nationalpost.com/news/canada/canadian-politics/preston-mannings-message-to-conservative-leadership-candidates-dont-take-party-unity-for-granted">Preston Manning’s message to Conservative leadership candidates: Don’t take party unity for granted</a></li></ul></div>
+<p>The campaign has featured some of the best and worst of the Conservative party. There are candidates championing exciting economic ideas to raise national productivity and make life more affordable for average people; candidates defending important principles with candour, even in the face of party orthodoxy; candidates representing, at the least, agreeability, pragmatism and outreach.
+<div class="npBlock npImgPlain"><div class="npPosRel" style="width:620px"><img data-attachment-id="1322538" data-permalink="http://news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way/attachment/tsa021517_rebelmedia04-jpg" data-orig-file="http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg" data-orig-size="940,705" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Tyler Anderson\/National Post&quot;,&quot;camera&quot;:&quot;NIKON D4S&quot;,&quot;caption&quot;:&quot;TORONTO, ONTARIO: February 15, 2017 - Ezra Levant speaks at a rally for Rebel Media which organizers called an &#039;Emergency Rally for Free Speech&#039; at Canada Christian College in Toronto, Ontario, February 15, 2017.   (Tyler Anderson \/  National Post)  (For National story by Richard Warnica)&quot;,&quot;created_timestamp&quot;:&quot;1487116800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;TSA021517_RebelMedia04.JPG&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="TSA021517_RebelMedia04.JPG" data-image-description="&lt;p&gt;Ezra Levant speaks at a rally for Rebel Media that organizers called an &#8216;Emergency Rally for Free Speech&#8217; at Canada Christian College in Toronto on February 15, 2017.   &lt;/p&gt;
+" data-medium-file="http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=300" data-large-file="http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=620" class="size-large wp-image-1322538" alt="Tyler Anderson /  National Post " src="http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=620&#038;h=465" width="620" height="465" srcset="http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=620&amp;h=465 620w, http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=140&amp;h=105 140w, http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=300&amp;h=225 300w, http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg?w=768&amp;h=576 768w, http://wpmedia.news.nationalpost.com/2017/02/tsa021517_rebelmedia04.jpg 940w" sizes="(max-width: 620px) 100vw, 620px"><div class="npPhotoTxt npTxtPlain npTxtLeft"><div class="npGroup"><span class="npPhotoCredit">Tyler Anderson /  National Post </span><span class="npPhotoCaption">Ezra Levant speaks at a rally for Rebel Media that organizers called an &#039;Emergency Rally for Free Speech&#039; at Canada Christian College in Toronto on February 15, 2017.   </span></div></div></div></div>
+<p>But there are also candidates appealing, with transparent calculation, to the worst sorts of fears and divisions; roving con men looking for their next takeover target; lost ex-diplomats looking for their souls; single-issue shills and self-promoting no-hopers and everything in between. The sight of four of them lining up to kiss Ezra (The Rebel Commander) Levant’s ring at his most recent fearapalooza was mortifying: one felt only shame and embarrassment for all of them.
+<p>So the leadership race, which had once seemed at worst a snooze, at best mildly encouraging, is turning into something more existential. The party is being beckoned down a very dark road, and if it succumbs to that temptation will consign itself to the margins of Canadian politics for many years, though not without giving amplified voice to some pretty marginal sentiments. The candidates themselves will meet for another debate at the Manning conference, but the same tensions and conflicts can be seen in the conference program.
+<p>Consider what items might have been on the agenda. A forward-looking conference intended to help shape conservative responses to pressing national issues might have had sessions on how to address the sudden challenge to the international order, not to say the national interest, posed by Trump’s ascent.
+<p>It might have talked about how to preserve a world of open markets, and open societies, in the face of the populist-nationalist resurgence. It might have spent much time on the urgent problem of population aging, and the twin pressures — higher social costs, fewer workers to pay them — to which we will inevitably be exposed.
+<div class="npBlock npImgPlain"><div class="npPosRel" style="width:620px"><img data-attachment-id="1320510" data-permalink="http://news.nationalpost.com/news/canada/canadian-politics/preston-mannings-message-to-conservative-leadership-candidates-dont-take-party-unity-for-granted/attachment/preston-manning-9" data-orig-file="http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg" data-orig-size="940,705" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;THE CANADIAN PRESS&quot;,&quot;camera&quot;:&quot;NIKON D4&quot;,&quot;caption&quot;:&quot;Preston Manning speaks at the opening of the Manning Centre conference in Ottawa on Friday, February 26, 2016. THE CANADIAN PRESS\/Adrian Wyld ORG XMIT: ajw101 ORG XMIT: POS1602260843454434&quot;,&quot;created_timestamp&quot;:&quot;1456444800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;300&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;Preston Manning&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Preston Manning" data-image-description="&lt;p&gt;Preston Manning speaks at the opening of the Manning Centre conference in Ottawa on Feb. 26, 2016. &lt;/p&gt;
+" data-medium-file="http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=300" data-large-file="http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=620" class="size-large wp-image-1320510" alt="THE CANADIAN PRESS/Adrian Wyld " src="http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=620&#038;h=465" width="620" height="465" srcset="http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=620&amp;h=465 620w, http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=140&amp;h=105 140w, http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=300&amp;h=225 300w, http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg?w=768&amp;h=576 768w, http://wpmedia.news.nationalpost.com/2017/02/preston-manning.jpg 940w" sizes="(max-width: 620px) 100vw, 620px"><div class="npPhotoTxt npTxtPlain npTxtLeft"><div class="npGroup"><span class="npPhotoCredit">THE CANADIAN PRESS/Adrian Wyld </span><span class="npPhotoCaption">Preston Manning speaks at the opening of the Manning Centre conference in Ottawa on Feb. 26, 2016. </span></div></div></div></div>
+<p>It might have discussed some approaches to the problems of aboriginal Canadians that did not amount to simply giving more money and power to band councils. It might have focused on reforming our parliamentary and democratic procedures, or how to fix our broken military procurement system, or any number of other issues on which Canada would be well-served by a party presenting sensible conservative alternatives to the solutions on offer — or not — by the governing Liberals.
+<p>What, in fact, is on the agenda? There’s a session on Islamist extremism; another session on Islamist extremism; a session asking whether Trumpism can be exported to Canada, featuring a Trump campaign adviser; a session on how campus conservatives are being censored; another session on campus censorship; a session on the media; a session on the CBC (“Time to pull the plug?”).
+<p>It isn’t that these aren’t legitimate, even pressing issues in themselves — I’m hawkish on security myself, also hate political correctness, and have long called for the CBC to be defunded — or that the proposals under discussion are not valid.
+<p>But it cannot fail to be noticed that they are all pitched to a certain corner of the conservative tent, reflecting the particular obsessions of<br />
+the populist right. Indeed, there’s also a session entitled “Down with the Elites? Understanding the rise in anti-establishment sentiment,”<br />
+featuring inter alia that voice of introspection and understanding, Doug Ford.
+<div class="npBlock npImgPlain"><div class="npPosRel" style="width:620px"><img data-attachment-id="387042" data-permalink="http://news.nationalpost.com/news/mark-steyn-on-miley-cyrus-the-post-american-world-and-a-return-to-canada/attachment/mark-steyn-2" data-orig-file="http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg" data-orig-size="620,413" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;\u00a9Greg Fulmes 403.813.9857&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Mark-Steyn-2" data-image-description="&lt;p&gt;Mark Steyn at the Petroleum Club in Calgary on Nov. 4, 2013. He says he will probably return to Canada to work “when I finally get the hideousness of Canada’s so-called human rights commission out of my system.”&lt;/p&gt;
+" data-medium-file="http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg?w=300" data-large-file="http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg?w=620" class="size-full wp-image-387042" alt="Greg Fulmes for National Post" src="http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg?w=620&#038;h=413" width="620" height="413" srcset="http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg 620w, http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg?w=140&amp;h=93 140w, http://wpmedia.news.nationalpost.com/2013/11/mark-steyn-2.jpg?w=300&amp;h=200 300w" sizes="(max-width: 620px) 100vw, 620px"><div class="npPhotoTxt npTxtPlain npTxtLeft"><div class="npGroup"><span class="npPhotoCredit">Greg Fulmes for National Post</span><span class="npPhotoCaption">Mark Steyn at the Petroleum Club in Calgary on Nov. 4, 2013. He says he will probably return to Canada to work “when I finally get the hideousness of Canada’s so-called human rights commission out of my system.”</span></div></div></div></div>
+<p>Ford is not the only conference speaker with a decidedly populist tilt. There’s a Brexit campaigner, a talk-radio host, the editor of the Toronto Sun, even a Rebel commentator or two, all capped by a session with the original bad-boy provocateur himself, Mark Steyn.
+<p>Again, there’s nothing inherently wrong with inviting any or even all of them — I’m friends with some — nor could a conference on conservatism in 2017 fail to pay some heed to the populist insurgence. But the scale of it, the disproportionate emphasis, and the uncritical stance, is telling.
+<p>The Manning Conference may not have gone so far down the populist road as its U.S. counterpart, the American Conservative Union, whose own conference, the Conservative Political Action Conference (CPAC), is coincidentally on this week (it was the ACU that first invited Milo, then disinvited him in the storm over his latest norm-busting pose, on the blessings of pedophilia) but it is clearly less interested in resisting the populist wave than riding it.
+<p>But conservatism and populism make uneasy partners at best, and it is unclear what will be left of the former if the latter continues to go<br />
+unchallenged.
+</div><p class="ts"><span class="td">Posted in: </span><a href="http://www.nationalpost.com/m/wp/full-comment/">Full Comment</a><script type="text/javascript">var npSOverride={};npSOverride.prop50 = 'Full Comment';</script> <span class="td">Tags: </span><a href="/m/wp/tag/index.html?b=news.nationalpost.com&amp;t=canada">Canada</a>, <a href="/m/wp/tag/index.html?b=news.nationalpost.com&amp;t=donald-trump">Donald Trump</a>, <a href="/m/wp/tag/index.html?b=news.nationalpost.com&amp;t=doug-ford">Doug Ford</a>, <a href="/m/wp/tag/index.html?b=news.nationalpost.com&amp;t=manning-conference">Manning Conference</a>, <a href="/m/wp/tag/index.html?b=news.nationalpost.com&amp;t=preston-manning">Preston Manning</a></p></div>
+</div>
+<div class="ad" id="npAd2" style="float:left;width:100%;margin-bottom:0.25em" xmlns:np="http://www.nationalpost.com/syndication/1.0"><div class="ad">
+	<div id='gpt-leaderboardbot' class="adslot">
+		<script type='text/javascript'>
+			Postmedia.adConfig.writeAd('gpt-leaderboardbot');
+		</script>
+	</div>
+</div>  <!-- /ad-mobilebigboxbot.inc -->
+<div id='gpt-mobilebigboxbot' class="adslot">
+	<script type='text/javascript'>
+		Postmedia.adConfig.writeAd('gpt-mobilebigboxbot');
+	</script>
+</div>
+<!-- /ad-bigboxbot.inc --></div>
+<div class="ct mb" xmlns:np="http://www.nationalpost.com/syndication/1.0">
+  <p class="bt">
+    <strong>More on this Story</strong>
+  </p>
+  <div class="l"><p><a href="http://news.nationalpost.com/news/canada/canadian-politics/preston-mannings-message-to-conservative-leadership-candidates-dont-take-party-unity-for-granted">Preston Manning’s message to Conservative leadership candidates: Don’t take party unity for granted</a></p></div>
+</div>
+<div class="ct mb" xmlns:np="http://www.nationalpost.com/syndication/1.0">
+  <p class="shr bt bb">
+    <a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way&amp;t=National+Post%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way" target="_blank" class="fcbk" rel="nofollow">Facebook</a> | <a href="/m/twitter.html?status=RT+@nationalpost%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way&amp;long-url=http://news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way" target="_blank" class="twttr" rel="nofollow">Twitter</a> | <a href="https://plus.google.com/share?url=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way" target="_blank" class="gplus" rel="nofollow">Google+</a> | <a href="/m/email/generic.html?url=http%3a%2f%2fnews.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way&amp;title=National+Post%3a+Andrew+Coyne%3a+A+dark+road+beckons+Canada%E2%80%99s+Conservatives+and+the+Manning+Conference+is+speeding+their+way&amp;abstract=++During+the+Harper+years,+the+annual+Manning+Conference+%E2%80%94+convened+by+the+Manning+Centre,+founded+by+former+Reform+Party+leader+Preston+Manning+%E2%80%94+served+as+a+kind+of+Conservative+party+in+exile%3a+a+haven+for+decency+and+thoughtfulness+amid+the+brain-dead+thuggery+of+the+time.+If+the+conference+has+...&amp;byline=Andrew+Coyne&amp;dateline=Thursday,+February+23,+2017&amp;image=http%3a%2f%2fwpmedia.news.nationalpost.com%2f2017%2f02%2fts20170213cr06.jpg%3fw%3d620" target="_blank" class="eml" rel="nofollow">Email</a></p>
+</div><p class="bc"><a href="http://www.nationalpost.com/m/">Home</a> / <a href="/m/wp/full-comment/" class="bch">Comment</a></p></div>
+<div id="f"><a name="search"></a><form id="sch" name="search" action="/m/search/index.html"><p><input type="text" name="q"> <input type="submit" value="Search"></p></form><div id="n"><a name="menu"></a><div id="nav"><p class="fr"><a href="http://www.nationalpost.com/m/wp/full-comment/blog.html?b=news.nationalpost.com/full-comment/andrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way%0A#top">Top</a></p><p><a href="http://www.nationalpost.com/m/">Home</a></p><p><a href="http://www.financialpost.com/m/">Financial Post</a></p><p><a href="http://www.nationalpost.com/m/wp/news/">News</a></p><p><a href="http://www.nationalpost.com/m/wp/full-comment/" class="cur">Comment</a></p><p style="padding-left:20px"><a href="http://www.financialpost.com/m/wp/fp-comment/">FP Comment</a></p><p><a href="http://www.financialpost.com/m/wp/personal-finance/">Personal Finance</a></p><p><a href="http://www.financialpost.com/m/wp/investing/">Investing</a></p><p><a href="http://www.financialpost.com/m/wp/fp-tech-desk/">Tech</a></p><p><a href="http://www.nationalpost.com/m/wp/sports/">Sports</a></p><p><a href="http://www.nationalpost.com/m/wp/arts/">Arts</a></p><p><a href="http://www.nationalpost.com/m/wp/life/">Life</a></p><p><a href="http://www.nationalpost.com/m/wp/health/">Health</a></p><p><a href="http://www.nationalpost.com/m/wp/homes/">Homes</a></p><p><a href="http://driving.ca/">Driving</a></p><p><a href="http://www.nationalpost.com/subscribe/index.html">Subscribe</a></p><p class="tc"><strong class="cur">Mobile Version</strong> | <a href="http://www.nationalpost.com/" onclick="javascript:return npM.goFull(this)">Switch to Standard Version</a></p><p class="copy">© 2017 National Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.</p></div>
+<!--cwi:xmltransform xml="/xml/m/nav.xml" xsl="/xslt/xmlt/m/nav-remote.xsl" applyheadervars="accept;user-agent" url="[url:fulluri]" placeindivtag="false" /--></div><script type="text/javascript" src="http://www.nationalpost.com/js/m/main.min.js"></script><script type="text/javascript">
+	var sChartBeatPath = window.location.pathname;
+	if (window.location.search.indexOf("?b=") > -1) { // Mobile
+		sChartBeatPath = window.location.search.substring(window.location.search.indexOf("/"), (window.location.search.indexOf("&") > -1 ? window.location.search.indexOf("&") : window.location.search.length)) + "/";
+	}
+	var _sf_async_config = {uid: 34988, domain: 'postmedia.com', sections: 'nationalpost.com, nationalpost_homepage', path: sChartBeatPath};
+	//var _sf_async_config = {uid: 5314, domain: 'nationalpost.com', path: sChartBeatPath, videoPageGroups: 'true'};
+	(function () {
+		var oldonload = window.onload;
+		function loadChartbeat() {
+			var e;
+			window._sf_endpt = (new Date()).getTime();
+			e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://') + 'static.chartbeat.com/js/chartbeat_video.js');
+			document.body.appendChild(e);
+		}
+		window.onload = (typeof window.onload !== 'function') ? loadChartbeat : function () {
+			oldonload();
+			loadChartbeat();
+		};
+	}());
+</script>
+<div id="js"></div></div>
+<!-- LSA Measure Tracking --><script src="https://s3.amazonaws.com/script-cache/lsa_dynamic.js" async></script><!-- END LSA Measure Tracking —>
+<form name="frmPage" method="post" action="blog.html?b=news.nationalpost.com%2ffull-comment%2fandrew-coyne-a-dark-road-beckons-canadas-conservatives-and-the-manning-conference-is-speeding-their-way%0a" id="frmPage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUHNjkwMDYwNGRkptXLPVC65ZsVerESyglz/xtxKII=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7E98BCF6" /></form>
+                        <!-- Begin comScore Tag -->
+                        <script>
+                            var _comscore = _comscore || [];
+                            _comscore.push({ c1: '2', c2: '10276888' });
+                            (function() {
+                                var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+                                s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+                                el.parentNode.insertBefore(s, el);
+                            })();
+                        </script>
+                        <noscript>
+                            <img src='http://b.scorecardresearch.com/p?c1=2&c2=10276888&cv=2.0&cj=1' />
+                        </noscript>
+                        <!-- End comScore Tag -->
+                        <!-- SiteCatalyst code version: H.25.4.
+                        Copyright 1997-2008 Omniture, Inc. More info available at
+                        http://www.omniture.com -->
+
+                        <script language='JavaScript' type='text/javascript' src='/js/account_s_code.js'></script>
+                        <script language='JavaScript' type='text/javascript' src='http://www.canada.com/js/analytics/core.js?v4'></script>
+                        <script language='JavaScript' type='text/javascript' src='/js/local_s_code.js?v2'></script>
+                
+                            <script language='JavaScript' type='text/javascript'>
+                            <!--
+                            /* You may give each page an identifying name, server, and channel on
+                            the next lines. */
+                            s.pageName='/m/wp/full-comment/blog.html';
+                            s.server=window.location.hostname.toLowerCase();
+                            s.channel='m';
+                            s.pageType='';                            
+                            s.prop2='m/wp/full-comment';
+                            s.prop3='postmedia';
+                            s.prop4='Non-Registered';
+                            s.prop6='Free Content';
+                            s.prop7='';
+                            s.prop8='';
+                            s.prop10='';
+                            s.prop11='';
+                            s.prop13='';
+                            s.prop23=document.title;                            
+                            s.prop25='blog';
+                            s.prop27='m/wp';  
+                            s.prop28='m/wp/full-comment'; 
+                            s.prop29='';
+                            s.prop36=''; 
+                            s.prop37='';
+                        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+                        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+                        <script language='JavaScript' type='text/javascript'><!--
+                        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+                        //--></script><noscript><img src='http://canwest.112.2o7.net/b/ss/canwestglobal/1/H.25.4--NS/0' height='1' width='1' border='0' /></noscript><!--/DO NOT REMOVE/-->
+                        <!-- End SiteCatalyst code version: H.25.4. --></body>
+</html>
+<!-- WPGPDWEB41 937 -->
