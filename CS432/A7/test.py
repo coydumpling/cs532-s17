@@ -32,7 +32,7 @@ items = pd.read_csv('ml-100k/u.item', sep='|', names=i_cols,
 #items.set_index('movie id', inplace=True)
 #print(users[(users.sex == 'F') & (users.age == 22) & (users.occupation == 'student')].head(3))
 #print ratings.head(5)
-#print(ratings[(ratings.user_id == 599) ].head())
+#print(ratings[(ratings.user_id == 599) ].head(25))
 #print(movies[(movies.movie_id==259)].head())
 #print (users.loc[[304, 599, 711]])
 movielens = pd.merge(pd.merge(ratings,users),movies)
@@ -48,12 +48,10 @@ meList = meList[userSex].sort_values([('sex')])
 userOcc = meList['occupation'] == 'student'
 meList = meList[userOcc].sort_values([('occupation')])
 
-#meUser1 =  pd.DataFrame([('user_id',[304]),('age',[22]),('sex',['F']),('occupation',['student']),('title',['Air Force One (1997)','Face/Off (1997)','Jerry Maguire (1996)','Wishmaster (1997)', 'English Patient, The (1996)', 'George of the Jungle (1997)']),('rating',[5, 5, 5, 2, 1, 1])])
-
 mean_ratings = meList.pivot_table(values='rating', index=['user_id', 'sex', 'age','occupation', 'title'], aggfunc='mean')
 #moviesByUser = mean_ratings.sort_index(ascending=True)[:30]
 
 #
-# Make a new dataframe one per user de;ete rows from user maybe?
+# Make a new dataframe for one per user
 #
 print mean_ratings
