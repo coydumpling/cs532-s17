@@ -46,7 +46,7 @@ def getwords(html):
 
 apcount = {}
 wordcounts = {}
-feedlist = [line for line in file('C:/CS432/A8/rssBlogs')]
+feedlist = [line for line in file('C:/CS432/A8/urls.txt')]
 for feedurl in feedlist:
     try:
         (title, wc) = getwordcounts(feedurl)
