@@ -8,7 +8,7 @@ while (len(s) < 5):
     if (r.status_code == requests.codes.ok):
         counter += Counter(s)
         print('Status Code: ') + str(r.status_code) + str(counter)
-with open("blah", "w+") as fout:
+with open("urls.txt", "w+") as fout:
     for element in s:
         print element
         f.write(element + '\n')
